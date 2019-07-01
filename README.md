@@ -1,3 +1,3 @@
 # website_mobile
-At the moment only for mobile
+Project in progress
 https://wojciechkkk.github.io/website_mobile/#/
