@@ -60,7 +60,7 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 36);
+/******/ 	return __webpack_require__(__webpack_require__.s = 38);
 /******/ })
 /************************************************************************/
 /******/ ([
@@ -71,9 +71,9 @@
 /* WEBPACK VAR INJECTION */(function(process) {
 
 if (process.env.NODE_ENV === 'production') {
-  module.exports = __webpack_require__(41);
+  module.exports = __webpack_require__(43);
 } else {
-  module.exports = __webpack_require__(42);
+  module.exports = __webpack_require__(44);
 }
 
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
@@ -294,11 +294,11 @@ if (process.env.NODE_ENV !== 'production') {
   // By explicitly using `prop-types` you are opting into new development behavior.
   // http://fb.me/prop-types-in-prod
   var throwOnDirectAccess = true;
-  module.exports = __webpack_require__(58)(isValidElement, throwOnDirectAccess);
+  module.exports = __webpack_require__(60)(isValidElement, throwOnDirectAccess);
 } else {
   // By explicitly using `prop-types` you are opting into new production behavior.
   // http://fb.me/prop-types-in-prod
-  module.exports = __webpack_require__(59)();
+  module.exports = __webpack_require__(61)();
 }
 
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
@@ -307,7 +307,7 @@ if (process.env.NODE_ENV !== 'production') {
 /* 3 */
 /***/ (function(module, exports) {
 
-module.exports = {"companyName":"ZEGAREX - Firma Sp. z o.o.","company":[{"type":"telefon","info":["+48 22 245 67 89","+48 987 654 321"]},{"type":"e-mail","info":["adres_email@wp.pl","adres_email2@wp.pl"]},{"type":"biuro","info":["00-01 Warszawa","ul. Marszałkowska 123"]}],"companyContact":[{"title":"Dział Sprzedaży","email":"sale@company.com"},{"title":"Relacje Inwestorskie","email":"biuroprasowe@company.com"},{"title":"Dla Mediów","email":"media@company.com"},{"title":"Dział Wsparcia","email":"support@company.com"}],"newsElement":[{"title":"Konwencja Casio","text":"W dniach 19-21.05.2019 po raz pierwszy w Warszawie odbyła się Konwencja Casio Europe. Była ona dedykowana głównie europejskim dystrybutorom. Ze względu na “30. rocznicę istnienia Grupy ZIBI S.A”. po raz pierwszy podjęto decyzję o jej organizacji w Warszawie.","url":"https://www.zibi.pl/wp-content/uploads/2019/05/konwencja-4-300x200.jpg"},{"title":"zegarki Kronaby","text":"Kronaby to ręcznie składane, stalowe, klasyczne zegarki, które łączą się ze smartfonem dając użytkownikowi szereg przydatnych funkcji jak np. “Odprowadź mnie do domu”, “Zapamiętaj to miejsce”, sygnalizacja połączenia poprzez ruch wskazówek czy zdalne sterowanie aparatem w telefonie. Wejście na polski rynek otwiera kampania “Czas skupienia”, która ma namawiać do zadumy nad rzeczami dla nas ważnymi.","url":"https://www.zibi.pl/wp-content/uploads/2018/11/NewBeautyShot_1080x1080-e1542366072841-300x200.jpg"},{"title":"Mini Moda","text":"Nowa kolekcja zegarków Lacoste. Moda na minimalizm nie może przeminąć, bo minimalizm jest ponadczasowy. Dokładnie tak jak „mała czarna”, biel latem, czy też złoto i cekiny w sezonie karnawałowym.","url":"https://www.zibi.pl/wp-content/uploads/2018/09/img_6811-300x200.jpg"},{"title":"G-SHOCK GA-710","text":"Co łączy zegarki G-SHOCK ze światem skateboardingu i rapu? Wspólne zasady oparte na łamaniu reguł gry, przyjętych schematów i norm, a wszystko po to, aby w efekcie stworzyć coś nowego, niekonwencjonalnego i ciekawego.","url":"https://www.zibi.pl/wp-content/uploads/2017/06/g-shock_no_comply_rap_instagram_carousel_01-300x200.jpg"},{"title":"Wygraj zegarek!","text":"Konkurs trwa do 23.12.2020. Co musisz zrobić? Wyślij nam swoje pozytywne selfie, polub nasz FP i zacznij obserwować nas na Instagramie.","url":"https://www.zibi.pl/wp-content/uploads/2017/01/qq-smile-konkurs-fb-styczen-2017-300x200.jpg"}],"productsElement":[{"title":"zegarki damskie","url":"../image/p2.jpg","text":"Piękna ozdoba kobiecego nadgarstka, dopełnienie stroju dla wyznaczenia własnego stylu. Pozwolą na ożywienie stylizacji, nadanie szyku czy stworzenie modnego look'u i wyróżnienie się z tłumu."},{"title":"zegarki męskie","url":"../image/p4.jpg","text":"To element, który jest niezwykle popularny, ponieważ zawsze prezentuje się elegancko i nigdy nie wychodzi z mody.  Dziś są wyrażeniem indywidualnego stylu oraz elementem, przy pomocy którego można wyróżnić swoją osobowość."},{"title":"bestsellery","url":"../image/p8.jpg","text":"Chcesz wybrać zegarek dla siebie, a może podaprować go komuś innemu?  Nie ma problemu, przedstawiamy zegarki, które cieszą się największym powodzeniem wśród naszych klientów."},{"title":"smartwatche","url":"../image/p9.jpg","text":"Inteligentne urządzenie, które pojawia się w portfolio coraz większej ilości marek. To coś więcej niż zwykły zegarek. Smartwatche łączą modne wzornictwo znamienne dla poszczególnych marek z zaawansowaną technologią, która daje cały szereg możliwości."},{"title":"zegarki sportowe","url":"../image/p13.jpg","text":"Charakteryzują się bogactwem praktycznych funkcji wspierających codzienny trening osób aktywnie uprawiających sport. W zależności od modelu zegarek sportowy wyposażony jest w podstawowe funkcje dla amatorów lub daje zaawansowane możliwości profesjonalnym sportowcom."}],"aboutUsElement":[{"paragraph":"Jesteśmy autoryzowanym sprzedawcą wszystkich oferowanych marek zegarków.  Doświadczenie w branży zegarmistrzowskiej oraz profesjonalizm świadczonych usług sprawiają, że grono naszych Klientów z dnia na dzień powiększa się."},{"paragraph":"W skład asortymentu wchodzą oryginalne zegarki bezpośrednio pochodzące od producentów. Ze znanych, dostępnych marek, proponujących tanie zegarki posiadamy w ofercie Casio, Timexa, Lorusa, a z firm oferujących drogie zegarki znajdziecie Państwo u nas marki Doxa, Seiko, Atlantic, czy najmodniejszych producentów, jak Fossil, Diesel, Cluse, Daniel Wellington czy Michael Kors."},{"paragraph":"Proponujemy bezpłatne doradztwo i przygotowujemy indywidualne wyceny, dopasowując je do potrzeb każdego klienta."},{"paragraph":"Naszym klientom gwarantujemy najniższe ceny za najwyższą jakość oraz profesjonalizm. Naszym priorytetem jest satysfakcja Klientów - dlatego dbając o podnoszenie jakości naszych usług nie zapominamy o obniżaniu cen oraz stwarzaniu dogodnych warunków zakupu."}],"offerElement":[{"title":"1","url":"../image/e1.jpg"},{"title":"2","url":"../image/e2.jpg"},{"title":"3","url":"../image/e3.jpg"},{"title":"4","url":"../image/e4.jpg"},{"title":"5","url":"../image/e5.jpg"},{"title":"6","url":"../image/e6.jpg"},{"title":"7","url":"../image/e7.jpg"},{"title":"8","url":"../image/e8.jpg"},{"title":"9","url":"../image/e9.jpg"},{"title":"10","url":"../image/e10.jpg"},{"title":"11","url":"../image/e11.jpg"},{"title":"12","url":"../image/e12.jpg"},{"title":"13","url":"../image/e13.jpg"},{"title":"14","url":"../image/e14.jpg"},{"title":"15","url":"../image/e15.jpg"},{"title":"16","url":"../image/e16.jpg"},{"title":"17","url":"../image/e17.jpg"},{"title":"18","url":"../image/e18.jpg"},{"title":"19","url":"../image/e19.jpg"},{"title":"20","url":"../image/e20.jpg"},{"title":"21","url":"../image/e21.jpg"},{"title":"22","url":"../image/e22.jpg"},{"title":"23","url":"../image/e23.jpg"},{"title":"24","url":"../image/e24.jpg"},{"title":"25","url":"../image/e25.jpg"}],"signatureElement":"Jesteśmy autoryzowanym sprzedawcą wszystkich oferowanych marek zegarków. Zapraszamy do składania zapytań i korzystania z indywidualnie przygotowywanych ofert!","socialMedia":[{"href":"https://www.facebook.com/","class":"fab fa-facebook-square"},{"href":"https://www.instagram.com/","class":"fab fa-instagram"},{"href":"https://twitter.com/","class":"fab fa-twitter-square"},{"href":"https://www.linkedin.com//","class":"fab fa-linkedin"},{"href":"https://www.youtube.com/","class":"fab fa-youtube"}],"klucz":"wartość","klucz1":"wartość1"}
+module.exports = {"companyName":"ZEGAREX - Firma Sp. z o.o.","company":[{"type":"telefon","info":["+48 22 245 67 89","+48 987 654 321"],"imgClass":"fas fa-phone"},{"type":"e-mail","info":["adres_email@wp.pl","adres_email2@wp.pl"],"imgClass":"fas fa-envelope"},{"type":"biuro","info":["00-01 Warszawa","ul. Marszałkowska 123"],"imgClass":"fas fa-map-marked-alt"},{"type":"czat na żywo","info":["pon-pt: 8:00-16:00","sob-ndz: 10:00-14:00"],"imgClass":"fas fa-comments"}],"companyContact":[{"title":"Dział Sprzedaży","email":"sale@company.com"},{"title":"Relacje Inwestorskie","email":"biuroprasowe@company.com"},{"title":"Dla Mediów","email":"media@company.com"},{"title":"Dział Wsparcia","email":"support@company.com"}],"newsElement":[{"title":"Konwencja Casio","text":"W dniach 19-21.05.2019 po raz pierwszy w Warszawie odbyła się Konwencja Casio Europe. Była ona dedykowana głównie europejskim dystrybutorom. Ze względu na “30. rocznicę istnienia Grupy ZIBI S.A”. po raz pierwszy podjęto decyzję o jej organizacji w Warszawie.","url":"https://www.zibi.pl/wp-content/uploads/2019/05/konwencja-4-300x200.jpg"},{"title":"zegarki Kronaby","text":"Kronaby to ręcznie składane, stalowe, klasyczne zegarki, które łączą się ze smartfonem dając użytkownikowi szereg przydatnych funkcji jak np. “Odprowadź mnie do domu”, “Zapamiętaj to miejsce”, sygnalizacja połączenia poprzez ruch wskazówek czy zdalne sterowanie aparatem w telefonie.","url":"https://www.zibi.pl/wp-content/uploads/2018/11/NewBeautyShot_1080x1080-e1542366072841-300x200.jpg"},{"title":"Mini Moda","text":"Nowa kolekcja zegarków Lacoste. Moda na minimalizm nie może przeminąć, bo minimalizm jest ponadczasowy. Dokładnie tak jak „mała czarna”, biel latem, czy też złoto i cekiny w sezonie karnawałowym.","url":"https://www.zibi.pl/wp-content/uploads/2018/09/img_6811-300x200.jpg"},{"title":"G-SHOCK GA-710","text":"Co łączy zegarki G-SHOCK ze światem skateboardingu i rapu? Wspólne zasady oparte na łamaniu reguł gry, przyjętych schematów i norm, a wszystko po to, aby w efekcie stworzyć coś nowego, niekonwencjonalnego i ciekawego.","url":"https://www.zibi.pl/wp-content/uploads/2017/06/g-shock_no_comply_rap_instagram_carousel_01-300x200.jpg"},{"title":"Wygraj zegarek!","text":"Konkurs trwa do 23.12.2020. Co musisz zrobić? Wyślij nam swoje pozytywne selfie, polub nasz FP i zacznij obserwować nas na Instagramie.","url":"https://www.zibi.pl/wp-content/uploads/2017/01/qq-smile-konkurs-fb-styczen-2017-300x200.jpg"}],"productsElement":[{"title":"zegarki damskie","url":"../image/p2.jpg","text":"Piękna ozdoba kobiecego nadgarstka, dopełnienie stroju dla wyznaczenia własnego stylu. Pozwolą na ożywienie stylizacji, nadanie szyku czy stworzenie modnego look'u i wyróżnienie się z tłumu."},{"title":"zegarki męskie","url":"../image/p4.jpg","text":"To element, który jest niezwykle popularny, ponieważ zawsze prezentuje się elegancko i nigdy nie wychodzi z mody.  Dziś są wyrażeniem indywidualnego stylu oraz elementem, przy pomocy którego można wyróżnić swoją osobowość."},{"title":"bestsellery","url":"../image/p8.jpg","text":"Chcesz wybrać zegarek dla siebie, a może podaprować go komuś innemu?  Nie ma problemu, przedstawiamy zegarki, które cieszą się największym powodzeniem wśród naszych klientów."},{"title":"smartwatche","url":"../image/p9.jpg","text":"Inteligentne urządzenie, które pojawia się w portfolio coraz większej ilości marek. To coś więcej niż zwykły zegarek. Smartwatche łączą modne wzornictwo znamienne dla poszczególnych marek z zaawansowaną technologią, która daje cały szereg możliwości."},{"title":"zegarki sportowe","url":"../image/p13.jpg","text":"Charakteryzują się bogactwem praktycznych funkcji wspierających codzienny trening osób aktywnie uprawiających sport. W zależności od modelu zegarek sportowy wyposażony jest w podstawowe funkcje dla amatorów lub daje zaawansowane możliwości profesjonalnym sportowcom."}],"aboutUsElement":[{"paragraph":"Jesteśmy autoryzowanym sprzedawcą wszystkich oferowanych marek zegarków.  Doświadczenie w branży zegarmistrzowskiej oraz profesjonalizm świadczonych usług sprawiają, że grono naszych Klientów z dnia na dzień powiększa się."},{"paragraph":"W skład asortymentu wchodzą oryginalne zegarki bezpośrednio pochodzące od producentów. Ze znanych, dostępnych marek, proponujących tanie zegarki posiadamy w ofercie Casio, Timexa, Lorusa, a z firm oferujących drogie zegarki znajdziecie Państwo u nas marki Doxa, Seiko, Atlantic, czy najmodniejszych producentów, jak Fossil, Diesel, Cluse, Daniel Wellington czy Michael Kors."},{"paragraph":"Proponujemy bezpłatne doradztwo i przygotowujemy indywidualne wyceny, dopasowując je do potrzeb każdego klienta."},{"paragraph":"Naszym klientom gwarantujemy najniższe ceny za najwyższą jakość oraz profesjonalizm. Naszym priorytetem jest satysfakcja Klientów - dlatego dbając o podnoszenie jakości naszych usług nie zapominamy o obniżaniu cen oraz stwarzaniu dogodnych warunków zakupu."},{"paragraph":"Naszym klientom gwarantujemy najniższe ceny za najwyższą jakość oraz profesjonalizm. Naszym priorytetem jest satysfakcja Klientów - dlatego dbając o podnoszenie jakości naszych usług nie zapominamy o obniżaniu cen oraz stwarzaniu dogodnych warunków zakupu."}],"offerElement":[{"title":"certina","url":"../image/e1.jpg"},{"title":"tissot","url":"../image/e2.jpg"},{"title":"adriatica","url":"../image/e3.jpg"},{"title":"swatch","url":"../image/e4.jpg"},{"title":"aviator","url":"../image/e5.jpg"},{"title":"casio","url":"../image/e6.jpg"},{"title":"lorus","url":"../image/e7.jpg"},{"title":"seiko","url":"../image/e8.jpg"},{"title":"citizen","url":"../image/e9.jpg"},{"title":"orient","url":"../image/e10.jpg"},{"title":"g-shock","url":"../image/e11.jpg"},{"title":"diesel","url":"../image/e12.jpg"},{"title":"fossil","url":"../image/e13.jpg"},{"title":"timex","url":"../image/e14.jpg"},{"title":"ice-watch","url":"../image/e15.jpg"},{"title":"michael kors","url":"../image/e16.jpg"},{"title":"cluse","url":"../image/e17.jpg"},{"title":"suunto","url":"../image/e18.jpg"},{"title":"roamer","url":"../image/e19.jpg"},{"title":"festina","url":"../image/e20.jpg"},{"title":"doxa","url":"../image/e21.jpg"},{"title":"buloca","url":"../image/e22.jpg"},{"title":"vostok","url":"../image/e23.jpg"},{"title":"certina","url":"../image/e24.jpg"},{"title":"atlantic","url":"../image/e25.jpg"}],"signatureElement":"Jesteśmy autoryzowanym sprzedawcą wszystkich oferowanych marek zegarków. Zapraszamy do składania zapytań i korzystania z indywidualnie przygotowywanych ofert!","socialMedia":[{"href":"https://www.facebook.com/","class":"fab fa-facebook-square"},{"href":"https://www.instagram.com/","class":"fab fa-instagram"},{"href":"https://twitter.com/","class":"fab fa-twitter-square"},{"href":"https://www.linkedin.com//","class":"fab fa-linkedin"},{"href":"https://www.youtube.com/","class":"fab fa-youtube"}],"klucz":"wartość","klucz1":"wartość1"}
 
 /***/ }),
 /* 4 */
@@ -441,6 +441,69 @@ module.exports = invariant;
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__BrowserRouter__ = __webpack_require__(59);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "BrowserRouter", function() { return __WEBPACK_IMPORTED_MODULE_0__BrowserRouter__["a"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__HashRouter__ = __webpack_require__(67);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "HashRouter", function() { return __WEBPACK_IMPORTED_MODULE_1__HashRouter__["a"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Link__ = __webpack_require__(30);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Link", function() { return __WEBPACK_IMPORTED_MODULE_2__Link__["a"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__MemoryRouter__ = __webpack_require__(68);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "MemoryRouter", function() { return __WEBPACK_IMPORTED_MODULE_3__MemoryRouter__["a"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NavLink__ = __webpack_require__(70);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "NavLink", function() { return __WEBPACK_IMPORTED_MODULE_4__NavLink__["a"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__Prompt__ = __webpack_require__(72);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Prompt", function() { return __WEBPACK_IMPORTED_MODULE_5__Prompt__["a"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__Redirect__ = __webpack_require__(74);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Redirect", function() { return __WEBPACK_IMPORTED_MODULE_6__Redirect__["a"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__Route__ = __webpack_require__(31);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Route", function() { return __WEBPACK_IMPORTED_MODULE_7__Route__["a"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__Router__ = __webpack_require__(19);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Router", function() { return __WEBPACK_IMPORTED_MODULE_8__Router__["a"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__StaticRouter__ = __webpack_require__(76);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "StaticRouter", function() { return __WEBPACK_IMPORTED_MODULE_9__StaticRouter__["a"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__Switch__ = __webpack_require__(78);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Switch", function() { return __WEBPACK_IMPORTED_MODULE_10__Switch__["a"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__generatePath__ = __webpack_require__(80);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "generatePath", function() { return __WEBPACK_IMPORTED_MODULE_11__generatePath__["a"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__matchPath__ = __webpack_require__(81);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "matchPath", function() { return __WEBPACK_IMPORTED_MODULE_12__matchPath__["a"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__withRouter__ = __webpack_require__(82);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "withRouter", function() { return __WEBPACK_IMPORTED_MODULE_13__withRouter__["a"]; });
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***/ }),
+/* 7 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
 /* WEBPACK VAR INJECTION */(function(process) {/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return createBrowserHistory; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return createHashHistory; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return createMemoryHistory; });
@@ -448,11 +511,11 @@ module.exports = invariant;
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return locationsAreEqual; });
 /* unused harmony export parsePath */
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return createPath; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_runtime_helpers_esm_extends__ = __webpack_require__(60);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_resolve_pathname__ = __webpack_require__(61);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_value_equal__ = __webpack_require__(62);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_tiny_warning__ = __webpack_require__(63);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_tiny_invariant__ = __webpack_require__(64);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_runtime_helpers_esm_extends__ = __webpack_require__(62);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_resolve_pathname__ = __webpack_require__(63);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_value_equal__ = __webpack_require__(64);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_tiny_warning__ = __webpack_require__(65);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_tiny_invariant__ = __webpack_require__(66);
 
 
 
@@ -1361,7 +1424,7 @@ function createMemoryHistory(props) {
 /* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__(1)))
 
 /***/ }),
-/* 7 */
+/* 8 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -1380,47 +1443,51 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _styledComponents = __webpack_require__(21);
+var _styledComponents = __webpack_require__(22);
 
 var _styledComponents2 = _interopRequireDefault(_styledComponents);
 
-var _AboutUs = __webpack_require__(88);
+var _AboutUs = __webpack_require__(90);
 
 var _AboutUs2 = _interopRequireDefault(_AboutUs);
 
-var _Title = __webpack_require__(92);
+var _Title = __webpack_require__(94);
 
 var _Title2 = _interopRequireDefault(_Title);
 
-var _ShowActiveImg = __webpack_require__(93);
+var _ShowActiveImg = __webpack_require__(95);
 
 var _ShowActiveImg2 = _interopRequireDefault(_ShowActiveImg);
 
-var _ArrowSlider = __webpack_require__(94);
+var _ArrowSlider = __webpack_require__(96);
 
 var _ArrowSlider2 = _interopRequireDefault(_ArrowSlider);
+
+var _SideMenu = __webpack_require__(12);
+
+var _SideMenu2 = _interopRequireDefault(_SideMenu);
 
 var _information = __webpack_require__(3);
 
 var _information2 = _interopRequireDefault(_information);
 
-var _b = __webpack_require__(95);
+var _b = __webpack_require__(97);
 
 var _b2 = _interopRequireDefault(_b);
 
-var _b3 = __webpack_require__(96);
+var _b3 = __webpack_require__(98);
 
 var _b4 = _interopRequireDefault(_b3);
 
-var _b5 = __webpack_require__(97);
+var _b5 = __webpack_require__(99);
 
 var _b6 = _interopRequireDefault(_b5);
 
-var _b7 = __webpack_require__(98);
+var _b7 = __webpack_require__(100);
 
 var _b8 = _interopRequireDefault(_b7);
 
-var _b9 = __webpack_require__(99);
+var _b9 = __webpack_require__(101);
 
 var _b10 = _interopRequireDefault(_b9);
 
@@ -1439,7 +1506,7 @@ function _inherits(subClass, superClass) { if (typeof superClass !== "function" 
 // start automatic change slider ?
 var startAutoChangeSlider = true;
 // time fo change background (IN SECONDS) and time for change animate
-var timeBackground = 4;
+var timeBackground = 8;
 // list of view background 
 var listBackground = [_b2.default, _b4.default, _b6.default, _b8.default, _b10.default];
 //name of Company -> set in file data/information.json
@@ -1485,10 +1552,24 @@ var Home = function (_Component) {
             };
             animationForNav();
             goToUp();
+            _this.updateSize();
+            window.addEventListener('resize', _this.updateSize);
         };
 
         _this.componentWillUnmount = function () {
             clearInterval(_this.timer);
+        };
+
+        _this.updateSize = function () {
+            if (window.innerWidth > 1000 && _this.state.bigSize == false) {
+                _this.setState({
+                    bigSize: true
+                });
+            } else if (window.innerWidth < 1000 && _this.state.bigSize == true) {
+                _this.setState({
+                    bigSize: false
+                });
+            }
         };
 
         _this.nextSlider = function () {
@@ -1498,12 +1579,13 @@ var Home = function (_Component) {
 
             _this.setState({
                 counter: counter == backgroundList.length - 1 ? 0 : counter + 1
-                // test1: backgroundList[this.state.counter]
             });
         };
 
         _this.prevSlider = function () {
-            var counter = _this.state.counter;
+            var _this$state2 = _this.state,
+                counter = _this$state2.counter,
+                backgroundList = _this$state2.backgroundList;
 
             _this.setState({
                 counter: counter == 0 ? backgroundList.length - 1 : counter - 1
@@ -1516,10 +1598,14 @@ var Home = function (_Component) {
             counter: 0,
             autoSlider: startAutoChangeSlider,
             seeOthersList: ['co nowego w branży', 'nasze realizacje', 'oferta', 'kontakt'],
-            titleCompany: titleCompany
+            titleCompany: titleCompany,
+            bigSize: false
         };
         return _this;
     }
+
+    //event for change size window
+
 
     //change the next slider
 
@@ -1534,14 +1620,15 @@ var Home = function (_Component) {
                 counter = _state.counter,
                 seeOthersList = _state.seeOthersList,
                 titleCompany = _state.titleCompany,
-                backgroundChangeTime = _state.backgroundChangeTime;
+                backgroundChangeTime = _state.backgroundChangeTime,
+                bigSize = _state.bigSize;
 
             var final = backgroundList[this.state.counter];
-
             var HomeContainer = _styledComponents2.default.div(_templateObject, final, backgroundChangeTime);
             return _react2.default.createElement(
                 'div',
                 { className: 'allBody' },
+                bigSize ? _react2.default.createElement(_SideMenu2.default, null) : null,
                 _react2.default.createElement(
                     HomeContainer,
                     null,
@@ -1553,7 +1640,7 @@ var Home = function (_Component) {
                         _react2.default.createElement(_Title2.default, { titleCompany: titleCompany })
                     )
                 ),
-                _react2.default.createElement(_AboutUs2.default, { itemSeeOthers: seeOthersList, titleCompany: titleCompany })
+                _react2.default.createElement(_AboutUs2.default, { itemSeeOthers: seeOthersList, titleCompany: titleCompany, bigSize: bigSize })
             );
         }
     }]);
@@ -1568,7 +1655,7 @@ exports.listMenu = listMenu;
 exports.goToUp = goToUp;
 
 /***/ }),
-/* 8 */
+/* 9 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -1665,7 +1752,7 @@ module.exports = shouldUseNative() ? Object.assign : function (target, source) {
 
 
 /***/ }),
-/* 9 */
+/* 10 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -1707,69 +1794,6 @@ emptyFunction.thatReturnsArgument = function (arg) {
 module.exports = emptyFunction;
 
 /***/ }),
-/* 10 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__BrowserRouter__ = __webpack_require__(57);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "BrowserRouter", function() { return __WEBPACK_IMPORTED_MODULE_0__BrowserRouter__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__HashRouter__ = __webpack_require__(65);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "HashRouter", function() { return __WEBPACK_IMPORTED_MODULE_1__HashRouter__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Link__ = __webpack_require__(29);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Link", function() { return __WEBPACK_IMPORTED_MODULE_2__Link__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__MemoryRouter__ = __webpack_require__(66);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "MemoryRouter", function() { return __WEBPACK_IMPORTED_MODULE_3__MemoryRouter__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NavLink__ = __webpack_require__(68);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "NavLink", function() { return __WEBPACK_IMPORTED_MODULE_4__NavLink__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__Prompt__ = __webpack_require__(70);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Prompt", function() { return __WEBPACK_IMPORTED_MODULE_5__Prompt__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__Redirect__ = __webpack_require__(72);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Redirect", function() { return __WEBPACK_IMPORTED_MODULE_6__Redirect__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__Route__ = __webpack_require__(30);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Route", function() { return __WEBPACK_IMPORTED_MODULE_7__Route__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__Router__ = __webpack_require__(18);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Router", function() { return __WEBPACK_IMPORTED_MODULE_8__Router__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__StaticRouter__ = __webpack_require__(74);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "StaticRouter", function() { return __WEBPACK_IMPORTED_MODULE_9__StaticRouter__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__Switch__ = __webpack_require__(76);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Switch", function() { return __WEBPACK_IMPORTED_MODULE_10__Switch__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__generatePath__ = __webpack_require__(78);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "generatePath", function() { return __WEBPACK_IMPORTED_MODULE_11__generatePath__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__matchPath__ = __webpack_require__(79);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "matchPath", function() { return __WEBPACK_IMPORTED_MODULE_12__matchPath__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__withRouter__ = __webpack_require__(80);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "withRouter", function() { return __WEBPACK_IMPORTED_MODULE_13__withRouter__["a"]; });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/***/ }),
 /* 11 */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -1786,13 +1810,17 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _SocialMedia = __webpack_require__(89);
+var _SocialMedia = __webpack_require__(36);
 
 var _SocialMedia2 = _interopRequireDefault(_SocialMedia);
 
-var _Copyright = __webpack_require__(90);
+var _Copyright = __webpack_require__(91);
 
 var _Copyright2 = _interopRequireDefault(_Copyright);
+
+var _SignatureLinks = __webpack_require__(92);
+
+var _SignatureLinks2 = _interopRequireDefault(_SignatureLinks);
 
 var _information = __webpack_require__(3);
 
@@ -1864,6 +1892,7 @@ var Signature = function (_Component) {
                 listContact = _state.listContact,
                 titleCompany = _state.titleCompany,
                 textInfo = _state.textInfo;
+            var bigSize = this.props.bigSize;
 
             return _react2.default.createElement(
                 'div',
@@ -1880,37 +1909,43 @@ var Signature = function (_Component) {
                         'p',
                         { className: 'signatureInfo' },
                         textInfo
-                    ),
-                    _react2.default.createElement(
-                        'div',
-                        { className: 'singatureContact' },
-                        listContact.map(function (el) {
-                            return _react2.default.createElement(
-                                'div',
-                                { key: el.type, className: 'signatureMedia' },
-                                _react2.default.createElement('span', { className: 'signatureSpan' }),
-                                _react2.default.createElement(
-                                    'p',
-                                    null,
-                                    el.type
-                                ),
-                                _react2.default.createElement('span', { className: 'signatureSpan' }),
-                                _react2.default.createElement(
-                                    'ul',
-                                    null,
-                                    el.info.map(function (el1) {
-                                        return _react2.default.createElement(
-                                            'li',
-                                            { key: el1 },
-                                            el1
-                                        );
-                                    })
-                                )
-                            );
-                        })
-                    ),
-                    _react2.default.createElement(_SocialMedia2.default, null)
+                    )
                 ),
+                _react2.default.createElement(
+                    'div',
+                    { className: 'singatureContact' },
+                    listContact.map(function (el) {
+                        return _react2.default.createElement(
+                            'div',
+                            { key: el.type, className: 'signatureMedia' },
+                            _react2.default.createElement('span', { className: 'signatureSpan' }),
+                            _react2.default.createElement(
+                                'p',
+                                null,
+                                el.type
+                            ),
+                            _react2.default.createElement('span', { className: 'signatureSpan' }),
+                            _react2.default.createElement(
+                                'ul',
+                                null,
+                                el.info.map(function (el1) {
+                                    return _react2.default.createElement(
+                                        'li',
+                                        { key: el1 },
+                                        el1
+                                    );
+                                })
+                            ),
+                            _react2.default.createElement(
+                                'p',
+                                { className: 'signatureLogo' },
+                                _react2.default.createElement('i', { className: el.imgClass })
+                            )
+                        );
+                    })
+                ),
+                _react2.default.createElement(_SignatureLinks2.default, null),
+                bigSize ? null : _react2.default.createElement(_SocialMedia2.default, null),
                 _react2.default.createElement(_Copyright2.default, { fnC: this.scrollTop })
             );
         }
@@ -1923,6 +1958,73 @@ exports.default = Signature;
 
 /***/ }),
 /* 12 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
+
+var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _SocialMedia = __webpack_require__(36);
+
+var _SocialMedia2 = _interopRequireDefault(_SocialMedia);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
+
+var SideMenu = function (_Component) {
+    _inherits(SideMenu, _Component);
+
+    function SideMenu() {
+        _classCallCheck(this, SideMenu);
+
+        return _possibleConstructorReturn(this, (SideMenu.__proto__ || Object.getPrototypeOf(SideMenu)).apply(this, arguments));
+    }
+
+    _createClass(SideMenu, [{
+        key: 'render',
+        value: function render() {
+            return _react2.default.createElement(
+                'div',
+                { className: 'sideMenuComp' },
+                _react2.default.createElement(
+                    'div',
+                    { className: 'sideText' },
+                    _react2.default.createElement(
+                        'p',
+                        null,
+                        'Najlepsza firma'
+                    )
+                ),
+                _react2.default.createElement(
+                    'div',
+                    { className: 'sideInfo' },
+                    _react2.default.createElement(_SocialMedia2.default, null)
+                )
+            );
+        }
+    }]);
+
+    return SideMenu;
+}(_react.Component);
+
+exports.default = SideMenu;
+
+/***/ }),
+/* 13 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -1982,7 +2084,7 @@ module.exports = invariant;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 13 */
+/* 14 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2006,7 +2108,7 @@ module.exports = emptyObject;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 14 */
+/* 15 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2076,7 +2178,7 @@ var HeaderCompImg = function (_Component) {
 exports.default = HeaderCompImg;
 
 /***/ }),
-/* 15 */
+/* 16 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2092,7 +2194,7 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _reactRouterDom = __webpack_require__(10);
+var _reactRouterDom = __webpack_require__(6);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -2157,7 +2259,7 @@ var ForwardInfo = function (_Component) {
 exports.default = ForwardInfo;
 
 /***/ }),
-/* 16 */
+/* 17 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2173,7 +2275,7 @@ exports.default = ForwardInfo;
 var printWarning = function() {};
 
 if (process.env.NODE_ENV !== 'production') {
-  var ReactPropTypesSecret = __webpack_require__(17);
+  var ReactPropTypesSecret = __webpack_require__(18);
   var loggedTypeFailures = {};
 
   printWarning = function(text) {
@@ -2256,7 +2358,7 @@ module.exports = checkPropTypes;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 17 */
+/* 18 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2275,18 +2377,18 @@ module.exports = ReactPropTypesSecret;
 
 
 /***/ }),
-/* 18 */
+/* 19 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Router__ = __webpack_require__(19);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Router__ = __webpack_require__(20);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_Router__["a" /* default */]);
 
 /***/ }),
-/* 19 */
+/* 20 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -2405,11 +2507,11 @@ Router.childContextTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (Router);
 
 /***/ }),
-/* 20 */
+/* 21 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_path_to_regexp__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_path_to_regexp__ = __webpack_require__(33);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_path_to_regexp___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_path_to_regexp__);
 
 
@@ -2485,7 +2587,7 @@ var matchPath = function matchPath(pathname) {
 /* harmony default export */ __webpack_exports__["a"] = (matchPath);
 
 /***/ }),
-/* 21 */
+/* 22 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -2500,17 +2602,17 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ServerStyleSheet", function() { return ServerStyleSheet; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "StyleSheetManager", function() { return StyleSheetManager; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__DO_NOT_USE_OR_YOU_WILL_BE_HAUNTED_BY_SPOOKY_GHOSTS", function() { return __DO_NOT_USE_OR_YOU_WILL_BE_HAUNTED_BY_SPOOKY_GHOSTS; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_is_plain_object__ = __webpack_require__(84);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_is_plain_object__ = __webpack_require__(86);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_is_plain_object___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_is_plain_object__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_stylis__ = __webpack_require__(86);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_stylis__ = __webpack_require__(88);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_stylis___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_stylis__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_stylis_rule_sheet__ = __webpack_require__(87);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_stylis_rule_sheet__ = __webpack_require__(89);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_stylis_rule_sheet___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_stylis_rule_sheet__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_prop_types__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_hoist_non_react_statics__ = __webpack_require__(34);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_hoist_non_react_statics__ = __webpack_require__(35);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_hoist_non_react_statics___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5_hoist_non_react_statics__);
 
 
@@ -4742,10 +4844,10 @@ var styled = _styled(StyledComponent, constructWithOptions);
 /* harmony default export */ __webpack_exports__["default"] = (styled);
 //# sourceMappingURL=styled-components.browser.es.js.map
 
-/* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__(1), __webpack_require__(83)(module)))
+/* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__(1), __webpack_require__(85)(module)))
 
 /***/ }),
-/* 22 */
+/* 23 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -4759,7 +4861,7 @@ var styled = _styled(StyledComponent, constructWithOptions);
 
 
 
-var emptyFunction = __webpack_require__(9);
+var emptyFunction = __webpack_require__(10);
 
 /**
  * Similar to invariant but only logs a warning if the condition is not met.
@@ -4814,7 +4916,7 @@ module.exports = warning;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 23 */
+/* 24 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -4853,7 +4955,7 @@ var ExecutionEnvironment = {
 module.exports = ExecutionEnvironment;
 
 /***/ }),
-/* 24 */
+/* 25 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -4895,7 +4997,7 @@ function getActiveElement(doc) /*?DOMElement*/{
 module.exports = getActiveElement;
 
 /***/ }),
-/* 25 */
+/* 26 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -4966,7 +5068,7 @@ function shallowEqual(objA, objB) {
 module.exports = shallowEqual;
 
 /***/ }),
-/* 26 */
+/* 27 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -4981,7 +5083,7 @@ module.exports = shallowEqual;
  * 
  */
 
-var isTextNode = __webpack_require__(43);
+var isTextNode = __webpack_require__(45);
 
 /*eslint-disable no-bitwise */
 
@@ -5009,7 +5111,7 @@ function containsNode(outerNode, innerNode) {
 module.exports = containsNode;
 
 /***/ }),
-/* 27 */
+/* 28 */
 /***/ (function(module, exports) {
 
 /*
@@ -5091,7 +5193,7 @@ function toComment(sourceMap) {
 
 
 /***/ }),
-/* 28 */
+/* 29 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /*
@@ -5157,7 +5259,7 @@ var singleton = null;
 var	singletonCounter = 0;
 var	stylesInsertedAtTop = [];
 
-var	fixUrls = __webpack_require__(55);
+var	fixUrls = __webpack_require__(57);
 
 module.exports = function(list, options) {
 	if (typeof DEBUG !== "undefined" && DEBUG) {
@@ -5477,7 +5579,7 @@ function updateLink (link, options, obj) {
 
 
 /***/ }),
-/* 29 */
+/* 30 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -5487,7 +5589,7 @@ function updateLink (link, options, obj) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_prop_types__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_invariant__ = __webpack_require__(5);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_invariant___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_invariant__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_history__ = __webpack_require__(6);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_history__ = __webpack_require__(7);
 var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
 function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
@@ -5594,18 +5696,18 @@ Link.contextTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (Link);
 
 /***/ }),
-/* 30 */
+/* 31 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Route__ = __webpack_require__(31);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Route__ = __webpack_require__(32);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_Route__["a" /* default */]);
 
 /***/ }),
-/* 31 */
+/* 32 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -5617,7 +5719,7 @@ Link.contextTypes = {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_prop_types__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__matchPath__ = __webpack_require__(20);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__matchPath__ = __webpack_require__(21);
 var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -5759,10 +5861,10 @@ Route.childContextTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (Route);
 
 /***/ }),
-/* 32 */
+/* 33 */
 /***/ (function(module, exports, __webpack_require__) {
 
-var isarray = __webpack_require__(69)
+var isarray = __webpack_require__(71)
 
 /**
  * Expose `pathToRegexp`.
@@ -6191,11 +6293,11 @@ function pathToRegexp (path, keys, options) {
 
 
 /***/ }),
-/* 33 */
+/* 34 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_path_to_regexp__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_path_to_regexp__ = __webpack_require__(33);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_path_to_regexp___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_path_to_regexp__);
 
 
@@ -6236,7 +6338,7 @@ var generatePath = function generatePath() {
 /* harmony default export */ __webpack_exports__["a"] = (generatePath);
 
 /***/ }),
-/* 34 */
+/* 35 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6311,21 +6413,107 @@ module.exports = hoistNonReactStatics;
 
 
 /***/ }),
-/* 35 */
+/* 36 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
+
+var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _information = __webpack_require__(3);
+
+var _information2 = _interopRequireDefault(_information);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
+
+var SocialMedia = function (_Component) {
+    _inherits(SocialMedia, _Component);
+
+    function SocialMedia() {
+        _classCallCheck(this, SocialMedia);
+
+        var _this = _possibleConstructorReturn(this, (SocialMedia.__proto__ || Object.getPrototypeOf(SocialMedia)).call(this));
+
+        _this.componentDidMount = function () {
+            //need for add class from fontawensome
+            var allHref = [];
+            var allHClass = [];
+            _information2.default.socialMedia.map(function (el) {
+                return allHref.push(el.href);
+            });
+            _information2.default.socialMedia.map(function (el) {
+                return allHClass.push(el.class);
+            });
+            _this.setState({
+                allElHref: allHref,
+                allElClass: allHClass
+            });
+        };
+
+        _this.state = {
+            allElHref: [],
+            allElClass: []
+        };
+        return _this;
+    }
+
+    _createClass(SocialMedia, [{
+        key: 'render',
+        value: function render() {
+            var _state = this.state,
+                allElHref = _state.allElHref,
+                allElClass = _state.allElClass;
+
+            return _react2.default.createElement(
+                'div',
+                { className: 'socialMedia' },
+                allElHref.map(function (el, i) {
+                    return _react2.default.createElement(
+                        'a',
+                        { key: i, href: el, style: { color: 'white' }, target: '_blank', title: el },
+                        _react2.default.createElement('i', { className: allElClass[i] + ' sizeForSocial' })
+                    );
+                })
+            );
+        }
+    }]);
+
+    return SocialMedia;
+}(_react.Component);
+
+exports.default = SocialMedia;
+
+/***/ }),
+/* 37 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "a26fd3a422c197fe44164a338db53f0b.jpg";
 
 /***/ }),
-/* 36 */
+/* 38 */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(37);
-module.exports = __webpack_require__(38);
+__webpack_require__(39);
+module.exports = __webpack_require__(40);
 
 
 /***/ }),
-/* 37 */
+/* 39 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -6854,13 +7042,13 @@ if (!self.fetch) {
 
 
 /***/ }),
-/* 38 */
+/* 40 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _reactDom = __webpack_require__(39);
+var _reactDom = __webpack_require__(41);
 
 var _reactDom2 = _interopRequireDefault(_reactDom);
 
@@ -6868,9 +7056,9 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-__webpack_require__(50);
+__webpack_require__(52);
 
-var _Website = __webpack_require__(56);
+var _Website = __webpack_require__(58);
 
 var _Website2 = _interopRequireDefault(_Website);
 
@@ -6883,7 +7071,7 @@ var App = function App() {
 _reactDom2.default.render(_react2.default.createElement(App, null), document.getElementById('app'));
 
 /***/ }),
-/* 39 */
+/* 41 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6921,15 +7109,15 @@ if (process.env.NODE_ENV === 'production') {
   // DCE check should happen before ReactDOM bundle executes so that
   // DevTools can report bad minification during injection.
   checkDCE();
-  module.exports = __webpack_require__(40);
+  module.exports = __webpack_require__(42);
 } else {
-  module.exports = __webpack_require__(45);
+  module.exports = __webpack_require__(47);
 }
 
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 40 */
+/* 42 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6945,7 +7133,7 @@ if (process.env.NODE_ENV === 'production') {
 /*
  Modernizr 3.0.0pre (Custom Build) | MIT
 */
-var aa=__webpack_require__(12),ba=__webpack_require__(0),m=__webpack_require__(23),p=__webpack_require__(8),v=__webpack_require__(9),da=__webpack_require__(24),ea=__webpack_require__(25),fa=__webpack_require__(26),ha=__webpack_require__(13);
+var aa=__webpack_require__(13),ba=__webpack_require__(0),m=__webpack_require__(24),p=__webpack_require__(9),v=__webpack_require__(10),da=__webpack_require__(25),ea=__webpack_require__(26),fa=__webpack_require__(27),ha=__webpack_require__(14);
 function A(a){for(var b=arguments.length-1,c="https://reactjs.org/docs/error-decoder.html?invariant="+a,d=0;d<b;d++)c+="&args[]="+encodeURIComponent(arguments[d+1]);aa(!1,"Minified React error #"+a+"; visit %s for the full message or use the non-minified dev environment for full errors and additional helpful warnings. ",c)}ba?void 0:A("227");
 function ia(a,b,c,d,e,f,g,h,k){this._hasCaughtError=!1;this._caughtError=null;var n=Array.prototype.slice.call(arguments,3);try{b.apply(c,n)}catch(r){this._caughtError=r,this._hasCaughtError=!0}}
 var B={_caughtError:null,_hasCaughtError:!1,_rethrowError:null,_hasRethrowError:!1,invokeGuardedCallback:function(a,b,c,d,e,f,g,h,k){ia.apply(B,arguments)},invokeGuardedCallbackAndCatchFirstError:function(a,b,c,d,e,f,g,h,k){B.invokeGuardedCallback.apply(this,arguments);if(B.hasCaughtError()){var n=B.clearCaughtError();B._hasRethrowError||(B._hasRethrowError=!0,B._rethrowError=n)}},rethrowCaughtError:function(){return ka.apply(B,arguments)},hasCaughtError:function(){return B._hasCaughtError},clearCaughtError:function(){if(B._hasCaughtError){var a=
@@ -7176,7 +7364,7 @@ var Ai={default:vi},Bi=Ai&&vi||Ai;module.exports=Bi.default?Bi.default:Bi;
 
 
 /***/ }),
-/* 41 */
+/* 43 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -7189,7 +7377,7 @@ var Ai={default:vi},Bi=Ai&&vi||Ai;module.exports=Bi.default?Bi.default:Bi;
  * LICENSE file in the root directory of this source tree.
  */
 
-var k=__webpack_require__(8),n=__webpack_require__(12),p=__webpack_require__(13),q=__webpack_require__(9),r="function"===typeof Symbol&&Symbol.for,t=r?Symbol.for("react.element"):60103,u=r?Symbol.for("react.portal"):60106,v=r?Symbol.for("react.fragment"):60107,w=r?Symbol.for("react.strict_mode"):60108,x=r?Symbol.for("react.profiler"):60114,y=r?Symbol.for("react.provider"):60109,z=r?Symbol.for("react.context"):60110,A=r?Symbol.for("react.async_mode"):60111,B=
+var k=__webpack_require__(9),n=__webpack_require__(13),p=__webpack_require__(14),q=__webpack_require__(10),r="function"===typeof Symbol&&Symbol.for,t=r?Symbol.for("react.element"):60103,u=r?Symbol.for("react.portal"):60106,v=r?Symbol.for("react.fragment"):60107,w=r?Symbol.for("react.strict_mode"):60108,x=r?Symbol.for("react.profiler"):60114,y=r?Symbol.for("react.provider"):60109,z=r?Symbol.for("react.context"):60110,A=r?Symbol.for("react.async_mode"):60111,B=
 r?Symbol.for("react.forward_ref"):60112;r&&Symbol.for("react.timeout");var C="function"===typeof Symbol&&Symbol.iterator;function D(a){for(var b=arguments.length-1,e="https://reactjs.org/docs/error-decoder.html?invariant="+a,c=0;c<b;c++)e+="&args[]="+encodeURIComponent(arguments[c+1]);n(!1,"Minified React error #"+a+"; visit %s for the full message or use the non-minified dev environment for full errors and additional helpful warnings. ",e)}
 var E={isMounted:function(){return!1},enqueueForceUpdate:function(){},enqueueReplaceState:function(){},enqueueSetState:function(){}};function F(a,b,e){this.props=a;this.context=b;this.refs=p;this.updater=e||E}F.prototype.isReactComponent={};F.prototype.setState=function(a,b){"object"!==typeof a&&"function"!==typeof a&&null!=a?D("85"):void 0;this.updater.enqueueSetState(this,a,b,"setState")};F.prototype.forceUpdate=function(a){this.updater.enqueueForceUpdate(this,a,"forceUpdate")};function G(){}
 G.prototype=F.prototype;function H(a,b,e){this.props=a;this.context=b;this.refs=p;this.updater=e||E}var I=H.prototype=new G;I.constructor=H;k(I,F.prototype);I.isPureReactComponent=!0;var J={current:null},K=Object.prototype.hasOwnProperty,L={key:!0,ref:!0,__self:!0,__source:!0};
@@ -7205,7 +7393,7 @@ assign:k}},Y={default:X},Z=Y&&X||Y;module.exports=Z.default?Z.default:Z;
 
 
 /***/ }),
-/* 42 */
+/* 44 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -7226,12 +7414,12 @@ if (process.env.NODE_ENV !== "production") {
   (function() {
 'use strict';
 
-var _assign = __webpack_require__(8);
-var invariant = __webpack_require__(12);
-var emptyObject = __webpack_require__(13);
-var warning = __webpack_require__(22);
-var emptyFunction = __webpack_require__(9);
-var checkPropTypes = __webpack_require__(16);
+var _assign = __webpack_require__(9);
+var invariant = __webpack_require__(13);
+var emptyObject = __webpack_require__(14);
+var warning = __webpack_require__(23);
+var emptyFunction = __webpack_require__(10);
+var checkPropTypes = __webpack_require__(17);
 
 // TODO: this is special because it gets imported during build.
 
@@ -8699,7 +8887,7 @@ module.exports = react;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 43 */
+/* 45 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8714,7 +8902,7 @@ module.exports = react;
  * @typechecks
  */
 
-var isNode = __webpack_require__(44);
+var isNode = __webpack_require__(46);
 
 /**
  * @param {*} object The object to check.
@@ -8727,7 +8915,7 @@ function isTextNode(object) {
 module.exports = isTextNode;
 
 /***/ }),
-/* 44 */
+/* 46 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8755,7 +8943,7 @@ function isNode(object) {
 module.exports = isNode;
 
 /***/ }),
-/* 45 */
+/* 47 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8776,19 +8964,19 @@ if (process.env.NODE_ENV !== "production") {
   (function() {
 'use strict';
 
-var invariant = __webpack_require__(12);
+var invariant = __webpack_require__(13);
 var React = __webpack_require__(0);
-var warning = __webpack_require__(22);
-var ExecutionEnvironment = __webpack_require__(23);
-var _assign = __webpack_require__(8);
-var emptyFunction = __webpack_require__(9);
-var checkPropTypes = __webpack_require__(16);
-var getActiveElement = __webpack_require__(24);
-var shallowEqual = __webpack_require__(25);
-var containsNode = __webpack_require__(26);
-var emptyObject = __webpack_require__(13);
-var hyphenateStyleName = __webpack_require__(46);
-var camelizeStyleName = __webpack_require__(48);
+var warning = __webpack_require__(23);
+var ExecutionEnvironment = __webpack_require__(24);
+var _assign = __webpack_require__(9);
+var emptyFunction = __webpack_require__(10);
+var checkPropTypes = __webpack_require__(17);
+var getActiveElement = __webpack_require__(25);
+var shallowEqual = __webpack_require__(26);
+var containsNode = __webpack_require__(27);
+var emptyObject = __webpack_require__(14);
+var hyphenateStyleName = __webpack_require__(48);
+var camelizeStyleName = __webpack_require__(50);
 
 // Relying on the `invariant()` implementation lets us
 // have preserve the format and params in the www builds.
@@ -26193,7 +26381,7 @@ module.exports = reactDom;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 46 */
+/* 48 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26208,7 +26396,7 @@ module.exports = reactDom;
 
 
 
-var hyphenate = __webpack_require__(47);
+var hyphenate = __webpack_require__(49);
 
 var msPattern = /^ms-/;
 
@@ -26235,7 +26423,7 @@ function hyphenateStyleName(string) {
 module.exports = hyphenateStyleName;
 
 /***/ }),
-/* 47 */
+/* 49 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26271,7 +26459,7 @@ function hyphenate(string) {
 module.exports = hyphenate;
 
 /***/ }),
-/* 48 */
+/* 50 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26286,7 +26474,7 @@ module.exports = hyphenate;
 
 
 
-var camelize = __webpack_require__(49);
+var camelize = __webpack_require__(51);
 
 var msPattern = /^-ms-/;
 
@@ -26314,7 +26502,7 @@ function camelizeStyleName(string) {
 module.exports = camelizeStyleName;
 
 /***/ }),
-/* 49 */
+/* 51 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26349,11 +26537,11 @@ function camelize(string) {
 module.exports = camelize;
 
 /***/ }),
-/* 50 */
+/* 52 */
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(51);
+var content = __webpack_require__(53);
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -26367,7 +26555,7 @@ var options = {"hmr":true}
 options.transform = transform
 options.insertInto = undefined;
 
-var update = __webpack_require__(28)(content, options);
+var update = __webpack_require__(29)(content, options);
 
 if(content.locals) module.exports = content.locals;
 
@@ -26399,22 +26587,22 @@ if(false) {
 }
 
 /***/ }),
-/* 51 */
+/* 53 */
 /***/ (function(module, exports, __webpack_require__) {
 
-var escape = __webpack_require__(52);
-exports = module.exports = __webpack_require__(27)(false);
+var escape = __webpack_require__(54);
+exports = module.exports = __webpack_require__(28)(false);
 // imports
 
 
 // module
-exports.push([module.i, "@charset \"UTF-8\";\n\n* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  min-width: 300px;\n  font-family: 'Roboto', sans-serif;\n  overflow: auto;\n}\n\n.allBody .container {\n  padding-top: 70px;\n}\n\n/* NAVIGATION Component */\n\n.navigation {\n  font-family: 'Roboto', sans-serif;\n  background: #315380;\n  color: #FFFF;\n  width: 100vw;\n  padding: 20px 0;\n  position: fixed;\n  z-index: 2;\n}\n\n.navTitle {\n  /* font-size: 1.2rem; */\n  /* letter-spacing: 0.5em; */\n  /* text-transform: uppercase; */\n  /* font-weight: 400; */\n  display: inline-block;\n  position: relative;\n  /* margin-left: 30px; */\n  color: black;\n  float: left;\n  /* width:40px; */\n  line-height: 35px;\n  margin: 0 5vw;\n  border-radius: 6px;\n}\n\n.navTitle > span {\n  font-size: 1.2rem;\n  margin: 0 5px;\n  display: block;\n  text-transform: uppercase;\n  float: left;\n  /* border-radius:6px; */\n  color: white;\n}\n\n.addTitleAnimation {\n  animation: text_animation 5s linear 1;\n  -webkit-animation: text_animation 5s linear 1;\n}\n\n.navTitle > .titleLetter0 {\n  animation-delay: 250ms;\n  -webkit-animation-delay: 250ms;\n}\n\n.navTitle > .titleLetter1 {\n  animation-delay: 500ms;\n  -webkit-animation-delay: 500ms;\n}\n\n.navTitle > .titleLetter2 {\n  animation-delay: 750ms;\n  -webkit-animation-delay: 750ms;\n}\n\n.navTitle > .titleLetter3 {\n  animation-delay: 1000ms;\n  -webkit-animation-delay: 1000ms;\n}\n\n.navTitle > .titleLetter4 {\n  animation-delay: 1250ms;\n  -webkit-animation-delay: 1250ms;\n}\n\n.navTitle > .titleLetter5 {\n  animation-delay: 1500ms;\n  -webkit-animation-delay: 1500ms;\n}\n\n.navTitle > .titleLetter6 {\n  animation-delay: 1750ms;\n  -webkit-animation-delay: 1750ms;\n}\n\n.navTitle > .titleLetter7 {\n  animation-delay: 2000ms;\n  -webkit-animation-delay: 2000ms;\n}\n\n@keyframes text_animation {\n  0% {\n    transform: rotate(0);\n  }\n\n  10% {\n    transform: rotate(360deg);\n  }\n\n  100% {\n    transform: rotate(360deg);\n  }\n}\n\n.navOrg {\n  font-size: 0.3em;\n  position: absolute;\n  top: -8px;\n  right: -10px;\n  color: white;\n}\n\n.hamburger {\n  font-size: 2rem;\n  display: inline-block;\n  border: 1px solid grey;\n  width: 40px;\n  height: 2rem;\n  float: right;\n  margin: 0 30px;\n}\n\n.hamburger:hover {\n  cursor: pointer;\n  border: 1px solid #FFFF;\n}\n\n.hamburger span {\n  display: block;\n  border-bottom: 2px solid white;\n  padding: 3px;\n  width: 70%;\n  margin: 0 auto;\n  /* height: 7px */\n  /* font-style: inherit */\n}\n\n.hamburger:nth-child(1) {\n  margin-top: 3.5px;\n}\n\n/* span:nth-child(odd){\r\n  border-bottom: 2px solid #315380\r\n\r\n} */\n\n.hideSpan {\n  animation-name: hideHamSpan;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n}\n\n.showSpan {\n  animation-name: showHamSpan;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n}\n\n.stress {\n  width: 100%;\n  border-bottom: 1px solid grey;\n  display: none;\n}\n\n@keyframes hideHamSpan {\n  0% {\n    border-bottom: 2px solid #FFFF;\n  }\n\n  100% {\n    border-bottom: 2px solid #315380;\n  }\n}\n\n@keyframes showHamSpan {\n  0% {\n    border-bottom: 2px solid #315380;\n  }\n\n  100% {\n    border-bottom: 2px solid #FFFF;\n  }\n}\n\n@media (max-width: 600px) {\n  .navigation p {\n    font-size: 5vw;\n  }\n}\n\n/* ElementNavigation Compo */\n\n.slideMenu {\n  /* padding-bottom: 5vh; */\n  position: fixed;\n  top: 9vh;\n  z-index: 1;\n  background: #315380;\n  width: 100%;\n  display: none;\n}\n\n.elMenu {\n  color: white;\n  text-decoration: none;\n}\n\n.elMenu:hover {\n  color: grey;\n}\n\n.slideMenu li {\n  margin-left: 30px;\n  list-style-type: none;\n  margin-top: 2vh;\n  text-transform: uppercase;\n  font-weight: 800;\n  font-size: 12px;\n}\n\n.slideMenu li:last-child {\n  padding-bottom: 10vh;\n}\n\n.slideMenu li:first-child {\n  padding-top: 5vh;\n}\n\n.elClickOn {\n  color: red;\n}\n\n/* HOME Component*/\n\n/* zastąpione HomeContainer Comp */\n\n/* .homeComp{\r\n  height: 100vh;\r\n  width: 100vw;\r\n  background-image: url(\"http://www.lampiarnia.info/uploads/i/img-3f28a05959dc33fe2198f9f7bf28380e.jpg\");\r\n  background-size: cover;\r\n  background-repeat: no-repeat;\r\n  background-position: 45% 20%;\r\n} */\n\n@keyframes showImg {\n  0% {\n    opacity: 0.2;\n  }\n\n  25% {\n    opacity: 0.7;\n  }\n\n  75% {\n    opacity: 1;\n  }\n}\n\n.main {\n  background-size: cover;\n  background-repeat: no-repeat;\n  background-position: 65% 80%;\n  /* height: 50vh; */\n  width: 100vw;\n  height: 100vh;\n  animation-name: showImg;\n  animation-duration: 3s;\n  animation-iteration-count: 1;\n  animation-timing-function: linear;\n  padding-top: 70px;\n}\n\n/*Title Component */\n\n.titleName {\n  position: absolute;\n  text-align: center;\n  top: 40%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n\nh1.title {\n  font-size: 2rem;\n  letter-spacing: 0.5em;\n  text-transform: uppercase;\n  font-weight: 600;\n  color: #315380;\n  text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,\r 0 0 20px #A5F1FF, 0 0 30px #A5F1FF,\r 0 0 40px #A5F1FF;\n  animation-name: scaleInfo;\n  animation-iteration-count: 3;\n  animation-fill-mode: forwards;\n  animation-duration: 4s;\n  animation-timing-function: ease-in-out;\n}\n\n.titleOrg {\n  font-size: 0.3em;\n  position: absolute;\n  top: 0;\n  right: -10px;\n}\n\n.afterTitle {\n  animation-name: showAfterTitle;\n  animation-iteration-count: 3;\n  animation-fill-mode: forwards;\n  animation-duration: 4s;\n  animation-timing-function: ease-in-out;\n  font-size: 1.2rem;\n  width: 100%;\n  text-transform: uppercase;\n  font-weight: 600;\n  letter-spacing: 0.2em;\n  margin-top: 4vw;\n  color: #315380;\n  opacity: 0;\n  text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,\r 0 0 20px #A5F1FF, 0 0 30px #A5F1FF,\r 0 0 40px #A5F1FF;\n}\n\n@keyframes showAfterTitle {\n  0% {\n\n  }\n\n  50% {\n    /* color: #315380 */\n  }\n\n  75% {\n    color: white;\n  }\n\n  100% {\n    opacity: 1;\n    color: white;\n    /* transform: scale(1.1); */\n  }\n}\n\n@keyframes scaleInfo {\n  0% {\n\n  }\n\n  50% {\n    /* color: #315380 */\n  }\n\n  100% {\n    /* color: white; */\n    transform: scale(1.1);\n    opacity: 0;\n  }\n}\n\n/* .titleName:before, .titleName:after { \r\n  content: \"\"; \r\n  display: table; \r\n  clear: both; }\r\n */\n\n/*AboutUs Component */\n\n.aboutComp {\n  height: 100vh;\n  width: 100%;\n  /* margin: 10vw auto; */\n  /* margin: 0 auto; */\n  /* margin-top: 10vw; */\n  /* margin-bottom: 10vw; */\n}\n\n.aboutCompContainer {\n  width: 90%;\n  margin: 0 auto;\n  margin-top: 10vh;\n}\n\n.aboutImg {\n  background: url(" + escape(__webpack_require__(53)) + ");\n  height: 50vh;\n  background-repeat: no-repeat;\n  background-position: 45% 85%;\n  /* width: 100%; */\n  background-size: cover;\n  /* background-repeat: no-repeat; */\n  margin: 0 auto;\n}\n\n.aboutUsInfo {\n  line-height: 1.7rem;\n  font-size: 0.9rem;\n  /* padding-bottom: 5vw; */\n  /* margin-bottom: 5vw; */\n}\n\n.aboutUsInfo p {\n  padding: 10px 0;\n}\n\nh3 {\n  margin: 8vw auto;\n  font-weight: 100;\n  text-transform: uppercase;\n  font-size: 2rem;\n}\n\n.aboutBold {\n  font-weight: 700;\n}\n\n.aboutBorder {\n  display: block;\n  width: 30%;\n  height: 2vw;\n  border-bottom: 10px solid #315380;\n  margin: 5vh auto;\n  background: white;\n}\n\n/* ForwardNavigation Component */\n\n.aboutSee {\n  font-size: 1.6rem;\n  font-weight: 700;\n  margin: 15vw auto;\n  /* padding-bottom: 5vw; */\n}\n\n.aboutSeeHeader {\n  margin-bottom: 5vh;\n}\n\n.elAbout {\n  color: red;\n  list-style-type: none;\n  text-transform: uppercase;\n  text-decoration: none;\n  margin-left: 70px;\n  font-size: 0.8rem;\n  font-weight: 600;\n}\n\n.aboutSee li span {\n  display: inline-block;\n  position: absolute;\n  top: 55%;\n  left: 0;\n  width: 50px;\n  height: 1px;\n  background: grey;\n  transition: 1s;\n}\n\n.aboutSee ul li {\n  position: relative;\n  text-decoration: none;\n  list-style-type: none;\n}\n\n.aboutSee li:hover > span {\n  cursor: pointer;\n  transform: rotate(-45deg);\n}\n\n/* .aboutSee li::before{\r\n  content: '';\r\n  position: absolute;\r\n  top: 50%;\r\n  left: 0;\r\n  width: 40px;\r\n  height: 1px;\r\n  background: #000;\r\n} */\n\n/*ArrowSlider Component */\n\n.fa-chevron-right,\n.fa-chevron-left {\n  color: white;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  /* font-size: 1.2rem */\n}\n\n.fa-chevron-right:hover,\n.fa-chevron-left:hover {\n  font-size: 1.7rem;\n  cursor: pointer;\n}\n\n.arrowRight,\n.arrowLeft {\n  background: rgba(61, 57, 57, 0.4);\n  height: 40px;\n  width: 40px;\n  position: absolute;\n}\n\n.arrowRight {\n  right: 0vw;\n  bottom: 8vh;\n}\n\n.arrowLeft {\n  left: 0vw;\n  bottom: 8vh;\n}\n\n.arrowInfo {\n  width: 60vw;\n  position: absolute;\n  bottom: 3vh;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  margin: 0 auto;\n  text-align: center;\n}\n\n.arrowInfo .arrowSpan {\n  width: 30px;\n  height: 5px;\n  display: inline-block;\n  margin: 0 2vw;\n  border-bottom: 1px solid white;\n}\n\n.spanActive {\n  background: white;\n}\n\n/* SIGNATURE Comp */\n\n.signatureComp {\n  width: 100%;\n  background: #000;\n  color: #FFF;\n}\n\n.signatureContainer {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.signatureTitle {\n  padding-top: 10vw;\n  font-size: 1.5rem;\n  text-align: center;\n  letter-spacing: 0.5em;\n  text-transform: uppercase;\n  font-weight: 400;\n  color: white;\n}\n\n.signatureInfo {\n  color: grey;\n  margin-top: 20px;\n  font-size: 0.8rem;\n  line-height: 25px;\n  text-align: center;\n}\n\n.singatureContact {\n  margin: 7vh auto;\n}\n\n.signatureMedia {\n  margin: 4vh auto;\n  text-align: center;\n}\n\n.signatureSpan {\n  display: inline-block;\n  width: 50px;\n  height: 1px;\n  background: #FFF;\n  border-bottom: 4px solid black;\n  padding-bottom: 2px;\n  transition: 1s;\n}\n\n.signatureMedia p {\n  display: inline-block;\n  margin: 0 20px;\n  text-transform: uppercase;\n  color: red;\n  font-weight: 700;\n  font-size: 0.9rem;\n}\n\n.signatureMedia ul {\n  margin-top: 1vh;\n}\n\n.signatureMedia li {\n  margin: 1vh auto;\n  font-weight: 500;\n  list-style-type: none;\n  font-size: 0.7rem;\n}\n\n.signatureMedia:hover > .signatureSpan {\n  cursor: pointer;\n  transform: rotate(-45deg);\n  /* transform: scaleX(1.2); */\n}\n\n.finish {\n  width: 90%;\n  margin: 0 auto;\n  font-size: 8px;\n  padding-bottom: 2vh;\n  position: relative;\n}\n\n.finish:before {\n  content: '';\n  display: block;\n  border: 1px solid grey;\n  width: 90%;\n  margin-bottom: 5px;\n}\n\n.finish a {\n  color: white;\n  text-decoration: none;\n  cursor: pointer;\n}\n\n.finish a:hover {\n  color: red;\n}\n\n.top {\n  color: #315380;\n  font-size: 4vh;\n  transform: rotate(-90deg);\n  position: absolute;\n  bottom: 3vh;\n  right: 5vw;\n  cursor: pointer;\n  animation-name: pulse;\n  animation-duration: 1s;\n  animation-iteration-count: infinite;\n  animation-timing-function: linear;\n}\n\n@keyframes pulse {\n  0% {\n    /* transform: rotate(-90deg); */\n  }\n\n  50% {\n    /* transform: rotate(-80deg); */\n    bottom: 4vh;\n  }\n\n  100% {\n    /* transform: rotate(-90deg); */\n    bottom: 3vh;\n  }\n}\n\n.socialMedia {\n  width: 100%;\n  text-align: center;\n  margin: 10vw 0;\n}\n\n.sizeForSocial {\n  margin: 0 10px;\n  font-size: 30px;\n  cursor: pointer;\n}\n\n.bigSize:hover {\n  color: #315380;\n}\n\n/* NotFound Component */\n\n.notFoundComp {\n  height: 100vh;\n  width: 100vw;\n  background: url(" + escape(__webpack_require__(54)) + ");\n  background-size: cover;\n  /* background-repeat: no-repeat; */\n  background-repeat: no-repeat;\n  background-position: center;\n  position: relative;\n}\n\n.notFoundText {\n  position: absolute;\n  top: 80%;\n  left: 50%;\n  width: 80%;\n  font-size: 0.7rem;\n  text-align: center;\n  transform: translate(-50%, -50%);\n}\n\n.notFoundForward {\n  position: absolute;\n  top: 90%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  background: red;\n  padding: 10px 20px;\n  background: #315380;\n  color: white;\n  border: 2px solid #315380;\n  cursor: pointer;\n  border-radius: 50px 50px;\n}\n\n.notFoundForward:hover {\n  background: white;\n  color: black;\n}\n\n/*--------------------NEWS-------- /*\r\n /* News Component */\n\n.newsComp {\n  background: white;\n  color: black;\n  height: 100vh;\n  width: 100%;\n  position: relative;\n}\n\n.newsComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.newsPage {\n  width: 100%;\n  text-align: center;\n  margin: 5vh 0;\n}\n\n.newsPage li {\n  font-size: 0.7rem;\n  list-style-type: none;\n  display: inline-block;\n  /* border: 1px solid black; */\n  padding: 5px;\n  margin: 5px;\n  border-radius: 5px;\n}\n\n.newsPage li:hover {\n  cursor: pointer;\n  color: white;\n  background: #315380;\n  /* border: 1px solid #315380 */\n}\n\n.newsPage ul li:last-child,\n.newsPage ul li:first-child {\n  border: 1px solid black;\n}\n\n/* NewsElementsInfo Component */\n\n.newsElement {\n  /* border: 5px solid #eee; */\n  /* padding:10px; */\n  margin-bottom: 7vh;\n}\n\n.newsImg {\n  background-size: cover;\n  background-repeat: no-repeat;\n  height: 200px;\n  width: 100%;\n}\n\n.newsTitle {\n  margin: 5vw 0;\n  font-weight: 100;\n  font-size: 30px;\n  text-transform: uppercase;\n}\n\n.newsArticle {\n  border-left: 10px solid #eee;\n  padding-left: 10px;\n  margin: 6vw 0;\n}\n\n.newsButton {\n  background: transparent;\n  color: black;\n  padding: 10px 20px;\n  border: 1px solid black;\n  font-weight: 700;\n  cursor: pointer;\n  /* border-radius: 10px */\n}\n\n.newsButton:hover {\n  /* color: #315380;\r\n  border: 1px solid #315380; */\n  color: white;\n  background: #315380;\n  border: 1px solid #315380;\n}\n\n.newsBold {\n  font-weight: 700;\n  padding: 0 10px;\n}\n\n.newsButton .fas {\n  color: #315380;\n  margin-left: 5px;\n}\n\n.newsButton:hover > i {\n  color: white;\n}\n\n/* HeaderCompImg Component */\n\n.newsTitleImg {\n  background-size: contain;\n  background-repeat: no-repeat;\n  /* height: 50vh; */\n  width: 100%;\n  height: 45vh;\n  animation-name: showImg;\n  animation-duration: 3s;\n  animation-iteration-count: 1;\n  animation-timing-function: linear;\n  padding-top: 70px;\n}\n\n.newsContainerTitle {\n  position: relative;\n}\n\n.newsTitleText {\n  color: white;\n  width: 90%;\n  font-size: 10vw;\n  text-transform: uppercase;\n  position: absolute;\n  top: 60%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  /* font-weight: 700 */\n}\n\n.titleSpan {\n  display: inline-block;\n  /* width: 10vw; */\n}\n\n.titleBorder {\n  border-bottom: 10px solid #315380;\n  font-weight: 100;\n}\n\n.titleWhite {\n  font-weight: 700;\n  margin-top: 10px;\n  margin-left: 50px;\n}\n\n.shadow {\n  animation-name: shadowKeyframes;\n  animation-iteration-count: 1;\n  animation-fill-mode: backwards;\n  animation-duration: 0.5s;\n  animation-delay: 1s;\n}\n\n@keyframes shadowKeyframes {\n  0% {\n\n  }\n\n  50% {\n    text-shadow: 0 0 5px white, 0 0 10px white,\r 0 0 20px white, 0 0 30px white,\r 0 0 40px white;\n    /* color: #315380 */\n  }\n\n  100% {\n\n  }\n}\n\n/* ForwardInfo Component */\n\n.forwardInfo {\n  height: 20vh;\n  margin: 0 auto;\n  position: relative;\n  text-align: left;\n}\n\n.navForward {\n  display: inline-block;\n}\n\n.navForward:hover .spanForward {\n  cursor: pointer;\n  transform: rotate(-45deg);\n}\n\n.textForward {\n  position: absolute;\n  width: 100%;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n\n.spanForward {\n  display: inline-block;\n  transition: 1s;\n  width: 40px;\n  /* background: red; */\n  height: 5px;\n  border-top: 2px solid grey;\n}\n\n.navForwardText {\n  text-transform: uppercase;\n  font-size: 0.8rem;\n  margin: 0 20px;\n  color: red;\n  font-weight: 700;\n  cursor: pointer;\n}\n\n.active {\n  color: #315380;\n  /* color: #b90075; */\n  font-weight: 700;\n  cursor: default;\n}\n\n.linkForward {\n  text-decoration: none;\n}\n\n/*Products Component */\n\n.productsComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n/* NewsElementProducts Component */\n\n.newsProductText {\n  position: absolute;\n  bottom: 20%;\n  margin-left: 20px;\n  text-transform: uppercase;\n  color: white;\n  font-weight: 700;\n  font-size: 1.5rem;\n  z-index: 1;\n}\n\n.productElement:hover > .newsProductText {\n  /* transform: scale(1.2); */\n  animation-name: scaleInfo;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n  animation-timing-function: ease-in-out;\n}\n\n.productsComp .productsEl {\n  display: flex;\n  flex-direction: column;\n}\n\n.productsInfo {\n  opacity: 0;\n  position: absolute;\n  top: 0%;\n  left: 0;\n  padding: 20px;\n  color: #315380;\n  background: white;\n  text-align: center;\n  margin: 0 auto;\n  color: #315380;\n  font-size: 5vw;\n  /* padding-top: 10% */\n}\n\n.productElement:hover > .productsInfo {\n  opacity: 0.8;\n  transition: 1s;\n  /* transform: translate3d(0,0, 30%); */\n  transform: translate(0px, 0px);\n  height: 100%;\n}\n\n/* Offer Compononent */\n\n.offerComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.offerEl {\n  display: flex;\n  flex-direction: row;\n  justify-content: space-around;\n  flex-wrap: wrap;\n  margin-bottom: 5vh;\n}\n\n.offerEl .elementsContainer {\n  border: 1px solid black;\n  width: 40vw;\n  height: 20vw;\n  margin: 2vw;\n  font-size: 0.7rem;\n  text-align: center;\n  color: black;\n  position: relative;\n}\n\n.offerElementsTitle {\n  width: 100%;\n  height: 20%;\n  font-size: 3vw;\n  position: absolute;\n  bottom: 0;\n  text-align: center;\n  color: white;\n  background: black;\n}\n\n/*Conact Component */\n\n.contactComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.contactInfo {\n  /* height: 20vh; */\n  /* border: 1px solid black; */\n  margin: 5vh 0;\n  text-align: left;\n  color: #70747e;\n}\n\nh4 {\n  color: #315380;\n  font-size: 1.3rem;\n  margin: 20px 0;\n}\n\n.contactInfo ul {\n  margin: 10px 0;\n  font-weight: 700;\n  list-style-type: none;\n}\n\n.contactInfo li {\n  font-size: 0.9rem;\n  font-weight: 500;\n}\n\n.contactInfo li a {\n  color: #315380;\n}\n\n.contactInfo li .bold {\n  font-weight: 600;\n  color: black;\n}\n\n.sizeForContact {\n  margin: 0 10px;\n  font-size: 30px;\n  cursor: pointer;\n}\n\n.sizeForContact:hover {\n  color: #315380;\n}\n\n/* EmailsInfo Component*/\n\n.emailsInfoComp {\n  background: #f8f9fc;\n}\n\n.emailsImg {\n  display: inline-block;\n  width: 30%;\n  text-align: center;\n}\n\n.emailsInfo {\n  display: inline-block;\n  width: 70%;\n  font-size: 1.1rem;\n}\n\n.emailsList {\n  list-style-type: none;\n}\n\n.sizeForEmail {\n  margin: 0 10px;\n  font-size: 50px;\n  cursor: pointer;\n  color: #315380;\n}\n\n.emailsInfoAddress {\n  font-size: 0.9rem;\n  color: #337ab7;\n}\n\nul.emailsList li {\n  padding: 30px 0;\n}\n\n/* ContactForm Component */\n\n.contactForm {\n  background: #f7f7f7;\n  background: url(\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcY3LYt2839TZmKUiNXf-E--K4MIPp1oqI6sQsciLNuXuE6sVo\");\n  /* background: url(\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVoCbN7swfL7jK0hAsg8Y_5GbZOKBJeU-QV4Z1kUprdKgxkOdX\"); */\n  background: url(\"https://www.heuristic.pl/img/blog/ecommerce/_big/zdjecie_jest_istotne.jpg\");\n  background-size: cover;\n}\n\nform {\n  width: 90%;\n  padding: 7vh 0;\n  margin: 0 auto;\n  font-weight: 700;\n  font-size: 0.9rem;\n  opacity: 1;\n}\n\n.contactForm label {\n  display: block;\n  margin-bottom: 25px;\n  color: white;\n}\n\n.contactForm input,\n.contactForm textarea {\n  display: block;\n  width: 100%;\n  background: inherit;\n  border: 2px solid rgba(255, 255, 255, 0.342);\n  padding: 2vh 0;\n  border-radius: 10px;\n  margin-top: 10px;\n  color: black;\n  padding-left: 10px;\n}\n\n.contactForm input:focus,\n.contactForm textarea:focus {\n  border: 3px solid white;\n}\n\n.btnSendForm {\n  display: block;\n  width: 100%;\n  color: black;\n  border-radius: 10px;\n  background: white;\n  border: 1px solid rgba(255, 255, 255, 0.342);\n}\n\n.contactForm textarea {\n  resize: none;\n}\n\n@media (min-width: 500px) {\n  .productsInfo {\n    font-size: 10px;\n  }\n}", ""]);
+exports.push([module.i, "@charset \"UTF-8\";\n\n* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  min-width: 300px;\n  font-family: 'Roboto', sans-serif;\n  overflow: auto;\n}\n\n.allBody .container {\n  padding-top: 70px;\n}\n\n.allBody {\n  background: white;\n}\n\nhtml {\n  background: #315380;\n}\n\n/* NAVIGATION Component */\n\n.navigation {\n  font-family: 'Roboto', sans-serif;\n  background: #315380;\n  color: #FFFF;\n  width: 100vw;\n  padding: 20px 0;\n  position: fixed;\n  z-index: 2;\n}\n\n.navTitle {\n  /* font-size: 1.2rem; */\n  /* letter-spacing: 0.5em; */\n  /* text-transform: uppercase; */\n  /* font-weight: 400; */\n  display: inline-block;\n  position: relative;\n  /* margin-left: 30px; */\n  color: white;\n  float: left;\n  /* width:40px; */\n  line-height: 35px;\n  margin: 0 5vw;\n  border-radius: 6px;\n}\n\n.navTitle > span {\n  font-size: 1.8rem;\n  margin: 0 5px;\n  display: block;\n  text-transform: uppercase;\n  float: left;\n  /* border-radius:6px; */\n  /* color: white; */\n}\n\n.navTitle:hover {\n  cursor: pointer;\n  animation-name: sideHover;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n  animation-timing-function: ease-in-out;\n}\n\n.addTitleAnimation {\n  animation: text_animation 5s linear 1;\n  -webkit-animation: text_animation 5s linear 1;\n}\n\n.navTitle > .titleLetter0 {\n  animation-delay: 250ms;\n  -webkit-animation-delay: 250ms;\n}\n\n.navTitle > .titleLetter1 {\n  animation-delay: 500ms;\n  -webkit-animation-delay: 500ms;\n}\n\n.navTitle > .titleLetter2 {\n  animation-delay: 750ms;\n  -webkit-animation-delay: 750ms;\n}\n\n.navTitle > .titleLetter3 {\n  animation-delay: 1000ms;\n  -webkit-animation-delay: 1000ms;\n}\n\n.navTitle > .titleLetter4 {\n  animation-delay: 1250ms;\n  -webkit-animation-delay: 1250ms;\n}\n\n.navTitle > .titleLetter5 {\n  animation-delay: 1500ms;\n  -webkit-animation-delay: 1500ms;\n}\n\n.navTitle > .titleLetter6 {\n  animation-delay: 1750ms;\n  -webkit-animation-delay: 1750ms;\n}\n\n.navTitle > .titleLetter7 {\n  animation-delay: 2000ms;\n  -webkit-animation-delay: 2000ms;\n}\n\n@keyframes text_animation {\n  0% {\n    transform: rotate(0);\n  }\n\n  10% {\n    transform: rotate(360deg);\n  }\n\n  100% {\n    transform: rotate(360deg);\n  }\n}\n\n.navOrg {\n  font-size: 0.3em;\n  position: absolute;\n  top: -8px;\n  right: -10px;\n  color: white;\n}\n\n.hamburger {\n  font-size: 2rem;\n  display: inline-block;\n  border: 1px solid grey;\n  width: 40px;\n  height: 2rem;\n  float: right;\n  margin: 0 30px;\n}\n\n.hamburger:hover {\n  cursor: pointer;\n  border: 1px solid #FFFF;\n}\n\n.hamburger span {\n  display: block;\n  border-bottom: 2px solid white;\n  padding: 3px;\n  width: 70%;\n  margin: 0 auto;\n  /* height: 7px */\n  /* font-style: inherit */\n}\n\n.hamburger:nth-child(1) {\n  margin-top: 3.5px;\n}\n\n/* span:nth-child(odd){\r\n  border-bottom: 2px solid #315380\r\n\r\n} */\n\n.hideSpan {\n  animation-name: hideHamSpan;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n}\n\n.showSpan {\n  animation-name: showHamSpan;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n}\n\n.stress {\n  width: 100%;\n  border-bottom: 1px solid grey;\n  display: none;\n}\n\n@keyframes hideHamSpan {\n  0% {\n    border-bottom: 2px solid #FFFF;\n  }\n\n  100% {\n    border-bottom: 2px solid #315380;\n  }\n}\n\n@keyframes showHamSpan {\n  0% {\n    border-bottom: 2px solid #315380;\n  }\n\n  100% {\n    border-bottom: 2px solid #FFFF;\n  }\n}\n\n@media (max-width: 600px) {\n  .navigation p {\n    font-size: 5vw;\n  }\n}\n\n/* ElementNavigation Compo */\n\n.slideMenu {\n  /* padding-bottom: 5vh; */\n  position: fixed;\n  top: 9vh;\n  z-index: 1;\n  background: #315380;\n  width: 100%;\n  display: none;\n}\n\n.showMenu {\n  position: fixed;\n  top: 3vh;\n  left: 50%;\n  z-index: 1;\n  background: #315380;\n  width: 100%;\n  display: block;\n}\n\n.showMenu li {\n  margin-left: 30px;\n  list-style-type: none;\n  /* margin-top: 2vh; */\n  text-transform: uppercase;\n  font-weight: 700;\n  font-size: 15px;\n  display: inline-block;\n}\n\n.elMenu {\n  color: white;\n  text-decoration: none;\n}\n\n.elMenu:hover {\n  animation-name: menuHover;\n  animation-iteration-count: 1;\n  animation-fill-mode: both;\n  animation-duration: 0.3s;\n  animation-timing-function: ease-in-out;\n}\n\n.slideMenu li {\n  margin-left: 30px;\n  list-style-type: none;\n  margin-top: 2vh;\n  text-transform: uppercase;\n  font-weight: 800;\n  font-size: 12px;\n  /* display: inline-block */\n}\n\n.slideMenu li:last-child {\n  padding-bottom: 10vh;\n}\n\n.slideMenu li:first-child {\n  padding-top: 5vh;\n}\n\n.elClickOn {\n  color: red;\n  /* border-bottom: 2px solid red */\n}\n\n@keyframes menuHover {\n  0% {\n\n  }\n\n  25% {\n    /* opacity: 0.5 */\n    /* border-bottom: 2px solid grey; */\n  }\n\n  100% {\n    color: grey;\n  }\n}\n\n/* HOME Component*/\n\n/* zastąpione HomeContainer Comp */\n\n/* .homeComp{\r\n  height: 100vh;\r\n  width: 100vw;\r\n  background-image: url(\"http://www.lampiarnia.info/uploads/i/img-3f28a05959dc33fe2198f9f7bf28380e.jpg\");\r\n  background-size: cover;\r\n  background-repeat: no-repeat;\r\n  background-position: 45% 20%;\r\n} */\n\n@keyframes showImg {\n  0% {\n    opacity: 0;\n  }\n\n  25% {\n    opacity: 0.5;\n  }\n\n  50% {\n    opacity: 1;\n  }\n\n  75% {\n    opacity: 0.7;\n  }\n\n  100% {\n    opacity: 0;\n  }\n}\n\n/*Title Component */\n\n.titleName {\n  position: absolute;\n  text-align: center;\n  top: 40%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n\nh1.title {\n  font-size: 2rem;\n  letter-spacing: 0.5em;\n  text-transform: uppercase;\n  font-weight: 600;\n  color: #315380;\n  text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,\r 0 0 20px #A5F1FF, 0 0 30px #A5F1FF,\r 0 0 40px #A5F1FF;\n  animation-name: scaleInfo;\n  animation-iteration-count: 3;\n  animation-fill-mode: forwards;\n  animation-duration: 8s;\n  animation-timing-function: ease-in-out;\n}\n\n.titleOrg {\n  font-size: 0.3em;\n  position: absolute;\n  top: 0;\n  right: -10px;\n}\n\n.afterTitle {\n  animation-name: showAfterTitle;\n  animation-iteration-count: 3;\n  animation-fill-mode: forwards;\n  animation-duration: 8s;\n  animation-timing-function: ease-in-out;\n  font-size: 1.2rem;\n  width: 100%;\n  text-transform: uppercase;\n  font-weight: 600;\n  letter-spacing: 0.2em;\n  margin-top: 4vw;\n  color: #315380;\n  opacity: 0;\n  text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,\r 0 0 20px #A5F1FF, 0 0 30px #A5F1FF,\r 0 0 40px #A5F1FF;\n}\n\n@keyframes showAfterTitle {\n  0% {\n\n  }\n\n  50% {\n    /* color: #315380 */\n  }\n\n  75% {\n    color: white;\n  }\n\n  100% {\n    opacity: 1;\n    color: white;\n    /* transform: scale(1.1); */\n  }\n}\n\n@keyframes scaleInfo {\n  0% {\n\n  }\n\n  50% {\n    /* color: #315380 */\n  }\n\n  100% {\n    /* color: white; */\n    transform: scale(1.1);\n    opacity: 0;\n  }\n}\n\n/* .titleName:before, .titleName:after { \r\n  content: \"\"; \r\n  display: table; \r\n  clear: both; }\r\n */\n\n/*AboutUs Component */\n\n.aboutComp {\n  height: 100%;\n  width: 100%;\n  /* margin: 10vw auto; */\n  /* margin: 0 auto; */\n  /* margin-top: 10vw; */\n  /* margin-bottom: 10vw; */\n}\n\n.aboutCompContainer {\n  width: 90%;\n  margin: 0 auto;\n  margin-top: 10vh;\n  background: white;\n}\n\n.aboutImg {\n  background: url(" + escape(__webpack_require__(55)) + ");\n  height: 50vh;\n  background-repeat: no-repeat;\n  background-position: 45% 85%;\n  /* width: 100%; */\n  background-size: cover;\n  /* background-repeat: no-repeat; */\n  margin: 0 auto;\n}\n\n.aboutUsInfo {\n  line-height: 1.7rem;\n  font-size: 0.9rem;\n  /* padding-bottom: 5vw; */\n  /* margin-bottom: 5vw; */\n}\n\n.aboutUsInfo p {\n  padding: 10px 0;\n}\n\nh3 {\n  margin: 8vw auto;\n  font-weight: 100;\n  text-transform: uppercase;\n  font-size: 2rem;\n}\n\n.aboutBold {\n  font-weight: 700;\n}\n\n.aboutBorder {\n  display: block;\n  width: 30%;\n  height: 2vw;\n  border-bottom: 10px solid #315380;\n  margin: 5vh auto;\n  background: white;\n}\n\n/* ForwardNavigation Component */\n\n.aboutSee {\n  font-size: 1.6rem;\n  font-weight: 700;\n  padding-bottom: 5vw;\n  background: white;\n  /* padding-bottom: 5vw; */\n}\n\n.aboutSeeHeader {\n  margin-bottom: 5vw;\n}\n\n.elAbout {\n  color: red;\n  list-style-type: none;\n  text-transform: uppercase;\n  text-decoration: none;\n  margin-left: 70px;\n  font-size: 0.8rem;\n  font-weight: 600;\n}\n\n.aboutSee li span {\n  display: inline-block;\n  position: absolute;\n  top: 55%;\n  left: 0;\n  width: 50px;\n  height: 1px;\n  background: grey;\n  transition: 1s;\n}\n\n.aboutSee ul li {\n  position: relative;\n  text-decoration: none;\n  list-style-type: none;\n  /* display: inline-block */\n}\n\n.aboutSee li:hover > span {\n  cursor: pointer;\n  transform: rotate(-45deg);\n}\n\n/* .aboutSee li::before{\r\n  content: '';\r\n  position: absolute;\r\n  top: 50%;\r\n  left: 0;\r\n  width: 40px;\r\n  height: 1px;\r\n  background: #000;\r\n} */\n\n/*ArrowSlider Component */\n\n.fa-chevron-right,\n.fa-chevron-left {\n  color: white;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  /* font-size: 1.2rem */\n}\n\n.fa-chevron-right:hover,\n.fa-chevron-left:hover {\n  font-size: 1.7rem;\n  cursor: pointer;\n}\n\n.arrowRight,\n.arrowLeft {\n  position: absolute;\n  background: rgba(61, 57, 57, 0.4);\n  height: 40px;\n  width: 40px;\n}\n\n.arrowRight {\n  right: 0vw;\n  bottom: 8vh;\n}\n\n.arrowLeft {\n  left: 0vw;\n  bottom: 8vh;\n}\n\n.arrowInfo {\n  width: 60vw;\n  position: absolute;\n  bottom: 3vh;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  margin: 0 auto;\n  text-align: center;\n}\n\n.arrowInfo .arrowSpan {\n  width: 30px;\n  height: 5px;\n  display: inline-block;\n  margin: 0 2vw;\n  border-bottom: 1px solid white;\n}\n\n.spanActive {\n  background: white;\n}\n\n/* SIGNATURE Comp */\n\n.signatureComp {\n  width: 100%;\n  background: #000;\n  color: #FFF;\n}\n\n.signatureContainer {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.signatureTitle {\n  padding-top: 10vw;\n  font-size: 1.5rem;\n  text-align: center;\n  letter-spacing: 0.5em;\n  text-transform: uppercase;\n  font-weight: 400;\n  color: white;\n}\n\n.signatureInfo {\n  color: grey;\n  margin-top: 20px;\n  font-size: 0.8rem;\n  line-height: 25px;\n  width: 100%;\n  text-align: center;\n}\n\n.singatureContact {\n  margin: 7vh auto;\n  text-align: center;\n}\n\n.signatureMedia {\n  margin: 4vh auto;\n}\n\n.signatureSpan {\n  display: inline-block;\n  width: 50px;\n  height: 1px;\n  background: #FFF;\n  border-bottom: 4px solid black;\n  padding-bottom: 2px;\n  transition: 1s;\n}\n\n.signatureMedia p {\n  display: inline-block;\n  margin: 0 20px;\n  text-transform: uppercase;\n  color: red;\n  font-weight: 700;\n  font-size: 0.9rem;\n}\n\n.signatureMedia ul {\n  margin-top: 1vh;\n}\n\n.signatureMedia li {\n  margin: 1vh auto;\n  font-weight: 500;\n  list-style-type: none;\n  font-size: 0.7rem;\n}\n\n.signatureMedia:hover > .signatureSpan {\n  /* cursor: pointer; */\n  transform: rotate(-45deg);\n  /* transform: scaleX(1.2); */\n}\n\n.singatureLinks,\n.singatureInformations,\n.singatureInvestments {\n  color: white;\n}\n\n.singatureLinks ul,\n.singatureInformations ul,\n.singatureInvestments ul {\n  list-style-type: none;\n}\n\n.singatureLinks li,\n.singatureInformations li,\n.singatureInvestments li {\n  margin: 4vh auto;\n  text-align: center;\n  color: grey;\n  cursor: pointer;\n  line-height: 0.1rem;\n  font-size: 0.5rem;\n}\n\n.singatureLinks p,\n.singatureInformations p,\n.singatureInvestments p {\n  text-align: center;\n  text-transform: uppercase;\n  font-weight: 700;\n  font-size: 0.7rem;\n}\n\n.singatureLinks,\n.singatureInformations,\n.singatureInvestments {\n  width: 33%;\n  display: inline-block;\n}\n\np.signatureLogo {\n  font-size: 2rem;\n}\n\n.finish {\n  width: 90%;\n  margin: 0 auto;\n  font-size: 8px;\n  padding-bottom: 2vh;\n  position: relative;\n}\n\n.finish:before {\n  content: '';\n  display: block;\n  border: 1px solid grey;\n  width: 90%;\n  margin-bottom: 5px;\n}\n\n.finish a {\n  color: white;\n  text-decoration: none;\n  cursor: pointer;\n}\n\n.finish a:hover {\n  color: red;\n}\n\n.top {\n  color: #315380;\n  font-size: 4vh;\n  transform: rotate(-90deg);\n  position: absolute;\n  bottom: 3vh;\n  right: 5vw;\n  cursor: pointer;\n  animation-name: pulse;\n  animation-duration: 1s;\n  animation-iteration-count: infinite;\n  animation-timing-function: linear;\n}\n\n@keyframes pulse {\n  0% {\n    /* transform: rotate(-90deg); */\n  }\n\n  50% {\n    /* transform: rotate(-80deg); */\n    bottom: 4vh;\n  }\n\n  100% {\n    /* transform: rotate(-90deg); */\n    bottom: 3vh;\n  }\n}\n\n.socialMedia {\n  width: 100%;\n  text-align: center;\n  margin: 10vw 0;\n}\n\n.sizeForSocial {\n  margin: 0 10px;\n  font-size: 30px;\n  cursor: pointer;\n}\n\n.sizeForSocial:hover {\n  color: red;\n}\n\n/* NotFound Component */\n\n.notFoundComp {\n  height: 100vh;\n  width: 100vw;\n  background: url(" + escape(__webpack_require__(56)) + ");\n  background-size: cover;\n  /* background-repeat: no-repeat; */\n  background-repeat: no-repeat;\n  background-position: center;\n  position: relative;\n}\n\n.notFoundText {\n  position: absolute;\n  top: 80%;\n  left: 50%;\n  width: 80%;\n  font-size: 0.7rem;\n  text-align: center;\n  transform: translate(-50%, -50%);\n}\n\n.notFoundForward {\n  position: absolute;\n  top: 90%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  background: red;\n  padding: 10px 20px;\n  background: #315380;\n  color: white;\n  border: 2px solid #315380;\n  cursor: pointer;\n  border-radius: 50px 50px;\n}\n\n.notFoundForward:hover {\n  background: white;\n  color: black;\n}\n\n/*--------------------NEWS-------- /*\r\n /* News Component */\n\n.newsComp {\n  background: white;\n  color: black;\n  height: 100%;\n  width: 100%;\n  position: relative;\n}\n\n.newsComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.newsPage {\n  width: 100%;\n  text-align: center;\n  padding: 5vh 0;\n}\n\n.newsPage li {\n  font-size: 0.7rem;\n  list-style-type: none;\n  display: inline-block;\n  /* border: 1px solid black; */\n  padding: 5px;\n  margin: 5px;\n  border-radius: 5px;\n}\n\n.newsPage li:hover {\n  cursor: pointer;\n  color: white;\n  background: #315380;\n  /* border: 1px solid #315380 */\n}\n\n.newsPage ul li:last-child,\n.newsPage ul li:first-child {\n  border: 1px solid black;\n}\n\n/* NewsElementsInfo Component */\n\n.newsElement {\n  /* border: 5px solid #eee; */\n  /* padding:10px; */\n  margin-bottom: 7vh;\n}\n\n.newsImg {\n  background-size: cover;\n  background-repeat: no-repeat;\n  height: 200px;\n  width: 100%;\n}\n\n.newsTitle {\n  margin: 5vw 0;\n  font-weight: 100;\n  font-size: 30px;\n  text-transform: uppercase;\n}\n\n.newsArticle {\n  border-left: 10px solid #eee;\n  padding-left: 10px;\n  margin: 6vw 0;\n}\n\n.newsButton {\n  background: transparent;\n  color: black;\n  padding: 10px 20px;\n  border: 1px solid black;\n  font-weight: 700;\n  cursor: pointer;\n  /* border-radius: 10px */\n}\n\n.newsButton:hover {\n  /* color: #315380;\r\n  border: 1px solid #315380; */\n  color: white;\n  background: #315380;\n  border: 1px solid #315380;\n}\n\n.newsBold {\n  font-weight: 700;\n  padding: 0 10px;\n}\n\n.newsButton .fas {\n  color: #315380;\n  margin-left: 5px;\n}\n\n.newsButton:hover > i {\n  color: white;\n}\n\n/* HeaderCompImg Component */\n\n.newsTitleImg {\n  background-size: contain;\n  background-repeat: no-repeat;\n  /* height: 50vh; */\n  width: 100%;\n  height: 45vh;\n  animation-name: showImg;\n  animation-duration: 3s;\n  animation-iteration-count: 1;\n  animation-timing-function: linear;\n  padding-top: 70px;\n}\n\n.newsContainerTitle {\n  position: relative;\n}\n\n.newsTitleText {\n  color: white;\n  width: 90%;\n  font-size: 10vw;\n  text-transform: uppercase;\n  position: absolute;\n  top: 60%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  /* font-weight: 700 */\n}\n\n.titleSpan {\n  display: inline-block;\n  /* width: 10vw; */\n}\n\n.titleBorder {\n  border-bottom: 10px solid #315380;\n  font-weight: 100;\n}\n\n.titleWhite {\n  font-weight: 700;\n  margin-top: 10px;\n  margin-left: 50px;\n}\n\n.shadow {\n  animation-name: shadowKeyframes;\n  animation-iteration-count: 1;\n  animation-fill-mode: backwards;\n  animation-duration: 0.5s;\n  animation-delay: 1s;\n}\n\n@keyframes shadowKeyframes {\n  0% {\n\n  }\n\n  50% {\n    text-shadow: 0 0 5px white, 0 0 10px white,\r 0 0 20px white, 0 0 30px white,\r 0 0 40px white;\n    /* color: #315380 */\n  }\n\n  100% {\n\n  }\n}\n\n/* ForwardInfo Component */\n\n.forwardInfo {\n  height: 20vh;\n  margin: 0 auto;\n  position: relative;\n  text-align: left;\n  background: white;\n}\n\n.navForward {\n  display: inline-block;\n}\n\n.navForward:hover .spanForward {\n  cursor: pointer;\n  transform: rotate(-45deg);\n}\n\n.textForward {\n  position: absolute;\n  width: 100%;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n\n.spanForward {\n  display: inline-block;\n  transition: 1s;\n  width: 40px;\n  /* background: red; */\n  height: 5px;\n  border-top: 2px solid grey;\n}\n\n.navForwardText {\n  text-transform: uppercase;\n  font-size: 0.8rem;\n  margin: 0 20px;\n  color: red;\n  font-weight: 700;\n  cursor: pointer;\n}\n\n.active {\n  color: #315380;\n  /* color: red; */\n  font-weight: 700;\n  cursor: default;\n}\n\n.linkForward {\n  text-decoration: none;\n}\n\n/*Products Component */\n\n.productsComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.productsComp {\n  width: 100%;\n  margin: 0 auto;\n  background: white;\n}\n\n/* NewsElementProducts Component */\n\n.newsProductText {\n  position: absolute;\n  bottom: 20%;\n  margin-left: 20px;\n  text-transform: uppercase;\n  color: white;\n  font-weight: 700;\n  font-size: 1.5rem;\n  z-index: 1;\n}\n\n.productElement:hover > .newsProductText {\n  /* transform: scale(1.2); */\n  animation-name: scaleInfo;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n  animation-timing-function: ease-in-out;\n}\n\n.productsComp .productsEl {\n  display: flex;\n  flex-direction: column;\n}\n\n.productsInfo {\n  opacity: 0;\n  position: absolute;\n  top: 0%;\n  left: 0;\n  padding: 20px;\n  color: #315380;\n  background: white;\n  text-align: center;\n  margin: 0 auto;\n  color: #315380;\n  font-size: 5vw;\n  /* padding-top: 10% */\n}\n\n.productElement:hover > .productsInfo {\n  opacity: 0.8;\n  transition: 1s;\n  /* transform: translate3d(0,0, 30%); */\n  transform: translate(0px, 0px);\n  height: 100%;\n  width: 100%;\n}\n\n/* Offer Compononent */\n\n.offerComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.offerComp {\n  width: 100%;\n  margin: 0 auto;\n  background: white;\n}\n\n.offerEl {\n  display: flex;\n  flex-direction: row;\n  justify-content: space-around;\n  flex-wrap: wrap;\n  margin-bottom: 5vh;\n}\n\n.offerEl .elementsContainer {\n  border: 1px solid black;\n  width: 40vw;\n  height: 20vw;\n  margin: 2vw;\n  font-size: 0.7rem;\n  text-align: center;\n  color: black;\n  position: relative;\n  cursor: pointer;\n}\n\n.offerElementsTitle {\n  width: 100%;\n  height: 20%;\n  font-size: 3vw;\n  position: absolute;\n  bottom: 0;\n  text-align: center;\n  color: white;\n  background: black;\n}\n\n/*Conact Component */\n\n.contactComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.contactInfo {\n  /* height: 20vh; */\n  /* border: 1px solid black; */\n  margin: 5vh 0;\n  text-align: left;\n  color: #70747e;\n}\n\n.iframe {\n  width: 100%;\n  height: 50vh;\n}\n\n.contactComp {\n  background: white;\n  width: 100%;\n  margin: 0 auto;\n}\n\nh4 {\n  color: #315380;\n  font-size: 1.3rem;\n  margin: 20px 0;\n}\n\n.contactInfo ul {\n  margin: 10px 0;\n  font-weight: 700;\n  list-style-type: none;\n}\n\n.contactInfo li {\n  font-size: 0.9rem;\n  font-weight: 500;\n}\n\n.contactInfo li a {\n  color: #315380;\n}\n\n.contactInfo li .bold {\n  font-weight: 600;\n  color: black;\n}\n\n.sizeForContact {\n  margin: 0 10px;\n  font-size: 30px;\n  cursor: pointer;\n}\n\n.sizeForContact:hover {\n  color: #315380;\n}\n\n/* EmailsInfo Component*/\n\n.emailsInfoComp {\n  background: #f8f9fc;\n}\n\n.emailsImg {\n  display: inline-block;\n  width: 30%;\n  text-align: center;\n}\n\n.emailsInfo {\n  display: inline-block;\n  width: 70%;\n  font-size: 1.1rem;\n}\n\n.emailsList {\n  list-style-type: none;\n}\n\n.sizeForEmail {\n  margin: 0 10px;\n  font-size: 50px;\n  cursor: pointer;\n  color: #315380;\n}\n\n.emailsInfoAddress {\n  font-size: 0.9rem;\n  color: #337ab7;\n}\n\nul.emailsList li {\n  padding: 30px 0;\n}\n\n/* ContactForm Component */\n\n.contactForm {\n  background: #f7f7f7;\n  background: url(\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcY3LYt2839TZmKUiNXf-E--K4MIPp1oqI6sQsciLNuXuE6sVo\");\n  /* background: url(\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVoCbN7swfL7jK0hAsg8Y_5GbZOKBJeU-QV4Z1kUprdKgxkOdX\"); */\n  background: url(\"https://www.heuristic.pl/img/blog/ecommerce/_big/zdjecie_jest_istotne.jpg\");\n  background-size: cover;\n}\n\nform {\n  width: 90%;\n  padding: 7vh 0;\n  margin: 0 auto;\n  font-weight: 700;\n  font-size: 0.9rem;\n  opacity: 1;\n}\n\n.contactForm label {\n  display: block;\n  margin-bottom: 25px;\n  color: black;\n}\n\n.contactForm input,\n.contactForm textarea {\n  display: block;\n  width: 100%;\n  background: white;\n  border: 2px solid rgba(255, 255, 255, 0.342);\n  padding: 2vh 0;\n  border-radius: 10px;\n  margin-top: 10px;\n  color: black;\n  padding-left: 10px;\n}\n\n.contactForm input:focus,\n.contactForm textarea:focus {\n  border: 3px solid white;\n}\n\n.btnSendForm {\n  display: block;\n  width: 100%;\n  color: black;\n  border-radius: 10px;\n  background: white;\n  border: 1px solid rgba(255, 255, 255, 0.342);\n}\n\n.contactForm textarea {\n  resize: none;\n}\n\n/* SizeMenu Component */\n\n.sideMenuComp {\n  position: fixed;\n}\n\n.sideText {\n  position: absolute;\n  width: 300px;\n  background: #315380;\n  color: white;\n  letter-spacing: 5px;\n  font-size: 0.7rem;\n  padding: 5px;\n  top: 215px;\n  left: -180px;\n  text-align: center;\n  transform: rotate(-90deg);\n  text-transform: uppercase;\n  border-left: 2px solid grey;\n  border-right: 2px solid grey;\n}\n\n.sideText:hover {\n  cursor: pointer;\n  animation-name: sideHover;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n  animation-timing-function: ease-in-out;\n}\n\n@keyframes sideHover {\n  0% {\n\n  }\n\n  25% {\n    /* opacity: 0.5 */\n    color: grey;\n    /* border-bottom: 2px solid grey; */\n  }\n\n  75% {\n\n  }\n}\n\n.sideInfo {\n  position: absolute;\n  width: 300px;\n  background: #315380;\n  color: white;\n  padding: 5px;\n  top: 80vh;\n  left: -175px;\n  text-align: center;\n  transform: rotate(-90deg);\n  text-transform: uppercase;\n}\n\n.sideMenuComp .sideInfo .socialMedia {\n  margin: 0 auto;\n}\n\n.sideMenuComp .sideInfo i {\n  transform: rotate(90deg);\n  font-size: 1.2rem;\n}\n\n/* MEDIA */\n\n@media (min-width: 500px) {\n  .newsImg,\n  .newsText {\n    /* float: left; */\n    display: inline-block;\n    height: 35vh;\n    margin: 0 auto;\n  }\n\n  .newsImg {\n    width: 40%;\n    float: left;\n  }\n\n  .newsText {\n    width: 60%;\n    padding-left: 3vw;\n  }\n\n  .newsArticle {\n    padding-left: 30px;\n    line-height: 1.1rem;\n  }\n\n  .newsTitle {\n    margin: 1vw auto;\n  }\n\n  .newsArticle {\n    margin: 2vw 0;\n  }\n\n  .productsInfo {\n    font-size: 1.2rem;\n  }\n\n  .newsTitleText {\n    font-size: 9vw;\n  }\n\n  .offerEl {\n    display: flex;\n    display: inline-block;\n    flex-direction: column;\n    justify-content: space-around;\n    flex-wrap: wrap;\n    margin-bottom: 5vh;\n  }\n\n  .offerEl .elementsContainer {\n    display: inline-block;\n    width: 30vw;\n    height: 15vw;\n  }\n\n  .offerEl .elementsContainer p {\n    font-size: 0.8rem;\n  }\n\n  .singatureLinks li,\n  .singatureInformations li,\n  .singatureInvestments li {\n    font-size: 0.7rem;\n  }\n\n  .singatureLinks p,\n  .singatureInformations p,\n  .singatureInvestments p {\n    font-size: 0.9rem;\n  }\n}\n\n@media (min-width: 600px) {\n  .newsArticle {\n    line-height: 1.3rem;\n  }\n\n  .productsInfo {\n    font-size: 1.5rem;\n  }\n\n  .newsTitleText {\n    font-size: 7vw;\n  }\n\n  .productsInfo {\n    line-height: 2rem;\n  }\n\n  /* .offerEl .elementsContainer p {\r\n    font-size:  0.7rem\r\n  } */\n\n  .offerEl .elementsContainer {\n    display: inline-block;\n    width: 20vw;\n    height: 10vw;\n  }\n\n  .offerEl .elementsContainer p {\n    font-size: 0.8rem;\n  }\n\n  /* .emailsList li{\r\n    width: 70%;\r\n    margin: 0 auto\r\n  } */\n\n  .emailsList li {\n    display: inline-block;\n    width: 50%;\n  }\n\n  .emailsInfoComp {\n    padding: 3vw 0;\n  }\n}\n\n@media (min-width: 1000px) {\n  .newsArticle {\n    line-height: 1.6rem;\n  }\n\n  body {\n    width: 95%;\n    margin-left: 5%;\n  }\n\n  .navigation {\n    width: 95%;\n  }\n\n  .arrowLeft {\n    left: 10vw;\n    top: 50%;\n  }\n\n  .arrowRight {\n    top: 50%;\n    right: 5vw;\n  }\n\n  h1.title {\n    font-size: 4rem;\n  }\n\n  .titleName {\n    top: 50%;\n    left: 50%;\n  }\n\n  .aboutCompContainer {\n    /* height: 60vw */\n  }\n\n  .aboutUsInfo,\n  .aboutImg {\n    display: inline-block;\n    /* height: 30vw */\n  }\n\n  .aboutImg {\n    width: 40%;\n    background-size: cover;\n    float: left;\n    height: 100vh;\n  }\n\n  .aboutUsInfo {\n    width: 60%;\n    padding: 0 2vw;\n    height: 100vh;\n  }\n\n  h3 {\n    margin: 2vw 0;\n    font-size: 3rem;\n    line-height: 3rem;\n  }\n\n  .aboutSeeHeader {\n    margin-top: 5vw;\n    margin-bottom: 2vw;\n    /* font-size: 3vw */\n  }\n\n  .aboutSee li {\n    display: inline-block;\n    margin: 0 2vw;\n  }\n\n  .singatureLinks,\n  .singatureInformations {\n    width: 33%;\n  }\n\n  .singatureLinks li,\n  .singatureInformations li,\n  .singatureInvestments li {\n    font-size: 0.8rem;\n  }\n\n  .singatureLinks p,\n  .singatureInformations p,\n  .singatureInvestments p {\n    font-size: 1rem;\n  }\n\n  /* .aboutSee li:first-child{\r\n    margin-left: 6vw;\r\n  }\r\n  .aboutSee li:nth-child(2){\r\n    margin-left: 8vw;\r\n  }\r\n  .aboutSee li:nth-child(3){\r\n    margin-left: 10vw;\r\n  }\r\n  .aboutSee li:nth-child(4){\r\n    margin-left: 12vw;\r\n  } */\n\n  .aboutSee li span {\n    /* width: 3vw */\n  }\n\n  .elAbout {\n    /* font-size: 1.2vw; */\n    line-height: 2vw;\n    /* margin-left: 12vw */\n  }\n\n  .singatureContact {\n    width: 100%;\n    display: block;\n    margin: 5vw 0;\n  }\n\n  .signatureMedia {\n    display: inline-block;\n    margin-left: 5vw;\n  }\n\n  .signatureTitle {\n    width: 10vw;\n    font-size: 3vw;\n    padding-top: 5vw;\n    width: 100%;\n  }\n\n  .signatureContainer {\n    /* margin: 5vw 0  */\n  }\n\n  .finish {\n    margin-top: 2vw;\n  }\n\n  .finish:before {\n    width: 100%;\n  }\n\n  /* NewElementProducts Comp */\n\n  .productsInfo {\n    line-height: 3rem;\n  }\n\n  div.productElement {\n    width: 70vw;\n    margin: 2vw auto;\n    height: 60vh;\n  }\n\n  .newsTitleText {\n    font-size: 5vw;\n    width: 60%;\n    left: 45%;\n  }\n\n  .newsTitleImg {\n    height: 60vh;\n  }\n\n  .offerEl .elementsContainer {\n    display: inline-block;\n    width: 15vw;\n    height: 8vw;\n  }\n\n  .offerEl .elementsContainer p {\n    font-size: 1.1rem;\n  }\n\n  /* Contact Compnent */\n\n  .emailsInfo {\n    font-size: 1.5rem;\n  }\n\n  .emailsInfoComp {\n    padding: 5vw 0;\n  }\n\n  .contactInfo,\n  .iframe {\n    display: inline-block;\n  }\n\n  .contactInfo {\n    width: 40%;\n    float: left;\n    text-align: center;\n  }\n\n  .iframe {\n    width: 60%;\n    margin: 5vh 0;\n  }\n\n  .contactForm form label,\n  .btnSendForm {\n    margin: 2vw auto;\n    width: 40%;\n  }\n\n  .btnSendForm {\n    margin-top: 2vw;\n  }\n\n  .contactForm input,\n  .contactForm textarea {\n    background: white;\n  }\n}\n\n@media (min-width: 1200px) {\n  /* .sideMenuComp{\r\n    height: 40px;\r\n    left: -85px;\r\n  }\r\n  .sideInfo{\r\n    top: -9vw;\r\n    left: -60vh;\r\n  } */\n\n  .sideText {\n    left: -185px;\n  }\n\n  .sideInfo {\n    left: -180px;\n  }\n\n  /* .productElement:hover > .productsInfo{ \r\n  font-size: 1rem\r\n  } */\n\n  .productsInfo {\n    font-size: 1.8rem;\n  }\n}\n\n@media (min-width: 1300px) {\n  .sideText {\n    left: -190px;\n  }\n\n  .sideInfo {\n    left: -185px;\n  }\n}", ""]);
 
 // exports
 
 
 /***/ }),
-/* 52 */
+/* 54 */
 /***/ (function(module, exports) {
 
 module.exports = function escape(url) {
@@ -26436,19 +26624,19 @@ module.exports = function escape(url) {
 
 
 /***/ }),
-/* 53 */
+/* 55 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "cf6c21db49629e7198ab061bfabd8384.jpg";
 
 /***/ }),
-/* 54 */
+/* 56 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "68791595022c03f04170fdf954d541dd.jpg";
 
 /***/ }),
-/* 55 */
+/* 57 */
 /***/ (function(module, exports) {
 
 
@@ -26543,7 +26731,7 @@ module.exports = function (css) {
 
 
 /***/ }),
-/* 56 */
+/* 58 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26559,31 +26747,31 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _reactRouterDom = __webpack_require__(10);
+var _reactRouterDom = __webpack_require__(6);
 
-var _Navigation = __webpack_require__(82);
+var _Navigation = __webpack_require__(84);
 
 var _Navigation2 = _interopRequireDefault(_Navigation);
 
-var _Home = __webpack_require__(7);
+var _Home = __webpack_require__(8);
 
-var _News = __webpack_require__(104);
+var _News = __webpack_require__(107);
 
 var _News2 = _interopRequireDefault(_News);
 
-var _Products = __webpack_require__(107);
+var _Products = __webpack_require__(110);
 
 var _Products2 = _interopRequireDefault(_Products);
 
-var _Offer = __webpack_require__(114);
+var _Offer = __webpack_require__(117);
 
 var _Offer2 = _interopRequireDefault(_Offer);
 
-var _Contact = __webpack_require__(141);
+var _Contact = __webpack_require__(144);
 
 var _Contact2 = _interopRequireDefault(_Contact);
 
-var _NotFound = __webpack_require__(145);
+var _NotFound = __webpack_require__(148);
 
 var _NotFound2 = _interopRequireDefault(_NotFound);
 
@@ -26654,7 +26842,7 @@ exports.default = Website;
                            <Route path='/contact'component={Contact} /> */}
 
 /***/ }),
-/* 57 */
+/* 59 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -26664,8 +26852,8 @@ exports.default = Website;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_prop_types__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_history__ = __webpack_require__(6);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Router__ = __webpack_require__(18);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_history__ = __webpack_require__(7);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Router__ = __webpack_require__(19);
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
@@ -26720,7 +26908,7 @@ BrowserRouter.propTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (BrowserRouter);
 
 /***/ }),
-/* 58 */
+/* 60 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26733,10 +26921,10 @@ BrowserRouter.propTypes = {
 
 
 
-var assign = __webpack_require__(8);
+var assign = __webpack_require__(9);
 
-var ReactPropTypesSecret = __webpack_require__(17);
-var checkPropTypes = __webpack_require__(16);
+var ReactPropTypesSecret = __webpack_require__(18);
+var checkPropTypes = __webpack_require__(17);
 
 var printWarning = function() {};
 
@@ -27283,7 +27471,7 @@ module.exports = function(isValidElement, throwOnDirectAccess) {
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 59 */
+/* 61 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27296,7 +27484,7 @@ module.exports = function(isValidElement, throwOnDirectAccess) {
 
 
 
-var ReactPropTypesSecret = __webpack_require__(17);
+var ReactPropTypesSecret = __webpack_require__(18);
 
 function emptyFunction() {}
 
@@ -27349,7 +27537,7 @@ module.exports = function() {
 
 
 /***/ }),
-/* 60 */
+/* 62 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27373,7 +27561,7 @@ function _extends() {
 }
 
 /***/ }),
-/* 61 */
+/* 63 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27449,7 +27637,7 @@ function resolvePathname(to) {
 /* harmony default export */ __webpack_exports__["a"] = (resolvePathname);
 
 /***/ }),
-/* 62 */
+/* 64 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27493,7 +27681,7 @@ function valueEqual(a, b) {
 /* harmony default export */ __webpack_exports__["a"] = (valueEqual);
 
 /***/ }),
-/* 63 */
+/* 65 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27521,7 +27709,7 @@ function warning(condition, message) {
 /* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__(1)))
 
 /***/ }),
-/* 64 */
+/* 66 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27544,7 +27732,7 @@ function invariant(condition, message) {
 /* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__(1)))
 
 /***/ }),
-/* 65 */
+/* 67 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27554,8 +27742,8 @@ function invariant(condition, message) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_prop_types__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_history__ = __webpack_require__(6);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Router__ = __webpack_require__(18);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_history__ = __webpack_require__(7);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Router__ = __webpack_require__(19);
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
@@ -27609,18 +27797,18 @@ HashRouter.propTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (HashRouter);
 
 /***/ }),
-/* 66 */
+/* 68 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_MemoryRouter__ = __webpack_require__(67);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_MemoryRouter__ = __webpack_require__(69);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_MemoryRouter__["a" /* default */]);
 
 /***/ }),
-/* 67 */
+/* 69 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27630,8 +27818,8 @@ HashRouter.propTypes = {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_prop_types__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_history__ = __webpack_require__(6);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Router__ = __webpack_require__(19);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_history__ = __webpack_require__(7);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Router__ = __webpack_require__(20);
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
@@ -27686,7 +27874,7 @@ MemoryRouter.propTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (MemoryRouter);
 
 /***/ }),
-/* 68 */
+/* 70 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27694,8 +27882,8 @@ MemoryRouter.propTypes = {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_prop_types__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Route__ = __webpack_require__(30);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Link__ = __webpack_require__(29);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Route__ = __webpack_require__(31);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Link__ = __webpack_require__(30);
 var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
 var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
@@ -27772,7 +27960,7 @@ NavLink.defaultProps = {
 /* harmony default export */ __webpack_exports__["a"] = (NavLink);
 
 /***/ }),
-/* 69 */
+/* 71 */
 /***/ (function(module, exports) {
 
 module.exports = Array.isArray || function (arr) {
@@ -27781,18 +27969,18 @@ module.exports = Array.isArray || function (arr) {
 
 
 /***/ }),
-/* 70 */
+/* 72 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Prompt__ = __webpack_require__(71);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Prompt__ = __webpack_require__(73);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_Prompt__["a" /* default */]);
 
 /***/ }),
-/* 71 */
+/* 73 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27883,18 +28071,18 @@ Prompt.contextTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (Prompt);
 
 /***/ }),
-/* 72 */
+/* 74 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Redirect__ = __webpack_require__(73);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Redirect__ = __webpack_require__(75);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_Redirect__["a" /* default */]);
 
 /***/ }),
-/* 73 */
+/* 75 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27906,8 +28094,8 @@ Prompt.contextTypes = {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_warning___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_warning__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_invariant__ = __webpack_require__(5);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_invariant___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_invariant__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_history__ = __webpack_require__(6);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__generatePath__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_history__ = __webpack_require__(7);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__generatePath__ = __webpack_require__(34);
 var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -28023,18 +28211,18 @@ Redirect.contextTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (Redirect);
 
 /***/ }),
-/* 74 */
+/* 76 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_StaticRouter__ = __webpack_require__(75);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_StaticRouter__ = __webpack_require__(77);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_StaticRouter__["a" /* default */]);
 
 /***/ }),
-/* 75 */
+/* 77 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28046,8 +28234,8 @@ Redirect.contextTypes = {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_prop_types__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_history__ = __webpack_require__(6);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__Router__ = __webpack_require__(19);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_history__ = __webpack_require__(7);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__Router__ = __webpack_require__(20);
 var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
 function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
@@ -28200,18 +28388,18 @@ StaticRouter.childContextTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (StaticRouter);
 
 /***/ }),
-/* 76 */
+/* 78 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Switch__ = __webpack_require__(77);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Switch__ = __webpack_require__(79);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_Switch__["a" /* default */]);
 
 /***/ }),
-/* 77 */
+/* 79 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28223,7 +28411,7 @@ StaticRouter.childContextTypes = {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_warning___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_warning__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_invariant__ = __webpack_require__(5);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_invariant___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_invariant__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__matchPath__ = __webpack_require__(20);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__matchPath__ = __webpack_require__(21);
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
@@ -28303,40 +28491,40 @@ Switch.propTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (Switch);
 
 /***/ }),
-/* 78 */
+/* 80 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_generatePath__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_generatePath__ = __webpack_require__(34);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_generatePath__["a" /* default */]);
 
 /***/ }),
-/* 79 */
+/* 81 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_matchPath__ = __webpack_require__(20);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_matchPath__ = __webpack_require__(21);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_matchPath__["a" /* default */]);
 
 /***/ }),
-/* 80 */
+/* 82 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_withRouter__ = __webpack_require__(81);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_withRouter__ = __webpack_require__(83);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_withRouter__["a" /* default */]);
 
 /***/ }),
-/* 81 */
+/* 83 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28344,9 +28532,9 @@ Switch.propTypes = {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_prop_types__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_hoist_non_react_statics__ = __webpack_require__(34);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_hoist_non_react_statics__ = __webpack_require__(35);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_hoist_non_react_statics___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_hoist_non_react_statics__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Route__ = __webpack_require__(31);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Route__ = __webpack_require__(32);
 var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
 function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
@@ -28385,7 +28573,7 @@ var withRouter = function withRouter(Component) {
 /* harmony default export */ __webpack_exports__["a"] = (withRouter);
 
 /***/ }),
-/* 82 */
+/* 84 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28401,15 +28589,21 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _Home = __webpack_require__(7);
+var _Home = __webpack_require__(8);
 
-var _ElementNavigation = __webpack_require__(100);
+var _ElementNavigation = __webpack_require__(102);
 
 var _ElementNavigation2 = _interopRequireDefault(_ElementNavigation);
 
-__webpack_require__(101);
+var _Hamburger = __webpack_require__(103);
 
-var _es6SlideUpDown = __webpack_require__(103);
+var _Hamburger2 = _interopRequireDefault(_Hamburger);
+
+__webpack_require__(104);
+
+var _es6SlideUpDown = __webpack_require__(106);
+
+var _reactRouterDom = __webpack_require__(6);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -28435,6 +28629,23 @@ var Navigation = function (_Component) {
             (0, _Home.animationForNav)();
             //set name of Company
             _this.setNameCompany();
+            _this.updateSize();
+            window.addEventListener('resize', _this.updateSize);
+        };
+
+        _this.updateSize = function () {
+            if (window.innerWidth < 1000 && !_this.state.showHamburger) {
+                _this.setState({
+                    showHamburger: true
+                });
+                var menuHamburger = document.querySelector('.slideMenu');
+                (0, _es6SlideUpDown.slideUp)(menuHamburger);
+            } else if (window.innerWidth > 1000 && _this.state.showHamburger) {
+                _this.setState({
+                    showHamburger: false,
+                    showMenuFromHam: false
+                });
+            }
         };
 
         _this.showHideMenu = function () {
@@ -28460,10 +28671,14 @@ var Navigation = function (_Component) {
         _this.state = {
             showMenuFromHam: false,
             nameTitle: [],
-            listMenu: _Home.listMenu
+            listMenu: _Home.listMenu,
+            showHamburger: true
         };
         return _this;
     }
+
+    //event for change size window
+
 
     //for small menu-hamburger
 
@@ -28477,14 +28692,15 @@ var Navigation = function (_Component) {
             var _state = this.state,
                 showMenuFromHam = _state.showMenuFromHam,
                 nameTitle = _state.nameTitle,
-                listMenu = _state.listMenu;
+                listMenu = _state.listMenu,
+                showHamburger = _state.showHamburger;
 
             return _react2.default.createElement(
                 'div',
                 { className: 'navigation' },
                 _react2.default.createElement(
-                    'div',
-                    { className: 'navTitle', id: 'top' },
+                    _reactRouterDom.Link,
+                    { className: 'navTitle', id: 'top', to: '/' },
                     nameTitle.map(function (el, key) {
                         return _react2.default.createElement(
                             'span',
@@ -28498,14 +28714,9 @@ var Navigation = function (_Component) {
                         '\xAE'
                     )
                 ),
-                _react2.default.createElement(
-                    'div',
-                    { className: 'hamburger', onClick: this.showHideMenu },
-                    _react2.default.createElement('span', { className: showMenuFromHam ? "hideSpan" : "showSpan" }),
-                    _react2.default.createElement('span', { className: 'hamSpan' }),
-                    _react2.default.createElement('span', { className: showMenuFromHam ? "hideSpan" : "showSpan" })
-                ),
-                _react2.default.createElement(_ElementNavigation2.default, { elements: listMenu, fnClick: this.showHideMenu, listMenu: listMenu })
+                _react2.default.createElement(_Hamburger2.default, { fnC: this.showHideMenu, showHamburger: showHamburger, showMenuFromHam: showMenuFromHam }),
+                _react2.default.createElement(_ElementNavigation2.default, { show: showHamburger, elements: listMenu, fnClick: this.showHideMenu, listMenu: listMenu }),
+                showHamburger ? null : _react2.default.createElement(_ElementNavigation2.default, { elements: listMenu, listMenu: listMenu })
             );
         }
     }]);
@@ -28516,7 +28727,7 @@ var Navigation = function (_Component) {
 exports.default = Navigation;
 
 /***/ }),
-/* 83 */
+/* 85 */
 /***/ (function(module, exports) {
 
 module.exports = function(originalModule) {
@@ -28546,7 +28757,7 @@ module.exports = function(originalModule) {
 
 
 /***/ }),
-/* 84 */
+/* 86 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28559,7 +28770,7 @@ module.exports = function(originalModule) {
 
 
 
-var isObject = __webpack_require__(85);
+var isObject = __webpack_require__(87);
 
 function isObjectObject(o) {
   return isObject(o) === true
@@ -28590,7 +28801,7 @@ module.exports = function isPlainObject(o) {
 
 
 /***/ }),
-/* 85 */
+/* 87 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28609,7 +28820,7 @@ module.exports = function isObject(val) {
 
 
 /***/ }),
-/* 86 */
+/* 88 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /*
@@ -30311,7 +30522,7 @@ module.exports = function isObject(val) {
 
 
 /***/ }),
-/* 87 */
+/* 89 */
 /***/ (function(module, exports, __webpack_require__) {
 
 (function (factory) {
@@ -30365,7 +30576,7 @@ module.exports = function isObject(val) {
 
 
 /***/ }),
-/* 88 */
+/* 90 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30385,7 +30596,7 @@ var _Signature = __webpack_require__(11);
 
 var _Signature2 = _interopRequireDefault(_Signature);
 
-var _ForwardNavigation = __webpack_require__(91);
+var _ForwardNavigation = __webpack_require__(93);
 
 var _ForwardNavigation2 = _interopRequireDefault(_ForwardNavigation);
 
@@ -30414,6 +30625,7 @@ var AboutUs = function (_Component) {
         key: 'render',
         value: function render() {
             var itemSeeOthers = this.props.itemSeeOthers;
+            var bigSize = this.props.bigSize;
 
             return _react2.default.createElement(
                 'div',
@@ -30447,7 +30659,7 @@ var AboutUs = function (_Component) {
                     _react2.default.createElement('span', { className: 'aboutBorder' }),
                     _react2.default.createElement(_ForwardNavigation2.default, { allElements: itemSeeOthers })
                 ),
-                _react2.default.createElement(_Signature2.default, null)
+                _react2.default.createElement(_Signature2.default, { bigSize: bigSize })
             );
         }
     }]);
@@ -30458,93 +30670,7 @@ var AboutUs = function (_Component) {
 exports.default = AboutUs;
 
 /***/ }),
-/* 89 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-Object.defineProperty(exports, "__esModule", {
-    value: true
-});
-
-var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
-
-var _react = __webpack_require__(0);
-
-var _react2 = _interopRequireDefault(_react);
-
-var _information = __webpack_require__(3);
-
-var _information2 = _interopRequireDefault(_information);
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
-
-function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
-
-function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
-
-var SocialMedia = function (_Component) {
-    _inherits(SocialMedia, _Component);
-
-    function SocialMedia() {
-        _classCallCheck(this, SocialMedia);
-
-        var _this = _possibleConstructorReturn(this, (SocialMedia.__proto__ || Object.getPrototypeOf(SocialMedia)).call(this));
-
-        _this.componentDidMount = function () {
-            //need for add class from fontawensome
-            var allHref = [];
-            var allHClass = [];
-            _information2.default.socialMedia.map(function (el) {
-                return allHref.push(el.href);
-            });
-            _information2.default.socialMedia.map(function (el) {
-                return allHClass.push(el.class);
-            });
-            _this.setState({
-                allElHref: allHref,
-                allElClass: allHClass
-            });
-        };
-
-        _this.state = {
-            allElHref: [],
-            allElClass: []
-        };
-        return _this;
-    }
-
-    _createClass(SocialMedia, [{
-        key: 'render',
-        value: function render() {
-            var _state = this.state,
-                allElHref = _state.allElHref,
-                allElClass = _state.allElClass;
-
-            return _react2.default.createElement(
-                'div',
-                { className: 'socialMedia' },
-                allElHref.map(function (el, i) {
-                    return _react2.default.createElement(
-                        'a',
-                        { key: i, href: el, style: { color: 'white' }, target: '_blank', title: el },
-                        _react2.default.createElement('i', { className: allElClass[i] + ' sizeForSocial' })
-                    );
-                })
-            );
-        }
-    }]);
-
-    return SocialMedia;
-}(_react.Component);
-
-exports.default = SocialMedia;
-
-/***/ }),
-/* 90 */
+/* 91 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30606,7 +30732,7 @@ var Copyright = function (_Component) {
 exports.default = Copyright;
 
 /***/ }),
-/* 91 */
+/* 92 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30622,7 +30748,170 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _reactRouterDom = __webpack_require__(10);
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
+
+var SignatureLinks = function (_Component) {
+    _inherits(SignatureLinks, _Component);
+
+    function SignatureLinks() {
+        _classCallCheck(this, SignatureLinks);
+
+        return _possibleConstructorReturn(this, (SignatureLinks.__proto__ || Object.getPrototypeOf(SignatureLinks)).apply(this, arguments));
+    }
+
+    _createClass(SignatureLinks, [{
+        key: "render",
+        value: function render() {
+            return _react2.default.createElement(
+                "div",
+                null,
+                _react2.default.createElement(
+                    "div",
+                    { className: "singatureLinks" },
+                    _react2.default.createElement(
+                        "p",
+                        null,
+                        "Informacje prawne"
+                    ),
+                    _react2.default.createElement(
+                        "ul",
+                        null,
+                        _react2.default.createElement(
+                            "li",
+                            null,
+                            "Regulamin sklepu"
+                        ),
+                        _react2.default.createElement(
+                            "li",
+                            null,
+                            "Polityka prywatno\u015Bci"
+                        ),
+                        _react2.default.createElement(
+                            "li",
+                            null,
+                            "Materia\u0142y do pobrania"
+                        ),
+                        _react2.default.createElement(
+                            "li",
+                            null,
+                            "Koszty gospodarowania"
+                        ),
+                        _react2.default.createElement(
+                            "li",
+                            null,
+                            "Plan po\u0142\u0105czenia"
+                        )
+                    )
+                ),
+                _react2.default.createElement(
+                    "div",
+                    { className: "singatureInformations" },
+                    _react2.default.createElement(
+                        "p",
+                        null,
+                        "Pomocne linki"
+                    ),
+                    _react2.default.createElement(
+                        "ul",
+                        null,
+                        _react2.default.createElement(
+                            "li",
+                            null,
+                            "Jak kupi\u0107 na raty?"
+                        ),
+                        _react2.default.createElement(
+                            "li",
+                            null,
+                            "Numer konta bankowego"
+                        ),
+                        _react2.default.createElement(
+                            "li",
+                            null,
+                            "Cz\u0119ste pytania"
+                        ),
+                        _react2.default.createElement(
+                            "li",
+                            null,
+                            "Reklamacje, zwroty, serwis"
+                        ),
+                        _react2.default.createElement(
+                            "li",
+                            null,
+                            "Dodatkowe gwarancje"
+                        )
+                    )
+                ),
+                _react2.default.createElement(
+                    "div",
+                    { className: "singatureInvestments" },
+                    _react2.default.createElement(
+                        "p",
+                        null,
+                        "Dla inwestor\xF3w"
+                    ),
+                    _react2.default.createElement(
+                        "ul",
+                        null,
+                        _react2.default.createElement(
+                            "li",
+                            null,
+                            "W\u0142adze sp\xF3\u0142ki"
+                        ),
+                        _react2.default.createElement(
+                            "li",
+                            null,
+                            "Raporty i finanse"
+                        ),
+                        _react2.default.createElement(
+                            "li",
+                            null,
+                            "Fundusze UE"
+                        ),
+                        _react2.default.createElement(
+                            "li",
+                            { style: { color: 'black' } },
+                            "."
+                        ),
+                        _react2.default.createElement(
+                            "li",
+                            { style: { color: 'black' } },
+                            "."
+                        )
+                    )
+                )
+            );
+        }
+    }]);
+
+    return SignatureLinks;
+}(_react.Component);
+
+exports.default = SignatureLinks;
+
+/***/ }),
+/* 93 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
+
+var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _reactRouterDom = __webpack_require__(6);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -30641,7 +30930,7 @@ var ForwardNavigation = function (_Component) {
         var _this = _possibleConstructorReturn(this, (ForwardNavigation.__proto__ || Object.getPrototypeOf(ForwardNavigation)).call(this));
 
         _this.state = {
-            textInfo: 'Zobacz...'
+            textInfo: 'Zobacz więcej...'
         };
         return _this;
     }
@@ -30687,7 +30976,7 @@ var ForwardNavigation = function (_Component) {
 exports.default = ForwardNavigation;
 
 /***/ }),
-/* 92 */
+/* 94 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30751,7 +31040,7 @@ var Title = function (_Component) {
 exports.default = Title;
 
 /***/ }),
-/* 93 */
+/* 95 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30816,7 +31105,7 @@ var ShowActiveImg = function (_Component) {
 exports.default = ShowActiveImg;
 
 /***/ }),
-/* 94 */
+/* 96 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30903,37 +31192,37 @@ var ArrowSlider = function (_Component) {
 exports.default = ArrowSlider;
 
 /***/ }),
-/* 95 */
+/* 97 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "1fa322b87224b38f2d242722f2654316.jpg";
 
 /***/ }),
-/* 96 */
+/* 98 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "6d7ed15f786dc5706e98632c503e44c5.jpg";
 
 /***/ }),
-/* 97 */
+/* 99 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "6845c76b16b6443a76d8aa7b127b9d88.jpg";
 
 /***/ }),
-/* 98 */
+/* 100 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "aad2b3c1e964f984aae6341ebdd08835.jpg";
 
 /***/ }),
-/* 99 */
+/* 101 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "b55c3a915d12b677493ac59f84ef6c61.jpg";
 
 /***/ }),
-/* 100 */
+/* 102 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30949,7 +31238,7 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _reactRouterDom = __webpack_require__(10);
+var _reactRouterDom = __webpack_require__(6);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -30987,26 +31276,23 @@ var ElementNavigation = function (_Component) {
 
             var listMenu = this.props.listMenu;
 
-            return (
-                //change slide right or left
+            return _react2.default.createElement(
+                'div',
+                { className: this.props.show ? 'slideMenu' : 'showMenu' },
                 _react2.default.createElement(
-                    'div',
-                    { className: 'slideMenu' },
-                    _react2.default.createElement(
-                        'ul',
-                        null,
-                        listMenu.map(function (el) {
-                            return _react2.default.createElement(
-                                'li',
-                                { key: el },
-                                _react2.default.createElement(
-                                    _reactRouterDom.NavLink,
-                                    { to: '/' + el, onClick: _this2.closeSlideMenu, className: 'elMenu', activeClassName: 'elClickOn' },
-                                    el
-                                )
-                            );
-                        })
-                    )
+                    'ul',
+                    null,
+                    listMenu.map(function (el) {
+                        return _react2.default.createElement(
+                            'li',
+                            { key: el },
+                            _react2.default.createElement(
+                                _reactRouterDom.NavLink,
+                                { to: '/' + el, onClick: _this2.closeSlideMenu, className: 'elMenu', activeClassName: 'elClickOn' },
+                                el
+                            )
+                        );
+                    })
                 )
             );
         }
@@ -31018,11 +31304,83 @@ var ElementNavigation = function (_Component) {
 exports.default = ElementNavigation;
 
 /***/ }),
-/* 101 */
+/* 103 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
+
+var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
+
+var Hamburger = function (_Component) {
+    _inherits(Hamburger, _Component);
+
+    function Hamburger() {
+        var _ref;
+
+        var _temp, _this, _ret;
+
+        _classCallCheck(this, Hamburger);
+
+        for (var _len = arguments.length, args = Array(_len), _key = 0; _key < _len; _key++) {
+            args[_key] = arguments[_key];
+        }
+
+        return _ret = (_temp = (_this = _possibleConstructorReturn(this, (_ref = Hamburger.__proto__ || Object.getPrototypeOf(Hamburger)).call.apply(_ref, [this].concat(args))), _this), _this.handleClickShowHideMenu = function () {
+            if (typeof _this.props.fnC == 'function') {
+                _this.props.fnC();
+            }
+        }, _temp), _possibleConstructorReturn(_this, _ret);
+    }
+
+    _createClass(Hamburger, [{
+        key: 'render',
+        value: function render() {
+            var _props = this.props,
+                showHamburger = _props.showHamburger,
+                showMenuFromHam = _props.showMenuFromHam;
+
+            return _react2.default.createElement(
+                'div',
+                null,
+                showHamburger ? _react2.default.createElement(
+                    'div',
+                    { className: 'hamburger', onClick: this.handleClickShowHideMenu },
+                    _react2.default.createElement('span', { className: showMenuFromHam ? "hideSpan" : "showSpan" }),
+                    _react2.default.createElement('span', { className: 'hamSpan' }),
+                    _react2.default.createElement('span', { className: showMenuFromHam ? "hideSpan" : "showSpan" })
+                ) : null
+            );
+        }
+    }]);
+
+    return Hamburger;
+}(_react.Component);
+
+exports.default = Hamburger;
+
+/***/ }),
+/* 104 */
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(102);
+var content = __webpack_require__(105);
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -31036,7 +31394,7 @@ var options = {"hmr":true}
 options.transform = transform
 options.insertInto = undefined;
 
-var update = __webpack_require__(28)(content, options);
+var update = __webpack_require__(29)(content, options);
 
 if(content.locals) module.exports = content.locals;
 
@@ -31068,10 +31426,10 @@ if(false) {
 }
 
 /***/ }),
-/* 102 */
+/* 105 */
 /***/ (function(module, exports, __webpack_require__) {
 
-exports = module.exports = __webpack_require__(27)(false);
+exports = module.exports = __webpack_require__(28)(false);
 // imports
 
 
@@ -31082,7 +31440,7 @@ exports.push([module.i, ".react-slidedown {\n  height: 0;\n  transition-property
 
 
 /***/ }),
-/* 103 */
+/* 106 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31181,7 +31539,7 @@ const extend = (defaults, options) => {
 //# sourceMappingURL=index.js.map
 
 /***/ }),
-/* 104 */
+/* 107 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31197,17 +31555,17 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _Home = __webpack_require__(7);
+var _Home = __webpack_require__(8);
 
-var _HeaderCompImg = __webpack_require__(14);
+var _HeaderCompImg = __webpack_require__(15);
 
 var _HeaderCompImg2 = _interopRequireDefault(_HeaderCompImg);
 
-var _NewsElementsInfo = __webpack_require__(105);
+var _NewsElementsInfo = __webpack_require__(108);
 
 var _NewsElementsInfo2 = _interopRequireDefault(_NewsElementsInfo);
 
-var _ForwardInfo = __webpack_require__(15);
+var _ForwardInfo = __webpack_require__(16);
 
 var _ForwardInfo2 = _interopRequireDefault(_ForwardInfo);
 
@@ -31219,7 +31577,11 @@ var _Signature = __webpack_require__(11);
 
 var _Signature2 = _interopRequireDefault(_Signature);
 
-var _c = __webpack_require__(106);
+var _SideMenu = __webpack_require__(12);
+
+var _SideMenu2 = _interopRequireDefault(_SideMenu);
+
+var _c = __webpack_require__(109);
 
 var _c2 = _interopRequireDefault(_c);
 
@@ -31242,15 +31604,32 @@ var News = function (_Component) {
         _this.componentDidMount = function () {
             (0, _Home.animationForNav)();
             (0, _Home.goToUp)();
+            _this.updateSize();
+            window.addEventListener('resize', _this.updateSize);
+        };
+
+        _this.updateSize = function () {
+            if (window.innerWidth >= 1000 && !_this.state.bigSize) {
+                _this.setState({
+                    bigSize: true
+                });
+            } else if (window.innerWidth < 1000 && _this.state.bigSize) {
+                _this.setState({
+                    bigSize: false
+                });
+            }
         };
 
         _this.state = {
             titleComp: 'co nowego?',
             imgForHeader: _c2.default,
-            page: ['poprzednia', 2, 3, 4, 'następna']
+            page: ['poprzednia', 2, 3, 4, 'następna'],
+            bigSize: false
         };
         return _this;
     }
+    //event for change size window
+
 
     _createClass(News, [{
         key: 'render',
@@ -31258,11 +31637,13 @@ var News = function (_Component) {
             var _state = this.state,
                 titleComp = _state.titleComp,
                 imgForHeader = _state.imgForHeader,
-                page = _state.page;
+                page = _state.page,
+                bigSize = _state.bigSize;
 
             return _react2.default.createElement(
                 'div',
                 { className: 'newsComp' },
+                bigSize ? _react2.default.createElement(_SideMenu2.default, null) : null,
                 _react2.default.createElement(_HeaderCompImg2.default, { title: titleComp, imgHeader: imgForHeader }),
                 _react2.default.createElement(
                     'div',
@@ -31287,7 +31668,7 @@ var News = function (_Component) {
                         })
                     )
                 ),
-                _react2.default.createElement(_Signature2.default, null)
+                _react2.default.createElement(_Signature2.default, { bigSize: bigSize })
             );
         }
     }]);
@@ -31298,7 +31679,7 @@ var News = function (_Component) {
 exports.default = News;
 
 /***/ }),
-/* 105 */
+/* 108 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31379,13 +31760,13 @@ var NewsElementsInfo = function (_Component) {
 exports.default = NewsElementsInfo;
 
 /***/ }),
-/* 106 */
+/* 109 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "dfa476f0709c396b2895affe78040d4b.jpg";
 
 /***/ }),
-/* 107 */
+/* 110 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31401,13 +31782,13 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _Home = __webpack_require__(7);
+var _Home = __webpack_require__(8);
 
-var _ForwardInfo = __webpack_require__(15);
+var _ForwardInfo = __webpack_require__(16);
 
 var _ForwardInfo2 = _interopRequireDefault(_ForwardInfo);
 
-var _HeaderCompImg = __webpack_require__(14);
+var _HeaderCompImg = __webpack_require__(15);
 
 var _HeaderCompImg2 = _interopRequireDefault(_HeaderCompImg);
 
@@ -31415,7 +31796,7 @@ var _information = __webpack_require__(3);
 
 var _information2 = _interopRequireDefault(_information);
 
-var _NewsElementProducts = __webpack_require__(108);
+var _NewsElementProducts = __webpack_require__(111);
 
 var _NewsElementProducts2 = _interopRequireDefault(_NewsElementProducts);
 
@@ -31423,27 +31804,31 @@ var _Signature = __webpack_require__(11);
 
 var _Signature2 = _interopRequireDefault(_Signature);
 
-var _o = __webpack_require__(35);
+var _SideMenu = __webpack_require__(12);
+
+var _SideMenu2 = _interopRequireDefault(_SideMenu);
+
+var _o = __webpack_require__(37);
 
 var _o2 = _interopRequireDefault(_o);
 
-var _p = __webpack_require__(109);
+var _p = __webpack_require__(112);
 
 var _p2 = _interopRequireDefault(_p);
 
-var _p3 = __webpack_require__(110);
+var _p3 = __webpack_require__(113);
 
 var _p4 = _interopRequireDefault(_p3);
 
-var _p5 = __webpack_require__(111);
+var _p5 = __webpack_require__(114);
 
 var _p6 = _interopRequireDefault(_p5);
 
-var _p7 = __webpack_require__(112);
+var _p7 = __webpack_require__(115);
 
 var _p8 = _interopRequireDefault(_p7);
 
-var _p9 = __webpack_require__(113);
+var _p9 = __webpack_require__(116);
 
 var _p10 = _interopRequireDefault(_p9);
 
@@ -31466,6 +31851,8 @@ var Products = function (_Component) {
         _this.componentDidMount = function () {
             (0, _Home.animationForNav)();
             (0, _Home.goToUp)();
+            _this.updateSize();
+            window.addEventListener('resize', _this.updateSize);
             var allTitle = [];
             var allText = [];
             _information2.default.productsElement.map(function (el) {
@@ -31480,9 +31867,22 @@ var Products = function (_Component) {
             });
         };
 
+        _this.updateSize = function () {
+            if (window.innerWidth > 1000 && _this.state.bigSize == false) {
+                _this.setState({
+                    bigSize: true
+                });
+            } else if (window.innerWidth < 1000 && _this.state.bigSize == true) {
+                _this.setState({
+                    bigSize: false
+                });
+            }
+        };
+
         _this.state = {
             titleComp: 'nasze realizacje',
             imgForHeader: _o2.default,
+            bigSize: false,
             allTitle: [],
             allText: [],
             allUrl: [_p2.default, _p4.default, _p6.default, _p8.default, _p10.default]
@@ -31490,12 +31890,16 @@ var Products = function (_Component) {
         return _this;
     }
 
+    //event for change size window
+
+
     _createClass(Products, [{
         key: 'render',
         value: function render() {
             var _state = this.state,
                 titleComp = _state.titleComp,
                 imgForHeader = _state.imgForHeader,
+                bigSize = _state.bigSize,
                 allTitle = _state.allTitle,
                 allText = _state.allText,
                 allUrl = _state.allUrl;
@@ -31504,6 +31908,7 @@ var Products = function (_Component) {
             return _react2.default.createElement(
                 'div',
                 { className: 'productsComp' },
+                bigSize ? _react2.default.createElement(_SideMenu2.default, null) : null,
                 _react2.default.createElement(_HeaderCompImg2.default, { title: titleComp, imgHeader: imgForHeader }),
                 _react2.default.createElement(
                     'div',
@@ -31517,7 +31922,7 @@ var Products = function (_Component) {
                         })
                     )
                 ),
-                _react2.default.createElement(_Signature2.default, null)
+                _react2.default.createElement(_Signature2.default, { bigSize: bigSize })
             );
         }
     }]);
@@ -31528,7 +31933,7 @@ var Products = function (_Component) {
 exports.default = Products;
 
 /***/ }),
-/* 108 */
+/* 111 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31546,7 +31951,7 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _styledComponents = __webpack_require__(21);
+var _styledComponents = __webpack_require__(22);
 
 var _styledComponents2 = _interopRequireDefault(_styledComponents);
 
@@ -31612,37 +32017,37 @@ var NewsElementProducts = function (_Component) {
 exports.default = NewsElementProducts;
 
 /***/ }),
-/* 109 */
+/* 112 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "1d59525851c201ede9779b27c674bb9f.jpg";
 
 /***/ }),
-/* 110 */
+/* 113 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "54d457eaf3ad34d1ef982f9e6b19e5d4.jpg";
 
 /***/ }),
-/* 111 */
+/* 114 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "fe273bc519596be54f905be2179d7aca.jpg";
 
 /***/ }),
-/* 112 */
+/* 115 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "77a2031fbec3d03249cb000a7217d6c3.jpg";
 
 /***/ }),
-/* 113 */
+/* 116 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "b5eec4c1217e537726cd714b4e8ad573.jpg";
 
 /***/ }),
-/* 114 */
+/* 117 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31658,13 +32063,13 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _Home = __webpack_require__(7);
+var _Home = __webpack_require__(8);
 
-var _HeaderCompImg = __webpack_require__(14);
+var _HeaderCompImg = __webpack_require__(15);
 
 var _HeaderCompImg2 = _interopRequireDefault(_HeaderCompImg);
 
-var _ForwardInfo = __webpack_require__(15);
+var _ForwardInfo = __webpack_require__(16);
 
 var _ForwardInfo2 = _interopRequireDefault(_ForwardInfo);
 
@@ -31672,7 +32077,7 @@ var _Signature = __webpack_require__(11);
 
 var _Signature2 = _interopRequireDefault(_Signature);
 
-var _OfferElements = __webpack_require__(115);
+var _OfferElements = __webpack_require__(118);
 
 var _OfferElements2 = _interopRequireDefault(_OfferElements);
 
@@ -31680,107 +32085,111 @@ var _information = __webpack_require__(3);
 
 var _information2 = _interopRequireDefault(_information);
 
-var _o = __webpack_require__(35);
+var _SideMenu = __webpack_require__(12);
+
+var _SideMenu2 = _interopRequireDefault(_SideMenu);
+
+var _o = __webpack_require__(37);
 
 var _o2 = _interopRequireDefault(_o);
 
-var _e = __webpack_require__(116);
+var _e = __webpack_require__(119);
 
 var _e2 = _interopRequireDefault(_e);
 
-var _e3 = __webpack_require__(117);
+var _e3 = __webpack_require__(120);
 
 var _e4 = _interopRequireDefault(_e3);
 
-var _e5 = __webpack_require__(118);
+var _e5 = __webpack_require__(121);
 
 var _e6 = _interopRequireDefault(_e5);
 
-var _e7 = __webpack_require__(119);
+var _e7 = __webpack_require__(122);
 
 var _e8 = _interopRequireDefault(_e7);
 
-var _e9 = __webpack_require__(120);
+var _e9 = __webpack_require__(123);
 
 var _e10 = _interopRequireDefault(_e9);
 
-var _e11 = __webpack_require__(121);
+var _e11 = __webpack_require__(124);
 
 var _e12 = _interopRequireDefault(_e11);
 
-var _e13 = __webpack_require__(122);
+var _e13 = __webpack_require__(125);
 
 var _e14 = _interopRequireDefault(_e13);
 
-var _e15 = __webpack_require__(123);
+var _e15 = __webpack_require__(126);
 
 var _e16 = _interopRequireDefault(_e15);
 
-var _e17 = __webpack_require__(124);
+var _e17 = __webpack_require__(127);
 
 var _e18 = _interopRequireDefault(_e17);
 
-var _e19 = __webpack_require__(125);
+var _e19 = __webpack_require__(128);
 
 var _e20 = _interopRequireDefault(_e19);
 
-var _e21 = __webpack_require__(126);
+var _e21 = __webpack_require__(129);
 
 var _e22 = _interopRequireDefault(_e21);
 
-var _e23 = __webpack_require__(127);
+var _e23 = __webpack_require__(130);
 
 var _e24 = _interopRequireDefault(_e23);
 
-var _e25 = __webpack_require__(128);
+var _e25 = __webpack_require__(131);
 
 var _e26 = _interopRequireDefault(_e25);
 
-var _e27 = __webpack_require__(129);
+var _e27 = __webpack_require__(132);
 
 var _e28 = _interopRequireDefault(_e27);
 
-var _e29 = __webpack_require__(130);
+var _e29 = __webpack_require__(133);
 
 var _e30 = _interopRequireDefault(_e29);
 
-var _e31 = __webpack_require__(131);
+var _e31 = __webpack_require__(134);
 
 var _e32 = _interopRequireDefault(_e31);
 
-var _e33 = __webpack_require__(132);
+var _e33 = __webpack_require__(135);
 
 var _e34 = _interopRequireDefault(_e33);
 
-var _e35 = __webpack_require__(133);
+var _e35 = __webpack_require__(136);
 
 var _e36 = _interopRequireDefault(_e35);
 
-var _e37 = __webpack_require__(134);
+var _e37 = __webpack_require__(137);
 
 var _e38 = _interopRequireDefault(_e37);
 
-var _e39 = __webpack_require__(135);
+var _e39 = __webpack_require__(138);
 
 var _e40 = _interopRequireDefault(_e39);
 
-var _e41 = __webpack_require__(136);
+var _e41 = __webpack_require__(139);
 
 var _e42 = _interopRequireDefault(_e41);
 
-var _e43 = __webpack_require__(137);
+var _e43 = __webpack_require__(140);
 
 var _e44 = _interopRequireDefault(_e43);
 
-var _e45 = __webpack_require__(138);
+var _e45 = __webpack_require__(141);
 
 var _e46 = _interopRequireDefault(_e45);
 
-var _e47 = __webpack_require__(139);
+var _e47 = __webpack_require__(142);
 
 var _e48 = _interopRequireDefault(_e47);
 
-var _e49 = __webpack_require__(140);
+var _e49 = __webpack_require__(143);
 
 var _e50 = _interopRequireDefault(_e49);
 
@@ -31805,16 +32214,33 @@ var Offer = function (_Component) {
         _this.componentDidMount = function () {
             (0, _Home.animationForNav)();
             (0, _Home.goToUp)();
+            _this.updateSize();
+            window.addEventListener('resize', _this.updateSize);
+        };
+
+        _this.updateSize = function () {
+            if (window.innerWidth > 1000 && _this.state.bigSize == false) {
+                _this.setState({
+                    bigSize: true
+                });
+            } else if (window.innerWidth < 1000 && _this.state.bigSize == true) {
+                _this.setState({
+                    bigSize: false
+                });
+            }
         };
 
         _this.state = {
             titleComp: 'nasza oferta',
             imgForHeader: _o2.default,
             items: [_e2.default, _e4.default, _e6.default, _e8.default, _e10.default, _e12.default, _e14.default, _e16.default, _e18.default, _e20.default, _e22.default, _e24.default, _e26.default, _e28.default, _e30.default, _e32.default, _e34.default, _e36.default, _e38.default, _e40.default, _e42.default, _e44.default, _e46.default, _e48.default, _e50.default],
-            title: ['certina', 'tissot', 'adriatica', 'swatch', 'aviator', 'casio', 'lorus', 'seiko', 'citizen', 'orient', 'g-shock', 'diesel', 'fossil', 'timex', 'ice-watch', 'michael kors', 'cluse', 'suunto', 'roamer', 'festina', 'doxa', 'buloca', 'vostok', 'certina', 'atlantic']
+            title: ['certina', 'tissot', 'adriatica', 'swatch', 'aviator', 'casio', 'lorus', 'seiko', 'citizen', 'orient', 'g-shock', 'diesel', 'fossil', 'timex', 'ice-watch', 'michael kors', 'cluse', 'suunto', 'roamer', 'festina', 'doxa', 'buloca', 'vostok', 'certina', 'atlantic'],
+            bigSize: false
         };
         return _this;
     }
+    //event for change size window
+
 
     _createClass(Offer, [{
         key: 'render',
@@ -31823,6 +32249,7 @@ var Offer = function (_Component) {
                 titleComp = _state.titleComp,
                 imgForHeader = _state.imgForHeader,
                 items = _state.items,
+                bigSize = _state.bigSize,
                 title = _state.title;
             // console.log(items)
             // for GITHUB pages !!!!
@@ -31838,6 +32265,7 @@ var Offer = function (_Component) {
             return _react2.default.createElement(
                 'div',
                 { className: 'offerComp' },
+                bigSize ? _react2.default.createElement(_SideMenu2.default, null) : null,
                 _react2.default.createElement(_HeaderCompImg2.default, { title: titleComp, imgHeader: imgForHeader }),
                 _react2.default.createElement(
                     'div',
@@ -31853,7 +32281,7 @@ var Offer = function (_Component) {
                         })
                     )
                 ),
-                _react2.default.createElement(_Signature2.default, null)
+                _react2.default.createElement(_Signature2.default, { bigSize: bigSize })
             );
         }
     }]);
@@ -31864,7 +32292,7 @@ var Offer = function (_Component) {
 exports.default = Offer;
 
 /***/ }),
-/* 115 */
+/* 118 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31882,7 +32310,7 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _styledComponents = __webpack_require__(21);
+var _styledComponents = __webpack_require__(22);
 
 var _styledComponents2 = _interopRequireDefault(_styledComponents);
 
@@ -31945,157 +32373,157 @@ var OfferElements = function (_Component) {
 exports.default = OfferElements;
 
 /***/ }),
-/* 116 */
+/* 119 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "601a4e30717d856b2de9dfbe12b16b93.jpg";
 
 /***/ }),
-/* 117 */
+/* 120 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "47de2311fcfe9b136e3908fd32cb2632.jpg";
 
 /***/ }),
-/* 118 */
+/* 121 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "22b41da66125eb12ea805dbcb3d92e18.jpg";
 
 /***/ }),
-/* 119 */
+/* 122 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "abadb11a1e568bf8793a341eab37aefa.jpg";
 
 /***/ }),
-/* 120 */
+/* 123 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "d336481770adb77fad2273f9f0c7cea9.jpg";
 
 /***/ }),
-/* 121 */
+/* 124 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "56abedc6885d587ab88738d249a02b3a.jpg";
 
 /***/ }),
-/* 122 */
+/* 125 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "8710972d5a7d247f9bc9af408b5d4615.jpg";
 
 /***/ }),
-/* 123 */
+/* 126 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "ecc7283daea776266676c38688efaa04.jpg";
 
 /***/ }),
-/* 124 */
+/* 127 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "814532f4e9a7a0acecac918818a6d26f.jpg";
 
 /***/ }),
-/* 125 */
+/* 128 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "e77d0526d7dd40e3de77f4ac27298814.jpg";
 
 /***/ }),
-/* 126 */
+/* 129 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "518680b8380dadd7895971dfcc64c036.jpg";
 
 /***/ }),
-/* 127 */
+/* 130 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "710a422ec9ba0f9010398cd3c3cd7248.jpg";
 
 /***/ }),
-/* 128 */
+/* 131 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "289b097275190b48aa10995363bdc926.jpg";
 
 /***/ }),
-/* 129 */
+/* 132 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "a8f0100239a75efa1fd6465d805b45c8.jpg";
 
 /***/ }),
-/* 130 */
+/* 133 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "782ba35429ede685403ce0723cddfba7.jpg";
 
 /***/ }),
-/* 131 */
+/* 134 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "bf1cbfecd4a5caa5282154840fcbf80d.jpg";
 
 /***/ }),
-/* 132 */
+/* 135 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "62196119524f95022e0facab95dc1ee8.jpg";
 
 /***/ }),
-/* 133 */
+/* 136 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "b85a2178949d56256f0246fbc64dd431.jpg";
 
 /***/ }),
-/* 134 */
+/* 137 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "a1eef9cda8da4332586ee728991a1650.jpg";
 
 /***/ }),
-/* 135 */
+/* 138 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "176b0d59d4a41702b7c33f655242de15.jpg";
 
 /***/ }),
-/* 136 */
+/* 139 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "c110f1702648be4c36257ceddb9a96b8.jpg";
 
 /***/ }),
-/* 137 */
+/* 140 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "315453225536360dc1914777d03b16bc.jpg";
 
 /***/ }),
-/* 138 */
+/* 141 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "d847316639f8f1201cff0a23ada5f81a.jpg";
 
 /***/ }),
-/* 139 */
+/* 142 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "e1139ffbe31d37c2d0be644249f4fb80.jpg";
 
 /***/ }),
-/* 140 */
+/* 143 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "c241e4259249a39779b2ad5657245a58.jpg";
 
 /***/ }),
-/* 141 */
+/* 144 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32111,21 +32539,21 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _Home = __webpack_require__(7);
+var _Home = __webpack_require__(8);
 
-var _HeaderCompImg = __webpack_require__(14);
+var _HeaderCompImg = __webpack_require__(15);
 
 var _HeaderCompImg2 = _interopRequireDefault(_HeaderCompImg);
 
-var _ForwardInfo = __webpack_require__(15);
+var _ForwardInfo = __webpack_require__(16);
 
 var _ForwardInfo2 = _interopRequireDefault(_ForwardInfo);
 
-var _ContactForm = __webpack_require__(142);
+var _ContactForm = __webpack_require__(145);
 
 var _ContactForm2 = _interopRequireDefault(_ContactForm);
 
-var _EmailsInfo = __webpack_require__(143);
+var _EmailsInfo = __webpack_require__(146);
 
 var _EmailsInfo2 = _interopRequireDefault(_EmailsInfo);
 
@@ -32137,7 +32565,11 @@ var _information = __webpack_require__(3);
 
 var _information2 = _interopRequireDefault(_information);
 
-var _k = __webpack_require__(144);
+var _SideMenu = __webpack_require__(12);
+
+var _SideMenu2 = _interopRequireDefault(_SideMenu);
+
+var _k = __webpack_require__(147);
 
 var _k2 = _interopRequireDefault(_k);
 
@@ -32160,31 +32592,50 @@ var Contact = function (_Component) {
         _this.componentDidMount = function () {
             (0, _Home.animationForNav)();
             (0, _Home.goToUp)();
+            _this.updateSize();
+            window.addEventListener('resize', _this.updateSize);
+        };
+
+        _this.updateSize = function () {
+            if (window.innerWidth > 1000 && _this.state.bigSize == false) {
+                _this.setState({
+                    bigSize: true
+                });
+            } else if (window.innerWidth < 1000 && _this.state.bigSize == true) {
+                _this.setState({
+                    bigSize: false
+                });
+            }
         };
 
         _this.state = {
             titleComp: 'kontakt',
-            imgForHeader: _k2.default
+            imgForHeader: _k2.default,
+            bigSize: false
         };
         return _this;
     }
+    //event for change size window
+
 
     _createClass(Contact, [{
         key: 'render',
         value: function render() {
             var _state = this.state,
                 titleComp = _state.titleComp,
-                imgForHeader = _state.imgForHeader;
+                imgForHeader = _state.imgForHeader,
+                bigSize = _state.bigSize;
 
             return _react2.default.createElement(
                 'div',
                 { className: 'contactComp' },
+                bigSize ? _react2.default.createElement(_SideMenu2.default, null) : null,
                 _react2.default.createElement(_HeaderCompImg2.default, { title: titleComp, imgHeader: imgForHeader }),
                 _react2.default.createElement(
                     'div',
                     { className: 'container' },
                     _react2.default.createElement(_ForwardInfo2.default, { elText: titleComp }),
-                    _react2.default.createElement('iframe', { className: 'iframe', src: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.6354178276733!2d21.003806315945223!3d52.23184126529641!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc8c92692e49%3A0xc2e97ae5311f2dc2!2sPa%C5%82ac+Kultury+i+Nauki!5e0!3m2!1spl!2spl!4v1554315877464!5m2!1spl!2spl', style: { width: '90vw', height: '50vh', frameBorder: 0, border: 0 }, allowFullScreen: true }),
+                    _react2.default.createElement('iframe', { className: 'iframe', src: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.6354178276733!2d21.003806315945223!3d52.23184126529641!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc8c92692e49%3A0xc2e97ae5311f2dc2!2sPa%C5%82ac+Kultury+i+Nauki!5e0!3m2!1spl!2spl!4v1554315877464!5m2!1spl!2spl', style: { frameBorder: 0, border: 0 }, allowFullScreen: true }),
                     _react2.default.createElement(
                         'div',
                         { className: 'contactInfo' },
@@ -32255,7 +32706,7 @@ var Contact = function (_Component) {
                 ),
                 _react2.default.createElement(_EmailsInfo2.default, null),
                 _react2.default.createElement(_ContactForm2.default, null),
-                _react2.default.createElement(_Signature2.default, null)
+                _react2.default.createElement(_Signature2.default, { bigSize: bigSize })
             );
         }
     }]);
@@ -32266,7 +32717,7 @@ var Contact = function (_Component) {
 exports.default = Contact;
 
 /***/ }),
-/* 142 */
+/* 145 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32383,7 +32834,7 @@ var ContactForm = function (_Component) {
 exports.default = ContactForm;
 
 /***/ }),
-/* 143 */
+/* 146 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32466,13 +32917,13 @@ var EmailsInfo = function (_Component) {
 exports.default = EmailsInfo;
 
 /***/ }),
-/* 144 */
+/* 147 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "381a0a946c37350b02acc6b29d0310b4.jpg";
 
 /***/ }),
-/* 145 */
+/* 148 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32488,7 +32939,7 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _reactRouterDom = __webpack_require__(10);
+var _reactRouterDom = __webpack_require__(6);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
