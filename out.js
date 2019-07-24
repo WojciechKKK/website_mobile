@@ -60,7 +60,7 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 37);
+/******/ 	return __webpack_require__(__webpack_require__.s = 42);
 /******/ })
 /************************************************************************/
 /******/ ([
@@ -71,9 +71,9 @@
 /* WEBPACK VAR INJECTION */(function(process) {
 
 if (process.env.NODE_ENV === 'production') {
-  module.exports = __webpack_require__(42);
+  module.exports = __webpack_require__(47);
 } else {
-  module.exports = __webpack_require__(43);
+  module.exports = __webpack_require__(48);
 }
 
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
@@ -294,93 +294,17 @@ if (process.env.NODE_ENV !== 'production') {
   // By explicitly using `prop-types` you are opting into new development behavior.
   // http://fb.me/prop-types-in-prod
   var throwOnDirectAccess = true;
-  module.exports = __webpack_require__(59)(isValidElement, throwOnDirectAccess);
+  module.exports = __webpack_require__(64)(isValidElement, throwOnDirectAccess);
 } else {
   // By explicitly using `prop-types` you are opting into new production behavior.
   // http://fb.me/prop-types-in-prod
-  module.exports = __webpack_require__(60)();
+  module.exports = __webpack_require__(65)();
 }
 
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
 /* 3 */
-/***/ (function(module, exports) {
-
-module.exports = {"companyName":"ZEGAREX - Firma Sp. z o.o.","company":[{"type":"telefon","info":["+48 22 245 67 89","+48 987 654 321"],"imgClass":"fas fa-phone"},{"type":"e-mail","info":["adres_email@wp.pl","adres_email2@wp.pl"],"imgClass":"fas fa-envelope"},{"type":"biuro","info":["00-01 Warszawa","ul. Marszałkowska 123"],"imgClass":"fas fa-map-marked-alt"},{"type":"czat na żywo","info":["pon-pt: 8:00-16:00","sob-ndz: 10:00-14:00"],"imgClass":"fas fa-comments"}],"companyContact":[{"title":"Dział Sprzedaży","email":"sale@company.com"},{"title":"Relacje Inwestorskie","email":"biuroprasowe@company.com"},{"title":"Dla Mediów","email":"media@company.com"},{"title":"Dział Wsparcia","email":"support@company.com"}],"newsElement":[{"title":"Konwencja Casio","text":"W dniach 19-21.05.2019 po raz pierwszy w Warszawie odbyła się Konwencja Casio Europe. Była ona dedykowana głównie europejskim dystrybutorom. Ze względu na “30. rocznicę istnienia Grupy ZIBI S.A”. po raz pierwszy podjęto decyzję o jej organizacji w Warszawie.","url":"https://www.zibi.pl/wp-content/uploads/2019/05/konwencja-4-300x200.jpg"},{"title":"zegarki Kronaby","text":"Kronaby to ręcznie składane, stalowe, klasyczne zegarki, które łączą się ze smartfonem dając użytkownikowi szereg przydatnych funkcji jak np. “Odprowadź mnie do domu”, “Zapamiętaj to miejsce”, sygnalizacja połączenia poprzez ruch wskazówek czy zdalne sterowanie aparatem w telefonie.","url":"https://www.zibi.pl/wp-content/uploads/2018/11/NewBeautyShot_1080x1080-e1542366072841-300x200.jpg"},{"title":"Mini Moda","text":"Nowa kolekcja zegarków Lacoste. Moda na minimalizm nie może przeminąć, bo minimalizm jest ponadczasowy. Dokładnie tak jak „mała czarna”, biel latem, czy też złoto i cekiny w sezonie karnawałowym.","url":"https://www.zibi.pl/wp-content/uploads/2018/09/img_6811-300x200.jpg"},{"title":"G-SHOCK GA-710","text":"Co łączy zegarki G-SHOCK ze światem skateboardingu i rapu? Wspólne zasady oparte na łamaniu reguł gry, przyjętych schematów i norm, a wszystko po to, aby w efekcie stworzyć coś nowego, niekonwencjonalnego i ciekawego.","url":"https://www.zibi.pl/wp-content/uploads/2017/06/g-shock_no_comply_rap_instagram_carousel_01-300x200.jpg"},{"title":"Wygraj zegarek!","text":"Konkurs trwa do 23.12.2020. Co musisz zrobić? Wyślij nam swoje pozytywne selfie, polub nasz FP i zacznij obserwować nas na Instagramie.","url":"https://www.zibi.pl/wp-content/uploads/2017/01/qq-smile-konkurs-fb-styczen-2017-300x200.jpg"}],"productsElement":[{"title":"zegarki damskie","url":"../image/p2.jpg","text":"Piękna ozdoba kobiecego nadgarstka, dopełnienie stroju dla wyznaczenia własnego stylu. Pozwolą na ożywienie stylizacji, nadanie szyku czy stworzenie modnego look'u i wyróżnienie się z tłumu."},{"title":"zegarki męskie","url":"../image/p4.jpg","text":"To element, który jest niezwykle popularny, ponieważ zawsze prezentuje się elegancko i nigdy nie wychodzi z mody.  Dziś są wyrażeniem indywidualnego stylu oraz elementem, przy pomocy którego można wyróżnić swoją osobowość."},{"title":"bestsellery","url":"../image/p8.jpg","text":"Chcesz wybrać zegarek dla siebie, a może podaprować go komuś innemu?  Nie ma problemu, przedstawiamy zegarki, które cieszą się największym powodzeniem wśród naszych klientów."},{"title":"smartwatche","url":"../image/p9.jpg","text":"Inteligentne urządzenie, które pojawia się w portfolio coraz większej ilości marek. To coś więcej niż zwykły zegarek. Smartwatche łączą modne wzornictwo znamienne dla poszczególnych marek z zaawansowaną technologią, która daje cały szereg możliwości."},{"title":"zegarki sportowe","url":"../image/p13.jpg","text":"Charakteryzują się bogactwem praktycznych funkcji wspierających codzienny trening osób aktywnie uprawiających sport. W zależności od modelu zegarek sportowy wyposażony jest w podstawowe funkcje dla amatorów lub daje zaawansowane możliwości profesjonalnym sportowcom."}],"aboutUsElement":[{"paragraph":"Jesteśmy autoryzowanym sprzedawcą wszystkich oferowanych marek zegarków.  Doświadczenie w branży zegarmistrzowskiej oraz profesjonalizm świadczonych usług sprawiają, że grono naszych Klientów z dnia na dzień powiększa się."},{"paragraph":"W skład asortymentu wchodzą oryginalne zegarki bezpośrednio pochodzące od producentów. Ze znanych, dostępnych marek, proponujących tanie zegarki posiadamy w ofercie Casio, Timexa, Lorusa, a z firm oferujących drogie zegarki znajdziecie Państwo u nas marki Doxa, Seiko, Atlantic, czy najmodniejszych producentów, jak Fossil, Diesel, Cluse, Daniel Wellington czy Michael Kors."},{"paragraph":"Proponujemy bezpłatne doradztwo i przygotowujemy indywidualne wyceny, dopasowując je do potrzeb każdego klienta."},{"paragraph":"Naszym klientom gwarantujemy najniższe ceny za najwyższą jakość oraz profesjonalizm. Naszym priorytetem jest satysfakcja Klientów - dlatego dbając o podnoszenie jakości naszych usług nie zapominamy o obniżaniu cen oraz stwarzaniu dogodnych warunków zakupu."},{"paragraph":"Naszym klientom gwarantujemy najniższe ceny za najwyższą jakość oraz profesjonalizm. Naszym priorytetem jest satysfakcja Klientów - dlatego dbając o podnoszenie jakości naszych usług nie zapominamy o obniżaniu cen oraz stwarzaniu dogodnych warunków zakupu."}],"offerElement":[{"title":"certina","url":"../image/e1.jpg"},{"title":"tissot","url":"../image/e2.jpg"},{"title":"adriatica","url":"../image/e3.jpg"},{"title":"swatch","url":"../image/e4.jpg"},{"title":"aviator","url":"../image/e5.jpg"},{"title":"casio","url":"../image/e6.jpg"},{"title":"lorus","url":"../image/e7.jpg"},{"title":"seiko","url":"../image/e8.jpg"},{"title":"citizen","url":"../image/e9.jpg"},{"title":"orient","url":"../image/e10.jpg"},{"title":"g-shock","url":"../image/e11.jpg"},{"title":"diesel","url":"../image/e12.jpg"},{"title":"fossil","url":"../image/e13.jpg"},{"title":"timex","url":"../image/e14.jpg"},{"title":"ice-watch","url":"../image/e15.jpg"},{"title":"michael kors","url":"../image/e16.jpg"},{"title":"cluse","url":"../image/e17.jpg"},{"title":"suunto","url":"../image/e18.jpg"},{"title":"roamer","url":"../image/e19.jpg"},{"title":"festina","url":"../image/e20.jpg"},{"title":"doxa","url":"../image/e21.jpg"},{"title":"buloca","url":"../image/e22.jpg"},{"title":"vostok","url":"../image/e23.jpg"},{"title":"certina","url":"../image/e24.jpg"},{"title":"atlantic","url":"../image/e25.jpg"}],"signatureElement":"Jesteśmy autoryzowanym sprzedawcą wszystkich oferowanych marek zegarków. Zapraszamy do składania zapytań i korzystania z indywidualnie przygotowywanych ofert!","socialMedia":[{"href":"https://www.facebook.com/","class":"fab fa-facebook-square"},{"href":"https://www.instagram.com/","class":"fab fa-instagram"},{"href":"https://twitter.com/","class":"fab fa-twitter-square"},{"href":"https://www.linkedin.com//","class":"fab fa-linkedin"},{"href":"https://www.youtube.com/","class":"fab fa-youtube"}],"klucz":"wartość","klucz1":"wartość1"}
-
-/***/ }),
-/* 4 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-/* WEBPACK VAR INJECTION */(function(process) {/**
- * Copyright (c) 2014-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-
-
-/**
- * Similar to invariant but only logs a warning if the condition is not met.
- * This can be used to log issues in development environments in critical
- * paths. Removing the logging code for production environments will keep the
- * same logic and follow the same code paths.
- */
-
-var __DEV__ = process.env.NODE_ENV !== 'production';
-
-var warning = function() {};
-
-if (__DEV__) {
-  var printWarning = function printWarning(format, args) {
-    var len = arguments.length;
-    args = new Array(len > 1 ? len - 1 : 0);
-    for (var key = 1; key < len; key++) {
-      args[key - 1] = arguments[key];
-    }
-    var argIndex = 0;
-    var message = 'Warning: ' +
-      format.replace(/%s/g, function() {
-        return args[argIndex++];
-      });
-    if (typeof console !== 'undefined') {
-      console.error(message);
-    }
-    try {
-      // --- Welcome to debugging React ---
-      // This error was thrown as a convenience so that you can use this stack
-      // to find the callsite that caused this warning to fire.
-      throw new Error(message);
-    } catch (x) {}
-  }
-
-  warning = function(condition, format, args) {
-    var len = arguments.length;
-    args = new Array(len > 2 ? len - 2 : 0);
-    for (var key = 2; key < len; key++) {
-      args[key - 2] = arguments[key];
-    }
-    if (format === undefined) {
-      throw new Error(
-          '`warning(condition, format, ...args)` requires a warning ' +
-          'message argument'
-      );
-    }
-    if (!condition) {
-      printWarning.apply(null, [format].concat(args));
-    }
-  };
-}
-
-module.exports = warning;
-
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
-
-/***/ }),
-/* 5 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -437,38 +361,114 @@ module.exports = invariant;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
+/* 4 */
+/***/ (function(module, exports) {
+
+module.exports = {"companyName":"ZEGAREX - Firma Sp. z o.o.","company":[{"type":"telefon","info":["+48 22 245 67 89","+48 987 654 321"],"imgClass":"fas fa-phone"},{"type":"e-mail","info":["adres_email@wp.pl","adres_email2@wp.pl"],"imgClass":"fas fa-envelope"},{"type":"biuro","info":["00-01 Warszawa","ul. Marszałkowska 123"],"imgClass":"fas fa-map-marked-alt"},{"type":"czat na żywo","info":["pon-pt: 8:00-16:00","sob-ndz: 10:00-14:00"],"imgClass":"fas fa-comments"}],"companyContact":[{"title":"Dział Sprzedaży","email":"sale@company.com"},{"title":"Relacje Inwestorskie","email":"biuroprasowe@company.com"},{"title":"Dla Mediów","email":"media@company.com"},{"title":"Dział Wsparcia","email":"support@company.com"}],"newsElement":[{"title":"Konwencja Casio","text":"W dniach 19-21.05.2019 po raz pierwszy w Warszawie odbyła się Konwencja Casio Europe. Była ona dedykowana głównie europejskim dystrybutorom. Ze względu na “30. rocznicę istnienia Grupy ZIBI S.A”. po raz pierwszy podjęto decyzję o jej organizacji w Warszawie.","url":"https://www.zibi.pl/wp-content/uploads/2019/05/konwencja-4-300x200.jpg"},{"title":"zegarki Kronaby","text":"Kronaby to ręcznie składane, stalowe, klasyczne zegarki, które łączą się ze smartfonem dając użytkownikowi szereg przydatnych funkcji jak np. “Odprowadź mnie do domu”, “Zapamiętaj to miejsce”, sygnalizacja połączenia poprzez ruch wskazówek czy zdalne sterowanie aparatem w telefonie.","url":"https://www.zibi.pl/wp-content/uploads/2018/11/NewBeautyShot_1080x1080-e1542366072841-300x200.jpg"},{"title":"Mini Moda","text":"Nowa kolekcja zegarków Lacoste. Moda na minimalizm nie może przeminąć, bo minimalizm jest ponadczasowy. Dokładnie tak jak „mała czarna”, biel latem, czy też złoto i cekiny w sezonie karnawałowym.","url":"https://www.zibi.pl/wp-content/uploads/2018/09/img_6811-300x200.jpg"},{"title":"G-SHOCK GA-710","text":"Co łączy zegarki G-SHOCK ze światem skateboardingu i rapu? Wspólne zasady oparte na łamaniu reguł gry, przyjętych schematów i norm, a wszystko po to, aby w efekcie stworzyć coś nowego, niekonwencjonalnego i ciekawego.","url":"https://www.zibi.pl/wp-content/uploads/2017/06/g-shock_no_comply_rap_instagram_carousel_01-300x200.jpg"},{"title":"Wygraj zegarek!","text":"Konkurs trwa do 23.12.2020. Co musisz zrobić? Wyślij nam swoje pozytywne selfie, polub nasz FP i zacznij obserwować nas na Instagramie.","url":"https://www.zibi.pl/wp-content/uploads/2017/01/qq-smile-konkurs-fb-styczen-2017-300x200.jpg"}],"productsElement":[{"title":"zegarki damskie","url":"../image/p2.jpg","text":"Piękna ozdoba kobiecego nadgarstka, dopełnienie stroju dla wyznaczenia własnego stylu. Pozwolą na ożywienie stylizacji, nadanie szyku czy stworzenie modnego look'u i wyróżnienie się z tłumu."},{"title":"zegarki męskie","url":"../image/p4.jpg","text":"To element, który jest niezwykle popularny, ponieważ zawsze prezentuje się elegancko i nigdy nie wychodzi z mody.  Dziś są wyrażeniem indywidualnego stylu oraz elementem, przy pomocy którego można wyróżnić swoją osobowość."},{"title":"bestsellery","url":"../image/p8.jpg","text":"Chcesz wybrać zegarek dla siebie, a może podaprować go komuś innemu?  Nie ma problemu, przedstawiamy zegarki, które cieszą się największym powodzeniem wśród naszych klientów."},{"title":"smartwatche","url":"../image/p9.jpg","text":"Inteligentne urządzenie, które pojawia się w portfolio coraz większej ilości marek. To coś więcej niż zwykły zegarek. Smartwatche łączą modne wzornictwo znamienne dla poszczególnych marek z zaawansowaną technologią, która daje cały szereg możliwości."},{"title":"zegarki sportowe","url":"../image/p13.jpg","text":"Charakteryzują się bogactwem praktycznych funkcji wspierających codzienny trening osób aktywnie uprawiających sport. W zależności od modelu zegarek sportowy wyposażony jest w podstawowe funkcje dla amatorów lub daje zaawansowane możliwości profesjonalnym sportowcom."}],"aboutUsElement":[{"paragraph":"Jesteśmy autoryzowanym sprzedawcą wszystkich oferowanych marek zegarków.  Doświadczenie w branży zegarmistrzowskiej oraz profesjonalizm świadczonych usług sprawiają, że grono naszych Klientów z dnia na dzień powiększa się."},{"paragraph":"W skład asortymentu wchodzą oryginalne zegarki bezpośrednio pochodzące od producentów. Ze znanych, dostępnych marek, proponujących tanie zegarki posiadamy w ofercie Casio, Timexa, Lorusa, a z firm oferujących drogie zegarki znajdziecie Państwo u nas marki Doxa, Seiko, Atlantic, czy najmodniejszych producentów, jak Fossil, Diesel, Cluse, Daniel Wellington czy Michael Kors."},{"paragraph":"Proponujemy bezpłatne doradztwo i przygotowujemy indywidualne wyceny, dopasowując je do potrzeb każdego klienta."},{"paragraph":"Naszym klientom gwarantujemy najniższe ceny za najwyższą jakość oraz profesjonalizm. Naszym priorytetem jest satysfakcja Klientów - dlatego dbając o podnoszenie jakości naszych usług nie zapominamy o obniżaniu cen oraz stwarzaniu dogodnych warunków zakupu."},{"paragraph":"Naszym klientom gwarantujemy najniższe ceny za najwyższą jakość oraz profesjonalizm. Naszym priorytetem jest satysfakcja Klientów - dlatego dbając o podnoszenie jakości naszych usług nie zapominamy o obniżaniu cen oraz stwarzaniu dogodnych warunków zakupu."}],"offerElement":[{"title":"certina","url":"../image/e1.jpg"},{"title":"tissot","url":"../image/e2.jpg"},{"title":"adriatica","url":"../image/e3.jpg"},{"title":"swatch","url":"../image/e4.jpg"},{"title":"aviator","url":"../image/e5.jpg"},{"title":"casio","url":"../image/e6.jpg"},{"title":"lorus","url":"../image/e7.jpg"},{"title":"seiko","url":"../image/e8.jpg"},{"title":"citizen","url":"../image/e9.jpg"},{"title":"orient","url":"../image/e10.jpg"},{"title":"g-shock","url":"../image/e11.jpg"},{"title":"diesel","url":"../image/e12.jpg"},{"title":"fossil","url":"../image/e13.jpg"},{"title":"timex","url":"../image/e14.jpg"},{"title":"ice-watch","url":"../image/e15.jpg"},{"title":"michael kors","url":"../image/e16.jpg"},{"title":"cluse","url":"../image/e17.jpg"},{"title":"suunto","url":"../image/e18.jpg"},{"title":"roamer","url":"../image/e19.jpg"},{"title":"festina","url":"../image/e20.jpg"},{"title":"doxa","url":"../image/e21.jpg"},{"title":"buloca","url":"../image/e22.jpg"},{"title":"vostok","url":"../image/e23.jpg"},{"title":"certina","url":"../image/e24.jpg"},{"title":"atlantic","url":"../image/e25.jpg"}],"signatureElement":"Jesteśmy autoryzowanym sprzedawcą wszystkich oferowanych marek zegarków. Zapraszamy do składania zapytań i korzystania z indywidualnie przygotowywanych ofert!","socialMedia":[{"href":"https://www.facebook.com/","class":"fab fa-facebook-square"},{"href":"https://www.instagram.com/","class":"fab fa-instagram"},{"href":"https://twitter.com/","class":"fab fa-twitter-square"},{"href":"https://www.linkedin.com//","class":"fab fa-linkedin"},{"href":"https://www.youtube.com/","class":"fab fa-youtube"}],"klucz":"wartość","klucz1":"wartość1"}
+
+/***/ }),
+/* 5 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(process) {/**
+ * Copyright (c) 2014-present, Facebook, Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+
+
+/**
+ * Similar to invariant but only logs a warning if the condition is not met.
+ * This can be used to log issues in development environments in critical
+ * paths. Removing the logging code for production environments will keep the
+ * same logic and follow the same code paths.
+ */
+
+var __DEV__ = process.env.NODE_ENV !== 'production';
+
+var warning = function() {};
+
+if (__DEV__) {
+  var printWarning = function printWarning(format, args) {
+    var len = arguments.length;
+    args = new Array(len > 2 ? len - 2 : 0);
+    for (var key = 2; key < len; key++) {
+      args[key - 2] = arguments[key];
+    }
+    var argIndex = 0;
+    var message = 'Warning: ' +
+      format.replace(/%s/g, function() {
+        return args[argIndex++];
+      });
+    if (typeof console !== 'undefined') {
+      console.error(message);
+    }
+    try {
+      // --- Welcome to debugging React ---
+      // This error was thrown as a convenience so that you can use this stack
+      // to find the callsite that caused this warning to fire.
+      throw new Error(message);
+    } catch (x) {}
+  }
+
+  warning = function(condition, format, args) {
+    var len = arguments.length;
+    args = new Array(len > 2 ? len - 2 : 0);
+    for (var key = 2; key < len; key++) {
+      args[key - 2] = arguments[key];
+    }
+    if (format === undefined) {
+      throw new Error(
+          '`warning(condition, format, ...args)` requires a warning ' +
+          'message argument'
+      );
+    }
+    if (!condition) {
+      printWarning.apply(null, [format].concat(args));
+    }
+  };
+}
+
+module.exports = warning;
+
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
+
+/***/ }),
 /* 6 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__BrowserRouter__ = __webpack_require__(58);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__BrowserRouter__ = __webpack_require__(63);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "BrowserRouter", function() { return __WEBPACK_IMPORTED_MODULE_0__BrowserRouter__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__HashRouter__ = __webpack_require__(66);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__HashRouter__ = __webpack_require__(71);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "HashRouter", function() { return __WEBPACK_IMPORTED_MODULE_1__HashRouter__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Link__ = __webpack_require__(30);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Link__ = __webpack_require__(35);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Link", function() { return __WEBPACK_IMPORTED_MODULE_2__Link__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__MemoryRouter__ = __webpack_require__(67);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__MemoryRouter__ = __webpack_require__(72);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "MemoryRouter", function() { return __WEBPACK_IMPORTED_MODULE_3__MemoryRouter__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NavLink__ = __webpack_require__(69);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NavLink__ = __webpack_require__(74);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "NavLink", function() { return __WEBPACK_IMPORTED_MODULE_4__NavLink__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__Prompt__ = __webpack_require__(71);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__Prompt__ = __webpack_require__(76);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Prompt", function() { return __WEBPACK_IMPORTED_MODULE_5__Prompt__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__Redirect__ = __webpack_require__(73);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__Redirect__ = __webpack_require__(78);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Redirect", function() { return __WEBPACK_IMPORTED_MODULE_6__Redirect__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__Route__ = __webpack_require__(31);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__Route__ = __webpack_require__(36);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Route", function() { return __WEBPACK_IMPORTED_MODULE_7__Route__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__Router__ = __webpack_require__(19);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__Router__ = __webpack_require__(23);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Router", function() { return __WEBPACK_IMPORTED_MODULE_8__Router__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__StaticRouter__ = __webpack_require__(75);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__StaticRouter__ = __webpack_require__(80);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "StaticRouter", function() { return __WEBPACK_IMPORTED_MODULE_9__StaticRouter__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__Switch__ = __webpack_require__(77);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__Switch__ = __webpack_require__(82);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Switch", function() { return __WEBPACK_IMPORTED_MODULE_10__Switch__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__generatePath__ = __webpack_require__(79);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__generatePath__ = __webpack_require__(84);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "generatePath", function() { return __WEBPACK_IMPORTED_MODULE_11__generatePath__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__matchPath__ = __webpack_require__(80);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__matchPath__ = __webpack_require__(85);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "matchPath", function() { return __WEBPACK_IMPORTED_MODULE_12__matchPath__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__withRouter__ = __webpack_require__(81);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__withRouter__ = __webpack_require__(86);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "withRouter", function() { return __WEBPACK_IMPORTED_MODULE_13__withRouter__["a"]; });
 
 
@@ -504,924 +504,27 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(process) {/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return createBrowserHistory; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return createHashHistory; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return createMemoryHistory; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return createLocation; });
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return locationsAreEqual; });
-/* unused harmony export parsePath */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return createPath; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__babel_runtime_helpers_esm_extends__ = __webpack_require__(61);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_resolve_pathname__ = __webpack_require__(62);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_value_equal__ = __webpack_require__(63);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_tiny_warning__ = __webpack_require__(64);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_tiny_invariant__ = __webpack_require__(65);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__createBrowserHistory__ = __webpack_require__(66);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__createBrowserHistory__["a"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__createHashHistory__ = __webpack_require__(69);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_1__createHashHistory__["a"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__createMemoryHistory__ = __webpack_require__(70);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_2__createMemoryHistory__["a"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__LocationUtils__ = __webpack_require__(17);
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_3__LocationUtils__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_3__LocationUtils__["b"]; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__PathUtils__ = __webpack_require__(11);
+/* unused harmony reexport parsePath */
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return __WEBPACK_IMPORTED_MODULE_4__PathUtils__["b"]; });
 
 
 
 
 
 
-function addLeadingSlash(path) {
-  return path.charAt(0) === '/' ? path : '/' + path;
-}
-function stripLeadingSlash(path) {
-  return path.charAt(0) === '/' ? path.substr(1) : path;
-}
-function hasBasename(path, prefix) {
-  return new RegExp('^' + prefix + '(\\/|\\?|#|$)', 'i').test(path);
-}
-function stripBasename(path, prefix) {
-  return hasBasename(path, prefix) ? path.substr(prefix.length) : path;
-}
-function stripTrailingSlash(path) {
-  return path.charAt(path.length - 1) === '/' ? path.slice(0, -1) : path;
-}
-function parsePath(path) {
-  var pathname = path || '/';
-  var search = '';
-  var hash = '';
-  var hashIndex = pathname.indexOf('#');
 
-  if (hashIndex !== -1) {
-    hash = pathname.substr(hashIndex);
-    pathname = pathname.substr(0, hashIndex);
-  }
 
-  var searchIndex = pathname.indexOf('?');
 
-  if (searchIndex !== -1) {
-    search = pathname.substr(searchIndex);
-    pathname = pathname.substr(0, searchIndex);
-  }
-
-  return {
-    pathname: pathname,
-    search: search === '?' ? '' : search,
-    hash: hash === '#' ? '' : hash
-  };
-}
-function createPath(location) {
-  var pathname = location.pathname,
-      search = location.search,
-      hash = location.hash;
-  var path = pathname || '/';
-  if (search && search !== '?') path += search.charAt(0) === '?' ? search : "?" + search;
-  if (hash && hash !== '#') path += hash.charAt(0) === '#' ? hash : "#" + hash;
-  return path;
-}
-
-function createLocation(path, state, key, currentLocation) {
-  var location;
-
-  if (typeof path === 'string') {
-    // Two-arg form: push(path, state)
-    location = parsePath(path);
-    location.state = state;
-  } else {
-    // One-arg form: push(location)
-    location = Object(__WEBPACK_IMPORTED_MODULE_0__babel_runtime_helpers_esm_extends__["a" /* default */])({}, path);
-    if (location.pathname === undefined) location.pathname = '';
-
-    if (location.search) {
-      if (location.search.charAt(0) !== '?') location.search = '?' + location.search;
-    } else {
-      location.search = '';
-    }
-
-    if (location.hash) {
-      if (location.hash.charAt(0) !== '#') location.hash = '#' + location.hash;
-    } else {
-      location.hash = '';
-    }
-
-    if (state !== undefined && location.state === undefined) location.state = state;
-  }
-
-  try {
-    location.pathname = decodeURI(location.pathname);
-  } catch (e) {
-    if (e instanceof URIError) {
-      throw new URIError('Pathname "' + location.pathname + '" could not be decoded. ' + 'This is likely caused by an invalid percent-encoding.');
-    } else {
-      throw e;
-    }
-  }
-
-  if (key) location.key = key;
-
-  if (currentLocation) {
-    // Resolve incomplete/relative pathname relative to current location.
-    if (!location.pathname) {
-      location.pathname = currentLocation.pathname;
-    } else if (location.pathname.charAt(0) !== '/') {
-      location.pathname = Object(__WEBPACK_IMPORTED_MODULE_1_resolve_pathname__["a" /* default */])(location.pathname, currentLocation.pathname);
-    }
-  } else {
-    // When there is no prior location and pathname is empty, set it to /
-    if (!location.pathname) {
-      location.pathname = '/';
-    }
-  }
-
-  return location;
-}
-function locationsAreEqual(a, b) {
-  return a.pathname === b.pathname && a.search === b.search && a.hash === b.hash && a.key === b.key && Object(__WEBPACK_IMPORTED_MODULE_2_value_equal__["a" /* default */])(a.state, b.state);
-}
-
-function createTransitionManager() {
-  var prompt = null;
-
-  function setPrompt(nextPrompt) {
-    process.env.NODE_ENV !== "production" ? Object(__WEBPACK_IMPORTED_MODULE_3_tiny_warning__["a" /* default */])(prompt == null, 'A history supports only one prompt at a time') : void 0;
-    prompt = nextPrompt;
-    return function () {
-      if (prompt === nextPrompt) prompt = null;
-    };
-  }
-
-  function confirmTransitionTo(location, action, getUserConfirmation, callback) {
-    // TODO: If another transition starts while we're still confirming
-    // the previous one, we may end up in a weird state. Figure out the
-    // best way to handle this.
-    if (prompt != null) {
-      var result = typeof prompt === 'function' ? prompt(location, action) : prompt;
-
-      if (typeof result === 'string') {
-        if (typeof getUserConfirmation === 'function') {
-          getUserConfirmation(result, callback);
-        } else {
-          process.env.NODE_ENV !== "production" ? Object(__WEBPACK_IMPORTED_MODULE_3_tiny_warning__["a" /* default */])(false, 'A history needs a getUserConfirmation function in order to use a prompt message') : void 0;
-          callback(true);
-        }
-      } else {
-        // Return false from a transition hook to cancel the transition.
-        callback(result !== false);
-      }
-    } else {
-      callback(true);
-    }
-  }
-
-  var listeners = [];
-
-  function appendListener(fn) {
-    var isActive = true;
-
-    function listener() {
-      if (isActive) fn.apply(void 0, arguments);
-    }
-
-    listeners.push(listener);
-    return function () {
-      isActive = false;
-      listeners = listeners.filter(function (item) {
-        return item !== listener;
-      });
-    };
-  }
-
-  function notifyListeners() {
-    for (var _len = arguments.length, args = new Array(_len), _key = 0; _key < _len; _key++) {
-      args[_key] = arguments[_key];
-    }
-
-    listeners.forEach(function (listener) {
-      return listener.apply(void 0, args);
-    });
-  }
-
-  return {
-    setPrompt: setPrompt,
-    confirmTransitionTo: confirmTransitionTo,
-    appendListener: appendListener,
-    notifyListeners: notifyListeners
-  };
-}
-
-var canUseDOM = !!(typeof window !== 'undefined' && window.document && window.document.createElement);
-function getConfirmation(message, callback) {
-  callback(window.confirm(message)); // eslint-disable-line no-alert
-}
-/**
- * Returns true if the HTML5 history API is supported. Taken from Modernizr.
- *
- * https://github.com/Modernizr/Modernizr/blob/master/LICENSE
- * https://github.com/Modernizr/Modernizr/blob/master/feature-detects/history.js
- * changed to avoid false negatives for Windows Phones: https://github.com/reactjs/react-router/issues/586
- */
-
-function supportsHistory() {
-  var ua = window.navigator.userAgent;
-  if ((ua.indexOf('Android 2.') !== -1 || ua.indexOf('Android 4.0') !== -1) && ua.indexOf('Mobile Safari') !== -1 && ua.indexOf('Chrome') === -1 && ua.indexOf('Windows Phone') === -1) return false;
-  return window.history && 'pushState' in window.history;
-}
-/**
- * Returns true if browser fires popstate on hash change.
- * IE10 and IE11 do not.
- */
-
-function supportsPopStateOnHashChange() {
-  return window.navigator.userAgent.indexOf('Trident') === -1;
-}
-/**
- * Returns false if using go(n) with hash history causes a full page reload.
- */
-
-function supportsGoWithoutReloadUsingHash() {
-  return window.navigator.userAgent.indexOf('Firefox') === -1;
-}
-/**
- * Returns true if a given popstate event is an extraneous WebKit event.
- * Accounts for the fact that Chrome on iOS fires real popstate events
- * containing undefined state when pressing the back button.
- */
-
-function isExtraneousPopstateEvent(event) {
-  event.state === undefined && navigator.userAgent.indexOf('CriOS') === -1;
-}
-
-var PopStateEvent = 'popstate';
-var HashChangeEvent = 'hashchange';
-
-function getHistoryState() {
-  try {
-    return window.history.state || {};
-  } catch (e) {
-    // IE 11 sometimes throws when accessing window.history.state
-    // See https://github.com/ReactTraining/history/pull/289
-    return {};
-  }
-}
-/**
- * Creates a history object that uses the HTML5 history API including
- * pushState, replaceState, and the popstate event.
- */
-
-
-function createBrowserHistory(props) {
-  if (props === void 0) {
-    props = {};
-  }
-
-  !canUseDOM ? process.env.NODE_ENV !== "production" ? Object(__WEBPACK_IMPORTED_MODULE_4_tiny_invariant__["a" /* default */])(false, 'Browser history needs a DOM') : Object(__WEBPACK_IMPORTED_MODULE_4_tiny_invariant__["a" /* default */])(false) : void 0;
-  var globalHistory = window.history;
-  var canUseHistory = supportsHistory();
-  var needsHashChangeListener = !supportsPopStateOnHashChange();
-  var _props = props,
-      _props$forceRefresh = _props.forceRefresh,
-      forceRefresh = _props$forceRefresh === void 0 ? false : _props$forceRefresh,
-      _props$getUserConfirm = _props.getUserConfirmation,
-      getUserConfirmation = _props$getUserConfirm === void 0 ? getConfirmation : _props$getUserConfirm,
-      _props$keyLength = _props.keyLength,
-      keyLength = _props$keyLength === void 0 ? 6 : _props$keyLength;
-  var basename = props.basename ? stripTrailingSlash(addLeadingSlash(props.basename)) : '';
-
-  function getDOMLocation(historyState) {
-    var _ref = historyState || {},
-        key = _ref.key,
-        state = _ref.state;
-
-    var _window$location = window.location,
-        pathname = _window$location.pathname,
-        search = _window$location.search,
-        hash = _window$location.hash;
-    var path = pathname + search + hash;
-    process.env.NODE_ENV !== "production" ? Object(__WEBPACK_IMPORTED_MODULE_3_tiny_warning__["a" /* default */])(!basename || hasBasename(path, basename), 'You are attempting to use a basename on a page whose URL path does not begin ' + 'with the basename. Expected path "' + path + '" to begin with "' + basename + '".') : void 0;
-    if (basename) path = stripBasename(path, basename);
-    return createLocation(path, state, key);
-  }
-
-  function createKey() {
-    return Math.random().toString(36).substr(2, keyLength);
-  }
-
-  var transitionManager = createTransitionManager();
-
-  function setState(nextState) {
-    Object(__WEBPACK_IMPORTED_MODULE_0__babel_runtime_helpers_esm_extends__["a" /* default */])(history, nextState);
-
-    history.length = globalHistory.length;
-    transitionManager.notifyListeners(history.location, history.action);
-  }
-
-  function handlePopState(event) {
-    // Ignore extraneous popstate events in WebKit.
-    if (isExtraneousPopstateEvent(event)) return;
-    handlePop(getDOMLocation(event.state));
-  }
-
-  function handleHashChange() {
-    handlePop(getDOMLocation(getHistoryState()));
-  }
-
-  var forceNextPop = false;
-
-  function handlePop(location) {
-    if (forceNextPop) {
-      forceNextPop = false;
-      setState();
-    } else {
-      var action = 'POP';
-      transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
-        if (ok) {
-          setState({
-            action: action,
-            location: location
-          });
-        } else {
-          revertPop(location);
-        }
-      });
-    }
-  }
-
-  function revertPop(fromLocation) {
-    var toLocation = history.location; // TODO: We could probably make this more reliable by
-    // keeping a list of keys we've seen in sessionStorage.
-    // Instead, we just default to 0 for keys we don't know.
-
-    var toIndex = allKeys.indexOf(toLocation.key);
-    if (toIndex === -1) toIndex = 0;
-    var fromIndex = allKeys.indexOf(fromLocation.key);
-    if (fromIndex === -1) fromIndex = 0;
-    var delta = toIndex - fromIndex;
-
-    if (delta) {
-      forceNextPop = true;
-      go(delta);
-    }
-  }
-
-  var initialLocation = getDOMLocation(getHistoryState());
-  var allKeys = [initialLocation.key]; // Public interface
-
-  function createHref(location) {
-    return basename + createPath(location);
-  }
-
-  function push(path, state) {
-    process.env.NODE_ENV !== "production" ? Object(__WEBPACK_IMPORTED_MODULE_3_tiny_warning__["a" /* default */])(!(typeof path === 'object' && path.state !== undefined && state !== undefined), 'You should avoid providing a 2nd state argument to push when the 1st ' + 'argument is a location-like object that already has state; it is ignored') : void 0;
-    var action = 'PUSH';
-    var location = createLocation(path, state, createKey(), history.location);
-    transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
-      if (!ok) return;
-      var href = createHref(location);
-      var key = location.key,
-          state = location.state;
-
-      if (canUseHistory) {
-        globalHistory.pushState({
-          key: key,
-          state: state
-        }, null, href);
-
-        if (forceRefresh) {
-          window.location.href = href;
-        } else {
-          var prevIndex = allKeys.indexOf(history.location.key);
-          var nextKeys = allKeys.slice(0, prevIndex === -1 ? 0 : prevIndex + 1);
-          nextKeys.push(location.key);
-          allKeys = nextKeys;
-          setState({
-            action: action,
-            location: location
-          });
-        }
-      } else {
-        process.env.NODE_ENV !== "production" ? Object(__WEBPACK_IMPORTED_MODULE_3_tiny_warning__["a" /* default */])(state === undefined, 'Browser history cannot push state in browsers that do not support HTML5 history') : void 0;
-        window.location.href = href;
-      }
-    });
-  }
-
-  function replace(path, state) {
-    process.env.NODE_ENV !== "production" ? Object(__WEBPACK_IMPORTED_MODULE_3_tiny_warning__["a" /* default */])(!(typeof path === 'object' && path.state !== undefined && state !== undefined), 'You should avoid providing a 2nd state argument to replace when the 1st ' + 'argument is a location-like object that already has state; it is ignored') : void 0;
-    var action = 'REPLACE';
-    var location = createLocation(path, state, createKey(), history.location);
-    transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
-      if (!ok) return;
-      var href = createHref(location);
-      var key = location.key,
-          state = location.state;
-
-      if (canUseHistory) {
-        globalHistory.replaceState({
-          key: key,
-          state: state
-        }, null, href);
-
-        if (forceRefresh) {
-          window.location.replace(href);
-        } else {
-          var prevIndex = allKeys.indexOf(history.location.key);
-          if (prevIndex !== -1) allKeys[prevIndex] = location.key;
-          setState({
-            action: action,
-            location: location
-          });
-        }
-      } else {
-        process.env.NODE_ENV !== "production" ? Object(__WEBPACK_IMPORTED_MODULE_3_tiny_warning__["a" /* default */])(state === undefined, 'Browser history cannot replace state in browsers that do not support HTML5 history') : void 0;
-        window.location.replace(href);
-      }
-    });
-  }
-
-  function go(n) {
-    globalHistory.go(n);
-  }
-
-  function goBack() {
-    go(-1);
-  }
-
-  function goForward() {
-    go(1);
-  }
-
-  var listenerCount = 0;
-
-  function checkDOMListeners(delta) {
-    listenerCount += delta;
-
-    if (listenerCount === 1 && delta === 1) {
-      window.addEventListener(PopStateEvent, handlePopState);
-      if (needsHashChangeListener) window.addEventListener(HashChangeEvent, handleHashChange);
-    } else if (listenerCount === 0) {
-      window.removeEventListener(PopStateEvent, handlePopState);
-      if (needsHashChangeListener) window.removeEventListener(HashChangeEvent, handleHashChange);
-    }
-  }
-
-  var isBlocked = false;
-
-  function block(prompt) {
-    if (prompt === void 0) {
-      prompt = false;
-    }
-
-    var unblock = transitionManager.setPrompt(prompt);
-
-    if (!isBlocked) {
-      checkDOMListeners(1);
-      isBlocked = true;
-    }
-
-    return function () {
-      if (isBlocked) {
-        isBlocked = false;
-        checkDOMListeners(-1);
-      }
-
-      return unblock();
-    };
-  }
-
-  function listen(listener) {
-    var unlisten = transitionManager.appendListener(listener);
-    checkDOMListeners(1);
-    return function () {
-      checkDOMListeners(-1);
-      unlisten();
-    };
-  }
-
-  var history = {
-    length: globalHistory.length,
-    action: 'POP',
-    location: initialLocation,
-    createHref: createHref,
-    push: push,
-    replace: replace,
-    go: go,
-    goBack: goBack,
-    goForward: goForward,
-    block: block,
-    listen: listen
-  };
-  return history;
-}
-
-var HashChangeEvent$1 = 'hashchange';
-var HashPathCoders = {
-  hashbang: {
-    encodePath: function encodePath(path) {
-      return path.charAt(0) === '!' ? path : '!/' + stripLeadingSlash(path);
-    },
-    decodePath: function decodePath(path) {
-      return path.charAt(0) === '!' ? path.substr(1) : path;
-    }
-  },
-  noslash: {
-    encodePath: stripLeadingSlash,
-    decodePath: addLeadingSlash
-  },
-  slash: {
-    encodePath: addLeadingSlash,
-    decodePath: addLeadingSlash
-  }
-};
-
-function getHashPath() {
-  // We can't use window.location.hash here because it's not
-  // consistent across browsers - Firefox will pre-decode it!
-  var href = window.location.href;
-  var hashIndex = href.indexOf('#');
-  return hashIndex === -1 ? '' : href.substring(hashIndex + 1);
-}
-
-function pushHashPath(path) {
-  window.location.hash = path;
-}
-
-function replaceHashPath(path) {
-  var hashIndex = window.location.href.indexOf('#');
-  window.location.replace(window.location.href.slice(0, hashIndex >= 0 ? hashIndex : 0) + '#' + path);
-}
-
-function createHashHistory(props) {
-  if (props === void 0) {
-    props = {};
-  }
-
-  !canUseDOM ? process.env.NODE_ENV !== "production" ? Object(__WEBPACK_IMPORTED_MODULE_4_tiny_invariant__["a" /* default */])(false, 'Hash history needs a DOM') : Object(__WEBPACK_IMPORTED_MODULE_4_tiny_invariant__["a" /* default */])(false) : void 0;
-  var globalHistory = window.history;
-  var canGoWithoutReload = supportsGoWithoutReloadUsingHash();
-  var _props = props,
-      _props$getUserConfirm = _props.getUserConfirmation,
-      getUserConfirmation = _props$getUserConfirm === void 0 ? getConfirmation : _props$getUserConfirm,
-      _props$hashType = _props.hashType,
-      hashType = _props$hashType === void 0 ? 'slash' : _props$hashType;
-  var basename = props.basename ? stripTrailingSlash(addLeadingSlash(props.basename)) : '';
-  var _HashPathCoders$hashT = HashPathCoders[hashType],
-      encodePath = _HashPathCoders$hashT.encodePath,
-      decodePath = _HashPathCoders$hashT.decodePath;
-
-  function getDOMLocation() {
-    var path = decodePath(getHashPath());
-    process.env.NODE_ENV !== "production" ? Object(__WEBPACK_IMPORTED_MODULE_3_tiny_warning__["a" /* default */])(!basename || hasBasename(path, basename), 'You are attempting to use a basename on a page whose URL path does not begin ' + 'with the basename. Expected path "' + path + '" to begin with "' + basename + '".') : void 0;
-    if (basename) path = stripBasename(path, basename);
-    return createLocation(path);
-  }
-
-  var transitionManager = createTransitionManager();
-
-  function setState(nextState) {
-    Object(__WEBPACK_IMPORTED_MODULE_0__babel_runtime_helpers_esm_extends__["a" /* default */])(history, nextState);
-
-    history.length = globalHistory.length;
-    transitionManager.notifyListeners(history.location, history.action);
-  }
-
-  var forceNextPop = false;
-  var ignorePath = null;
-
-  function handleHashChange() {
-    var path = getHashPath();
-    var encodedPath = encodePath(path);
-
-    if (path !== encodedPath) {
-      // Ensure we always have a properly-encoded hash.
-      replaceHashPath(encodedPath);
-    } else {
-      var location = getDOMLocation();
-      var prevLocation = history.location;
-      if (!forceNextPop && locationsAreEqual(prevLocation, location)) return; // A hashchange doesn't always == location change.
-
-      if (ignorePath === createPath(location)) return; // Ignore this change; we already setState in push/replace.
-
-      ignorePath = null;
-      handlePop(location);
-    }
-  }
-
-  function handlePop(location) {
-    if (forceNextPop) {
-      forceNextPop = false;
-      setState();
-    } else {
-      var action = 'POP';
-      transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
-        if (ok) {
-          setState({
-            action: action,
-            location: location
-          });
-        } else {
-          revertPop(location);
-        }
-      });
-    }
-  }
-
-  function revertPop(fromLocation) {
-    var toLocation = history.location; // TODO: We could probably make this more reliable by
-    // keeping a list of paths we've seen in sessionStorage.
-    // Instead, we just default to 0 for paths we don't know.
-
-    var toIndex = allPaths.lastIndexOf(createPath(toLocation));
-    if (toIndex === -1) toIndex = 0;
-    var fromIndex = allPaths.lastIndexOf(createPath(fromLocation));
-    if (fromIndex === -1) fromIndex = 0;
-    var delta = toIndex - fromIndex;
-
-    if (delta) {
-      forceNextPop = true;
-      go(delta);
-    }
-  } // Ensure the hash is encoded properly before doing anything else.
-
-
-  var path = getHashPath();
-  var encodedPath = encodePath(path);
-  if (path !== encodedPath) replaceHashPath(encodedPath);
-  var initialLocation = getDOMLocation();
-  var allPaths = [createPath(initialLocation)]; // Public interface
-
-  function createHref(location) {
-    return '#' + encodePath(basename + createPath(location));
-  }
-
-  function push(path, state) {
-    process.env.NODE_ENV !== "production" ? Object(__WEBPACK_IMPORTED_MODULE_3_tiny_warning__["a" /* default */])(state === undefined, 'Hash history cannot push state; it is ignored') : void 0;
-    var action = 'PUSH';
-    var location = createLocation(path, undefined, undefined, history.location);
-    transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
-      if (!ok) return;
-      var path = createPath(location);
-      var encodedPath = encodePath(basename + path);
-      var hashChanged = getHashPath() !== encodedPath;
-
-      if (hashChanged) {
-        // We cannot tell if a hashchange was caused by a PUSH, so we'd
-        // rather setState here and ignore the hashchange. The caveat here
-        // is that other hash histories in the page will consider it a POP.
-        ignorePath = path;
-        pushHashPath(encodedPath);
-        var prevIndex = allPaths.lastIndexOf(createPath(history.location));
-        var nextPaths = allPaths.slice(0, prevIndex === -1 ? 0 : prevIndex + 1);
-        nextPaths.push(path);
-        allPaths = nextPaths;
-        setState({
-          action: action,
-          location: location
-        });
-      } else {
-        process.env.NODE_ENV !== "production" ? Object(__WEBPACK_IMPORTED_MODULE_3_tiny_warning__["a" /* default */])(false, 'Hash history cannot PUSH the same path; a new entry will not be added to the history stack') : void 0;
-        setState();
-      }
-    });
-  }
-
-  function replace(path, state) {
-    process.env.NODE_ENV !== "production" ? Object(__WEBPACK_IMPORTED_MODULE_3_tiny_warning__["a" /* default */])(state === undefined, 'Hash history cannot replace state; it is ignored') : void 0;
-    var action = 'REPLACE';
-    var location = createLocation(path, undefined, undefined, history.location);
-    transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
-      if (!ok) return;
-      var path = createPath(location);
-      var encodedPath = encodePath(basename + path);
-      var hashChanged = getHashPath() !== encodedPath;
-
-      if (hashChanged) {
-        // We cannot tell if a hashchange was caused by a REPLACE, so we'd
-        // rather setState here and ignore the hashchange. The caveat here
-        // is that other hash histories in the page will consider it a POP.
-        ignorePath = path;
-        replaceHashPath(encodedPath);
-      }
-
-      var prevIndex = allPaths.indexOf(createPath(history.location));
-      if (prevIndex !== -1) allPaths[prevIndex] = path;
-      setState({
-        action: action,
-        location: location
-      });
-    });
-  }
-
-  function go(n) {
-    process.env.NODE_ENV !== "production" ? Object(__WEBPACK_IMPORTED_MODULE_3_tiny_warning__["a" /* default */])(canGoWithoutReload, 'Hash history go(n) causes a full page reload in this browser') : void 0;
-    globalHistory.go(n);
-  }
-
-  function goBack() {
-    go(-1);
-  }
-
-  function goForward() {
-    go(1);
-  }
-
-  var listenerCount = 0;
-
-  function checkDOMListeners(delta) {
-    listenerCount += delta;
-
-    if (listenerCount === 1 && delta === 1) {
-      window.addEventListener(HashChangeEvent$1, handleHashChange);
-    } else if (listenerCount === 0) {
-      window.removeEventListener(HashChangeEvent$1, handleHashChange);
-    }
-  }
-
-  var isBlocked = false;
-
-  function block(prompt) {
-    if (prompt === void 0) {
-      prompt = false;
-    }
-
-    var unblock = transitionManager.setPrompt(prompt);
-
-    if (!isBlocked) {
-      checkDOMListeners(1);
-      isBlocked = true;
-    }
-
-    return function () {
-      if (isBlocked) {
-        isBlocked = false;
-        checkDOMListeners(-1);
-      }
-
-      return unblock();
-    };
-  }
-
-  function listen(listener) {
-    var unlisten = transitionManager.appendListener(listener);
-    checkDOMListeners(1);
-    return function () {
-      checkDOMListeners(-1);
-      unlisten();
-    };
-  }
-
-  var history = {
-    length: globalHistory.length,
-    action: 'POP',
-    location: initialLocation,
-    createHref: createHref,
-    push: push,
-    replace: replace,
-    go: go,
-    goBack: goBack,
-    goForward: goForward,
-    block: block,
-    listen: listen
-  };
-  return history;
-}
-
-function clamp(n, lowerBound, upperBound) {
-  return Math.min(Math.max(n, lowerBound), upperBound);
-}
-/**
- * Creates a history object that stores locations in memory.
- */
-
-
-function createMemoryHistory(props) {
-  if (props === void 0) {
-    props = {};
-  }
-
-  var _props = props,
-      getUserConfirmation = _props.getUserConfirmation,
-      _props$initialEntries = _props.initialEntries,
-      initialEntries = _props$initialEntries === void 0 ? ['/'] : _props$initialEntries,
-      _props$initialIndex = _props.initialIndex,
-      initialIndex = _props$initialIndex === void 0 ? 0 : _props$initialIndex,
-      _props$keyLength = _props.keyLength,
-      keyLength = _props$keyLength === void 0 ? 6 : _props$keyLength;
-  var transitionManager = createTransitionManager();
-
-  function setState(nextState) {
-    Object(__WEBPACK_IMPORTED_MODULE_0__babel_runtime_helpers_esm_extends__["a" /* default */])(history, nextState);
-
-    history.length = history.entries.length;
-    transitionManager.notifyListeners(history.location, history.action);
-  }
-
-  function createKey() {
-    return Math.random().toString(36).substr(2, keyLength);
-  }
-
-  var index = clamp(initialIndex, 0, initialEntries.length - 1);
-  var entries = initialEntries.map(function (entry) {
-    return typeof entry === 'string' ? createLocation(entry, undefined, createKey()) : createLocation(entry, undefined, entry.key || createKey());
-  }); // Public interface
-
-  var createHref = createPath;
-
-  function push(path, state) {
-    process.env.NODE_ENV !== "production" ? Object(__WEBPACK_IMPORTED_MODULE_3_tiny_warning__["a" /* default */])(!(typeof path === 'object' && path.state !== undefined && state !== undefined), 'You should avoid providing a 2nd state argument to push when the 1st ' + 'argument is a location-like object that already has state; it is ignored') : void 0;
-    var action = 'PUSH';
-    var location = createLocation(path, state, createKey(), history.location);
-    transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
-      if (!ok) return;
-      var prevIndex = history.index;
-      var nextIndex = prevIndex + 1;
-      var nextEntries = history.entries.slice(0);
-
-      if (nextEntries.length > nextIndex) {
-        nextEntries.splice(nextIndex, nextEntries.length - nextIndex, location);
-      } else {
-        nextEntries.push(location);
-      }
-
-      setState({
-        action: action,
-        location: location,
-        index: nextIndex,
-        entries: nextEntries
-      });
-    });
-  }
-
-  function replace(path, state) {
-    process.env.NODE_ENV !== "production" ? Object(__WEBPACK_IMPORTED_MODULE_3_tiny_warning__["a" /* default */])(!(typeof path === 'object' && path.state !== undefined && state !== undefined), 'You should avoid providing a 2nd state argument to replace when the 1st ' + 'argument is a location-like object that already has state; it is ignored') : void 0;
-    var action = 'REPLACE';
-    var location = createLocation(path, state, createKey(), history.location);
-    transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
-      if (!ok) return;
-      history.entries[history.index] = location;
-      setState({
-        action: action,
-        location: location
-      });
-    });
-  }
-
-  function go(n) {
-    var nextIndex = clamp(history.index + n, 0, history.entries.length - 1);
-    var action = 'POP';
-    var location = history.entries[nextIndex];
-    transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
-      if (ok) {
-        setState({
-          action: action,
-          location: location,
-          index: nextIndex
-        });
-      } else {
-        // Mimic the behavior of DOM histories by
-        // causing a render after a cancelled POP.
-        setState();
-      }
-    });
-  }
-
-  function goBack() {
-    go(-1);
-  }
-
-  function goForward() {
-    go(1);
-  }
-
-  function canGo(n) {
-    var nextIndex = history.index + n;
-    return nextIndex >= 0 && nextIndex < history.entries.length;
-  }
-
-  function block(prompt) {
-    if (prompt === void 0) {
-      prompt = false;
-    }
-
-    return transitionManager.setPrompt(prompt);
-  }
-
-  function listen(listener) {
-    return transitionManager.appendListener(listener);
-  }
-
-  var history = {
-    length: entries.length,
-    action: 'POP',
-    location: entries[index],
-    index: index,
-    entries: entries,
-    createHref: createHref,
-    push: push,
-    replace: replace,
-    go: go,
-    goBack: goBack,
-    goForward: goForward,
-    canGo: canGo,
-    block: block,
-    listen: listen
-  };
-  return history;
-}
-
-
-
-/* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__(1)))
 
 /***/ }),
 /* 8 */
@@ -1443,51 +546,51 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _styledComponents = __webpack_require__(22);
+var _styledComponents = __webpack_require__(26);
 
 var _styledComponents2 = _interopRequireDefault(_styledComponents);
 
-var _AboutUs = __webpack_require__(89);
+var _AboutUs = __webpack_require__(94);
 
 var _AboutUs2 = _interopRequireDefault(_AboutUs);
 
-var _Title = __webpack_require__(93);
+var _Title = __webpack_require__(98);
 
 var _Title2 = _interopRequireDefault(_Title);
 
-var _ShowActiveImg = __webpack_require__(94);
+var _ShowActiveImg = __webpack_require__(99);
 
 var _ShowActiveImg2 = _interopRequireDefault(_ShowActiveImg);
 
-var _ArrowSlider = __webpack_require__(95);
+var _ArrowSlider = __webpack_require__(100);
 
 var _ArrowSlider2 = _interopRequireDefault(_ArrowSlider);
 
-var _SideMenu = __webpack_require__(12);
+var _SideMenu = __webpack_require__(13);
 
 var _SideMenu2 = _interopRequireDefault(_SideMenu);
 
-var _information = __webpack_require__(3);
+var _information = __webpack_require__(4);
 
 var _information2 = _interopRequireDefault(_information);
 
-var _b = __webpack_require__(96);
+var _b = __webpack_require__(101);
 
 var _b2 = _interopRequireDefault(_b);
 
-var _b3 = __webpack_require__(97);
+var _b3 = __webpack_require__(102);
 
 var _b4 = _interopRequireDefault(_b3);
 
-var _b5 = __webpack_require__(98);
+var _b5 = __webpack_require__(103);
 
 var _b6 = _interopRequireDefault(_b5);
 
-var _b7 = __webpack_require__(99);
+var _b7 = __webpack_require__(104);
 
 var _b8 = _interopRequireDefault(_b7);
 
-var _b9 = __webpack_require__(100);
+var _b9 = __webpack_require__(105);
 
 var _b10 = _interopRequireDefault(_b9);
 
@@ -1506,13 +609,13 @@ function _inherits(subClass, superClass) { if (typeof superClass !== "function" 
 // start automatic change slider ?
 var startAutoChangeSlider = true;
 // time fo change background (IN SECONDS) and time for change animate
-var timeBackground = 8;
+var timeBackground = 4;
 // list of view background 
 var listBackground = [_b2.default, _b4.default, _b6.default, _b8.default, _b10.default];
 //name of Company -> set in file data/information.json
 var titleCompany = _information2.default.companyName.substring(0, _information2.default.companyName.indexOf(' '));
 //list of menu hamburger  (if you add new el -> need add new comp and route)
-var listMenu = ['home', 'news', 'products', 'offer', 'contact'];
+var listMenu = ['home', 'nowości', 'produkty', 'oferta', 'kontakt'];
 //add animation rotate for Nav letter
 var animationForNav = function animationForNav() {
     var allLetterNav = document.querySelectorAll('.navTitle span');
@@ -1795,6 +898,77 @@ module.exports = emptyFunction;
 
 /***/ }),
 /* 11 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return addLeadingSlash; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return stripLeadingSlash; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return hasBasename; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return stripBasename; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return stripTrailingSlash; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return parsePath; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return createPath; });
+var addLeadingSlash = function addLeadingSlash(path) {
+  return path.charAt(0) === '/' ? path : '/' + path;
+};
+
+var stripLeadingSlash = function stripLeadingSlash(path) {
+  return path.charAt(0) === '/' ? path.substr(1) : path;
+};
+
+var hasBasename = function hasBasename(path, prefix) {
+  return new RegExp('^' + prefix + '(\\/|\\?|#|$)', 'i').test(path);
+};
+
+var stripBasename = function stripBasename(path, prefix) {
+  return hasBasename(path, prefix) ? path.substr(prefix.length) : path;
+};
+
+var stripTrailingSlash = function stripTrailingSlash(path) {
+  return path.charAt(path.length - 1) === '/' ? path.slice(0, -1) : path;
+};
+
+var parsePath = function parsePath(path) {
+  var pathname = path || '/';
+  var search = '';
+  var hash = '';
+
+  var hashIndex = pathname.indexOf('#');
+  if (hashIndex !== -1) {
+    hash = pathname.substr(hashIndex);
+    pathname = pathname.substr(0, hashIndex);
+  }
+
+  var searchIndex = pathname.indexOf('?');
+  if (searchIndex !== -1) {
+    search = pathname.substr(searchIndex);
+    pathname = pathname.substr(0, searchIndex);
+  }
+
+  return {
+    pathname: pathname,
+    search: search === '?' ? '' : search,
+    hash: hash === '#' ? '' : hash
+  };
+};
+
+var createPath = function createPath(location) {
+  var pathname = location.pathname,
+      search = location.search,
+      hash = location.hash;
+
+
+  var path = pathname || '/';
+
+  if (search && search !== '?') path += search.charAt(0) === '?' ? search : '?' + search;
+
+  if (hash && hash !== '#') path += hash.charAt(0) === '#' ? hash : '#' + hash;
+
+  return path;
+};
+
+/***/ }),
+/* 12 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -1810,19 +984,19 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _SocialMedia = __webpack_require__(36);
+var _SocialMedia = __webpack_require__(41);
 
 var _SocialMedia2 = _interopRequireDefault(_SocialMedia);
 
-var _Copyright = __webpack_require__(90);
+var _Copyright = __webpack_require__(95);
 
 var _Copyright2 = _interopRequireDefault(_Copyright);
 
-var _SignatureLinks = __webpack_require__(91);
+var _SignatureLinks = __webpack_require__(96);
 
 var _SignatureLinks2 = _interopRequireDefault(_SignatureLinks);
 
-var _information = __webpack_require__(3);
+var _information = __webpack_require__(4);
 
 var _information2 = _interopRequireDefault(_information);
 
@@ -1957,7 +1131,7 @@ var Signature = function (_Component) {
 exports.default = Signature;
 
 /***/ }),
-/* 12 */
+/* 13 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -1973,7 +1147,7 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _SocialMedia = __webpack_require__(36);
+var _SocialMedia = __webpack_require__(41);
 
 var _SocialMedia2 = _interopRequireDefault(_SocialMedia);
 
@@ -2005,7 +1179,7 @@ var SideMenu = function (_Component) {
                     { className: 'sideText' },
                     _react2.default.createElement(
                         'p',
-                        null,
+                        { className: 'afterTitle' },
                         'Najlepsza firma'
                     )
                 ),
@@ -2024,7 +1198,7 @@ var SideMenu = function (_Component) {
 exports.default = SideMenu;
 
 /***/ }),
-/* 13 */
+/* 14 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2084,7 +1258,7 @@ module.exports = invariant;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 14 */
+/* 15 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2108,7 +1282,151 @@ module.exports = emptyObject;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 15 */
+/* 16 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+/* WEBPACK VAR INJECTION */(function(process) {/**
+ * Copyright 2014-2015, Facebook, Inc.
+ * All rights reserved.
+ *
+ * This source code is licensed under the BSD-style license found in the
+ * LICENSE file in the root directory of this source tree. An additional grant
+ * of patent rights can be found in the PATENTS file in the same directory.
+ */
+
+
+
+/**
+ * Similar to invariant but only logs a warning if the condition is not met.
+ * This can be used to log issues in development environments in critical
+ * paths. Removing the logging code for production environments will keep the
+ * same logic and follow the same code paths.
+ */
+
+var warning = function() {};
+
+if (process.env.NODE_ENV !== 'production') {
+  warning = function(condition, format, args) {
+    var len = arguments.length;
+    args = new Array(len > 2 ? len - 2 : 0);
+    for (var key = 2; key < len; key++) {
+      args[key - 2] = arguments[key];
+    }
+    if (format === undefined) {
+      throw new Error(
+        '`warning(condition, format, ...args)` requires a warning ' +
+        'message argument'
+      );
+    }
+
+    if (format.length < 10 || (/^[s\W]*$/).test(format)) {
+      throw new Error(
+        'The warning format should be able to uniquely identify this ' +
+        'warning. Please, use a more descriptive format than: ' + format
+      );
+    }
+
+    if (!condition) {
+      var argIndex = 0;
+      var message = 'Warning: ' +
+        format.replace(/%s/g, function() {
+          return args[argIndex++];
+        });
+      if (typeof console !== 'undefined') {
+        console.error(message);
+      }
+      try {
+        // This error was thrown as a convenience so that you can use this stack
+        // to find the callsite that caused this warning to fire.
+        throw new Error(message);
+      } catch(x) {}
+    }
+  };
+}
+
+module.exports = warning;
+
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
+
+/***/ }),
+/* 17 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return createLocation; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return locationsAreEqual; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_resolve_pathname__ = __webpack_require__(67);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_value_equal__ = __webpack_require__(68);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__PathUtils__ = __webpack_require__(11);
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+
+
+
+
+var createLocation = function createLocation(path, state, key, currentLocation) {
+  var location = void 0;
+  if (typeof path === 'string') {
+    // Two-arg form: push(path, state)
+    location = Object(__WEBPACK_IMPORTED_MODULE_2__PathUtils__["d" /* parsePath */])(path);
+    location.state = state;
+  } else {
+    // One-arg form: push(location)
+    location = _extends({}, path);
+
+    if (location.pathname === undefined) location.pathname = '';
+
+    if (location.search) {
+      if (location.search.charAt(0) !== '?') location.search = '?' + location.search;
+    } else {
+      location.search = '';
+    }
+
+    if (location.hash) {
+      if (location.hash.charAt(0) !== '#') location.hash = '#' + location.hash;
+    } else {
+      location.hash = '';
+    }
+
+    if (state !== undefined && location.state === undefined) location.state = state;
+  }
+
+  try {
+    location.pathname = decodeURI(location.pathname);
+  } catch (e) {
+    if (e instanceof URIError) {
+      throw new URIError('Pathname "' + location.pathname + '" could not be decoded. ' + 'This is likely caused by an invalid percent-encoding.');
+    } else {
+      throw e;
+    }
+  }
+
+  if (key) location.key = key;
+
+  if (currentLocation) {
+    // Resolve incomplete/relative pathname relative to current location.
+    if (!location.pathname) {
+      location.pathname = currentLocation.pathname;
+    } else if (location.pathname.charAt(0) !== '/') {
+      location.pathname = Object(__WEBPACK_IMPORTED_MODULE_0_resolve_pathname__["a" /* default */])(location.pathname, currentLocation.pathname);
+    }
+  } else {
+    // When there is no prior location and pathname is empty, set it to /
+    if (!location.pathname) {
+      location.pathname = '/';
+    }
+  }
+
+  return location;
+};
+
+var locationsAreEqual = function locationsAreEqual(a, b) {
+  return a.pathname === b.pathname && a.search === b.search && a.hash === b.hash && a.key === b.key && Object(__WEBPACK_IMPORTED_MODULE_1_value_equal__["a" /* default */])(a.state, b.state);
+};
+
+/***/ }),
+/* 18 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2178,7 +1496,7 @@ var HeaderCompImg = function (_Component) {
 exports.default = HeaderCompImg;
 
 /***/ }),
-/* 16 */
+/* 19 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2259,7 +1577,7 @@ var ForwardInfo = function (_Component) {
 exports.default = ForwardInfo;
 
 /***/ }),
-/* 17 */
+/* 20 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2275,7 +1593,7 @@ exports.default = ForwardInfo;
 var printWarning = function() {};
 
 if (process.env.NODE_ENV !== 'production') {
-  var ReactPropTypesSecret = __webpack_require__(18);
+  var ReactPropTypesSecret = __webpack_require__(21);
   var loggedTypeFailures = {};
 
   printWarning = function(text) {
@@ -2358,7 +1676,7 @@ module.exports = checkPropTypes;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 18 */
+/* 21 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -2377,24 +1695,109 @@ module.exports = ReactPropTypesSecret;
 
 
 /***/ }),
-/* 19 */
+/* 22 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Router__ = __webpack_require__(20);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning__ = __webpack_require__(16);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_warning__);
+
+
+var createTransitionManager = function createTransitionManager() {
+  var prompt = null;
+
+  var setPrompt = function setPrompt(nextPrompt) {
+    __WEBPACK_IMPORTED_MODULE_0_warning___default()(prompt == null, 'A history supports only one prompt at a time');
+
+    prompt = nextPrompt;
+
+    return function () {
+      if (prompt === nextPrompt) prompt = null;
+    };
+  };
+
+  var confirmTransitionTo = function confirmTransitionTo(location, action, getUserConfirmation, callback) {
+    // TODO: If another transition starts while we're still confirming
+    // the previous one, we may end up in a weird state. Figure out the
+    // best way to handle this.
+    if (prompt != null) {
+      var result = typeof prompt === 'function' ? prompt(location, action) : prompt;
+
+      if (typeof result === 'string') {
+        if (typeof getUserConfirmation === 'function') {
+          getUserConfirmation(result, callback);
+        } else {
+          __WEBPACK_IMPORTED_MODULE_0_warning___default()(false, 'A history needs a getUserConfirmation function in order to use a prompt message');
+
+          callback(true);
+        }
+      } else {
+        // Return false from a transition hook to cancel the transition.
+        callback(result !== false);
+      }
+    } else {
+      callback(true);
+    }
+  };
+
+  var listeners = [];
+
+  var appendListener = function appendListener(fn) {
+    var isActive = true;
+
+    var listener = function listener() {
+      if (isActive) fn.apply(undefined, arguments);
+    };
+
+    listeners.push(listener);
+
+    return function () {
+      isActive = false;
+      listeners = listeners.filter(function (item) {
+        return item !== listener;
+      });
+    };
+  };
+
+  var notifyListeners = function notifyListeners() {
+    for (var _len = arguments.length, args = Array(_len), _key = 0; _key < _len; _key++) {
+      args[_key] = arguments[_key];
+    }
+
+    listeners.forEach(function (listener) {
+      return listener.apply(undefined, args);
+    });
+  };
+
+  return {
+    setPrompt: setPrompt,
+    confirmTransitionTo: confirmTransitionTo,
+    appendListener: appendListener,
+    notifyListeners: notifyListeners
+  };
+};
+
+/* harmony default export */ __webpack_exports__["a"] = (createTransitionManager);
+
+/***/ }),
+/* 23 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Router__ = __webpack_require__(24);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_Router__["a" /* default */]);
 
 /***/ }),
-/* 20 */
+/* 24 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning__ = __webpack_require__(5);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_warning__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_invariant__ = __webpack_require__(5);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_invariant__ = __webpack_require__(3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_invariant___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_invariant__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_react__);
@@ -2507,11 +1910,11 @@ Router.childContextTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (Router);
 
 /***/ }),
-/* 21 */
+/* 25 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_path_to_regexp__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_path_to_regexp__ = __webpack_require__(38);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_path_to_regexp___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_path_to_regexp__);
 
 
@@ -2587,7 +1990,7 @@ var matchPath = function matchPath(pathname) {
 /* harmony default export */ __webpack_exports__["a"] = (matchPath);
 
 /***/ }),
-/* 22 */
+/* 26 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -2602,17 +2005,17 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ServerStyleSheet", function() { return ServerStyleSheet; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "StyleSheetManager", function() { return StyleSheetManager; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__DO_NOT_USE_OR_YOU_WILL_BE_HAUNTED_BY_SPOOKY_GHOSTS", function() { return __DO_NOT_USE_OR_YOU_WILL_BE_HAUNTED_BY_SPOOKY_GHOSTS; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_is_plain_object__ = __webpack_require__(85);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_is_plain_object__ = __webpack_require__(90);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_is_plain_object___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_is_plain_object__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_stylis__ = __webpack_require__(87);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_stylis__ = __webpack_require__(92);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_stylis___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_stylis__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_stylis_rule_sheet__ = __webpack_require__(88);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_stylis_rule_sheet__ = __webpack_require__(93);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_stylis_rule_sheet___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_stylis_rule_sheet__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_prop_types__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_hoist_non_react_statics__ = __webpack_require__(35);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_hoist_non_react_statics__ = __webpack_require__(40);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_hoist_non_react_statics___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5_hoist_non_react_statics__);
 
 
@@ -4844,10 +4247,10 @@ var styled = _styled(StyledComponent, constructWithOptions);
 /* harmony default export */ __webpack_exports__["default"] = (styled);
 //# sourceMappingURL=styled-components.browser.es.js.map
 
-/* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__(1), __webpack_require__(84)(module)))
+/* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__(1), __webpack_require__(89)(module)))
 
 /***/ }),
-/* 23 */
+/* 27 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -4916,7 +4319,7 @@ module.exports = warning;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 24 */
+/* 28 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -4955,7 +4358,7 @@ var ExecutionEnvironment = {
 module.exports = ExecutionEnvironment;
 
 /***/ }),
-/* 25 */
+/* 29 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -4997,7 +4400,7 @@ function getActiveElement(doc) /*?DOMElement*/{
 module.exports = getActiveElement;
 
 /***/ }),
-/* 26 */
+/* 30 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -5068,7 +4471,7 @@ function shallowEqual(objA, objB) {
 module.exports = shallowEqual;
 
 /***/ }),
-/* 27 */
+/* 31 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -5083,7 +4486,7 @@ module.exports = shallowEqual;
  * 
  */
 
-var isTextNode = __webpack_require__(44);
+var isTextNode = __webpack_require__(49);
 
 /*eslint-disable no-bitwise */
 
@@ -5111,7 +4514,7 @@ function containsNode(outerNode, innerNode) {
 module.exports = containsNode;
 
 /***/ }),
-/* 28 */
+/* 32 */
 /***/ (function(module, exports) {
 
 /*
@@ -5193,7 +4596,7 @@ function toComment(sourceMap) {
 
 
 /***/ }),
-/* 29 */
+/* 33 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /*
@@ -5259,7 +4662,7 @@ var singleton = null;
 var	singletonCounter = 0;
 var	stylesInsertedAtTop = [];
 
-var	fixUrls = __webpack_require__(56);
+var	fixUrls = __webpack_require__(61);
 
 module.exports = function(list, options) {
 	if (typeof DEBUG !== "undefined" && DEBUG) {
@@ -5579,7 +4982,73 @@ function updateLink (link, options, obj) {
 
 
 /***/ }),
-/* 30 */
+/* 34 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return canUseDOM; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return addEventListener; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return removeEventListener; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return getConfirmation; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return supportsHistory; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return supportsPopStateOnHashChange; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return supportsGoWithoutReloadUsingHash; });
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return isExtraneousPopstateEvent; });
+var canUseDOM = !!(typeof window !== 'undefined' && window.document && window.document.createElement);
+
+var addEventListener = function addEventListener(node, event, listener) {
+  return node.addEventListener ? node.addEventListener(event, listener, false) : node.attachEvent('on' + event, listener);
+};
+
+var removeEventListener = function removeEventListener(node, event, listener) {
+  return node.removeEventListener ? node.removeEventListener(event, listener, false) : node.detachEvent('on' + event, listener);
+};
+
+var getConfirmation = function getConfirmation(message, callback) {
+  return callback(window.confirm(message));
+}; // eslint-disable-line no-alert
+
+/**
+ * Returns true if the HTML5 history API is supported. Taken from Modernizr.
+ *
+ * https://github.com/Modernizr/Modernizr/blob/master/LICENSE
+ * https://github.com/Modernizr/Modernizr/blob/master/feature-detects/history.js
+ * changed to avoid false negatives for Windows Phones: https://github.com/reactjs/react-router/issues/586
+ */
+var supportsHistory = function supportsHistory() {
+  var ua = window.navigator.userAgent;
+
+  if ((ua.indexOf('Android 2.') !== -1 || ua.indexOf('Android 4.0') !== -1) && ua.indexOf('Mobile Safari') !== -1 && ua.indexOf('Chrome') === -1 && ua.indexOf('Windows Phone') === -1) return false;
+
+  return window.history && 'pushState' in window.history;
+};
+
+/**
+ * Returns true if browser fires popstate on hash change.
+ * IE10 and IE11 do not.
+ */
+var supportsPopStateOnHashChange = function supportsPopStateOnHashChange() {
+  return window.navigator.userAgent.indexOf('Trident') === -1;
+};
+
+/**
+ * Returns false if using go(n) with hash history causes a full page reload.
+ */
+var supportsGoWithoutReloadUsingHash = function supportsGoWithoutReloadUsingHash() {
+  return window.navigator.userAgent.indexOf('Firefox') === -1;
+};
+
+/**
+ * Returns true if a given popstate event is an extraneous WebKit event.
+ * Accounts for the fact that Chrome on iOS fires real popstate events
+ * containing undefined state when pressing the back button.
+ */
+var isExtraneousPopstateEvent = function isExtraneousPopstateEvent(event) {
+  return event.state === undefined && navigator.userAgent.indexOf('CriOS') === -1;
+};
+
+/***/ }),
+/* 35 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -5587,7 +5056,7 @@ function updateLink (link, options, obj) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_prop_types__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_invariant__ = __webpack_require__(5);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_invariant__ = __webpack_require__(3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_invariant___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_invariant__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_history__ = __webpack_require__(7);
 var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
@@ -5696,30 +5165,30 @@ Link.contextTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (Link);
 
 /***/ }),
-/* 31 */
+/* 36 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Route__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Route__ = __webpack_require__(37);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_Route__["a" /* default */]);
 
 /***/ }),
-/* 32 */
+/* 37 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning__ = __webpack_require__(5);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_warning__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_invariant__ = __webpack_require__(5);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_invariant__ = __webpack_require__(3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_invariant___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_invariant__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_prop_types__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__matchPath__ = __webpack_require__(21);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__matchPath__ = __webpack_require__(25);
 var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -5861,10 +5330,10 @@ Route.childContextTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (Route);
 
 /***/ }),
-/* 33 */
+/* 38 */
 /***/ (function(module, exports, __webpack_require__) {
 
-var isarray = __webpack_require__(70)
+var isarray = __webpack_require__(75)
 
 /**
  * Expose `pathToRegexp`.
@@ -6293,11 +5762,11 @@ function pathToRegexp (path, keys, options) {
 
 
 /***/ }),
-/* 34 */
+/* 39 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_path_to_regexp__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_path_to_regexp__ = __webpack_require__(38);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_path_to_regexp___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_path_to_regexp__);
 
 
@@ -6338,7 +5807,7 @@ var generatePath = function generatePath() {
 /* harmony default export */ __webpack_exports__["a"] = (generatePath);
 
 /***/ }),
-/* 35 */
+/* 40 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6413,7 +5882,7 @@ module.exports = hoistNonReactStatics;
 
 
 /***/ }),
-/* 36 */
+/* 41 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6429,7 +5898,7 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _information = __webpack_require__(3);
+var _information = __webpack_require__(4);
 
 var _information2 = _interopRequireDefault(_information);
 
@@ -6499,15 +5968,15 @@ var SocialMedia = function (_Component) {
 exports.default = SocialMedia;
 
 /***/ }),
-/* 37 */
+/* 42 */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(38);
-module.exports = __webpack_require__(39);
+__webpack_require__(43);
+module.exports = __webpack_require__(44);
 
 
 /***/ }),
-/* 38 */
+/* 43 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -7036,13 +6505,13 @@ if (!self.fetch) {
 
 
 /***/ }),
-/* 39 */
+/* 44 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _reactDom = __webpack_require__(40);
+var _reactDom = __webpack_require__(45);
 
 var _reactDom2 = _interopRequireDefault(_reactDom);
 
@@ -7050,9 +6519,9 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-__webpack_require__(51);
+__webpack_require__(56);
 
-var _Website = __webpack_require__(57);
+var _Website = __webpack_require__(62);
 
 var _Website2 = _interopRequireDefault(_Website);
 
@@ -7065,7 +6534,7 @@ var App = function App() {
 _reactDom2.default.render(_react2.default.createElement(App, null), document.getElementById('app'));
 
 /***/ }),
-/* 40 */
+/* 45 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -7103,15 +6572,15 @@ if (process.env.NODE_ENV === 'production') {
   // DCE check should happen before ReactDOM bundle executes so that
   // DevTools can report bad minification during injection.
   checkDCE();
-  module.exports = __webpack_require__(41);
-} else {
   module.exports = __webpack_require__(46);
+} else {
+  module.exports = __webpack_require__(51);
 }
 
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 41 */
+/* 46 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -7127,7 +6596,7 @@ if (process.env.NODE_ENV === 'production') {
 /*
  Modernizr 3.0.0pre (Custom Build) | MIT
 */
-var aa=__webpack_require__(13),ba=__webpack_require__(0),m=__webpack_require__(24),p=__webpack_require__(9),v=__webpack_require__(10),da=__webpack_require__(25),ea=__webpack_require__(26),fa=__webpack_require__(27),ha=__webpack_require__(14);
+var aa=__webpack_require__(14),ba=__webpack_require__(0),m=__webpack_require__(28),p=__webpack_require__(9),v=__webpack_require__(10),da=__webpack_require__(29),ea=__webpack_require__(30),fa=__webpack_require__(31),ha=__webpack_require__(15);
 function A(a){for(var b=arguments.length-1,c="https://reactjs.org/docs/error-decoder.html?invariant="+a,d=0;d<b;d++)c+="&args[]="+encodeURIComponent(arguments[d+1]);aa(!1,"Minified React error #"+a+"; visit %s for the full message or use the non-minified dev environment for full errors and additional helpful warnings. ",c)}ba?void 0:A("227");
 function ia(a,b,c,d,e,f,g,h,k){this._hasCaughtError=!1;this._caughtError=null;var n=Array.prototype.slice.call(arguments,3);try{b.apply(c,n)}catch(r){this._caughtError=r,this._hasCaughtError=!0}}
 var B={_caughtError:null,_hasCaughtError:!1,_rethrowError:null,_hasRethrowError:!1,invokeGuardedCallback:function(a,b,c,d,e,f,g,h,k){ia.apply(B,arguments)},invokeGuardedCallbackAndCatchFirstError:function(a,b,c,d,e,f,g,h,k){B.invokeGuardedCallback.apply(this,arguments);if(B.hasCaughtError()){var n=B.clearCaughtError();B._hasRethrowError||(B._hasRethrowError=!0,B._rethrowError=n)}},rethrowCaughtError:function(){return ka.apply(B,arguments)},hasCaughtError:function(){return B._hasCaughtError},clearCaughtError:function(){if(B._hasCaughtError){var a=
@@ -7358,7 +6827,7 @@ var Ai={default:vi},Bi=Ai&&vi||Ai;module.exports=Bi.default?Bi.default:Bi;
 
 
 /***/ }),
-/* 42 */
+/* 47 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -7371,7 +6840,7 @@ var Ai={default:vi},Bi=Ai&&vi||Ai;module.exports=Bi.default?Bi.default:Bi;
  * LICENSE file in the root directory of this source tree.
  */
 
-var k=__webpack_require__(9),n=__webpack_require__(13),p=__webpack_require__(14),q=__webpack_require__(10),r="function"===typeof Symbol&&Symbol.for,t=r?Symbol.for("react.element"):60103,u=r?Symbol.for("react.portal"):60106,v=r?Symbol.for("react.fragment"):60107,w=r?Symbol.for("react.strict_mode"):60108,x=r?Symbol.for("react.profiler"):60114,y=r?Symbol.for("react.provider"):60109,z=r?Symbol.for("react.context"):60110,A=r?Symbol.for("react.async_mode"):60111,B=
+var k=__webpack_require__(9),n=__webpack_require__(14),p=__webpack_require__(15),q=__webpack_require__(10),r="function"===typeof Symbol&&Symbol.for,t=r?Symbol.for("react.element"):60103,u=r?Symbol.for("react.portal"):60106,v=r?Symbol.for("react.fragment"):60107,w=r?Symbol.for("react.strict_mode"):60108,x=r?Symbol.for("react.profiler"):60114,y=r?Symbol.for("react.provider"):60109,z=r?Symbol.for("react.context"):60110,A=r?Symbol.for("react.async_mode"):60111,B=
 r?Symbol.for("react.forward_ref"):60112;r&&Symbol.for("react.timeout");var C="function"===typeof Symbol&&Symbol.iterator;function D(a){for(var b=arguments.length-1,e="https://reactjs.org/docs/error-decoder.html?invariant="+a,c=0;c<b;c++)e+="&args[]="+encodeURIComponent(arguments[c+1]);n(!1,"Minified React error #"+a+"; visit %s for the full message or use the non-minified dev environment for full errors and additional helpful warnings. ",e)}
 var E={isMounted:function(){return!1},enqueueForceUpdate:function(){},enqueueReplaceState:function(){},enqueueSetState:function(){}};function F(a,b,e){this.props=a;this.context=b;this.refs=p;this.updater=e||E}F.prototype.isReactComponent={};F.prototype.setState=function(a,b){"object"!==typeof a&&"function"!==typeof a&&null!=a?D("85"):void 0;this.updater.enqueueSetState(this,a,b,"setState")};F.prototype.forceUpdate=function(a){this.updater.enqueueForceUpdate(this,a,"forceUpdate")};function G(){}
 G.prototype=F.prototype;function H(a,b,e){this.props=a;this.context=b;this.refs=p;this.updater=e||E}var I=H.prototype=new G;I.constructor=H;k(I,F.prototype);I.isPureReactComponent=!0;var J={current:null},K=Object.prototype.hasOwnProperty,L={key:!0,ref:!0,__self:!0,__source:!0};
@@ -7387,7 +6856,7 @@ assign:k}},Y={default:X},Z=Y&&X||Y;module.exports=Z.default?Z.default:Z;
 
 
 /***/ }),
-/* 43 */
+/* 48 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -7409,11 +6878,11 @@ if (process.env.NODE_ENV !== "production") {
 'use strict';
 
 var _assign = __webpack_require__(9);
-var invariant = __webpack_require__(13);
-var emptyObject = __webpack_require__(14);
-var warning = __webpack_require__(23);
+var invariant = __webpack_require__(14);
+var emptyObject = __webpack_require__(15);
+var warning = __webpack_require__(27);
 var emptyFunction = __webpack_require__(10);
-var checkPropTypes = __webpack_require__(17);
+var checkPropTypes = __webpack_require__(20);
 
 // TODO: this is special because it gets imported during build.
 
@@ -8881,7 +8350,7 @@ module.exports = react;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 44 */
+/* 49 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8896,7 +8365,7 @@ module.exports = react;
  * @typechecks
  */
 
-var isNode = __webpack_require__(45);
+var isNode = __webpack_require__(50);
 
 /**
  * @param {*} object The object to check.
@@ -8909,7 +8378,7 @@ function isTextNode(object) {
 module.exports = isTextNode;
 
 /***/ }),
-/* 45 */
+/* 50 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8937,7 +8406,7 @@ function isNode(object) {
 module.exports = isNode;
 
 /***/ }),
-/* 46 */
+/* 51 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8958,19 +8427,19 @@ if (process.env.NODE_ENV !== "production") {
   (function() {
 'use strict';
 
-var invariant = __webpack_require__(13);
+var invariant = __webpack_require__(14);
 var React = __webpack_require__(0);
-var warning = __webpack_require__(23);
-var ExecutionEnvironment = __webpack_require__(24);
+var warning = __webpack_require__(27);
+var ExecutionEnvironment = __webpack_require__(28);
 var _assign = __webpack_require__(9);
 var emptyFunction = __webpack_require__(10);
-var checkPropTypes = __webpack_require__(17);
-var getActiveElement = __webpack_require__(25);
-var shallowEqual = __webpack_require__(26);
-var containsNode = __webpack_require__(27);
-var emptyObject = __webpack_require__(14);
-var hyphenateStyleName = __webpack_require__(47);
-var camelizeStyleName = __webpack_require__(49);
+var checkPropTypes = __webpack_require__(20);
+var getActiveElement = __webpack_require__(29);
+var shallowEqual = __webpack_require__(30);
+var containsNode = __webpack_require__(31);
+var emptyObject = __webpack_require__(15);
+var hyphenateStyleName = __webpack_require__(52);
+var camelizeStyleName = __webpack_require__(54);
 
 // Relying on the `invariant()` implementation lets us
 // have preserve the format and params in the www builds.
@@ -26375,7 +25844,7 @@ module.exports = reactDom;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 47 */
+/* 52 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26390,7 +25859,7 @@ module.exports = reactDom;
 
 
 
-var hyphenate = __webpack_require__(48);
+var hyphenate = __webpack_require__(53);
 
 var msPattern = /^ms-/;
 
@@ -26417,7 +25886,7 @@ function hyphenateStyleName(string) {
 module.exports = hyphenateStyleName;
 
 /***/ }),
-/* 48 */
+/* 53 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26453,7 +25922,7 @@ function hyphenate(string) {
 module.exports = hyphenate;
 
 /***/ }),
-/* 49 */
+/* 54 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26468,7 +25937,7 @@ module.exports = hyphenate;
 
 
 
-var camelize = __webpack_require__(50);
+var camelize = __webpack_require__(55);
 
 var msPattern = /^-ms-/;
 
@@ -26496,7 +25965,7 @@ function camelizeStyleName(string) {
 module.exports = camelizeStyleName;
 
 /***/ }),
-/* 50 */
+/* 55 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26531,11 +26000,11 @@ function camelize(string) {
 module.exports = camelize;
 
 /***/ }),
-/* 51 */
+/* 56 */
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(52);
+var content = __webpack_require__(57);
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -26549,7 +26018,7 @@ var options = {"hmr":true}
 options.transform = transform
 options.insertInto = undefined;
 
-var update = __webpack_require__(29)(content, options);
+var update = __webpack_require__(33)(content, options);
 
 if(content.locals) module.exports = content.locals;
 
@@ -26581,22 +26050,22 @@ if(false) {
 }
 
 /***/ }),
-/* 52 */
+/* 57 */
 /***/ (function(module, exports, __webpack_require__) {
 
-var escape = __webpack_require__(53);
-exports = module.exports = __webpack_require__(28)(false);
+var escape = __webpack_require__(58);
+exports = module.exports = __webpack_require__(32)(false);
 // imports
 
 
 // module
-exports.push([module.i, "@charset \"UTF-8\";\n\n* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  min-width: 300px;\n  font-family: 'Roboto', sans-serif;\n  overflow: auto;\n}\n\n.allBody .container {\n  padding-top: 70px;\n}\n\n.allBody {\n  background: white;\n}\n\nhtml {\n  background: #315380;\n}\n\n/* NAVIGATION Component */\n\n.navigation {\n  font-family: 'Roboto', sans-serif;\n  background: #315380;\n  color: #FFFF;\n  width: 100vw;\n  padding: 20px 0;\n  position: fixed;\n  z-index: 2;\n}\n\n.navTitle {\n  /* font-size: 1.2rem; */\n  /* letter-spacing: 0.5em; */\n  /* text-transform: uppercase; */\n  /* font-weight: 400; */\n  display: inline-block;\n  position: relative;\n  /* margin-left: 30px; */\n  color: white;\n  float: left;\n  /* width:40px; */\n  line-height: 35px;\n  margin: 0 5vw;\n  border-radius: 6px;\n}\n\n.navTitle > span {\n  font-size: 1.8rem;\n  margin: 0 5px;\n  display: block;\n  text-transform: uppercase;\n  float: left;\n  /* border-radius:6px; */\n  /* color: white; */\n}\n\n.navTitle:hover {\n  cursor: pointer;\n  animation-name: sideHover;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n  animation-timing-function: ease-in-out;\n}\n\n.addTitleAnimation {\n  animation: text_animation 5s linear 1;\n  -webkit-animation: text_animation 5s linear 1;\n}\n\n.navTitle > .titleLetter0 {\n  animation-delay: 250ms;\n  -webkit-animation-delay: 250ms;\n}\n\n.navTitle > .titleLetter1 {\n  animation-delay: 500ms;\n  -webkit-animation-delay: 500ms;\n}\n\n.navTitle > .titleLetter2 {\n  animation-delay: 750ms;\n  -webkit-animation-delay: 750ms;\n}\n\n.navTitle > .titleLetter3 {\n  animation-delay: 1000ms;\n  -webkit-animation-delay: 1000ms;\n}\n\n.navTitle > .titleLetter4 {\n  animation-delay: 1250ms;\n  -webkit-animation-delay: 1250ms;\n}\n\n.navTitle > .titleLetter5 {\n  animation-delay: 1500ms;\n  -webkit-animation-delay: 1500ms;\n}\n\n.navTitle > .titleLetter6 {\n  animation-delay: 1750ms;\n  -webkit-animation-delay: 1750ms;\n}\n\n.navTitle > .titleLetter7 {\n  animation-delay: 2000ms;\n  -webkit-animation-delay: 2000ms;\n}\n\n@keyframes text_animation {\n  0% {\n    transform: rotate(0);\n  }\n\n  10% {\n    transform: rotate(360deg);\n  }\n\n  100% {\n    transform: rotate(360deg);\n  }\n}\n\n.navOrg {\n  font-size: 0.3em;\n  position: absolute;\n  top: -8px;\n  right: -10px;\n  color: white;\n}\n\n.hamburger {\n  font-size: 2rem;\n  display: inline-block;\n  border: 1px solid grey;\n  width: 40px;\n  height: 2rem;\n  float: right;\n  margin: 0 30px;\n}\n\n.hamburger:hover {\n  cursor: pointer;\n  border: 1px solid #FFFF;\n}\n\n.hamburger span {\n  display: block;\n  border-bottom: 2px solid white;\n  padding: 3px;\n  width: 70%;\n  margin: 0 auto;\n  /* height: 7px */\n  /* font-style: inherit */\n}\n\n.hamburger:nth-child(1) {\n  margin-top: 3.5px;\n}\n\n/* span:nth-child(odd){\r\n  border-bottom: 2px solid #315380\r\n\r\n} */\n\n.hideSpan {\n  animation-name: hideHamSpan;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n}\n\n.showSpan {\n  animation-name: showHamSpan;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n}\n\n.stress {\n  width: 100%;\n  border-bottom: 1px solid grey;\n  display: none;\n}\n\n@keyframes hideHamSpan {\n  0% {\n    border-bottom: 2px solid #FFFF;\n  }\n\n  100% {\n    border-bottom: 2px solid #315380;\n  }\n}\n\n@keyframes showHamSpan {\n  0% {\n    border-bottom: 2px solid #315380;\n  }\n\n  100% {\n    border-bottom: 2px solid #FFFF;\n  }\n}\n\n@media (max-width: 600px) {\n  .navigation p {\n    font-size: 5vw;\n  }\n}\n\n/* ElementNavigation Compo */\n\n.slideMenu {\n  /* padding-bottom: 5vh; */\n  position: fixed;\n  top: 9vh;\n  z-index: 1;\n  background: #315380;\n  width: 100%;\n  display: none;\n}\n\n.showMenu {\n  position: fixed;\n  top: 3vh;\n  left: 50%;\n  z-index: 1;\n  background: #315380;\n  width: 100%;\n  display: block;\n}\n\n.showMenu li {\n  margin-left: 30px;\n  list-style-type: none;\n  /* margin-top: 2vh; */\n  text-transform: uppercase;\n  font-weight: 700;\n  font-size: 15px;\n  display: inline-block;\n}\n\n.elMenu {\n  color: white;\n  text-decoration: none;\n}\n\n.elMenu:hover {\n  animation-name: menuHover;\n  animation-iteration-count: 1;\n  animation-fill-mode: both;\n  animation-duration: 0.3s;\n  animation-timing-function: ease-in-out;\n}\n\n.slideMenu li {\n  margin-left: 30px;\n  list-style-type: none;\n  margin-top: 2vh;\n  text-transform: uppercase;\n  font-weight: 800;\n  font-size: 12px;\n  /* display: inline-block */\n}\n\n.slideMenu li:last-child {\n  padding-bottom: 10vh;\n}\n\n.slideMenu li:first-child {\n  padding-top: 5vh;\n}\n\n.elClickOn {\n  color: red;\n  /* border-bottom: 2px solid red */\n}\n\n@keyframes menuHover {\n  0% {\n\n  }\n\n  25% {\n    /* opacity: 0.5 */\n    /* border-bottom: 2px solid grey; */\n  }\n\n  100% {\n    color: grey;\n  }\n}\n\n/* HOME Component*/\n\n/* zastąpione HomeContainer Comp */\n\n/* .homeComp{\r\n  height: 100vh;\r\n  width: 100vw;\r\n  background-image: url(\"http://www.lampiarnia.info/uploads/i/img-3f28a05959dc33fe2198f9f7bf28380e.jpg\");\r\n  background-size: cover;\r\n  background-repeat: no-repeat;\r\n  background-position: 45% 20%;\r\n} */\n\n@keyframes showImg {\n  0% {\n    opacity: 0;\n  }\n\n  25% {\n    opacity: 0.5;\n  }\n\n  50% {\n    opacity: 1;\n  }\n\n  75% {\n    opacity: 0.7;\n  }\n\n  100% {\n    opacity: 0;\n  }\n}\n\n/*Title Component */\n\n.titleName {\n  position: absolute;\n  text-align: center;\n  top: 40%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n\nh1.title {\n  font-size: 2rem;\n  letter-spacing: 0.5em;\n  text-transform: uppercase;\n  font-weight: 600;\n  color: #315380;\n  text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,\r 0 0 20px #A5F1FF, 0 0 30px #A5F1FF,\r 0 0 40px #A5F1FF;\n  animation-name: scaleInfo;\n  animation-iteration-count: 3;\n  animation-fill-mode: forwards;\n  animation-duration: 8s;\n  animation-timing-function: ease-in-out;\n}\n\n.titleOrg {\n  font-size: 0.3em;\n  position: absolute;\n  top: 0;\n  right: -10px;\n}\n\n.afterTitle {\n  animation-name: showAfterTitle;\n  animation-iteration-count: 3;\n  animation-fill-mode: forwards;\n  animation-duration: 8s;\n  animation-timing-function: ease-in-out;\n  font-size: 1.2rem;\n  width: 100%;\n  text-transform: uppercase;\n  font-weight: 600;\n  letter-spacing: 0.2em;\n  margin-top: 4vw;\n  color: #315380;\n  opacity: 0;\n  text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,\r 0 0 20px #A5F1FF, 0 0 30px #A5F1FF,\r 0 0 40px #A5F1FF;\n}\n\n@keyframes showAfterTitle {\n  0% {\n\n  }\n\n  50% {\n    /* color: #315380 */\n  }\n\n  75% {\n    color: white;\n  }\n\n  100% {\n    opacity: 1;\n    color: white;\n    /* transform: scale(1.1); */\n  }\n}\n\n@keyframes scaleInfo {\n  0% {\n\n  }\n\n  50% {\n    /* color: #315380 */\n  }\n\n  100% {\n    /* color: white; */\n    transform: scale(1.1);\n    opacity: 0;\n  }\n}\n\n/* .titleName:before, .titleName:after { \r\n  content: \"\"; \r\n  display: table; \r\n  clear: both; }\r\n */\n\n/*AboutUs Component */\n\n.aboutComp {\n  height: 100%;\n  width: 100%;\n  /* margin: 10vw auto; */\n  /* margin: 0 auto; */\n  /* margin-top: 10vw; */\n  /* margin-bottom: 10vw; */\n}\n\n.aboutCompContainer {\n  width: 90%;\n  margin: 0 auto;\n  margin-top: 10vh;\n  background: white;\n}\n\n.aboutImg {\n  background: url(" + escape(__webpack_require__(54)) + ");\n  height: 50vh;\n  background-repeat: no-repeat;\n  background-position: 45% 85%;\n  /* width: 100%; */\n  background-size: cover;\n  /* background-repeat: no-repeat; */\n  margin: 0 auto;\n}\n\n.aboutUsInfo {\n  line-height: 1.7rem;\n  font-size: 0.9rem;\n  /* padding-bottom: 5vw; */\n  /* margin-bottom: 5vw; */\n}\n\n.aboutUsInfo p {\n  padding: 10px 0;\n}\n\nh3 {\n  margin: 8vw auto;\n  font-weight: 100;\n  text-transform: uppercase;\n  font-size: 2rem;\n}\n\n.aboutBold {\n  font-weight: 700;\n}\n\n.aboutBorder {\n  display: block;\n  width: 30%;\n  height: 2vw;\n  border-bottom: 10px solid #315380;\n  margin: 5vh auto;\n  background: white;\n}\n\n/* ForwardNavigation Component */\n\n.aboutSee {\n  font-size: 1.6rem;\n  font-weight: 700;\n  padding-bottom: 5vw;\n  background: white;\n  /* padding-bottom: 5vw; */\n}\n\n.aboutSeeHeader {\n  margin-bottom: 5vw;\n}\n\n.elAbout {\n  color: red;\n  list-style-type: none;\n  text-transform: uppercase;\n  text-decoration: none;\n  margin-left: 70px;\n  font-size: 0.8rem;\n  font-weight: 600;\n}\n\n.aboutSee li span {\n  display: inline-block;\n  position: absolute;\n  top: 55%;\n  left: 0;\n  width: 50px;\n  height: 1px;\n  background: grey;\n  transition: 1s;\n}\n\n.aboutSee ul li {\n  position: relative;\n  text-decoration: none;\n  list-style-type: none;\n  /* display: inline-block */\n}\n\n.aboutSee li:hover > span {\n  cursor: pointer;\n  transform: rotate(-45deg);\n}\n\n/* .aboutSee li::before{\r\n  content: '';\r\n  position: absolute;\r\n  top: 50%;\r\n  left: 0;\r\n  width: 40px;\r\n  height: 1px;\r\n  background: #000;\r\n} */\n\n/*ArrowSlider Component */\n\n.fa-chevron-right,\n.fa-chevron-left {\n  color: white;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  /* font-size: 1.2rem */\n}\n\n.fa-chevron-right:hover,\n.fa-chevron-left:hover {\n  font-size: 1.7rem;\n  cursor: pointer;\n}\n\n.arrowRight,\n.arrowLeft {\n  position: absolute;\n  background: rgba(61, 57, 57, 0.4);\n  height: 40px;\n  width: 40px;\n}\n\n.arrowRight {\n  right: 0vw;\n  bottom: 8vh;\n}\n\n.arrowLeft {\n  left: 0vw;\n  bottom: 8vh;\n}\n\n.arrowInfo {\n  width: 60vw;\n  position: absolute;\n  bottom: 3vh;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  margin: 0 auto;\n  text-align: center;\n}\n\n.arrowInfo .arrowSpan {\n  width: 30px;\n  height: 5px;\n  display: inline-block;\n  margin: 0 2vw;\n  border-bottom: 1px solid white;\n}\n\n.spanActive {\n  background: white;\n}\n\n/* SIGNATURE Comp */\n\n.signatureComp {\n  width: 100%;\n  background: #000;\n  color: #FFF;\n}\n\n.signatureContainer {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.signatureTitle {\n  padding-top: 10vw;\n  font-size: 1.5rem;\n  text-align: center;\n  letter-spacing: 0.5em;\n  text-transform: uppercase;\n  font-weight: 400;\n  color: white;\n}\n\n.signatureInfo {\n  color: grey;\n  margin-top: 20px;\n  font-size: 0.8rem;\n  line-height: 25px;\n  width: 100%;\n  text-align: center;\n}\n\n.singatureContact {\n  margin: 7vh auto;\n  text-align: center;\n}\n\n.signatureMedia {\n  margin: 4vh auto;\n}\n\n.signatureSpan {\n  display: inline-block;\n  width: 50px;\n  height: 1px;\n  background: #FFF;\n  border-bottom: 4px solid black;\n  padding-bottom: 2px;\n  transition: 1s;\n}\n\n.signatureMedia p {\n  display: inline-block;\n  margin: 0 20px;\n  text-transform: uppercase;\n  color: red;\n  font-weight: 700;\n  font-size: 0.9rem;\n}\n\n.signatureMedia ul {\n  margin-top: 1vh;\n}\n\n.signatureMedia li {\n  margin: 1vh auto;\n  font-weight: 500;\n  list-style-type: none;\n  font-size: 0.7rem;\n}\n\n.signatureMedia:hover > .signatureSpan {\n  /* cursor: pointer; */\n  transform: rotate(-45deg);\n  /* transform: scaleX(1.2); */\n}\n\n.singatureLinks,\n.singatureInformations,\n.singatureInvestments {\n  color: white;\n}\n\n.singatureLinks ul,\n.singatureInformations ul,\n.singatureInvestments ul {\n  list-style-type: none;\n}\n\n.singatureLinks li,\n.singatureInformations li,\n.singatureInvestments li {\n  margin: 4vh auto;\n  text-align: center;\n  color: grey;\n  cursor: pointer;\n  line-height: 0.1rem;\n  font-size: 0.5rem;\n}\n\n.singatureLinks p,\n.singatureInformations p,\n.singatureInvestments p {\n  text-align: center;\n  text-transform: uppercase;\n  font-weight: 700;\n  font-size: 0.7rem;\n}\n\n.singatureLinks,\n.singatureInformations,\n.singatureInvestments {\n  width: 33%;\n  display: inline-block;\n}\n\np.signatureLogo {\n  font-size: 2rem;\n}\n\n.finish {\n  width: 90%;\n  margin: 0 auto;\n  font-size: 8px;\n  padding-bottom: 2vh;\n  position: relative;\n}\n\n.finish:before {\n  content: '';\n  display: block;\n  border: 1px solid grey;\n  width: 90%;\n  margin-bottom: 5px;\n}\n\n.finish a {\n  color: white;\n  text-decoration: none;\n  cursor: pointer;\n}\n\n.finish a:hover {\n  color: red;\n}\n\n.top {\n  color: #315380;\n  font-size: 4vh;\n  transform: rotate(-90deg);\n  position: absolute;\n  bottom: 3vh;\n  right: 5vw;\n  cursor: pointer;\n  animation-name: pulse;\n  animation-duration: 1s;\n  animation-iteration-count: infinite;\n  animation-timing-function: linear;\n}\n\n@keyframes pulse {\n  0% {\n    /* transform: rotate(-90deg); */\n  }\n\n  50% {\n    /* transform: rotate(-80deg); */\n    bottom: 4vh;\n  }\n\n  100% {\n    /* transform: rotate(-90deg); */\n    bottom: 3vh;\n  }\n}\n\n.socialMedia {\n  width: 100%;\n  text-align: center;\n  margin: 10vw 0;\n}\n\n.sizeForSocial {\n  margin: 0 10px;\n  font-size: 30px;\n  cursor: pointer;\n}\n\n.sizeForSocial:hover {\n  color: red;\n}\n\n/* NotFound Component */\n\n.notFoundComp {\n  height: 100vh;\n  width: 100vw;\n  background: url(" + escape(__webpack_require__(55)) + ");\n  background-size: cover;\n  /* background-repeat: no-repeat; */\n  background-repeat: no-repeat;\n  background-position: center;\n  position: relative;\n}\n\n.notFoundText {\n  position: absolute;\n  top: 80%;\n  left: 50%;\n  width: 80%;\n  font-size: 0.7rem;\n  text-align: center;\n  transform: translate(-50%, -50%);\n}\n\n.notFoundForward {\n  position: absolute;\n  top: 90%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  background: red;\n  padding: 10px 20px;\n  background: #315380;\n  color: white;\n  border: 2px solid #315380;\n  cursor: pointer;\n  border-radius: 50px 50px;\n}\n\n.notFoundForward:hover {\n  background: white;\n  color: black;\n}\n\n/*--------------------NEWS-------- /*\r\n /* News Component */\n\n.newsComp {\n  background: white;\n  color: black;\n  height: 100%;\n  width: 100%;\n  position: relative;\n}\n\n.newsComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.newsPage {\n  width: 100%;\n  text-align: center;\n  padding: 5vh 0;\n}\n\n.newsPage li {\n  font-size: 0.7rem;\n  list-style-type: none;\n  display: inline-block;\n  /* border: 1px solid black; */\n  padding: 5px;\n  margin: 5px;\n  border-radius: 5px;\n}\n\n.newsPage li:hover {\n  cursor: pointer;\n  color: white;\n  background: #315380;\n  /* border: 1px solid #315380 */\n}\n\n.newsPage ul li:last-child,\n.newsPage ul li:first-child {\n  border: 1px solid black;\n}\n\n/* NewsElementsInfo Component */\n\n.newsElement {\n  /* border: 5px solid #eee; */\n  /* padding:10px; */\n  margin-bottom: 7vh;\n}\n\n.newsImg {\n  background-size: cover;\n  background-repeat: no-repeat;\n  height: 200px;\n  width: 100%;\n}\n\n.newsTitle {\n  margin: 5vw 0;\n  font-weight: 100;\n  font-size: 30px;\n  text-transform: uppercase;\n}\n\n.newsArticle {\n  border-left: 10px solid #eee;\n  padding-left: 10px;\n  margin: 6vw 0;\n}\n\n.newsButton {\n  background: transparent;\n  color: black;\n  padding: 10px 20px;\n  border: 1px solid black;\n  font-weight: 700;\n  cursor: pointer;\n  /* border-radius: 10px */\n}\n\n.newsButton:hover {\n  /* color: #315380;\r\n  border: 1px solid #315380; */\n  color: white;\n  background: #315380;\n  border: 1px solid #315380;\n}\n\n.newsBold {\n  font-weight: 700;\n  padding: 0 10px;\n}\n\n.newsButton .fas {\n  color: #315380;\n  margin-left: 5px;\n}\n\n.newsButton:hover > i {\n  color: white;\n}\n\n/* HeaderCompImg Component */\n\n.newsTitleImg {\n  background-size: contain;\n  background-repeat: no-repeat;\n  /* height: 50vh; */\n  width: 100%;\n  height: 45vh;\n  /* animation-name: showImg;\r\n  animation-duration: 3s;\r\n  animation-iteration-count: 1;\r\n  animation-timing-function: linear; */\n  padding-top: 70px;\n}\n\n.newsContainerTitle {\n  position: relative;\n}\n\n.newsTitleText {\n  color: white;\n  width: 90%;\n  font-size: 10vw;\n  text-transform: uppercase;\n  position: absolute;\n  top: 60%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  /* font-weight: 700 */\n}\n\n.titleSpan {\n  display: inline-block;\n  /* width: 10vw; */\n}\n\n.titleBorder {\n  border-bottom: 10px solid #315380;\n  font-weight: 100;\n}\n\n.titleWhite {\n  font-weight: 700;\n  margin-top: 10px;\n  margin-left: 50px;\n}\n\n.shadow {\n  animation-name: shadowKeyframes;\n  animation-iteration-count: 1;\n  animation-fill-mode: backwards;\n  animation-duration: 0.5s;\n  animation-delay: 1s;\n}\n\n@keyframes shadowKeyframes {\n  0% {\n\n  }\n\n  50% {\n    text-shadow: 0 0 5px white, 0 0 10px white,\r 0 0 20px white, 0 0 30px white,\r 0 0 40px white;\n    /* color: #315380 */\n  }\n\n  100% {\n\n  }\n}\n\n/* ForwardInfo Component */\n\n.forwardInfo {\n  height: 20vh;\n  margin: 0 auto;\n  position: relative;\n  text-align: left;\n  background: white;\n}\n\n.navForward {\n  display: inline-block;\n}\n\n.navForward:hover .spanForward {\n  cursor: pointer;\n  transform: rotate(-45deg);\n}\n\n.textForward {\n  position: absolute;\n  width: 100%;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n\n.spanForward {\n  display: inline-block;\n  transition: 1s;\n  width: 40px;\n  /* background: red; */\n  height: 5px;\n  border-top: 2px solid grey;\n}\n\n.navForwardText {\n  text-transform: uppercase;\n  font-size: 0.8rem;\n  margin: 0 20px;\n  color: red;\n  font-weight: 700;\n  cursor: pointer;\n}\n\n.active {\n  color: #315380;\n  /* color: red; */\n  font-weight: 700;\n  cursor: default;\n}\n\n.linkForward {\n  text-decoration: none;\n}\n\n/*Products Component */\n\n.productsComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.productsComp {\n  width: 100%;\n  margin: 0 auto;\n  background: white;\n}\n\n/* NewsElementProducts Component */\n\n.newsProductText {\n  position: absolute;\n  bottom: 20%;\n  margin-left: 20px;\n  text-transform: uppercase;\n  color: white;\n  font-weight: 700;\n  font-size: 1.5rem;\n  z-index: 1;\n}\n\n.productElement:hover > .newsProductText {\n  /* transform: scale(1.2); */\n  animation-name: scaleInfo;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n  animation-timing-function: ease-in-out;\n}\n\n.productsComp .productsEl {\n  display: flex;\n  flex-direction: column;\n}\n\n.productsInfo {\n  opacity: 0;\n  position: absolute;\n  top: 0%;\n  left: 0;\n  padding: 20px;\n  color: #315380;\n  background: white;\n  text-align: center;\n  margin: 0 auto;\n  color: #315380;\n  font-size: 5vw;\n  /* padding-top: 10% */\n}\n\n.productElement:hover > .productsInfo {\n  opacity: 0.8;\n  transition: 1s;\n  /* transform: translate3d(0,0, 30%); */\n  transform: translate(0px, 0px);\n  height: 100%;\n  width: 100%;\n}\n\n/* Offer Compononent */\n\n.offerComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.offerComp {\n  width: 100%;\n  margin: 0 auto;\n  background: white;\n}\n\n.offerEl {\n  display: flex;\n  flex-direction: row;\n  justify-content: space-around;\n  flex-wrap: wrap;\n  margin-bottom: 5vh;\n}\n\n.offerEl .elementsContainer {\n  border: 1px solid black;\n  width: 40vw;\n  height: 20vw;\n  margin: 2vw;\n  font-size: 0.7rem;\n  text-align: center;\n  color: black;\n  position: relative;\n  cursor: pointer;\n}\n\n.offerElementsTitle {\n  width: 100%;\n  height: 20%;\n  font-size: 3vw;\n  position: absolute;\n  bottom: 0;\n  text-align: center;\n  color: white;\n  background: black;\n}\n\n/*Conact Component */\n\n.contactComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.contactInfo {\n  /* height: 20vh; */\n  /* border: 1px solid black; */\n  margin: 5vh 0;\n  text-align: left;\n  color: #70747e;\n}\n\n.iframe {\n  width: 100%;\n  height: 50vh;\n}\n\n.contactComp {\n  background: white;\n  width: 100%;\n  margin: 0 auto;\n}\n\nh4 {\n  color: #315380;\n  font-size: 1.3rem;\n  margin: 20px 0;\n}\n\n.contactInfo ul {\n  margin: 10px 0;\n  font-weight: 700;\n  list-style-type: none;\n}\n\n.contactInfo li {\n  font-size: 0.9rem;\n  font-weight: 500;\n}\n\n.contactInfo li a {\n  color: #315380;\n}\n\n.contactInfo li .bold {\n  font-weight: 600;\n  color: black;\n}\n\n.sizeForContact {\n  margin: 0 10px;\n  font-size: 30px;\n  cursor: pointer;\n}\n\n.sizeForContact:hover {\n  color: #315380;\n}\n\n/* EmailsInfo Component*/\n\n.emailsInfoComp {\n  background: #f8f9fc;\n}\n\n.emailsImg {\n  display: inline-block;\n  width: 30%;\n  text-align: center;\n}\n\n.emailsInfo {\n  display: inline-block;\n  width: 70%;\n  font-size: 1.1rem;\n}\n\n.emailsList {\n  list-style-type: none;\n}\n\n.sizeForEmail {\n  margin: 0 10px;\n  font-size: 50px;\n  cursor: pointer;\n  color: #315380;\n}\n\n.emailsInfoAddress {\n  font-size: 0.9rem;\n  color: #337ab7;\n}\n\nul.emailsList li {\n  padding: 30px 0;\n}\n\n/* ContactForm Component */\n\n.contactForm {\n  background: #f7f7f7;\n  background: url(\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcY3LYt2839TZmKUiNXf-E--K4MIPp1oqI6sQsciLNuXuE6sVo\");\n  /* background: url(\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVoCbN7swfL7jK0hAsg8Y_5GbZOKBJeU-QV4Z1kUprdKgxkOdX\"); */\n  background: url(\"https://www.heuristic.pl/img/blog/ecommerce/_big/zdjecie_jest_istotne.jpg\");\n  background-size: cover;\n}\n\nform {\n  width: 90%;\n  padding: 7vh 0;\n  margin: 0 auto;\n  font-weight: 700;\n  font-size: 0.9rem;\n  opacity: 1;\n}\n\n.contactForm label {\n  display: block;\n  margin-bottom: 25px;\n  color: black;\n}\n\n.contactForm input,\n.contactForm textarea {\n  display: block;\n  width: 100%;\n  background: white;\n  border: 2px solid rgba(255, 255, 255, 0.342);\n  padding: 2vh 0;\n  border-radius: 10px;\n  margin-top: 10px;\n  color: black;\n  padding-left: 10px;\n}\n\n.contactForm input:focus,\n.contactForm textarea:focus {\n  border: 3px solid white;\n}\n\n.btnSendForm {\n  display: block;\n  width: 100%;\n  color: black;\n  border-radius: 10px;\n  background: white;\n  border: 1px solid rgba(255, 255, 255, 0.342);\n}\n\n.contactForm textarea {\n  resize: none;\n}\n\n/* SizeMenu Component */\n\n.sideMenuComp {\n  position: fixed;\n}\n\n.sideText {\n  position: absolute;\n  width: 300px;\n  background: #315380;\n  color: white;\n  letter-spacing: 5px;\n  font-size: 0.7rem;\n  padding: 5px;\n  top: 215px;\n  left: -180px;\n  text-align: center;\n  transform: rotate(-90deg);\n  text-transform: uppercase;\n  border-left: 2px solid grey;\n  border-right: 2px solid grey;\n}\n\n.sideText:hover {\n  cursor: pointer;\n  animation-name: sideHover;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n  animation-timing-function: ease-in-out;\n}\n\n@keyframes sideHover {\n  0% {\n\n  }\n\n  25% {\n    /* opacity: 0.5 */\n    color: grey;\n    /* border-bottom: 2px solid grey; */\n  }\n\n  75% {\n\n  }\n}\n\n.sideInfo {\n  position: absolute;\n  width: 300px;\n  background: #315380;\n  color: white;\n  padding: 5px;\n  top: 80vh;\n  left: -175px;\n  text-align: center;\n  transform: rotate(-90deg);\n  text-transform: uppercase;\n}\n\n.sideMenuComp .sideInfo .socialMedia {\n  margin: 0 auto;\n}\n\n.sideMenuComp .sideInfo i {\n  transform: rotate(90deg);\n  font-size: 1.2rem;\n}\n\n/* MEDIA */\n\n@media (min-width: 500px) {\n  .newsImg,\n  .newsText {\n    /* float: left; */\n    display: inline-block;\n    height: 35vh;\n    margin: 0 auto;\n  }\n\n  .newsImg {\n    width: 40%;\n    float: left;\n  }\n\n  .newsText {\n    width: 60%;\n    padding-left: 3vw;\n  }\n\n  .newsArticle {\n    padding-left: 30px;\n    line-height: 1.1rem;\n  }\n\n  .newsTitle {\n    margin: 1vw auto;\n  }\n\n  .newsArticle {\n    margin: 2vw 0;\n  }\n\n  .productsInfo {\n    font-size: 1.2rem;\n  }\n\n  .newsTitleText {\n    font-size: 9vw;\n  }\n\n  .offerEl {\n    display: flex;\n    display: inline-block;\n    flex-direction: column;\n    justify-content: space-around;\n    flex-wrap: wrap;\n    margin-bottom: 5vh;\n  }\n\n  .offerEl .elementsContainer {\n    display: inline-block;\n    width: 30vw;\n    height: 15vw;\n  }\n\n  .offerEl .elementsContainer p {\n    font-size: 0.8rem;\n  }\n\n  .singatureLinks li,\n  .singatureInformations li,\n  .singatureInvestments li {\n    font-size: 0.7rem;\n  }\n\n  .singatureLinks p,\n  .singatureInformations p,\n  .singatureInvestments p {\n    font-size: 0.9rem;\n  }\n}\n\n@media (min-width: 600px) {\n  .newsArticle {\n    line-height: 1.3rem;\n  }\n\n  .productsInfo {\n    font-size: 1.5rem;\n  }\n\n  .newsTitleText {\n    font-size: 7vw;\n  }\n\n  .productsInfo {\n    line-height: 2rem;\n  }\n\n  /* .offerEl .elementsContainer p {\r\n    font-size:  0.7rem\r\n  } */\n\n  .offerEl .elementsContainer {\n    display: inline-block;\n    width: 20vw;\n    height: 10vw;\n  }\n\n  .offerEl .elementsContainer p {\n    font-size: 0.8rem;\n  }\n\n  /* .emailsList li{\r\n    width: 70%;\r\n    margin: 0 auto\r\n  } */\n\n  .emailsList li {\n    display: inline-block;\n    width: 50%;\n  }\n\n  .emailsInfoComp {\n    padding: 3vw 0;\n  }\n}\n\n@media (min-width: 1000px) {\n  .newsArticle {\n    line-height: 1.6rem;\n  }\n\n  body {\n    width: 95%;\n    margin-left: 5%;\n  }\n\n  .navigation {\n    width: 95%;\n  }\n\n  .arrowLeft {\n    left: 10vw;\n    top: 50%;\n  }\n\n  .arrowRight {\n    top: 50%;\n    right: 5vw;\n  }\n\n  h1.title {\n    font-size: 4rem;\n  }\n\n  .titleName {\n    top: 50%;\n    left: 50%;\n  }\n\n  .aboutCompContainer {\n    /* height: 60vw */\n  }\n\n  .aboutUsInfo,\n  .aboutImg {\n    display: inline-block;\n    /* height: 30vw */\n  }\n\n  .aboutImg {\n    width: 40%;\n    background-size: cover;\n    float: left;\n    height: 100vh;\n  }\n\n  .aboutUsInfo {\n    width: 60%;\n    padding: 0 2vw;\n    height: 100vh;\n  }\n\n  h3 {\n    margin: 2vw 0;\n    font-size: 3rem;\n    line-height: 3rem;\n  }\n\n  .aboutSeeHeader {\n    margin-top: 5vw;\n    margin-bottom: 2vw;\n    /* font-size: 3vw */\n  }\n\n  .aboutSee li {\n    display: inline-block;\n    margin: 0 2vw;\n  }\n\n  .singatureLinks,\n  .singatureInformations {\n    width: 33%;\n  }\n\n  .singatureLinks li,\n  .singatureInformations li,\n  .singatureInvestments li {\n    font-size: 0.8rem;\n  }\n\n  .singatureLinks p,\n  .singatureInformations p,\n  .singatureInvestments p {\n    font-size: 1rem;\n  }\n\n  /* .aboutSee li:first-child{\r\n    margin-left: 6vw;\r\n  }\r\n  .aboutSee li:nth-child(2){\r\n    margin-left: 8vw;\r\n  }\r\n  .aboutSee li:nth-child(3){\r\n    margin-left: 10vw;\r\n  }\r\n  .aboutSee li:nth-child(4){\r\n    margin-left: 12vw;\r\n  } */\n\n  .aboutSee li span {\n    /* width: 3vw */\n  }\n\n  .elAbout {\n    /* font-size: 1.2vw; */\n    line-height: 2vw;\n    /* margin-left: 12vw */\n  }\n\n  .singatureContact {\n    width: 100%;\n    display: block;\n    margin: 5vw 0;\n  }\n\n  .signatureMedia {\n    display: inline-block;\n    margin-left: 5vw;\n  }\n\n  .signatureTitle {\n    width: 10vw;\n    font-size: 3vw;\n    padding-top: 5vw;\n    width: 100%;\n  }\n\n  .signatureContainer {\n    /* margin: 5vw 0  */\n  }\n\n  .finish {\n    margin-top: 2vw;\n  }\n\n  .finish:before {\n    width: 100%;\n  }\n\n  /* NewElementProducts Comp */\n\n  .productsInfo {\n    line-height: 3rem;\n  }\n\n  div.productElement {\n    width: 70vw;\n    margin: 2vw auto;\n    height: 60vh;\n  }\n\n  .newsTitleText {\n    font-size: 5vw;\n    width: 60%;\n    left: 45%;\n  }\n\n  .newsTitleImg {\n    height: 60vh;\n  }\n\n  .offerEl .elementsContainer {\n    display: inline-block;\n    width: 15vw;\n    height: 8vw;\n  }\n\n  .offerEl .elementsContainer p {\n    font-size: 1.1rem;\n  }\n\n  /* Contact Compnent */\n\n  .emailsInfo {\n    font-size: 1.5rem;\n  }\n\n  .emailsInfoComp {\n    padding: 5vw 0;\n  }\n\n  .contactInfo,\n  .iframe {\n    display: inline-block;\n  }\n\n  .contactInfo {\n    width: 40%;\n    float: left;\n    text-align: center;\n  }\n\n  .iframe {\n    width: 60%;\n    margin: 5vh 0;\n  }\n\n  .contactForm form label,\n  .btnSendForm {\n    margin: 2vw auto;\n    width: 40%;\n  }\n\n  .btnSendForm {\n    margin-top: 2vw;\n  }\n\n  .contactForm input,\n  .contactForm textarea {\n    background: white;\n  }\n}\n\n@media (min-width: 1200px) {\n  /* .sideMenuComp{\r\n    height: 40px;\r\n    left: -85px;\r\n  }\r\n  .sideInfo{\r\n    top: -9vw;\r\n    left: -60vh;\r\n  } */\n\n  .sideText {\n    left: -185px;\n  }\n\n  .sideInfo {\n    left: -180px;\n  }\n\n  /* .productElement:hover > .productsInfo{ \r\n  font-size: 1rem\r\n  } */\n\n  .productsInfo {\n    font-size: 1.8rem;\n  }\n}\n\n@media (min-width: 1300px) {\n  .sideText {\n    left: -190px;\n  }\n\n  .sideInfo {\n    left: -185px;\n  }\n}", ""]);
+exports.push([module.i, "@charset \"UTF-8\";\n\n* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  min-width: 300px;\n  font-family: 'Roboto', sans-serif;\n  overflow: auto;\n}\n\n.allBody .container {\n  padding-top: 70px;\n}\n\n.allBody {\n  background: white;\n}\n\nhtml {\n  background: #315380;\n}\n\n/* NAVIGATION Component */\n\n.navigation {\n  font-family: 'Roboto', sans-serif;\n  background: #315380;\n  color: #FFFF;\n  width: 100vw;\n  padding: 20px 0;\n  position: fixed;\n  z-index: 2;\n}\n\n.navTitle {\n  /* font-size: 1.2rem; */\n  /* letter-spacing: 0.5em; */\n  /* text-transform: uppercase; */\n  /* font-weight: 400; */\n  display: inline-block;\n  position: relative;\n  /* margin-left: 30px; */\n  color: white;\n  float: left;\n  /* width:40px; */\n  line-height: 35px;\n  margin: 0 5vw;\n  border-radius: 6px;\n}\n\n.navTitle > span {\n  font-size: 1.8rem;\n  margin: 0 5px;\n  display: block;\n  text-transform: uppercase;\n  float: left;\n  /* border-radius:6px; */\n  /* color: white; */\n}\n\n.navTitle:hover {\n  cursor: pointer;\n  animation-name: sideHover;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n  animation-timing-function: ease-in-out;\n}\n\n.addTitleAnimation {\n  animation: text_animation 5s linear 1;\n  -webkit-animation: text_animation 5s linear 1;\n}\n\n.navTitle > .titleLetter0 {\n  animation-delay: 250ms;\n  -webkit-animation-delay: 250ms;\n}\n\n.navTitle > .titleLetter1 {\n  animation-delay: 500ms;\n  -webkit-animation-delay: 500ms;\n}\n\n.navTitle > .titleLetter2 {\n  animation-delay: 750ms;\n  -webkit-animation-delay: 750ms;\n}\n\n.navTitle > .titleLetter3 {\n  animation-delay: 1000ms;\n  -webkit-animation-delay: 1000ms;\n}\n\n.navTitle > .titleLetter4 {\n  animation-delay: 1250ms;\n  -webkit-animation-delay: 1250ms;\n}\n\n.navTitle > .titleLetter5 {\n  animation-delay: 1500ms;\n  -webkit-animation-delay: 1500ms;\n}\n\n.navTitle > .titleLetter6 {\n  animation-delay: 1750ms;\n  -webkit-animation-delay: 1750ms;\n}\n\n.navTitle > .titleLetter7 {\n  animation-delay: 2000ms;\n  -webkit-animation-delay: 2000ms;\n}\n\n@keyframes text_animation {\n  0% {\n    transform: rotate(0);\n  }\n\n  10% {\n    transform: rotate(360deg);\n  }\n\n  100% {\n    transform: rotate(360deg);\n  }\n}\n\n.navOrg {\n  font-size: 0.3em;\n  position: absolute;\n  top: -8px;\n  right: -10px;\n  color: white;\n}\n\n.hamburger {\n  font-size: 2rem;\n  display: inline-block;\n  border: 1px solid grey;\n  width: 40px;\n  height: 2rem;\n  float: right;\n  margin: 0 30px;\n}\n\n.hamburger:hover {\n  cursor: pointer;\n  border: 1px solid #FFFF;\n}\n\n.hamburger span {\n  display: block;\n  border-bottom: 2px solid white;\n  padding: 3px;\n  width: 70%;\n  margin: 0 auto;\n  /* height: 7px */\n  /* font-style: inherit */\n}\n\n.hamburger:nth-child(1) {\n  margin-top: 3.5px;\n}\n\n/* span:nth-child(odd){\r\n  border-bottom: 2px solid #315380\r\n\r\n} */\n\n.hideSpan {\n  animation-name: hideHamSpan;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n}\n\n.showSpan {\n  animation-name: showHamSpan;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n}\n\n.stress {\n  width: 100%;\n  border-bottom: 1px solid grey;\n  display: none;\n}\n\n@keyframes hideHamSpan {\n  0% {\n    border-bottom: 2px solid #FFFF;\n  }\n\n  100% {\n    border-bottom: 2px solid #315380;\n  }\n}\n\n@keyframes showHamSpan {\n  0% {\n    border-bottom: 2px solid #315380;\n  }\n\n  100% {\n    border-bottom: 2px solid #FFFF;\n  }\n}\n\n@media (max-width: 600px) {\n  .navigation p {\n    font-size: 5vw;\n  }\n}\n\n/* ElementNavigation Compo */\n\n.slideMenu {\n  /* padding-bottom: 5vh; */\n  position: fixed;\n  top: 9vh;\n  z-index: 1;\n  background: #315380;\n  width: 100%;\n  display: none;\n}\n\n.showMenu {\n  position: fixed;\n  top: 3vh;\n  left: 50%;\n  z-index: 1;\n  background: #315380;\n  width: 100%;\n  display: block;\n}\n\n.showMenu li {\n  margin-left: 30px;\n  list-style-type: none;\n  /* margin-top: 2vh; */\n  text-transform: uppercase;\n  font-weight: 700;\n  font-size: 15px;\n  display: inline-block;\n}\n\n.elMenu {\n  color: white;\n  text-decoration: none;\n}\n\n.elMenu:hover {\n  animation-name: menuHover;\n  animation-iteration-count: 1;\n  animation-fill-mode: both;\n  animation-duration: 0.3s;\n  animation-timing-function: ease-in-out;\n}\n\n.slideMenu li {\n  margin-left: 30px;\n  list-style-type: none;\n  margin-top: 2vh;\n  text-transform: uppercase;\n  font-weight: 800;\n  font-size: 12px;\n  /* display: inline-block */\n}\n\n.slideMenu li:last-child {\n  padding-bottom: 10vh;\n}\n\n.slideMenu li:first-child {\n  padding-top: 5vh;\n}\n\n.elClickOn {\n  color: red;\n  /* border-bottom: 2px solid red */\n}\n\n@keyframes menuHover {\n  0% {\n\n  }\n\n  25% {\n    /* opacity: 0.5 */\n    /* border-bottom: 2px solid grey; */\n  }\n\n  100% {\n    color: grey;\n  }\n}\n\n/* HOME Component*/\n\n/* zastąpione HomeContainer Comp */\n\n/* .homeComp{\r\n  height: 100vh;\r\n  width: 100vw;\r\n  background-size: cover;\r\n  background-repeat: no-repeat;\r\n  background-position: 45% 20%;\r\n} */\n\n@keyframes showImg {\n  0% {\n    opacity: 0;\n  }\n\n  25% {\n    opacity: 0.7;\n  }\n\n  50% {\n    opacity: 1;\n  }\n\n  75% {\n    opacity: 1;\n  }\n\n  100% {\n    opacity: 0;\n  }\n}\n\n/*Title Component */\n\n.titleName {\n  position: absolute;\n  text-align: center;\n  top: 40%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n\nh1.title {\n  font-size: 2rem;\n  letter-spacing: 0.4em;\n  text-transform: uppercase;\n  font-weight: 600;\n  color: #315380;\n  text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,\r 0 0 20px #A5F1FF, 0 0 30px #A5F1FF,\r 0 0 40px #A5F1FF;\n  animation-name: scaleInfo;\n  animation-iteration-count: 3;\n  animation-fill-mode: forwards;\n  animation-duration: 4s;\n  animation-timing-function: ease-in-out;\n}\n\n.titleOrg {\n  font-size: 0.3em;\n  position: absolute;\n  top: 0;\n  right: -10px;\n}\n\n.afterTitle {\n  /* animation-name: showAfterTitle;\r\n  animation-iteration-count: 3;\r\n  animation-fill-mode: forwards;\r\n  animation-duration: 4s;\r\n  animation-timing-function: ease-in-out;  */\n  opacity: 1;\n  color: white;\n  font-size: 1rem;\n  width: 100%;\n  text-transform: uppercase;\n  font-weight: 600;\n  letter-spacing: 0.2em;\n  /* margin-top: 4vw; */\n  /* color: #315380; */\n  /* opacity: 0; */\n  text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,\r 0 0 20px #A5F1FF, 0 0 30px #A5F1FF,\r 0 0 40px #A5F1FF;\n}\n\n@keyframes showAfterTitle {\n  0% {\n    opacity: 1;\n  }\n\n  50% {\n    opacity: 0.1;\n  }\n\n  75% {\n\n  }\n\n  100% {\n    opacity: 1;\n    /* transform: scale(1.1); */\n  }\n}\n\n@keyframes scaleInfo {\n  0% {\n    font-size: 0.5rem;\n    letter-spacing: 0.4em;\n    font-weight: 600;\n  }\n\n  50% {\n    /* color: #315380 */\n    transform: scale(1.2);\n    letter-spacing: 0.4em;\n    font-weight: 600;\n    /* opacity: 0 */\n  }\n\n  90% {\n    opacity: 0;\n  }\n\n  100% {\n    /* color: white; */\n    transform: scale(1.3);\n    letter-spacing: 0.4em;\n    font-weight: 600;\n    opacity: 0;\n  }\n}\n\n/* .titleName:before, .titleName:after { \r\n  content: \"\"; \r\n  display: table; \r\n  clear: both; }\r\n */\n\n/*AboutUs Component */\n\n.aboutComp {\n  height: 100%;\n  width: 100%;\n  /* margin: 10vw auto; */\n  /* margin: 0 auto; */\n  /* margin-top: 10vw; */\n  /* margin-bottom: 10vw; */\n}\n\n.aboutCompContainer {\n  width: 90%;\n  margin: 0 auto;\n  margin-top: 10vh;\n  background: white;\n}\n\n.aboutImg {\n  background: url(" + escape(__webpack_require__(59)) + ");\n  height: 50vh;\n  background-repeat: no-repeat;\n  background-position: 45% 85%;\n  /* width: 100%; */\n  background-size: cover;\n  /* background-repeat: no-repeat; */\n  margin: 0 auto;\n}\n\n.aboutUsInfo {\n  line-height: 1.7rem;\n  font-size: 0.9rem;\n  /* padding-bottom: 5vw; */\n  /* margin-bottom: 5vw; */\n}\n\n.aboutUsInfo p {\n  padding: 10px 0;\n}\n\nh3 {\n  margin: 8vw auto;\n  font-weight: 100;\n  text-transform: uppercase;\n  font-size: 2rem;\n}\n\n.aboutBold {\n  font-weight: 700;\n}\n\n.aboutBorder {\n  display: block;\n  width: 30%;\n  height: 2vw;\n  border-bottom: 10px solid #315380;\n  margin: 5vh auto;\n  background: white;\n}\n\n/* ForwardNavigation Component */\n\n.aboutSee {\n  font-size: 1.6rem;\n  font-weight: 700;\n  padding-bottom: 5vw;\n  background: white;\n  /* padding-bottom: 5vw; */\n}\n\n.aboutSeeHeader {\n  margin-bottom: 5vw;\n}\n\n.elAbout {\n  color: red;\n  list-style-type: none;\n  text-transform: uppercase;\n  text-decoration: none;\n  margin-left: 70px;\n  font-size: 0.8rem;\n  font-weight: 600;\n}\n\n.aboutSee li span {\n  display: inline-block;\n  position: absolute;\n  top: 55%;\n  left: 0;\n  width: 50px;\n  height: 1px;\n  background: grey;\n  transition: 1s;\n}\n\n.aboutSee ul li {\n  position: relative;\n  text-decoration: none;\n  list-style-type: none;\n  /* display: inline-block */\n}\n\n.aboutSee li:hover > span {\n  cursor: pointer;\n  transform: rotate(-45deg);\n}\n\n/* .aboutSee li::before{\r\n  content: '';\r\n  position: absolute;\r\n  top: 50%;\r\n  left: 0;\r\n  width: 40px;\r\n  height: 1px;\r\n  background: #000;\r\n} */\n\n/*ArrowSlider Component */\n\n.fa-chevron-right,\n.fa-chevron-left {\n  color: white;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  /* font-size: 1.2rem */\n}\n\n.fa-chevron-right:hover,\n.fa-chevron-left:hover {\n  font-size: 1.7rem;\n  cursor: pointer;\n}\n\n.arrowRight,\n.arrowLeft {\n  position: absolute;\n  background: rgba(61, 57, 57, 0.4);\n  height: 40px;\n  width: 40px;\n}\n\n.arrowRight {\n  right: 0vw;\n  bottom: 8vh;\n}\n\n.arrowLeft {\n  left: 0vw;\n  bottom: 8vh;\n}\n\n.arrowInfo {\n  width: 60vw;\n  position: absolute;\n  bottom: 3vh;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  margin: 0 auto;\n  text-align: center;\n}\n\n.arrowInfo .arrowSpan {\n  width: 30px;\n  height: 5px;\n  display: inline-block;\n  margin: 0 2vw;\n  border-bottom: 1px solid white;\n}\n\n.spanActive {\n  background: white;\n}\n\n/* SIGNATURE Comp */\n\n.signatureComp {\n  width: 100%;\n  background: #000;\n  color: #FFF;\n}\n\n.signatureContainer {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.signatureTitle {\n  padding-top: 10vw;\n  font-size: 1.5rem;\n  text-align: center;\n  letter-spacing: 0.5em;\n  text-transform: uppercase;\n  font-weight: 400;\n  color: white;\n}\n\n.signatureInfo {\n  color: grey;\n  margin-top: 20px;\n  font-size: 0.8rem;\n  line-height: 25px;\n  width: 100%;\n  text-align: center;\n}\n\n.singatureContact {\n  margin: 7vh auto;\n  text-align: center;\n}\n\n.signatureMedia {\n  margin: 4vh auto;\n}\n\n.signatureSpan {\n  display: inline-block;\n  width: 50px;\n  height: 1px;\n  background: #FFF;\n  border-bottom: 4px solid black;\n  padding-bottom: 2px;\n  transition: 1s;\n}\n\n.signatureMedia p {\n  display: inline-block;\n  margin: 0 20px;\n  text-transform: uppercase;\n  color: red;\n  font-weight: 700;\n  font-size: 0.9rem;\n}\n\n.signatureMedia ul {\n  margin-top: 1vh;\n}\n\n.signatureMedia li {\n  margin: 1vh auto;\n  font-weight: 500;\n  list-style-type: none;\n  font-size: 0.7rem;\n}\n\n.signatureMedia:hover > .signatureSpan {\n  /* cursor: pointer; */\n  transform: rotate(-45deg);\n  /* transform: scaleX(1.2); */\n}\n\n.singatureLinks,\n.singatureInformations,\n.singatureInvestments {\n  color: white;\n}\n\n.singatureLinks ul,\n.singatureInformations ul,\n.singatureInvestments ul {\n  list-style-type: none;\n}\n\n.singatureLinks li,\n.singatureInformations li,\n.singatureInvestments li {\n  margin: 4vh auto;\n  text-align: center;\n  color: grey;\n  cursor: pointer;\n  line-height: 0.1rem;\n  font-size: 0.5rem;\n}\n\n.singatureLinks p,\n.singatureInformations p,\n.singatureInvestments p {\n  text-align: center;\n  text-transform: uppercase;\n  font-weight: 700;\n  font-size: 0.7rem;\n}\n\n.singatureLinks,\n.singatureInformations,\n.singatureInvestments {\n  width: 33%;\n  display: inline-block;\n}\n\np.signatureLogo {\n  font-size: 2rem;\n}\n\n.finish {\n  width: 90%;\n  margin: 0 auto;\n  font-size: 8px;\n  padding-bottom: 2vh;\n  position: relative;\n}\n\n.finish:before {\n  content: '';\n  display: block;\n  border: 1px solid grey;\n  width: 90%;\n  margin-bottom: 5px;\n}\n\n.finish a {\n  color: white;\n  text-decoration: none;\n  cursor: pointer;\n}\n\n.finish a:hover {\n  color: red;\n}\n\n.top {\n  color: #315380;\n  font-size: 4vh;\n  transform: rotate(-90deg);\n  position: absolute;\n  bottom: 3vh;\n  right: 5vw;\n  cursor: pointer;\n  animation-name: pulse;\n  animation-duration: 1s;\n  animation-iteration-count: infinite;\n  animation-timing-function: linear;\n}\n\n@keyframes pulse {\n  0% {\n    /* transform: rotate(-90deg); */\n  }\n\n  50% {\n    /* transform: rotate(-80deg); */\n    bottom: 4vh;\n  }\n\n  100% {\n    /* transform: rotate(-90deg); */\n    bottom: 3vh;\n  }\n}\n\n.socialMedia {\n  width: 100%;\n  text-align: center;\n  margin: 10vw 0;\n}\n\n.sizeForSocial {\n  margin: 0 10px;\n  font-size: 30px;\n  cursor: pointer;\n}\n\n.sizeForSocial:hover {\n  color: red;\n}\n\n/* NotFound Component */\n\n.notFoundComp {\n  height: 100vh;\n  width: 100vw;\n  background: url(" + escape(__webpack_require__(60)) + ");\n  background-size: cover;\n  /* background-repeat: no-repeat; */\n  background-repeat: no-repeat;\n  background-position: center;\n  position: relative;\n}\n\n.notFoundText {\n  position: absolute;\n  top: 80%;\n  left: 50%;\n  width: 80%;\n  font-size: 0.7rem;\n  text-align: center;\n  transform: translate(-50%, -50%);\n}\n\n.notFoundForward {\n  position: absolute;\n  top: 90%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  background: red;\n  padding: 10px 20px;\n  background: #315380;\n  color: white;\n  border: 2px solid #315380;\n  cursor: pointer;\n  border-radius: 50px 50px;\n}\n\n.notFoundForward:hover {\n  background: white;\n  color: black;\n}\n\n/*--------------------NEWS-------- /*\r\n /* News Component */\n\n.newsComp {\n  background: white;\n  color: black;\n  height: 100%;\n  width: 100%;\n  position: relative;\n}\n\n.newsComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.newsPage {\n  width: 100%;\n  text-align: center;\n  padding: 5vh 0;\n}\n\n.newsPage li {\n  font-size: 0.7rem;\n  list-style-type: none;\n  display: inline-block;\n  /* border: 1px solid black; */\n  padding: 5px;\n  margin: 5px;\n  border-radius: 5px;\n}\n\n.newsPage li:hover {\n  cursor: pointer;\n  color: white;\n  background: #315380;\n  /* border: 1px solid #315380 */\n}\n\n.newsPage ul li:last-child,\n.newsPage ul li:first-child {\n  border: 1px solid black;\n}\n\n/* NewsElementsInfo Component */\n\n.newsElement {\n  /* border: 5px solid #eee; */\n  /* padding:10px; */\n  margin-bottom: 7vh;\n}\n\n.newsImg {\n  background-size: cover;\n  background-repeat: no-repeat;\n  height: 200px;\n  width: 100%;\n}\n\n.newsTitle {\n  margin: 5vw 0;\n  font-weight: 100;\n  font-size: 30px;\n  text-transform: uppercase;\n}\n\n.newsArticle {\n  border-left: 10px solid #eee;\n  padding-left: 10px;\n  margin: 6vw 0;\n}\n\n.newsButton {\n  background: transparent;\n  color: black;\n  padding: 10px 20px;\n  border: 1px solid black;\n  font-weight: 700;\n  cursor: pointer;\n  /* border-radius: 10px */\n}\n\n.newsButton:hover {\n  /* color: #315380;\r\n  border: 1px solid #315380; */\n  color: white;\n  background: #315380;\n  border: 1px solid #315380;\n}\n\n.newsBold {\n  font-weight: 700;\n  padding: 0 10px;\n}\n\n.newsButton .fas {\n  color: #315380;\n  margin-left: 5px;\n}\n\n.newsButton:hover > i {\n  color: white;\n}\n\n/* HeaderCompImg Component */\n\n.newsTitleImg {\n  background-size: contain;\n  background-repeat: no-repeat;\n  /* height: 50vh; */\n  width: 100%;\n  height: 45vh;\n  /* animation-name: showImg;\r\n  animation-duration: 3s;\r\n  animation-iteration-count: 1;\r\n  animation-timing-function: linear; */\n  padding-top: 70px;\n}\n\n.newsContainerTitle {\n  position: relative;\n}\n\n.newsTitleText {\n  color: white;\n  width: 90%;\n  font-size: 10vw;\n  text-transform: uppercase;\n  position: absolute;\n  top: 60%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  /* font-weight: 700 */\n}\n\n.titleSpan {\n  display: inline-block;\n  /* width: 10vw; */\n}\n\n.titleBorder {\n  border-bottom: 10px solid #315380;\n  font-weight: 100;\n}\n\n.titleWhite {\n  font-weight: 700;\n  margin-top: 10px;\n  margin-left: 50px;\n}\n\n.shadow {\n  animation-name: shadowKeyframes;\n  animation-iteration-count: 1;\n  animation-fill-mode: backwards;\n  animation-duration: 0.5s;\n  animation-delay: 1s;\n}\n\n@keyframes shadowKeyframes {\n  0% {\n\n  }\n\n  50% {\n    text-shadow: 0 0 5px white, 0 0 10px white,\r 0 0 20px white, 0 0 30px white,\r 0 0 40px white;\n    /* color: #315380 */\n  }\n\n  100% {\n\n  }\n}\n\n/* ForwardInfo Component */\n\n.forwardInfo {\n  height: 20vh;\n  margin: 0 auto;\n  position: relative;\n  text-align: left;\n  background: white;\n}\n\n.navForward {\n  display: inline-block;\n}\n\n.navForward:hover .spanForward {\n  cursor: pointer;\n  transform: rotate(-45deg);\n}\n\n.textForward {\n  position: absolute;\n  width: 100%;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n\n.spanForward {\n  display: inline-block;\n  transition: 1s;\n  width: 40px;\n  /* background: red; */\n  height: 5px;\n  border-top: 2px solid grey;\n}\n\n.navForwardText {\n  text-transform: uppercase;\n  font-size: 0.8rem;\n  margin: 0 20px;\n  color: red;\n  font-weight: 700;\n  cursor: pointer;\n}\n\n.active {\n  color: #315380;\n  /* color: red; */\n  font-weight: 700;\n  cursor: default;\n}\n\n.linkForward {\n  text-decoration: none;\n}\n\n/*Products Component */\n\n.productsComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.productsComp {\n  width: 100%;\n  margin: 0 auto;\n  background: white;\n}\n\n/* NewsElementProducts Component */\n\n.newsProductText {\n  position: absolute;\n  bottom: 20%;\n  margin-left: 20px;\n  text-transform: uppercase;\n  color: white;\n  font-weight: 700;\n  font-size: 1.5rem;\n  z-index: 1;\n}\n\n.productElement:hover > .newsProductText {\n  /* transform: scale(1.2); */\n  animation-name: scaleInfo;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n  animation-timing-function: ease-in-out;\n}\n\n.productsComp .productsEl {\n  display: flex;\n  flex-direction: column;\n}\n\n.productsInfo {\n  opacity: 0;\n  position: absolute;\n  top: 0%;\n  left: 0;\n  padding: 20px;\n  color: #315380;\n  background: white;\n  text-align: center;\n  margin: 0 auto;\n  color: #315380;\n  font-size: 5vw;\n  /* padding-top: 10% */\n}\n\n.productElement:hover > .productsInfo {\n  opacity: 0.8;\n  transition: 1s;\n  /* transform: translate3d(0,0, 30%); */\n  transform: translate(0px, 0px);\n  height: 100%;\n  width: 100%;\n}\n\n/* Offer Compononent */\n\n.offerComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.offerComp {\n  width: 100%;\n  margin: 0 auto;\n  background: white;\n}\n\n.offerEl {\n  display: flex;\n  flex-direction: row;\n  justify-content: space-around;\n  flex-wrap: wrap;\n  margin-bottom: 5vh;\n}\n\n.offerEl .elementsContainer {\n  border: 1px solid black;\n  width: 40vw;\n  height: 20vw;\n  margin: 2vw;\n  font-size: 0.7rem;\n  text-align: center;\n  color: black;\n  position: relative;\n  cursor: pointer;\n}\n\n.offerElementsTitle {\n  width: 100%;\n  height: 20%;\n  font-size: 3vw;\n  position: absolute;\n  bottom: 0;\n  text-align: center;\n  color: white;\n  background: black;\n}\n\n/*Conact Component */\n\n.contactComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.contactInfo {\n  /* height: 20vh; */\n  /* border: 1px solid black; */\n  margin: 5vh 0;\n  text-align: left;\n  color: #70747e;\n}\n\n.iframe {\n  width: 100%;\n  height: 50vh;\n}\n\n.contactComp {\n  background: white;\n  width: 100%;\n  margin: 0 auto;\n}\n\nh4 {\n  color: #315380;\n  font-size: 1.3rem;\n  margin: 20px 0;\n}\n\n.contactInfo ul {\n  margin: 10px 0;\n  font-weight: 700;\n  list-style-type: none;\n}\n\n.contactInfo li {\n  font-size: 0.9rem;\n  font-weight: 500;\n}\n\n.contactInfo li a {\n  color: #315380;\n}\n\n.contactInfo li .bold {\n  font-weight: 600;\n  color: black;\n}\n\n.sizeForContact {\n  margin: 0 10px;\n  font-size: 30px;\n  cursor: pointer;\n}\n\n.sizeForContact:hover {\n  color: #315380;\n}\n\n/* EmailsInfo Component*/\n\n.emailsInfoComp {\n  background: #f8f9fc;\n}\n\n.emailsImg {\n  display: inline-block;\n  width: 30%;\n  text-align: center;\n}\n\n.emailsInfo {\n  display: inline-block;\n  width: 70%;\n  font-size: 1.1rem;\n}\n\n.emailsList {\n  list-style-type: none;\n}\n\n.sizeForEmail {\n  margin: 0 10px;\n  font-size: 50px;\n  cursor: pointer;\n  color: #315380;\n}\n\n.emailsInfoAddress {\n  font-size: 0.9rem;\n  color: #337ab7;\n}\n\nul.emailsList li {\n  padding: 30px 0;\n}\n\n/* ContactForm Component */\n\n.contactForm {\n  background: #f7f7f7;\n  background: url(\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcY3LYt2839TZmKUiNXf-E--K4MIPp1oqI6sQsciLNuXuE6sVo\");\n  /* background: url(\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVoCbN7swfL7jK0hAsg8Y_5GbZOKBJeU-QV4Z1kUprdKgxkOdX\"); */\n  background: url(\"https://www.heuristic.pl/img/blog/ecommerce/_big/zdjecie_jest_istotne.jpg\");\n  background-size: cover;\n}\n\nform {\n  width: 90%;\n  padding: 7vh 0;\n  margin: 0 auto;\n  font-weight: 700;\n  font-size: 0.9rem;\n  opacity: 1;\n}\n\n.contactForm label {\n  display: block;\n  margin-bottom: 25px;\n  color: black;\n}\n\n.contactForm input,\n.contactForm textarea {\n  display: block;\n  width: 100%;\n  background: white;\n  border: 2px solid rgba(255, 255, 255, 0.342);\n  padding: 2vh 0;\n  border-radius: 10px;\n  margin-top: 10px;\n  color: black;\n  padding-left: 10px;\n}\n\n.contactForm input:focus,\n.contactForm textarea:focus {\n  border: 3px solid white;\n}\n\n.btnSendForm {\n  display: block;\n  width: 100%;\n  color: black;\n  border-radius: 10px;\n  background: white;\n  border: 1px solid rgba(255, 255, 255, 0.342);\n}\n\n.contactForm textarea {\n  resize: none;\n}\n\n/* SizeMenu Component */\n\n.sideMenuComp {\n  position: fixed;\n}\n\n.sideText {\n  position: absolute;\n  width: 300px;\n  background: #315380;\n  color: white;\n  letter-spacing: 5px;\n  font-size: 0.7rem;\n  padding: 5px;\n  top: 215px;\n  left: -180px;\n  text-align: center;\n  transform: rotate(-90deg);\n  text-transform: uppercase;\n  border-left: 2px solid grey;\n  border-right: 2px solid grey;\n}\n\n.afterTitle {\n  animation-name: showAfterTitle;\n  animation-iteration-count: infinite;\n  animation-fill-mode: forwards;\n  animation-duration: 3s;\n  animation-timing-function: ease-in-out;\n}\n\n@keyframes sideHover {\n  0% {\n\n  }\n\n  25% {\n    /* opacity: 0.5 */\n    color: grey;\n    /* border-bottom: 2px solid grey; */\n  }\n\n  75% {\n\n  }\n}\n\n.sideInfo {\n  position: absolute;\n  width: 300px;\n  background: #315380;\n  color: white;\n  padding: 5px;\n  top: 80vh;\n  left: -175px;\n  text-align: center;\n  transform: rotate(-90deg);\n  text-transform: uppercase;\n}\n\n.sideMenuComp .sideInfo .socialMedia {\n  margin: 0 auto;\n}\n\n.sideMenuComp .sideInfo i {\n  transform: rotate(90deg);\n  font-size: 1.2rem;\n}\n\n/* MEDIA */\n\n@media (min-width: 500px) {\n  .newsImg,\n  .newsText {\n    /* float: left; */\n    display: inline-block;\n    height: 35vh;\n    margin: 0 auto;\n  }\n\n  .newsImg {\n    width: 40%;\n    float: left;\n  }\n\n  .newsText {\n    width: 60%;\n    padding-left: 3vw;\n  }\n\n  .newsArticle {\n    padding-left: 30px;\n    line-height: 1.1rem;\n  }\n\n  .newsTitle {\n    margin: 1vw auto;\n  }\n\n  .newsArticle {\n    margin: 2vw 0;\n  }\n\n  .productsInfo {\n    font-size: 1.2rem;\n  }\n\n  .newsTitleText {\n    font-size: 9vw;\n  }\n\n  .offerEl {\n    display: flex;\n    display: inline-block;\n    flex-direction: column;\n    justify-content: space-around;\n    flex-wrap: wrap;\n    margin-bottom: 5vh;\n  }\n\n  .offerEl .elementsContainer {\n    display: inline-block;\n    width: 30vw;\n    height: 15vw;\n  }\n\n  .offerEl .elementsContainer p {\n    font-size: 0.8rem;\n  }\n\n  .singatureLinks li,\n  .singatureInformations li,\n  .singatureInvestments li {\n    font-size: 0.7rem;\n  }\n\n  .singatureLinks p,\n  .singatureInformations p,\n  .singatureInvestments p {\n    font-size: 0.9rem;\n  }\n}\n\n@media (min-width: 600px) {\n  .newsArticle {\n    line-height: 1.3rem;\n  }\n\n  .productsInfo {\n    font-size: 1.5rem;\n  }\n\n  .newsTitleText {\n    font-size: 7vw;\n  }\n\n  .productsInfo {\n    line-height: 2rem;\n  }\n\n  /* .offerEl .elementsContainer p {\r\n    font-size:  0.7rem\r\n  } */\n\n  .offerEl .elementsContainer {\n    display: inline-block;\n    width: 20vw;\n    height: 10vw;\n  }\n\n  .offerEl .elementsContainer p {\n    font-size: 0.8rem;\n  }\n\n  /* .emailsList li{\r\n    width: 70%;\r\n    margin: 0 auto\r\n  } */\n\n  .emailsList li {\n    display: inline-block;\n    width: 50%;\n  }\n\n  .emailsInfoComp {\n    padding: 3vw 0;\n  }\n}\n\n@media (min-width: 1000px) {\n  .newsArticle {\n    line-height: 1.6rem;\n  }\n\n  body {\n    width: 95%;\n    margin-left: 5%;\n  }\n\n  .navigation {\n    width: 95%;\n  }\n\n  .arrowLeft {\n    left: 10vw;\n    top: 50%;\n  }\n\n  .arrowRight {\n    top: 50%;\n    right: 5vw;\n  }\n\n  h1.title {\n    font-size: 4rem;\n  }\n\n  .titleName {\n    top: 50%;\n    left: 50%;\n  }\n\n  .aboutCompContainer {\n    /* height: 60vw */\n  }\n\n  .aboutUsInfo,\n  .aboutImg {\n    display: inline-block;\n    /* height: 30vw */\n  }\n\n  .aboutImg {\n    width: 40%;\n    background-size: cover;\n    float: left;\n    height: 100vh;\n  }\n\n  .aboutUsInfo {\n    width: 60%;\n    padding: 0 2vw;\n    height: 100vh;\n  }\n\n  h3 {\n    margin: 2vw 0;\n    font-size: 3rem;\n    line-height: 3rem;\n  }\n\n  .aboutSeeHeader {\n    margin-top: 5vw;\n    margin-bottom: 2vw;\n    /* font-size: 3vw */\n  }\n\n  .aboutSee li {\n    display: inline-block;\n    margin: 0 2vw;\n  }\n\n  .singatureLinks,\n  .singatureInformations {\n    width: 33%;\n  }\n\n  .singatureLinks li,\n  .singatureInformations li,\n  .singatureInvestments li {\n    font-size: 0.8rem;\n  }\n\n  .singatureLinks p,\n  .singatureInformations p,\n  .singatureInvestments p {\n    font-size: 1rem;\n  }\n\n  /* .aboutSee li:first-child{\r\n    margin-left: 6vw;\r\n  }\r\n  .aboutSee li:nth-child(2){\r\n    margin-left: 8vw;\r\n  }\r\n  .aboutSee li:nth-child(3){\r\n    margin-left: 10vw;\r\n  }\r\n  .aboutSee li:nth-child(4){\r\n    margin-left: 12vw;\r\n  } */\n\n  .aboutSee li span {\n    /* width: 3vw */\n  }\n\n  .elAbout {\n    /* font-size: 1.2vw; */\n    line-height: 2vw;\n    /* margin-left: 12vw */\n  }\n\n  .singatureContact {\n    width: 100%;\n    display: block;\n    margin: 5vw 0;\n  }\n\n  .signatureMedia {\n    display: inline-block;\n    margin-left: 5vw;\n  }\n\n  .signatureTitle {\n    width: 10vw;\n    font-size: 3vw;\n    padding-top: 5vw;\n    width: 100%;\n  }\n\n  .signatureContainer {\n    /* margin: 5vw 0  */\n  }\n\n  .finish {\n    margin-top: 2vw;\n  }\n\n  .finish:before {\n    width: 100%;\n  }\n\n  /* NewElementProducts Comp */\n\n  .productsInfo {\n    line-height: 3rem;\n  }\n\n  div.productElement {\n    width: 70vw;\n    margin: 2vw auto;\n    height: 60vh;\n  }\n\n  .newsTitleText {\n    font-size: 5vw;\n    width: 60%;\n    left: 45%;\n  }\n\n  .newsTitleImg {\n    height: 60vh;\n  }\n\n  .offerEl .elementsContainer {\n    display: inline-block;\n    width: 15vw;\n    height: 8vw;\n  }\n\n  .offerEl .elementsContainer p {\n    font-size: 1.1rem;\n  }\n\n  /* Contact Compnent */\n\n  .emailsInfo {\n    font-size: 1.5rem;\n  }\n\n  .emailsInfoComp {\n    padding: 5vw 0;\n  }\n\n  .contactInfo,\n  .iframe {\n    display: inline-block;\n  }\n\n  .contactInfo {\n    width: 40%;\n    float: left;\n    text-align: center;\n  }\n\n  .iframe {\n    width: 60%;\n    margin: 5vh 0;\n  }\n\n  .contactForm form label,\n  .btnSendForm {\n    margin: 2vw auto;\n    width: 40%;\n  }\n\n  .btnSendForm {\n    margin-top: 2vw;\n  }\n\n  .contactForm input,\n  .contactForm textarea {\n    background: white;\n  }\n}\n\n@media (min-width: 1200px) {\n  /* .sideMenuComp{\r\n    height: 40px;\r\n    left: -85px;\r\n  }\r\n  .sideInfo{\r\n    top: -9vw;\r\n    left: -60vh;\r\n  } */\n\n  .sideText {\n    left: -185px;\n  }\n\n  .sideInfo {\n    left: -180px;\n  }\n\n  /* .productElement:hover > .productsInfo{ \r\n  font-size: 1rem\r\n  } */\n\n  .productsInfo {\n    font-size: 1.8rem;\n  }\n}\n\n@media (min-width: 1300px) {\n  .sideText {\n    left: -190px;\n  }\n\n  .sideInfo {\n    left: -185px;\n  }\n}", ""]);
 
 // exports
 
 
 /***/ }),
-/* 53 */
+/* 58 */
 /***/ (function(module, exports) {
 
 module.exports = function escape(url) {
@@ -26618,19 +26087,19 @@ module.exports = function escape(url) {
 
 
 /***/ }),
-/* 54 */
+/* 59 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "cf6c21db49629e7198ab061bfabd8384.jpg";
 
 /***/ }),
-/* 55 */
+/* 60 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "68791595022c03f04170fdf954d541dd.jpg";
 
 /***/ }),
-/* 56 */
+/* 61 */
 /***/ (function(module, exports) {
 
 
@@ -26725,7 +26194,7 @@ module.exports = function (css) {
 
 
 /***/ }),
-/* 57 */
+/* 62 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26743,29 +26212,29 @@ var _react2 = _interopRequireDefault(_react);
 
 var _reactRouterDom = __webpack_require__(6);
 
-var _Navigation = __webpack_require__(83);
+var _Navigation = __webpack_require__(88);
 
 var _Navigation2 = _interopRequireDefault(_Navigation);
 
 var _Home = __webpack_require__(8);
 
-var _News = __webpack_require__(106);
+var _News = __webpack_require__(111);
 
 var _News2 = _interopRequireDefault(_News);
 
-var _Products = __webpack_require__(109);
+var _Products = __webpack_require__(115);
 
 var _Products2 = _interopRequireDefault(_Products);
 
-var _Offer = __webpack_require__(117);
+var _Offer = __webpack_require__(124);
 
 var _Offer2 = _interopRequireDefault(_Offer);
 
-var _Contact = __webpack_require__(145);
+var _Contact = __webpack_require__(153);
 
 var _Contact2 = _interopRequireDefault(_Contact);
 
-var _NotFound = __webpack_require__(149);
+var _NotFound = __webpack_require__(157);
 
 var _NotFound2 = _interopRequireDefault(_NotFound);
 
@@ -26836,18 +26305,18 @@ exports.default = Website;
                            <Route path='/contact'component={Contact} /> */}
 
 /***/ }),
-/* 58 */
+/* 63 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning__ = __webpack_require__(5);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_warning__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_prop_types__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_history__ = __webpack_require__(7);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Router__ = __webpack_require__(19);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Router__ = __webpack_require__(23);
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
@@ -26902,7 +26371,7 @@ BrowserRouter.propTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (BrowserRouter);
 
 /***/ }),
-/* 59 */
+/* 64 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26917,8 +26386,8 @@ BrowserRouter.propTypes = {
 
 var assign = __webpack_require__(9);
 
-var ReactPropTypesSecret = __webpack_require__(18);
-var checkPropTypes = __webpack_require__(17);
+var ReactPropTypesSecret = __webpack_require__(21);
+var checkPropTypes = __webpack_require__(20);
 
 var printWarning = function() {};
 
@@ -27465,7 +26934,7 @@ module.exports = function(isValidElement, throwOnDirectAccess) {
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 60 */
+/* 65 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27478,7 +26947,7 @@ module.exports = function(isValidElement, throwOnDirectAccess) {
 
 
 
-var ReactPropTypesSecret = __webpack_require__(18);
+var ReactPropTypesSecret = __webpack_require__(21);
 
 function emptyFunction() {}
 
@@ -27531,31 +27000,311 @@ module.exports = function() {
 
 
 /***/ }),
-/* 61 */
+/* 66 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony export (immutable) */ __webpack_exports__["a"] = _extends;
-function _extends() {
-  _extends = Object.assign || function (target) {
-    for (var i = 1; i < arguments.length; i++) {
-      var source = arguments[i];
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning__ = __webpack_require__(16);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_warning__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_invariant__ = __webpack_require__(3);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_invariant___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_invariant__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__LocationUtils__ = __webpack_require__(17);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__PathUtils__ = __webpack_require__(11);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__createTransitionManager__ = __webpack_require__(22);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__DOMUtils__ = __webpack_require__(34);
+var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
 
-      for (var key in source) {
-        if (Object.prototype.hasOwnProperty.call(source, key)) {
-          target[key] = source[key];
-        }
-      }
-    }
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-    return target;
+
+
+
+
+
+
+
+var PopStateEvent = 'popstate';
+var HashChangeEvent = 'hashchange';
+
+var getHistoryState = function getHistoryState() {
+  try {
+    return window.history.state || {};
+  } catch (e) {
+    // IE 11 sometimes throws when accessing window.history.state
+    // See https://github.com/ReactTraining/history/pull/289
+    return {};
+  }
+};
+
+/**
+ * Creates a history object that uses the HTML5 history API including
+ * pushState, replaceState, and the popstate event.
+ */
+var createBrowserHistory = function createBrowserHistory() {
+  var props = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {};
+
+  __WEBPACK_IMPORTED_MODULE_1_invariant___default()(__WEBPACK_IMPORTED_MODULE_5__DOMUtils__["b" /* canUseDOM */], 'Browser history needs a DOM');
+
+  var globalHistory = window.history;
+  var canUseHistory = Object(__WEBPACK_IMPORTED_MODULE_5__DOMUtils__["g" /* supportsHistory */])();
+  var needsHashChangeListener = !Object(__WEBPACK_IMPORTED_MODULE_5__DOMUtils__["h" /* supportsPopStateOnHashChange */])();
+
+  var _props$forceRefresh = props.forceRefresh,
+      forceRefresh = _props$forceRefresh === undefined ? false : _props$forceRefresh,
+      _props$getUserConfirm = props.getUserConfirmation,
+      getUserConfirmation = _props$getUserConfirm === undefined ? __WEBPACK_IMPORTED_MODULE_5__DOMUtils__["c" /* getConfirmation */] : _props$getUserConfirm,
+      _props$keyLength = props.keyLength,
+      keyLength = _props$keyLength === undefined ? 6 : _props$keyLength;
+
+  var basename = props.basename ? Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["g" /* stripTrailingSlash */])(Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["a" /* addLeadingSlash */])(props.basename)) : '';
+
+  var getDOMLocation = function getDOMLocation(historyState) {
+    var _ref = historyState || {},
+        key = _ref.key,
+        state = _ref.state;
+
+    var _window$location = window.location,
+        pathname = _window$location.pathname,
+        search = _window$location.search,
+        hash = _window$location.hash;
+
+
+    var path = pathname + search + hash;
+
+    __WEBPACK_IMPORTED_MODULE_0_warning___default()(!basename || Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["c" /* hasBasename */])(path, basename), 'You are attempting to use a basename on a page whose URL path does not begin ' + 'with the basename. Expected path "' + path + '" to begin with "' + basename + '".');
+
+    if (basename) path = Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["e" /* stripBasename */])(path, basename);
+
+    return Object(__WEBPACK_IMPORTED_MODULE_2__LocationUtils__["a" /* createLocation */])(path, state, key);
   };
 
-  return _extends.apply(this, arguments);
-}
+  var createKey = function createKey() {
+    return Math.random().toString(36).substr(2, keyLength);
+  };
+
+  var transitionManager = Object(__WEBPACK_IMPORTED_MODULE_4__createTransitionManager__["a" /* default */])();
+
+  var setState = function setState(nextState) {
+    _extends(history, nextState);
+
+    history.length = globalHistory.length;
+
+    transitionManager.notifyListeners(history.location, history.action);
+  };
+
+  var handlePopState = function handlePopState(event) {
+    // Ignore extraneous popstate events in WebKit.
+    if (Object(__WEBPACK_IMPORTED_MODULE_5__DOMUtils__["d" /* isExtraneousPopstateEvent */])(event)) return;
+
+    handlePop(getDOMLocation(event.state));
+  };
+
+  var handleHashChange = function handleHashChange() {
+    handlePop(getDOMLocation(getHistoryState()));
+  };
+
+  var forceNextPop = false;
+
+  var handlePop = function handlePop(location) {
+    if (forceNextPop) {
+      forceNextPop = false;
+      setState();
+    } else {
+      var action = 'POP';
+
+      transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
+        if (ok) {
+          setState({ action: action, location: location });
+        } else {
+          revertPop(location);
+        }
+      });
+    }
+  };
+
+  var revertPop = function revertPop(fromLocation) {
+    var toLocation = history.location;
+
+    // TODO: We could probably make this more reliable by
+    // keeping a list of keys we've seen in sessionStorage.
+    // Instead, we just default to 0 for keys we don't know.
+
+    var toIndex = allKeys.indexOf(toLocation.key);
+
+    if (toIndex === -1) toIndex = 0;
+
+    var fromIndex = allKeys.indexOf(fromLocation.key);
+
+    if (fromIndex === -1) fromIndex = 0;
+
+    var delta = toIndex - fromIndex;
+
+    if (delta) {
+      forceNextPop = true;
+      go(delta);
+    }
+  };
+
+  var initialLocation = getDOMLocation(getHistoryState());
+  var allKeys = [initialLocation.key];
+
+  // Public interface
+
+  var createHref = function createHref(location) {
+    return basename + Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["b" /* createPath */])(location);
+  };
+
+  var push = function push(path, state) {
+    __WEBPACK_IMPORTED_MODULE_0_warning___default()(!((typeof path === 'undefined' ? 'undefined' : _typeof(path)) === 'object' && path.state !== undefined && state !== undefined), 'You should avoid providing a 2nd state argument to push when the 1st ' + 'argument is a location-like object that already has state; it is ignored');
+
+    var action = 'PUSH';
+    var location = Object(__WEBPACK_IMPORTED_MODULE_2__LocationUtils__["a" /* createLocation */])(path, state, createKey(), history.location);
+
+    transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
+      if (!ok) return;
+
+      var href = createHref(location);
+      var key = location.key,
+          state = location.state;
+
+
+      if (canUseHistory) {
+        globalHistory.pushState({ key: key, state: state }, null, href);
+
+        if (forceRefresh) {
+          window.location.href = href;
+        } else {
+          var prevIndex = allKeys.indexOf(history.location.key);
+          var nextKeys = allKeys.slice(0, prevIndex === -1 ? 0 : prevIndex + 1);
+
+          nextKeys.push(location.key);
+          allKeys = nextKeys;
+
+          setState({ action: action, location: location });
+        }
+      } else {
+        __WEBPACK_IMPORTED_MODULE_0_warning___default()(state === undefined, 'Browser history cannot push state in browsers that do not support HTML5 history');
+
+        window.location.href = href;
+      }
+    });
+  };
+
+  var replace = function replace(path, state) {
+    __WEBPACK_IMPORTED_MODULE_0_warning___default()(!((typeof path === 'undefined' ? 'undefined' : _typeof(path)) === 'object' && path.state !== undefined && state !== undefined), 'You should avoid providing a 2nd state argument to replace when the 1st ' + 'argument is a location-like object that already has state; it is ignored');
+
+    var action = 'REPLACE';
+    var location = Object(__WEBPACK_IMPORTED_MODULE_2__LocationUtils__["a" /* createLocation */])(path, state, createKey(), history.location);
+
+    transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
+      if (!ok) return;
+
+      var href = createHref(location);
+      var key = location.key,
+          state = location.state;
+
+
+      if (canUseHistory) {
+        globalHistory.replaceState({ key: key, state: state }, null, href);
+
+        if (forceRefresh) {
+          window.location.replace(href);
+        } else {
+          var prevIndex = allKeys.indexOf(history.location.key);
+
+          if (prevIndex !== -1) allKeys[prevIndex] = location.key;
+
+          setState({ action: action, location: location });
+        }
+      } else {
+        __WEBPACK_IMPORTED_MODULE_0_warning___default()(state === undefined, 'Browser history cannot replace state in browsers that do not support HTML5 history');
+
+        window.location.replace(href);
+      }
+    });
+  };
+
+  var go = function go(n) {
+    globalHistory.go(n);
+  };
+
+  var goBack = function goBack() {
+    return go(-1);
+  };
+
+  var goForward = function goForward() {
+    return go(1);
+  };
+
+  var listenerCount = 0;
+
+  var checkDOMListeners = function checkDOMListeners(delta) {
+    listenerCount += delta;
+
+    if (listenerCount === 1) {
+      Object(__WEBPACK_IMPORTED_MODULE_5__DOMUtils__["a" /* addEventListener */])(window, PopStateEvent, handlePopState);
+
+      if (needsHashChangeListener) Object(__WEBPACK_IMPORTED_MODULE_5__DOMUtils__["a" /* addEventListener */])(window, HashChangeEvent, handleHashChange);
+    } else if (listenerCount === 0) {
+      Object(__WEBPACK_IMPORTED_MODULE_5__DOMUtils__["e" /* removeEventListener */])(window, PopStateEvent, handlePopState);
+
+      if (needsHashChangeListener) Object(__WEBPACK_IMPORTED_MODULE_5__DOMUtils__["e" /* removeEventListener */])(window, HashChangeEvent, handleHashChange);
+    }
+  };
+
+  var isBlocked = false;
+
+  var block = function block() {
+    var prompt = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : false;
+
+    var unblock = transitionManager.setPrompt(prompt);
+
+    if (!isBlocked) {
+      checkDOMListeners(1);
+      isBlocked = true;
+    }
+
+    return function () {
+      if (isBlocked) {
+        isBlocked = false;
+        checkDOMListeners(-1);
+      }
+
+      return unblock();
+    };
+  };
+
+  var listen = function listen(listener) {
+    var unlisten = transitionManager.appendListener(listener);
+    checkDOMListeners(1);
+
+    return function () {
+      checkDOMListeners(-1);
+      unlisten();
+    };
+  };
+
+  var history = {
+    length: globalHistory.length,
+    action: 'POP',
+    location: initialLocation,
+    createHref: createHref,
+    push: push,
+    replace: replace,
+    go: go,
+    goBack: goBack,
+    goForward: goForward,
+    block: block,
+    listen: listen
+  };
+
+  return history;
+};
+
+/* harmony default export */ __webpack_exports__["a"] = (createBrowserHistory);
 
 /***/ }),
-/* 62 */
+/* 67 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27631,7 +27380,7 @@ function resolvePathname(to) {
 /* harmony default export */ __webpack_exports__["a"] = (resolvePathname);
 
 /***/ }),
-/* 63 */
+/* 68 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27675,69 +27424,507 @@ function valueEqual(a, b) {
 /* harmony default export */ __webpack_exports__["a"] = (valueEqual);
 
 /***/ }),
-/* 64 */
+/* 69 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(process) {var isProduction = process.env.NODE_ENV === 'production';
-function warning(condition, message) {
-  if (!isProduction) {
-    if (condition) {
-      return;
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning__ = __webpack_require__(16);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_warning__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_invariant__ = __webpack_require__(3);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_invariant___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_invariant__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__LocationUtils__ = __webpack_require__(17);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__PathUtils__ = __webpack_require__(11);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__createTransitionManager__ = __webpack_require__(22);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__DOMUtils__ = __webpack_require__(34);
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+
+
+
+
+
+
+
+var HashChangeEvent = 'hashchange';
+
+var HashPathCoders = {
+  hashbang: {
+    encodePath: function encodePath(path) {
+      return path.charAt(0) === '!' ? path : '!/' + Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["f" /* stripLeadingSlash */])(path);
+    },
+    decodePath: function decodePath(path) {
+      return path.charAt(0) === '!' ? path.substr(1) : path;
+    }
+  },
+  noslash: {
+    encodePath: __WEBPACK_IMPORTED_MODULE_3__PathUtils__["f" /* stripLeadingSlash */],
+    decodePath: __WEBPACK_IMPORTED_MODULE_3__PathUtils__["a" /* addLeadingSlash */]
+  },
+  slash: {
+    encodePath: __WEBPACK_IMPORTED_MODULE_3__PathUtils__["a" /* addLeadingSlash */],
+    decodePath: __WEBPACK_IMPORTED_MODULE_3__PathUtils__["a" /* addLeadingSlash */]
+  }
+};
+
+var getHashPath = function getHashPath() {
+  // We can't use window.location.hash here because it's not
+  // consistent across browsers - Firefox will pre-decode it!
+  var href = window.location.href;
+  var hashIndex = href.indexOf('#');
+  return hashIndex === -1 ? '' : href.substring(hashIndex + 1);
+};
+
+var pushHashPath = function pushHashPath(path) {
+  return window.location.hash = path;
+};
+
+var replaceHashPath = function replaceHashPath(path) {
+  var hashIndex = window.location.href.indexOf('#');
+
+  window.location.replace(window.location.href.slice(0, hashIndex >= 0 ? hashIndex : 0) + '#' + path);
+};
+
+var createHashHistory = function createHashHistory() {
+  var props = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {};
+
+  __WEBPACK_IMPORTED_MODULE_1_invariant___default()(__WEBPACK_IMPORTED_MODULE_5__DOMUtils__["b" /* canUseDOM */], 'Hash history needs a DOM');
+
+  var globalHistory = window.history;
+  var canGoWithoutReload = Object(__WEBPACK_IMPORTED_MODULE_5__DOMUtils__["f" /* supportsGoWithoutReloadUsingHash */])();
+
+  var _props$getUserConfirm = props.getUserConfirmation,
+      getUserConfirmation = _props$getUserConfirm === undefined ? __WEBPACK_IMPORTED_MODULE_5__DOMUtils__["c" /* getConfirmation */] : _props$getUserConfirm,
+      _props$hashType = props.hashType,
+      hashType = _props$hashType === undefined ? 'slash' : _props$hashType;
+
+  var basename = props.basename ? Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["g" /* stripTrailingSlash */])(Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["a" /* addLeadingSlash */])(props.basename)) : '';
+
+  var _HashPathCoders$hashT = HashPathCoders[hashType],
+      encodePath = _HashPathCoders$hashT.encodePath,
+      decodePath = _HashPathCoders$hashT.decodePath;
+
+
+  var getDOMLocation = function getDOMLocation() {
+    var path = decodePath(getHashPath());
+
+    __WEBPACK_IMPORTED_MODULE_0_warning___default()(!basename || Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["c" /* hasBasename */])(path, basename), 'You are attempting to use a basename on a page whose URL path does not begin ' + 'with the basename. Expected path "' + path + '" to begin with "' + basename + '".');
+
+    if (basename) path = Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["e" /* stripBasename */])(path, basename);
+
+    return Object(__WEBPACK_IMPORTED_MODULE_2__LocationUtils__["a" /* createLocation */])(path);
+  };
+
+  var transitionManager = Object(__WEBPACK_IMPORTED_MODULE_4__createTransitionManager__["a" /* default */])();
+
+  var setState = function setState(nextState) {
+    _extends(history, nextState);
+
+    history.length = globalHistory.length;
+
+    transitionManager.notifyListeners(history.location, history.action);
+  };
+
+  var forceNextPop = false;
+  var ignorePath = null;
+
+  var handleHashChange = function handleHashChange() {
+    var path = getHashPath();
+    var encodedPath = encodePath(path);
+
+    if (path !== encodedPath) {
+      // Ensure we always have a properly-encoded hash.
+      replaceHashPath(encodedPath);
+    } else {
+      var location = getDOMLocation();
+      var prevLocation = history.location;
+
+      if (!forceNextPop && Object(__WEBPACK_IMPORTED_MODULE_2__LocationUtils__["b" /* locationsAreEqual */])(prevLocation, location)) return; // A hashchange doesn't always == location change.
+
+      if (ignorePath === Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["b" /* createPath */])(location)) return; // Ignore this change; we already setState in push/replace.
+
+      ignorePath = null;
+
+      handlePop(location);
+    }
+  };
+
+  var handlePop = function handlePop(location) {
+    if (forceNextPop) {
+      forceNextPop = false;
+      setState();
+    } else {
+      var action = 'POP';
+
+      transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
+        if (ok) {
+          setState({ action: action, location: location });
+        } else {
+          revertPop(location);
+        }
+      });
+    }
+  };
+
+  var revertPop = function revertPop(fromLocation) {
+    var toLocation = history.location;
+
+    // TODO: We could probably make this more reliable by
+    // keeping a list of paths we've seen in sessionStorage.
+    // Instead, we just default to 0 for paths we don't know.
+
+    var toIndex = allPaths.lastIndexOf(Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["b" /* createPath */])(toLocation));
+
+    if (toIndex === -1) toIndex = 0;
+
+    var fromIndex = allPaths.lastIndexOf(Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["b" /* createPath */])(fromLocation));
+
+    if (fromIndex === -1) fromIndex = 0;
+
+    var delta = toIndex - fromIndex;
+
+    if (delta) {
+      forceNextPop = true;
+      go(delta);
+    }
+  };
+
+  // Ensure the hash is encoded properly before doing anything else.
+  var path = getHashPath();
+  var encodedPath = encodePath(path);
+
+  if (path !== encodedPath) replaceHashPath(encodedPath);
+
+  var initialLocation = getDOMLocation();
+  var allPaths = [Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["b" /* createPath */])(initialLocation)];
+
+  // Public interface
+
+  var createHref = function createHref(location) {
+    return '#' + encodePath(basename + Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["b" /* createPath */])(location));
+  };
+
+  var push = function push(path, state) {
+    __WEBPACK_IMPORTED_MODULE_0_warning___default()(state === undefined, 'Hash history cannot push state; it is ignored');
+
+    var action = 'PUSH';
+    var location = Object(__WEBPACK_IMPORTED_MODULE_2__LocationUtils__["a" /* createLocation */])(path, undefined, undefined, history.location);
+
+    transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
+      if (!ok) return;
+
+      var path = Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["b" /* createPath */])(location);
+      var encodedPath = encodePath(basename + path);
+      var hashChanged = getHashPath() !== encodedPath;
+
+      if (hashChanged) {
+        // We cannot tell if a hashchange was caused by a PUSH, so we'd
+        // rather setState here and ignore the hashchange. The caveat here
+        // is that other hash histories in the page will consider it a POP.
+        ignorePath = path;
+        pushHashPath(encodedPath);
+
+        var prevIndex = allPaths.lastIndexOf(Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["b" /* createPath */])(history.location));
+        var nextPaths = allPaths.slice(0, prevIndex === -1 ? 0 : prevIndex + 1);
+
+        nextPaths.push(path);
+        allPaths = nextPaths;
+
+        setState({ action: action, location: location });
+      } else {
+        __WEBPACK_IMPORTED_MODULE_0_warning___default()(false, 'Hash history cannot PUSH the same path; a new entry will not be added to the history stack');
+
+        setState();
+      }
+    });
+  };
+
+  var replace = function replace(path, state) {
+    __WEBPACK_IMPORTED_MODULE_0_warning___default()(state === undefined, 'Hash history cannot replace state; it is ignored');
+
+    var action = 'REPLACE';
+    var location = Object(__WEBPACK_IMPORTED_MODULE_2__LocationUtils__["a" /* createLocation */])(path, undefined, undefined, history.location);
+
+    transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
+      if (!ok) return;
+
+      var path = Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["b" /* createPath */])(location);
+      var encodedPath = encodePath(basename + path);
+      var hashChanged = getHashPath() !== encodedPath;
+
+      if (hashChanged) {
+        // We cannot tell if a hashchange was caused by a REPLACE, so we'd
+        // rather setState here and ignore the hashchange. The caveat here
+        // is that other hash histories in the page will consider it a POP.
+        ignorePath = path;
+        replaceHashPath(encodedPath);
+      }
+
+      var prevIndex = allPaths.indexOf(Object(__WEBPACK_IMPORTED_MODULE_3__PathUtils__["b" /* createPath */])(history.location));
+
+      if (prevIndex !== -1) allPaths[prevIndex] = path;
+
+      setState({ action: action, location: location });
+    });
+  };
+
+  var go = function go(n) {
+    __WEBPACK_IMPORTED_MODULE_0_warning___default()(canGoWithoutReload, 'Hash history go(n) causes a full page reload in this browser');
+
+    globalHistory.go(n);
+  };
+
+  var goBack = function goBack() {
+    return go(-1);
+  };
+
+  var goForward = function goForward() {
+    return go(1);
+  };
+
+  var listenerCount = 0;
+
+  var checkDOMListeners = function checkDOMListeners(delta) {
+    listenerCount += delta;
+
+    if (listenerCount === 1) {
+      Object(__WEBPACK_IMPORTED_MODULE_5__DOMUtils__["a" /* addEventListener */])(window, HashChangeEvent, handleHashChange);
+    } else if (listenerCount === 0) {
+      Object(__WEBPACK_IMPORTED_MODULE_5__DOMUtils__["e" /* removeEventListener */])(window, HashChangeEvent, handleHashChange);
+    }
+  };
+
+  var isBlocked = false;
+
+  var block = function block() {
+    var prompt = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : false;
+
+    var unblock = transitionManager.setPrompt(prompt);
+
+    if (!isBlocked) {
+      checkDOMListeners(1);
+      isBlocked = true;
     }
 
-    var text = "Warning: " + message;
+    return function () {
+      if (isBlocked) {
+        isBlocked = false;
+        checkDOMListeners(-1);
+      }
 
-    if (typeof console !== 'undefined') {
-      console.warn(text);
-    }
+      return unblock();
+    };
+  };
 
-    try {
-      throw Error(text);
-    } catch (x) {}
-  }
-}
+  var listen = function listen(listener) {
+    var unlisten = transitionManager.appendListener(listener);
+    checkDOMListeners(1);
 
-/* harmony default export */ __webpack_exports__["a"] = (warning);
+    return function () {
+      checkDOMListeners(-1);
+      unlisten();
+    };
+  };
 
-/* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__(1)))
+  var history = {
+    length: globalHistory.length,
+    action: 'POP',
+    location: initialLocation,
+    createHref: createHref,
+    push: push,
+    replace: replace,
+    go: go,
+    goBack: goBack,
+    goForward: goForward,
+    block: block,
+    listen: listen
+  };
+
+  return history;
+};
+
+/* harmony default export */ __webpack_exports__["a"] = (createHashHistory);
 
 /***/ }),
-/* 65 */
+/* 70 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* WEBPACK VAR INJECTION */(function(process) {var isProduction = process.env.NODE_ENV === 'production';
-var prefix = 'Invariant failed';
-function invariant(condition, message) {
-  if (condition) {
-    return;
-  }
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning__ = __webpack_require__(16);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_warning__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__PathUtils__ = __webpack_require__(11);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__LocationUtils__ = __webpack_require__(17);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__createTransitionManager__ = __webpack_require__(22);
+var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
 
-  if (isProduction) {
-    throw new Error(prefix);
-  } else {
-    throw new Error(prefix + ": " + (message || ''));
-  }
-}
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
-/* harmony default export */ __webpack_exports__["a"] = (invariant);
 
-/* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__(1)))
+
+
+
+
+var clamp = function clamp(n, lowerBound, upperBound) {
+  return Math.min(Math.max(n, lowerBound), upperBound);
+};
+
+/**
+ * Creates a history object that stores locations in memory.
+ */
+var createMemoryHistory = function createMemoryHistory() {
+  var props = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {};
+  var getUserConfirmation = props.getUserConfirmation,
+      _props$initialEntries = props.initialEntries,
+      initialEntries = _props$initialEntries === undefined ? ['/'] : _props$initialEntries,
+      _props$initialIndex = props.initialIndex,
+      initialIndex = _props$initialIndex === undefined ? 0 : _props$initialIndex,
+      _props$keyLength = props.keyLength,
+      keyLength = _props$keyLength === undefined ? 6 : _props$keyLength;
+
+
+  var transitionManager = Object(__WEBPACK_IMPORTED_MODULE_3__createTransitionManager__["a" /* default */])();
+
+  var setState = function setState(nextState) {
+    _extends(history, nextState);
+
+    history.length = history.entries.length;
+
+    transitionManager.notifyListeners(history.location, history.action);
+  };
+
+  var createKey = function createKey() {
+    return Math.random().toString(36).substr(2, keyLength);
+  };
+
+  var index = clamp(initialIndex, 0, initialEntries.length - 1);
+  var entries = initialEntries.map(function (entry) {
+    return typeof entry === 'string' ? Object(__WEBPACK_IMPORTED_MODULE_2__LocationUtils__["a" /* createLocation */])(entry, undefined, createKey()) : Object(__WEBPACK_IMPORTED_MODULE_2__LocationUtils__["a" /* createLocation */])(entry, undefined, entry.key || createKey());
+  });
+
+  // Public interface
+
+  var createHref = __WEBPACK_IMPORTED_MODULE_1__PathUtils__["b" /* createPath */];
+
+  var push = function push(path, state) {
+    __WEBPACK_IMPORTED_MODULE_0_warning___default()(!((typeof path === 'undefined' ? 'undefined' : _typeof(path)) === 'object' && path.state !== undefined && state !== undefined), 'You should avoid providing a 2nd state argument to push when the 1st ' + 'argument is a location-like object that already has state; it is ignored');
+
+    var action = 'PUSH';
+    var location = Object(__WEBPACK_IMPORTED_MODULE_2__LocationUtils__["a" /* createLocation */])(path, state, createKey(), history.location);
+
+    transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
+      if (!ok) return;
+
+      var prevIndex = history.index;
+      var nextIndex = prevIndex + 1;
+
+      var nextEntries = history.entries.slice(0);
+      if (nextEntries.length > nextIndex) {
+        nextEntries.splice(nextIndex, nextEntries.length - nextIndex, location);
+      } else {
+        nextEntries.push(location);
+      }
+
+      setState({
+        action: action,
+        location: location,
+        index: nextIndex,
+        entries: nextEntries
+      });
+    });
+  };
+
+  var replace = function replace(path, state) {
+    __WEBPACK_IMPORTED_MODULE_0_warning___default()(!((typeof path === 'undefined' ? 'undefined' : _typeof(path)) === 'object' && path.state !== undefined && state !== undefined), 'You should avoid providing a 2nd state argument to replace when the 1st ' + 'argument is a location-like object that already has state; it is ignored');
+
+    var action = 'REPLACE';
+    var location = Object(__WEBPACK_IMPORTED_MODULE_2__LocationUtils__["a" /* createLocation */])(path, state, createKey(), history.location);
+
+    transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
+      if (!ok) return;
+
+      history.entries[history.index] = location;
+
+      setState({ action: action, location: location });
+    });
+  };
+
+  var go = function go(n) {
+    var nextIndex = clamp(history.index + n, 0, history.entries.length - 1);
+
+    var action = 'POP';
+    var location = history.entries[nextIndex];
+
+    transitionManager.confirmTransitionTo(location, action, getUserConfirmation, function (ok) {
+      if (ok) {
+        setState({
+          action: action,
+          location: location,
+          index: nextIndex
+        });
+      } else {
+        // Mimic the behavior of DOM histories by
+        // causing a render after a cancelled POP.
+        setState();
+      }
+    });
+  };
+
+  var goBack = function goBack() {
+    return go(-1);
+  };
+
+  var goForward = function goForward() {
+    return go(1);
+  };
+
+  var canGo = function canGo(n) {
+    var nextIndex = history.index + n;
+    return nextIndex >= 0 && nextIndex < history.entries.length;
+  };
+
+  var block = function block() {
+    var prompt = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : false;
+    return transitionManager.setPrompt(prompt);
+  };
+
+  var listen = function listen(listener) {
+    return transitionManager.appendListener(listener);
+  };
+
+  var history = {
+    length: entries.length,
+    action: 'POP',
+    location: entries[index],
+    index: index,
+    entries: entries,
+    createHref: createHref,
+    push: push,
+    replace: replace,
+    go: go,
+    goBack: goBack,
+    goForward: goForward,
+    canGo: canGo,
+    block: block,
+    listen: listen
+  };
+
+  return history;
+};
+
+/* harmony default export */ __webpack_exports__["a"] = (createMemoryHistory);
 
 /***/ }),
-/* 66 */
+/* 71 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning__ = __webpack_require__(5);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_warning__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_prop_types__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_history__ = __webpack_require__(7);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Router__ = __webpack_require__(19);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Router__ = __webpack_require__(23);
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
@@ -27791,29 +27978,29 @@ HashRouter.propTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (HashRouter);
 
 /***/ }),
-/* 67 */
+/* 72 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_MemoryRouter__ = __webpack_require__(68);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_MemoryRouter__ = __webpack_require__(73);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_MemoryRouter__["a" /* default */]);
 
 /***/ }),
-/* 68 */
+/* 73 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning__ = __webpack_require__(5);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_warning__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_prop_types__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_history__ = __webpack_require__(7);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Router__ = __webpack_require__(20);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__Router__ = __webpack_require__(24);
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
@@ -27868,7 +28055,7 @@ MemoryRouter.propTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (MemoryRouter);
 
 /***/ }),
-/* 69 */
+/* 74 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27876,8 +28063,8 @@ MemoryRouter.propTypes = {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_prop_types__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Route__ = __webpack_require__(31);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Link__ = __webpack_require__(30);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Route__ = __webpack_require__(36);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Link__ = __webpack_require__(35);
 var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
 var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; };
@@ -27954,7 +28141,7 @@ NavLink.defaultProps = {
 /* harmony default export */ __webpack_exports__["a"] = (NavLink);
 
 /***/ }),
-/* 70 */
+/* 75 */
 /***/ (function(module, exports) {
 
 module.exports = Array.isArray || function (arr) {
@@ -27963,18 +28150,18 @@ module.exports = Array.isArray || function (arr) {
 
 
 /***/ }),
-/* 71 */
+/* 76 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Prompt__ = __webpack_require__(72);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Prompt__ = __webpack_require__(77);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_Prompt__["a" /* default */]);
 
 /***/ }),
-/* 72 */
+/* 77 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27982,7 +28169,7 @@ module.exports = Array.isArray || function (arr) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_prop_types__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_invariant__ = __webpack_require__(5);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_invariant__ = __webpack_require__(3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_invariant___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_invariant__);
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
@@ -28065,18 +28252,18 @@ Prompt.contextTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (Prompt);
 
 /***/ }),
-/* 73 */
+/* 78 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Redirect__ = __webpack_require__(74);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Redirect__ = __webpack_require__(79);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_Redirect__["a" /* default */]);
 
 /***/ }),
-/* 74 */
+/* 79 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28084,12 +28271,12 @@ Prompt.contextTypes = {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_prop_types__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_warning__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_warning__ = __webpack_require__(5);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_warning___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_warning__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_invariant__ = __webpack_require__(5);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_invariant__ = __webpack_require__(3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_invariant___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_invariant__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_history__ = __webpack_require__(7);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__generatePath__ = __webpack_require__(34);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__generatePath__ = __webpack_require__(39);
 var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -28205,31 +28392,31 @@ Redirect.contextTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (Redirect);
 
 /***/ }),
-/* 75 */
+/* 80 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_StaticRouter__ = __webpack_require__(76);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_StaticRouter__ = __webpack_require__(81);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_StaticRouter__["a" /* default */]);
 
 /***/ }),
-/* 76 */
+/* 81 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning__ = __webpack_require__(5);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_warning___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_warning__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_invariant__ = __webpack_require__(5);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_invariant__ = __webpack_require__(3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_invariant___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_invariant__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_prop_types__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_history__ = __webpack_require__(7);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__Router__ = __webpack_require__(20);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__Router__ = __webpack_require__(24);
 var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
 function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
@@ -28382,18 +28569,18 @@ StaticRouter.childContextTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (StaticRouter);
 
 /***/ }),
-/* 77 */
+/* 82 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Switch__ = __webpack_require__(78);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Switch__ = __webpack_require__(83);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_Switch__["a" /* default */]);
 
 /***/ }),
-/* 78 */
+/* 83 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28401,11 +28588,11 @@ StaticRouter.childContextTypes = {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_prop_types__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_warning__ = __webpack_require__(4);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_warning__ = __webpack_require__(5);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_warning___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_warning__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_invariant__ = __webpack_require__(5);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_invariant__ = __webpack_require__(3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_invariant___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_invariant__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__matchPath__ = __webpack_require__(21);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__matchPath__ = __webpack_require__(25);
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
 
 function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
@@ -28485,40 +28672,40 @@ Switch.propTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (Switch);
 
 /***/ }),
-/* 79 */
+/* 84 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_generatePath__ = __webpack_require__(34);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_generatePath__ = __webpack_require__(39);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_generatePath__["a" /* default */]);
 
 /***/ }),
-/* 80 */
+/* 85 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_matchPath__ = __webpack_require__(21);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_matchPath__ = __webpack_require__(25);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_matchPath__["a" /* default */]);
 
 /***/ }),
-/* 81 */
+/* 86 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_withRouter__ = __webpack_require__(82);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_withRouter__ = __webpack_require__(87);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_withRouter__["a" /* default */]);
 
 /***/ }),
-/* 82 */
+/* 87 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28526,9 +28713,9 @@ Switch.propTypes = {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_prop_types___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_prop_types__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_hoist_non_react_statics__ = __webpack_require__(35);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_hoist_non_react_statics__ = __webpack_require__(40);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_hoist_non_react_statics___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_hoist_non_react_statics__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Route__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__Route__ = __webpack_require__(37);
 var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
 function _objectWithoutProperties(obj, keys) { var target = {}; for (var i in obj) { if (keys.indexOf(i) >= 0) continue; if (!Object.prototype.hasOwnProperty.call(obj, i)) continue; target[i] = obj[i]; } return target; }
@@ -28567,7 +28754,7 @@ var withRouter = function withRouter(Component) {
 /* harmony default export */ __webpack_exports__["a"] = (withRouter);
 
 /***/ }),
-/* 83 */
+/* 88 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28585,17 +28772,17 @@ var _react2 = _interopRequireDefault(_react);
 
 var _Home = __webpack_require__(8);
 
-var _ElementNavigation = __webpack_require__(101);
+var _ElementNavigation = __webpack_require__(106);
 
 var _ElementNavigation2 = _interopRequireDefault(_ElementNavigation);
 
-var _Hamburger = __webpack_require__(102);
+var _Hamburger = __webpack_require__(107);
 
 var _Hamburger2 = _interopRequireDefault(_Hamburger);
 
-__webpack_require__(103);
+__webpack_require__(108);
 
-var _es6SlideUpDown = __webpack_require__(105);
+var _es6SlideUpDown = __webpack_require__(110);
 
 var _reactRouterDom = __webpack_require__(6);
 
@@ -28721,7 +28908,7 @@ var Navigation = function (_Component) {
 exports.default = Navigation;
 
 /***/ }),
-/* 84 */
+/* 89 */
 /***/ (function(module, exports) {
 
 module.exports = function(originalModule) {
@@ -28751,7 +28938,7 @@ module.exports = function(originalModule) {
 
 
 /***/ }),
-/* 85 */
+/* 90 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28764,7 +28951,7 @@ module.exports = function(originalModule) {
 
 
 
-var isObject = __webpack_require__(86);
+var isObject = __webpack_require__(91);
 
 function isObjectObject(o) {
   return isObject(o) === true
@@ -28795,7 +28982,7 @@ module.exports = function isPlainObject(o) {
 
 
 /***/ }),
-/* 86 */
+/* 91 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28814,7 +29001,7 @@ module.exports = function isObject(val) {
 
 
 /***/ }),
-/* 87 */
+/* 92 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /*
@@ -30516,7 +30703,7 @@ module.exports = function isObject(val) {
 
 
 /***/ }),
-/* 88 */
+/* 93 */
 /***/ (function(module, exports, __webpack_require__) {
 
 (function (factory) {
@@ -30570,7 +30757,7 @@ module.exports = function isObject(val) {
 
 
 /***/ }),
-/* 89 */
+/* 94 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30586,15 +30773,15 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _Signature = __webpack_require__(11);
+var _Signature = __webpack_require__(12);
 
 var _Signature2 = _interopRequireDefault(_Signature);
 
-var _ForwardNavigation = __webpack_require__(92);
+var _ForwardNavigation = __webpack_require__(97);
 
 var _ForwardNavigation2 = _interopRequireDefault(_ForwardNavigation);
 
-var _information = __webpack_require__(3);
+var _information = __webpack_require__(4);
 
 var _information2 = _interopRequireDefault(_information);
 
@@ -30664,7 +30851,7 @@ var AboutUs = function (_Component) {
 exports.default = AboutUs;
 
 /***/ }),
-/* 90 */
+/* 95 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30726,7 +30913,7 @@ var Copyright = function (_Component) {
 exports.default = Copyright;
 
 /***/ }),
-/* 91 */
+/* 96 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30889,7 +31076,7 @@ var SignatureLinks = function (_Component) {
 exports.default = SignatureLinks;
 
 /***/ }),
-/* 92 */
+/* 97 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30954,7 +31141,7 @@ var ForwardNavigation = function (_Component) {
                             _react2.default.createElement(
                                 _reactRouterDom.Link,
                                 { className: 'elAbout',
-                                    to: el == 'co nowego w branży' ? '/news' : '' || el == 'nasze realizacje' ? '/products' : '' || el == 'oferta' ? '/offer' : '' || el == 'kontakt' ? '/contact' : '' },
+                                    to: el == 'co nowego w branży' ? '/nowości' : '' || el == 'nasze realizacje' ? '/produkty' : '' || el == 'oferta' ? '/oferta' : '' || el == 'kontakt' ? '/kontakt' : '' },
                                 el
                             )
                         );
@@ -30970,7 +31157,7 @@ var ForwardNavigation = function (_Component) {
 exports.default = ForwardNavigation;
 
 /***/ }),
-/* 93 */
+/* 98 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31018,11 +31205,6 @@ var Title = function (_Component) {
                         { className: "titleOrg" },
                         "\xAE"
                     )
-                ),
-                _react2.default.createElement(
-                    "p",
-                    { className: "afterTitle" },
-                    "Dodajemy blasku"
                 )
             );
         }
@@ -31034,7 +31216,7 @@ var Title = function (_Component) {
 exports.default = Title;
 
 /***/ }),
-/* 94 */
+/* 99 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31099,7 +31281,7 @@ var ShowActiveImg = function (_Component) {
 exports.default = ShowActiveImg;
 
 /***/ }),
-/* 95 */
+/* 100 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31186,37 +31368,37 @@ var ArrowSlider = function (_Component) {
 exports.default = ArrowSlider;
 
 /***/ }),
-/* 96 */
+/* 101 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "1fa322b87224b38f2d242722f2654316.jpg";
 
 /***/ }),
-/* 97 */
+/* 102 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "6d7ed15f786dc5706e98632c503e44c5.jpg";
 
 /***/ }),
-/* 98 */
+/* 103 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "6845c76b16b6443a76d8aa7b127b9d88.jpg";
 
 /***/ }),
-/* 99 */
+/* 104 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "aad2b3c1e964f984aae6341ebdd08835.jpg";
 
 /***/ }),
-/* 100 */
+/* 105 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "b55c3a915d12b677493ac59f84ef6c61.jpg";
 
 /***/ }),
-/* 101 */
+/* 106 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31298,7 +31480,7 @@ var ElementNavigation = function (_Component) {
 exports.default = ElementNavigation;
 
 /***/ }),
-/* 102 */
+/* 107 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31370,11 +31552,11 @@ var Hamburger = function (_Component) {
 exports.default = Hamburger;
 
 /***/ }),
-/* 103 */
+/* 108 */
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(104);
+var content = __webpack_require__(109);
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -31388,7 +31570,7 @@ var options = {"hmr":true}
 options.transform = transform
 options.insertInto = undefined;
 
-var update = __webpack_require__(29)(content, options);
+var update = __webpack_require__(33)(content, options);
 
 if(content.locals) module.exports = content.locals;
 
@@ -31420,10 +31602,10 @@ if(false) {
 }
 
 /***/ }),
-/* 104 */
+/* 109 */
 /***/ (function(module, exports, __webpack_require__) {
 
-exports = module.exports = __webpack_require__(28)(false);
+exports = module.exports = __webpack_require__(32)(false);
 // imports
 
 
@@ -31434,7 +31616,7 @@ exports.push([module.i, ".react-slidedown {\n  height: 0;\n  transition-property
 
 
 /***/ }),
-/* 105 */
+/* 110 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31533,7 +31715,7 @@ const extend = (defaults, options) => {
 //# sourceMappingURL=index.js.map
 
 /***/ }),
-/* 106 */
+/* 111 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31551,33 +31733,37 @@ var _react2 = _interopRequireDefault(_react);
 
 var _Home = __webpack_require__(8);
 
-var _HeaderCompImg = __webpack_require__(15);
+var _HeaderCompImg = __webpack_require__(18);
 
 var _HeaderCompImg2 = _interopRequireDefault(_HeaderCompImg);
 
-var _NewsElementsInfo = __webpack_require__(107);
+var _NewsElementsInfo = __webpack_require__(112);
 
 var _NewsElementsInfo2 = _interopRequireDefault(_NewsElementsInfo);
 
-var _ForwardInfo = __webpack_require__(16);
+var _ForwardInfo = __webpack_require__(19);
 
 var _ForwardInfo2 = _interopRequireDefault(_ForwardInfo);
 
-var _information = __webpack_require__(3);
+var _information = __webpack_require__(4);
 
 var _information2 = _interopRequireDefault(_information);
 
-var _Signature = __webpack_require__(11);
+var _Signature = __webpack_require__(12);
 
 var _Signature2 = _interopRequireDefault(_Signature);
 
-var _SideMenu = __webpack_require__(12);
+var _SideMenu = __webpack_require__(13);
 
 var _SideMenu2 = _interopRequireDefault(_SideMenu);
 
-var _zegar = __webpack_require__(108);
+var _t = __webpack_require__(113);
 
-var _zegar2 = _interopRequireDefault(_zegar);
+var _t2 = _interopRequireDefault(_t);
+
+var _t3 = __webpack_require__(114);
+
+var _t4 = _interopRequireDefault(_t3);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -31616,7 +31802,7 @@ var News = function (_Component) {
 
         _this.state = {
             titleComp: 'co nowego?',
-            imgForHeader: _zegar2.default,
+            // imgForHeader: background,
             page: ['poprzednia', 2, 3, 4, 'następna'],
             bigSize: false
         };
@@ -31638,7 +31824,7 @@ var News = function (_Component) {
                 'div',
                 { className: 'newsComp' },
                 bigSize ? _react2.default.createElement(_SideMenu2.default, null) : null,
-                _react2.default.createElement(_HeaderCompImg2.default, { title: titleComp, imgHeader: imgForHeader }),
+                _react2.default.createElement(_HeaderCompImg2.default, { title: titleComp, imgHeader: bigSize ? _t4.default : _t2.default }),
                 _react2.default.createElement(
                     'div',
                     { className: 'container' },
@@ -31673,7 +31859,7 @@ var News = function (_Component) {
 exports.default = News;
 
 /***/ }),
-/* 107 */
+/* 112 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31754,13 +31940,19 @@ var NewsElementsInfo = function (_Component) {
 exports.default = NewsElementsInfo;
 
 /***/ }),
-/* 108 */
+/* 113 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "1dee37cf47876d573ca781b1c577bef3.jpg";
+module.exports = __webpack_require__.p + "53400306e7cee7fbda80cdaa02e0241c.jpg";
 
 /***/ }),
-/* 109 */
+/* 114 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "aff8092f1a518dc7037ddce83686ddfb.png";
+
+/***/ }),
+/* 115 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31778,51 +31970,55 @@ var _react2 = _interopRequireDefault(_react);
 
 var _Home = __webpack_require__(8);
 
-var _ForwardInfo = __webpack_require__(16);
+var _ForwardInfo = __webpack_require__(19);
 
 var _ForwardInfo2 = _interopRequireDefault(_ForwardInfo);
 
-var _HeaderCompImg = __webpack_require__(15);
+var _HeaderCompImg = __webpack_require__(18);
 
 var _HeaderCompImg2 = _interopRequireDefault(_HeaderCompImg);
 
-var _information = __webpack_require__(3);
+var _information = __webpack_require__(4);
 
 var _information2 = _interopRequireDefault(_information);
 
-var _NewsElementProducts = __webpack_require__(110);
+var _NewsElementProducts = __webpack_require__(116);
 
 var _NewsElementProducts2 = _interopRequireDefault(_NewsElementProducts);
 
-var _Signature = __webpack_require__(11);
+var _Signature = __webpack_require__(12);
 
 var _Signature2 = _interopRequireDefault(_Signature);
 
-var _SideMenu = __webpack_require__(12);
+var _SideMenu = __webpack_require__(13);
 
 var _SideMenu2 = _interopRequireDefault(_SideMenu);
 
-var _o = __webpack_require__(111);
+var _t = __webpack_require__(117);
 
-var _o2 = _interopRequireDefault(_o);
+var _t2 = _interopRequireDefault(_t);
 
-var _p = __webpack_require__(112);
+var _t3 = __webpack_require__(118);
+
+var _t4 = _interopRequireDefault(_t3);
+
+var _p = __webpack_require__(119);
 
 var _p2 = _interopRequireDefault(_p);
 
-var _p3 = __webpack_require__(113);
+var _p3 = __webpack_require__(120);
 
 var _p4 = _interopRequireDefault(_p3);
 
-var _p5 = __webpack_require__(114);
+var _p5 = __webpack_require__(121);
 
 var _p6 = _interopRequireDefault(_p5);
 
-var _p7 = __webpack_require__(115);
+var _p7 = __webpack_require__(122);
 
 var _p8 = _interopRequireDefault(_p7);
 
-var _p9 = __webpack_require__(116);
+var _p9 = __webpack_require__(123);
 
 var _p10 = _interopRequireDefault(_p9);
 
@@ -31833,6 +32029,8 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
 
 function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
+// import background from "../../image/o9.jpg"
+
 
 var Products = function (_Component) {
     _inherits(Products, _Component);
@@ -31875,7 +32073,7 @@ var Products = function (_Component) {
 
         _this.state = {
             titleComp: 'nasze realizacje',
-            imgForHeader: _o2.default,
+            // imgForHeader: background,
             bigSize: false,
             allTitle: [],
             allText: [],
@@ -31903,7 +32101,7 @@ var Products = function (_Component) {
                 'div',
                 { className: 'productsComp' },
                 bigSize ? _react2.default.createElement(_SideMenu2.default, null) : null,
-                _react2.default.createElement(_HeaderCompImg2.default, { title: titleComp, imgHeader: imgForHeader }),
+                _react2.default.createElement(_HeaderCompImg2.default, { title: titleComp, imgHeader: bigSize ? _t4.default : _t2.default }),
                 _react2.default.createElement(
                     'div',
                     { className: 'container' },
@@ -31927,7 +32125,7 @@ var Products = function (_Component) {
 exports.default = Products;
 
 /***/ }),
-/* 110 */
+/* 116 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31945,7 +32143,7 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _styledComponents = __webpack_require__(22);
+var _styledComponents = __webpack_require__(26);
 
 var _styledComponents2 = _interopRequireDefault(_styledComponents);
 
@@ -32011,43 +32209,49 @@ var NewsElementProducts = function (_Component) {
 exports.default = NewsElementProducts;
 
 /***/ }),
-/* 111 */
+/* 117 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "75b0c4e2b596ffec69e8289149b6d27d.jpg";
+module.exports = __webpack_require__.p + "5b81d499c49b05aae42f02bcd603490f.jpg";
 
 /***/ }),
-/* 112 */
+/* 118 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "f22a0338f1aa084ca76179e1c8bd49ac.jpg";
+
+/***/ }),
+/* 119 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "1d59525851c201ede9779b27c674bb9f.jpg";
 
 /***/ }),
-/* 113 */
+/* 120 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "54d457eaf3ad34d1ef982f9e6b19e5d4.jpg";
 
 /***/ }),
-/* 114 */
+/* 121 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "fe273bc519596be54f905be2179d7aca.jpg";
 
 /***/ }),
-/* 115 */
+/* 122 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "77a2031fbec3d03249cb000a7217d6c3.jpg";
 
 /***/ }),
-/* 116 */
+/* 123 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "b5eec4c1217e537726cd714b4e8ad573.jpg";
 
 /***/ }),
-/* 117 */
+/* 124 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32065,131 +32269,135 @@ var _react2 = _interopRequireDefault(_react);
 
 var _Home = __webpack_require__(8);
 
-var _HeaderCompImg = __webpack_require__(15);
+var _HeaderCompImg = __webpack_require__(18);
 
 var _HeaderCompImg2 = _interopRequireDefault(_HeaderCompImg);
 
-var _ForwardInfo = __webpack_require__(16);
+var _ForwardInfo = __webpack_require__(19);
 
 var _ForwardInfo2 = _interopRequireDefault(_ForwardInfo);
 
-var _Signature = __webpack_require__(11);
+var _Signature = __webpack_require__(12);
 
 var _Signature2 = _interopRequireDefault(_Signature);
 
-var _OfferElements = __webpack_require__(118);
+var _OfferElements = __webpack_require__(125);
 
 var _OfferElements2 = _interopRequireDefault(_OfferElements);
 
-var _information = __webpack_require__(3);
+var _information = __webpack_require__(4);
 
 var _information2 = _interopRequireDefault(_information);
 
-var _SideMenu = __webpack_require__(12);
+var _SideMenu = __webpack_require__(13);
 
 var _SideMenu2 = _interopRequireDefault(_SideMenu);
 
-var _o = __webpack_require__(119);
+var _t = __webpack_require__(126);
 
-var _o2 = _interopRequireDefault(_o);
+var _t2 = _interopRequireDefault(_t);
 
-var _e = __webpack_require__(120);
+var _t3 = __webpack_require__(127);
+
+var _t4 = _interopRequireDefault(_t3);
+
+var _e = __webpack_require__(128);
 
 var _e2 = _interopRequireDefault(_e);
 
-var _e3 = __webpack_require__(121);
+var _e3 = __webpack_require__(129);
 
 var _e4 = _interopRequireDefault(_e3);
 
-var _e5 = __webpack_require__(122);
+var _e5 = __webpack_require__(130);
 
 var _e6 = _interopRequireDefault(_e5);
 
-var _e7 = __webpack_require__(123);
+var _e7 = __webpack_require__(131);
 
 var _e8 = _interopRequireDefault(_e7);
 
-var _e9 = __webpack_require__(124);
+var _e9 = __webpack_require__(132);
 
 var _e10 = _interopRequireDefault(_e9);
 
-var _e11 = __webpack_require__(125);
+var _e11 = __webpack_require__(133);
 
 var _e12 = _interopRequireDefault(_e11);
 
-var _e13 = __webpack_require__(126);
+var _e13 = __webpack_require__(134);
 
 var _e14 = _interopRequireDefault(_e13);
 
-var _e15 = __webpack_require__(127);
+var _e15 = __webpack_require__(135);
 
 var _e16 = _interopRequireDefault(_e15);
 
-var _e17 = __webpack_require__(128);
+var _e17 = __webpack_require__(136);
 
 var _e18 = _interopRequireDefault(_e17);
 
-var _e19 = __webpack_require__(129);
+var _e19 = __webpack_require__(137);
 
 var _e20 = _interopRequireDefault(_e19);
 
-var _e21 = __webpack_require__(130);
+var _e21 = __webpack_require__(138);
 
 var _e22 = _interopRequireDefault(_e21);
 
-var _e23 = __webpack_require__(131);
+var _e23 = __webpack_require__(139);
 
 var _e24 = _interopRequireDefault(_e23);
 
-var _e25 = __webpack_require__(132);
+var _e25 = __webpack_require__(140);
 
 var _e26 = _interopRequireDefault(_e25);
 
-var _e27 = __webpack_require__(133);
+var _e27 = __webpack_require__(141);
 
 var _e28 = _interopRequireDefault(_e27);
 
-var _e29 = __webpack_require__(134);
+var _e29 = __webpack_require__(142);
 
 var _e30 = _interopRequireDefault(_e29);
 
-var _e31 = __webpack_require__(135);
+var _e31 = __webpack_require__(143);
 
 var _e32 = _interopRequireDefault(_e31);
 
-var _e33 = __webpack_require__(136);
+var _e33 = __webpack_require__(144);
 
 var _e34 = _interopRequireDefault(_e33);
 
-var _e35 = __webpack_require__(137);
+var _e35 = __webpack_require__(145);
 
 var _e36 = _interopRequireDefault(_e35);
 
-var _e37 = __webpack_require__(138);
+var _e37 = __webpack_require__(146);
 
 var _e38 = _interopRequireDefault(_e37);
 
-var _e39 = __webpack_require__(139);
+var _e39 = __webpack_require__(147);
 
 var _e40 = _interopRequireDefault(_e39);
 
-var _e41 = __webpack_require__(140);
+var _e41 = __webpack_require__(148);
 
 var _e42 = _interopRequireDefault(_e41);
 
-var _e43 = __webpack_require__(141);
+var _e43 = __webpack_require__(149);
 
 var _e44 = _interopRequireDefault(_e43);
 
-var _e45 = __webpack_require__(142);
+var _e45 = __webpack_require__(150);
 
 var _e46 = _interopRequireDefault(_e45);
 
-var _e47 = __webpack_require__(143);
+var _e47 = __webpack_require__(151);
 
 var _e48 = _interopRequireDefault(_e47);
 
-var _e49 = __webpack_require__(144);
+var _e49 = __webpack_require__(152);
 
 var _e50 = _interopRequireDefault(_e49);
 
@@ -32201,6 +32409,8 @@ function _possibleConstructorReturn(self, call) { if (!self) { throw new Referen
 
 function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
 // import NewsElementsInfo from './NewsElementsInfo.jsx'
+
+// import background from "../../image/o7.jpg"
 
 
 var Offer = function (_Component) {
@@ -32232,7 +32442,7 @@ var Offer = function (_Component) {
 
         _this.state = {
             titleComp: 'nasza oferta',
-            imgForHeader: _o2.default,
+            // imgForHeader: background,
             items: [_e2.default, _e4.default, _e6.default, _e8.default, _e10.default, _e12.default, _e14.default, _e16.default, _e18.default, _e20.default, _e22.default, _e24.default, _e26.default, _e28.default, _e30.default, _e32.default, _e34.default, _e36.default, _e38.default, _e40.default, _e42.default, _e44.default, _e46.default, _e48.default, _e50.default],
             title: ['certina', 'tissot', 'adriatica', 'swatch', 'aviator', 'casio', 'lorus', 'seiko', 'citizen', 'orient', 'g-shock', 'diesel', 'fossil', 'timex', 'ice-watch', 'michael kors', 'cluse', 'suunto', 'roamer', 'festina', 'doxa', 'buloca', 'vostok', 'certina', 'atlantic'],
             bigSize: false
@@ -32266,7 +32476,7 @@ var Offer = function (_Component) {
                 'div',
                 { className: 'offerComp' },
                 bigSize ? _react2.default.createElement(_SideMenu2.default, null) : null,
-                _react2.default.createElement(_HeaderCompImg2.default, { title: titleComp, imgHeader: imgForHeader }),
+                _react2.default.createElement(_HeaderCompImg2.default, { title: titleComp, imgHeader: bigSize ? _t4.default : _t2.default }),
                 _react2.default.createElement(
                     'div',
                     { className: 'container' },
@@ -32292,7 +32502,7 @@ var Offer = function (_Component) {
 exports.default = Offer;
 
 /***/ }),
-/* 118 */
+/* 125 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32310,7 +32520,7 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _styledComponents = __webpack_require__(22);
+var _styledComponents = __webpack_require__(26);
 
 var _styledComponents2 = _interopRequireDefault(_styledComponents);
 
@@ -32373,163 +32583,169 @@ var OfferElements = function (_Component) {
 exports.default = OfferElements;
 
 /***/ }),
-/* 119 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "a26fd3a422c197fe44164a338db53f0b.jpg";
-
-/***/ }),
-/* 120 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "601a4e30717d856b2de9dfbe12b16b93.jpg";
-
-/***/ }),
-/* 121 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "47de2311fcfe9b136e3908fd32cb2632.jpg";
-
-/***/ }),
-/* 122 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "22b41da66125eb12ea805dbcb3d92e18.jpg";
-
-/***/ }),
-/* 123 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "abadb11a1e568bf8793a341eab37aefa.jpg";
-
-/***/ }),
-/* 124 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "d336481770adb77fad2273f9f0c7cea9.jpg";
-
-/***/ }),
-/* 125 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "56abedc6885d587ab88738d249a02b3a.jpg";
-
-/***/ }),
 /* 126 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "8710972d5a7d247f9bc9af408b5d4615.jpg";
+module.exports = __webpack_require__.p + "4e04936dd0a42c776e5d409bffaf8d7e.jpg";
 
 /***/ }),
 /* 127 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "ecc7283daea776266676c38688efaa04.jpg";
+module.exports = __webpack_require__.p + "6b37cb65de13dabbfd7981c7a9e25d6a.jpg";
 
 /***/ }),
 /* 128 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "814532f4e9a7a0acecac918818a6d26f.jpg";
+module.exports = __webpack_require__.p + "601a4e30717d856b2de9dfbe12b16b93.jpg";
 
 /***/ }),
 /* 129 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "e77d0526d7dd40e3de77f4ac27298814.jpg";
+module.exports = __webpack_require__.p + "47de2311fcfe9b136e3908fd32cb2632.jpg";
 
 /***/ }),
 /* 130 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "518680b8380dadd7895971dfcc64c036.jpg";
+module.exports = __webpack_require__.p + "22b41da66125eb12ea805dbcb3d92e18.jpg";
 
 /***/ }),
 /* 131 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "710a422ec9ba0f9010398cd3c3cd7248.jpg";
+module.exports = __webpack_require__.p + "abadb11a1e568bf8793a341eab37aefa.jpg";
 
 /***/ }),
 /* 132 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "289b097275190b48aa10995363bdc926.jpg";
+module.exports = __webpack_require__.p + "d336481770adb77fad2273f9f0c7cea9.jpg";
 
 /***/ }),
 /* 133 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "a8f0100239a75efa1fd6465d805b45c8.jpg";
+module.exports = __webpack_require__.p + "56abedc6885d587ab88738d249a02b3a.jpg";
 
 /***/ }),
 /* 134 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "782ba35429ede685403ce0723cddfba7.jpg";
+module.exports = __webpack_require__.p + "8710972d5a7d247f9bc9af408b5d4615.jpg";
 
 /***/ }),
 /* 135 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "bf1cbfecd4a5caa5282154840fcbf80d.jpg";
+module.exports = __webpack_require__.p + "ecc7283daea776266676c38688efaa04.jpg";
 
 /***/ }),
 /* 136 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "62196119524f95022e0facab95dc1ee8.jpg";
+module.exports = __webpack_require__.p + "814532f4e9a7a0acecac918818a6d26f.jpg";
 
 /***/ }),
 /* 137 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "b85a2178949d56256f0246fbc64dd431.jpg";
+module.exports = __webpack_require__.p + "e77d0526d7dd40e3de77f4ac27298814.jpg";
 
 /***/ }),
 /* 138 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "a1eef9cda8da4332586ee728991a1650.jpg";
+module.exports = __webpack_require__.p + "518680b8380dadd7895971dfcc64c036.jpg";
 
 /***/ }),
 /* 139 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "176b0d59d4a41702b7c33f655242de15.jpg";
+module.exports = __webpack_require__.p + "710a422ec9ba0f9010398cd3c3cd7248.jpg";
 
 /***/ }),
 /* 140 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "c110f1702648be4c36257ceddb9a96b8.jpg";
+module.exports = __webpack_require__.p + "289b097275190b48aa10995363bdc926.jpg";
 
 /***/ }),
 /* 141 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "315453225536360dc1914777d03b16bc.jpg";
+module.exports = __webpack_require__.p + "a8f0100239a75efa1fd6465d805b45c8.jpg";
 
 /***/ }),
 /* 142 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "d847316639f8f1201cff0a23ada5f81a.jpg";
+module.exports = __webpack_require__.p + "782ba35429ede685403ce0723cddfba7.jpg";
 
 /***/ }),
 /* 143 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "e1139ffbe31d37c2d0be644249f4fb80.jpg";
+module.exports = __webpack_require__.p + "bf1cbfecd4a5caa5282154840fcbf80d.jpg";
 
 /***/ }),
 /* 144 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "c241e4259249a39779b2ad5657245a58.jpg";
+module.exports = __webpack_require__.p + "62196119524f95022e0facab95dc1ee8.jpg";
 
 /***/ }),
 /* 145 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "b85a2178949d56256f0246fbc64dd431.jpg";
+
+/***/ }),
+/* 146 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "a1eef9cda8da4332586ee728991a1650.jpg";
+
+/***/ }),
+/* 147 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "176b0d59d4a41702b7c33f655242de15.jpg";
+
+/***/ }),
+/* 148 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "c110f1702648be4c36257ceddb9a96b8.jpg";
+
+/***/ }),
+/* 149 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "315453225536360dc1914777d03b16bc.jpg";
+
+/***/ }),
+/* 150 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "d847316639f8f1201cff0a23ada5f81a.jpg";
+
+/***/ }),
+/* 151 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "e1139ffbe31d37c2d0be644249f4fb80.jpg";
+
+/***/ }),
+/* 152 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "c241e4259249a39779b2ad5657245a58.jpg";
+
+/***/ }),
+/* 153 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32547,35 +32763,35 @@ var _react2 = _interopRequireDefault(_react);
 
 var _Home = __webpack_require__(8);
 
-var _HeaderCompImg = __webpack_require__(15);
+var _HeaderCompImg = __webpack_require__(18);
 
 var _HeaderCompImg2 = _interopRequireDefault(_HeaderCompImg);
 
-var _ForwardInfo = __webpack_require__(16);
+var _ForwardInfo = __webpack_require__(19);
 
 var _ForwardInfo2 = _interopRequireDefault(_ForwardInfo);
 
-var _ContactForm = __webpack_require__(146);
+var _ContactForm = __webpack_require__(154);
 
 var _ContactForm2 = _interopRequireDefault(_ContactForm);
 
-var _EmailsInfo = __webpack_require__(147);
+var _EmailsInfo = __webpack_require__(155);
 
 var _EmailsInfo2 = _interopRequireDefault(_EmailsInfo);
 
-var _Signature = __webpack_require__(11);
+var _Signature = __webpack_require__(12);
 
 var _Signature2 = _interopRequireDefault(_Signature);
 
-var _information = __webpack_require__(3);
+var _information = __webpack_require__(4);
 
 var _information2 = _interopRequireDefault(_information);
 
-var _SideMenu = __webpack_require__(12);
+var _SideMenu = __webpack_require__(13);
 
 var _SideMenu2 = _interopRequireDefault(_SideMenu);
 
-var _k = __webpack_require__(148);
+var _k = __webpack_require__(156);
 
 var _k2 = _interopRequireDefault(_k);
 
@@ -32723,7 +32939,7 @@ var Contact = function (_Component) {
 exports.default = Contact;
 
 /***/ }),
-/* 146 */
+/* 154 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32840,7 +33056,7 @@ var ContactForm = function (_Component) {
 exports.default = ContactForm;
 
 /***/ }),
-/* 147 */
+/* 155 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32856,7 +33072,7 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _information = __webpack_require__(3);
+var _information = __webpack_require__(4);
 
 var _information2 = _interopRequireDefault(_information);
 
@@ -32923,13 +33139,13 @@ var EmailsInfo = function (_Component) {
 exports.default = EmailsInfo;
 
 /***/ }),
-/* 148 */
+/* 156 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "381a0a946c37350b02acc6b29d0310b4.jpg";
 
 /***/ }),
-/* 149 */
+/* 157 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
