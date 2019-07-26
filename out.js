@@ -60,7 +60,7 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 42);
+/******/ 	return __webpack_require__(__webpack_require__.s = 41);
 /******/ })
 /************************************************************************/
 /******/ ([
@@ -71,9 +71,9 @@
 /* WEBPACK VAR INJECTION */(function(process) {
 
 if (process.env.NODE_ENV === 'production') {
-  module.exports = __webpack_require__(47);
+  module.exports = __webpack_require__(46);
 } else {
-  module.exports = __webpack_require__(48);
+  module.exports = __webpack_require__(47);
 }
 
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
@@ -294,11 +294,11 @@ if (process.env.NODE_ENV !== 'production') {
   // By explicitly using `prop-types` you are opting into new development behavior.
   // http://fb.me/prop-types-in-prod
   var throwOnDirectAccess = true;
-  module.exports = __webpack_require__(64)(isValidElement, throwOnDirectAccess);
+  module.exports = __webpack_require__(74)(isValidElement, throwOnDirectAccess);
 } else {
   // By explicitly using `prop-types` you are opting into new production behavior.
   // http://fb.me/prop-types-in-prod
-  module.exports = __webpack_require__(65)();
+  module.exports = __webpack_require__(75)();
 }
 
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
@@ -364,7 +364,7 @@ module.exports = invariant;
 /* 4 */
 /***/ (function(module, exports) {
 
-module.exports = {"companyName":"ZEGAREX - Firma Sp. z o.o.","company":[{"type":"telefon","info":["+48 22 245 67 89","+48 987 654 321"],"imgClass":"fas fa-phone"},{"type":"e-mail","info":["adres_email@wp.pl","adres_email2@wp.pl"],"imgClass":"fas fa-envelope"},{"type":"biuro","info":["00-01 Warszawa","ul. Marszałkowska 123"],"imgClass":"fas fa-map-marked-alt"},{"type":"czat na żywo","info":["pon-pt: 8:00-16:00","sob-ndz: 10:00-14:00"],"imgClass":"fas fa-comments"}],"companyContact":[{"title":"Dział Sprzedaży","email":"sale@company.com"},{"title":"Relacje Inwestorskie","email":"biuroprasowe@company.com"},{"title":"Dla Mediów","email":"media@company.com"},{"title":"Dział Wsparcia","email":"support@company.com"}],"newsElement":[{"title":"Konwencja Casio","text":"W dniach 19-21.05.2019 po raz pierwszy w Warszawie odbyła się Konwencja Casio Europe. Była ona dedykowana głównie europejskim dystrybutorom. Ze względu na “30. rocznicę istnienia Grupy ZIBI S.A”. po raz pierwszy podjęto decyzję o jej organizacji w Warszawie.","url":"https://www.zibi.pl/wp-content/uploads/2019/05/konwencja-4-300x200.jpg"},{"title":"zegarki Kronaby","text":"Kronaby to ręcznie składane, stalowe, klasyczne zegarki, które łączą się ze smartfonem dając użytkownikowi szereg przydatnych funkcji jak np. “Odprowadź mnie do domu”, “Zapamiętaj to miejsce”, sygnalizacja połączenia poprzez ruch wskazówek czy zdalne sterowanie aparatem w telefonie.","url":"https://www.zibi.pl/wp-content/uploads/2018/11/NewBeautyShot_1080x1080-e1542366072841-300x200.jpg"},{"title":"Mini Moda","text":"Nowa kolekcja zegarków Lacoste. Moda na minimalizm nie może przeminąć, bo minimalizm jest ponadczasowy. Dokładnie tak jak „mała czarna”, biel latem, czy też złoto i cekiny w sezonie karnawałowym.","url":"https://www.zibi.pl/wp-content/uploads/2018/09/img_6811-300x200.jpg"},{"title":"G-SHOCK GA-710","text":"Co łączy zegarki G-SHOCK ze światem skateboardingu i rapu? Wspólne zasady oparte na łamaniu reguł gry, przyjętych schematów i norm, a wszystko po to, aby w efekcie stworzyć coś nowego, niekonwencjonalnego i ciekawego.","url":"https://www.zibi.pl/wp-content/uploads/2017/06/g-shock_no_comply_rap_instagram_carousel_01-300x200.jpg"},{"title":"Wygraj zegarek!","text":"Konkurs trwa do 23.12.2020. Co musisz zrobić? Wyślij nam swoje pozytywne selfie, polub nasz FP i zacznij obserwować nas na Instagramie.","url":"https://www.zibi.pl/wp-content/uploads/2017/01/qq-smile-konkurs-fb-styczen-2017-300x200.jpg"}],"productsElement":[{"title":"zegarki damskie","url":"../image/p2.jpg","text":"Piękna ozdoba kobiecego nadgarstka, dopełnienie stroju dla wyznaczenia własnego stylu. Pozwolą na ożywienie stylizacji, nadanie szyku czy stworzenie modnego look'u i wyróżnienie się z tłumu."},{"title":"zegarki męskie","url":"../image/p4.jpg","text":"To element, który jest niezwykle popularny, ponieważ zawsze prezentuje się elegancko i nigdy nie wychodzi z mody.  Dziś są wyrażeniem indywidualnego stylu oraz elementem, przy pomocy którego można wyróżnić swoją osobowość."},{"title":"bestsellery","url":"../image/p8.jpg","text":"Chcesz wybrać zegarek dla siebie, a może podaprować go komuś innemu?  Nie ma problemu, przedstawiamy zegarki, które cieszą się największym powodzeniem wśród naszych klientów."},{"title":"smartwatche","url":"../image/p9.jpg","text":"Inteligentne urządzenie, które pojawia się w portfolio coraz większej ilości marek. To coś więcej niż zwykły zegarek. Smartwatche łączą modne wzornictwo znamienne dla poszczególnych marek z zaawansowaną technologią, która daje cały szereg możliwości."},{"title":"zegarki sportowe","url":"../image/p13.jpg","text":"Charakteryzują się bogactwem praktycznych funkcji wspierających codzienny trening osób aktywnie uprawiających sport. W zależności od modelu zegarek sportowy wyposażony jest w podstawowe funkcje dla amatorów lub daje zaawansowane możliwości profesjonalnym sportowcom."}],"aboutUsElement":[{"paragraph":"Jesteśmy autoryzowanym sprzedawcą wszystkich oferowanych marek zegarków.  Doświadczenie w branży zegarmistrzowskiej oraz profesjonalizm świadczonych usług sprawiają, że grono naszych Klientów z dnia na dzień powiększa się."},{"paragraph":"W skład asortymentu wchodzą oryginalne zegarki bezpośrednio pochodzące od producentów. Ze znanych, dostępnych marek, proponujących tanie zegarki posiadamy w ofercie Casio, Timexa, Lorusa, a z firm oferujących drogie zegarki znajdziecie Państwo u nas marki Doxa, Seiko, Atlantic, czy najmodniejszych producentów, jak Fossil, Diesel, Cluse, Daniel Wellington czy Michael Kors."},{"paragraph":"Proponujemy bezpłatne doradztwo i przygotowujemy indywidualne wyceny, dopasowując je do potrzeb każdego klienta."},{"paragraph":"Naszym klientom gwarantujemy najniższe ceny za najwyższą jakość oraz profesjonalizm. Naszym priorytetem jest satysfakcja Klientów - dlatego dbając o podnoszenie jakości naszych usług nie zapominamy o obniżaniu cen oraz stwarzaniu dogodnych warunków zakupu."},{"paragraph":"Naszym klientom gwarantujemy najniższe ceny za najwyższą jakość oraz profesjonalizm. Naszym priorytetem jest satysfakcja Klientów - dlatego dbając o podnoszenie jakości naszych usług nie zapominamy o obniżaniu cen oraz stwarzaniu dogodnych warunków zakupu."}],"offerElement":[{"title":"certina","url":"../image/e1.jpg"},{"title":"tissot","url":"../image/e2.jpg"},{"title":"adriatica","url":"../image/e3.jpg"},{"title":"swatch","url":"../image/e4.jpg"},{"title":"aviator","url":"../image/e5.jpg"},{"title":"casio","url":"../image/e6.jpg"},{"title":"lorus","url":"../image/e7.jpg"},{"title":"seiko","url":"../image/e8.jpg"},{"title":"citizen","url":"../image/e9.jpg"},{"title":"orient","url":"../image/e10.jpg"},{"title":"g-shock","url":"../image/e11.jpg"},{"title":"diesel","url":"../image/e12.jpg"},{"title":"fossil","url":"../image/e13.jpg"},{"title":"timex","url":"../image/e14.jpg"},{"title":"ice-watch","url":"../image/e15.jpg"},{"title":"michael kors","url":"../image/e16.jpg"},{"title":"cluse","url":"../image/e17.jpg"},{"title":"suunto","url":"../image/e18.jpg"},{"title":"roamer","url":"../image/e19.jpg"},{"title":"festina","url":"../image/e20.jpg"},{"title":"doxa","url":"../image/e21.jpg"},{"title":"buloca","url":"../image/e22.jpg"},{"title":"vostok","url":"../image/e23.jpg"},{"title":"certina","url":"../image/e24.jpg"},{"title":"atlantic","url":"../image/e25.jpg"}],"signatureElement":"Jesteśmy autoryzowanym sprzedawcą wszystkich oferowanych marek zegarków. Zapraszamy do składania zapytań i korzystania z indywidualnie przygotowywanych ofert!","socialMedia":[{"href":"https://www.facebook.com/","class":"fab fa-facebook-square"},{"href":"https://www.instagram.com/","class":"fab fa-instagram"},{"href":"https://twitter.com/","class":"fab fa-twitter-square"},{"href":"https://www.linkedin.com//","class":"fab fa-linkedin"},{"href":"https://www.youtube.com/","class":"fab fa-youtube"}],"klucz":"wartość","klucz1":"wartość1"}
+module.exports = {"companyName":"ZEGAREX Sp. z o.o.","company":[{"type":"telefon","info":["+48 22 245 67 89","+48 987 654 321"],"imgClass":"fas fa-phone"},{"type":"e-mail","info":["email@company.com","email2@company.com"],"imgClass":"fas fa-envelope"},{"type":"biuro","info":["00-01 Warszawa","ul. Marszałkowska 123"],"imgClass":"fas fa-map-marked-alt"},{"type":"czat na żywo","info":["pon-pt: 8:00-16:00","sob-ndz: 10:00-14:00"],"imgClass":"fas fa-comments"}],"companyData":["NIP: 1234567891","KRS: 1234567891","REGON: 1234567891"],"companyMaps":[{"info":"+48 22 245 67 89","imgClass":"fa-envelope-square"},{"info":"email@company.com","imgClass":"fa-phone-square"},{"info":"pon-pt: 8:00 - 16:00","imgClass":"fa-stopwatch "}],"companyContact":[{"title":"Dział Sprzedaży","email":"sale@company.com"},{"title":"Relacje Inwestorskie","email":"biuroprasowe@company.com"},{"title":"Dla Mediów","email":"media@company.com"},{"title":"Dział Wsparcia","email":"support@company.com"}],"newsElement":[{"title":"Konwencja Casio","text":"W dniach 19-21.05.2019 po raz pierwszy w Warszawie odbyła się Konwencja Casio Europe. Była ona dedykowana głównie europejskim dystrybutorom. Ze względu na “30. rocznicę istnienia Grupy ZIBI S.A”. po raz pierwszy podjęto decyzję o jej organizacji w Warszawie.","url":"https://www.zibi.pl/wp-content/uploads/2019/05/konwencja-4-300x200.jpg"},{"title":"zegarki Kronaby","text":"Kronaby to ręcznie składane, stalowe, klasyczne zegarki, które łączą się ze smartfonem dając użytkownikowi szereg przydatnych funkcji jak np. “Odprowadź mnie do domu”, “Zapamiętaj to miejsce”, sygnalizacja połączenia poprzez ruch wskazówek czy zdalne sterowanie aparatem w telefonie.","url":"https://www.zibi.pl/wp-content/uploads/2018/11/NewBeautyShot_1080x1080-e1542366072841-300x200.jpg"},{"title":"Mini Moda","text":"Nowa kolekcja zegarków Lacoste. Moda na minimalizm nie może przeminąć, bo minimalizm jest ponadczasowy. Dokładnie tak jak „mała czarna”, biel latem, czy też złoto i cekiny w sezonie karnawałowym.","url":"https://www.zibi.pl/wp-content/uploads/2018/09/img_6811-300x200.jpg"},{"title":"G-SHOCK GA-710","text":"Co łączy zegarki G-SHOCK ze światem skateboardingu i rapu? Wspólne zasady oparte na łamaniu reguł gry, przyjętych schematów i norm, a wszystko po to, aby w efekcie stworzyć coś nowego, niekonwencjonalnego i ciekawego.","url":"https://www.zibi.pl/wp-content/uploads/2017/06/g-shock_no_comply_rap_instagram_carousel_01-300x200.jpg"},{"title":"Wygraj zegarek!","text":"Konkurs trwa do 23.12.2020. Co musisz zrobić? Wyślij nam swoje pozytywne selfie, polub nasz FP i zacznij obserwować nas na Instagramie.","url":"https://www.zibi.pl/wp-content/uploads/2017/01/qq-smile-konkurs-fb-styczen-2017-300x200.jpg"}],"productsElement":[{"title":"zegarki damskie","url":"../image/p2.jpg","text":"Piękna ozdoba kobiecego nadgarstka, dopełnienie stroju dla wyznaczenia własnego stylu. Pozwolą na ożywienie stylizacji, nadanie szyku czy stworzenie modnego look'u i wyróżnienie się z tłumu."},{"title":"zegarki męskie","url":"../image/p4.jpg","text":"To element, który jest niezwykle popularny, ponieważ zawsze prezentuje się elegancko i nigdy nie wychodzi z mody.  Dziś są wyrażeniem indywidualnego stylu oraz elementem, przy pomocy którego można wyróżnić swoją osobowość."},{"title":"bestsellery","url":"../image/p8.jpg","text":"Chcesz wybrać zegarek dla siebie, a może podaprować go komuś innemu?  Nie ma problemu, przedstawiamy zegarki, które cieszą się największym powodzeniem wśród naszych klientów."},{"title":"smartwatche","url":"../image/p9.jpg","text":"Inteligentne urządzenie, które pojawia się w portfolio coraz większej ilości marek. To coś więcej niż zwykły zegarek. Smartwatche łączą modne wzornictwo znamienne dla poszczególnych marek z zaawansowaną technologią, która daje cały szereg możliwości."},{"title":"zegarki sportowe","url":"../image/p13.jpg","text":"Charakteryzują się bogactwem praktycznych funkcji wspierających codzienny trening osób aktywnie uprawiających sport. W zależności od modelu zegarek sportowy wyposażony jest w podstawowe funkcje dla amatorów lub daje zaawansowane możliwości profesjonalnym sportowcom."}],"aboutUsElement":[{"paragraph":"Jesteśmy autoryzowanym sprzedawcą wszystkich oferowanych marek zegarków.  Doświadczenie w branży zegarmistrzowskiej oraz profesjonalizm świadczonych usług sprawiają, że grono naszych Klientów z dnia na dzień powiększa się."},{"paragraph":"W skład asortymentu wchodzą oryginalne zegarki bezpośrednio pochodzące od producentów. Ze znanych, dostępnych marek, proponujących tanie zegarki posiadamy w ofercie Casio, Timexa, Lorusa, a z firm oferujących drogie zegarki znajdziecie Państwo u nas marki Doxa, Seiko, Atlantic, czy najmodniejszych producentów, jak Fossil, Diesel, Cluse, Daniel Wellington czy Michael Kors."},{"paragraph":"Proponujemy bezpłatne doradztwo i przygotowujemy indywidualne wyceny, dopasowując je do potrzeb każdego klienta."},{"paragraph":"Naszym klientom gwarantujemy najniższe ceny za najwyższą jakość oraz profesjonalizm. Naszym priorytetem jest satysfakcja Klientów - dlatego dbając o podnoszenie jakości naszych usług nie zapominamy o obniżaniu cen oraz stwarzaniu dogodnych warunków zakupu."},{"paragraph":"Naszym klientom gwarantujemy najniższe ceny za najwyższą jakość oraz profesjonalizm. Naszym priorytetem jest satysfakcja Klientów - dlatego dbając o podnoszenie jakości naszych usług nie zapominamy o obniżaniu cen oraz stwarzaniu dogodnych warunków zakupu."}],"offerElement":[{"title":"certina","url":"../image/e1.jpg"},{"title":"tissot","url":"../image/e2.jpg"},{"title":"adriatica","url":"../image/e3.jpg"},{"title":"swatch","url":"../image/e4.jpg"},{"title":"aviator","url":"../image/e5.jpg"},{"title":"casio","url":"../image/e6.jpg"},{"title":"lorus","url":"../image/e7.jpg"},{"title":"seiko","url":"../image/e8.jpg"},{"title":"citizen","url":"../image/e9.jpg"},{"title":"orient","url":"../image/e10.jpg"},{"title":"g-shock","url":"../image/e11.jpg"},{"title":"diesel","url":"../image/e12.jpg"},{"title":"fossil","url":"../image/e13.jpg"},{"title":"timex","url":"../image/e14.jpg"},{"title":"ice-watch","url":"../image/e15.jpg"},{"title":"michael kors","url":"../image/e16.jpg"},{"title":"cluse","url":"../image/e17.jpg"},{"title":"suunto","url":"../image/e18.jpg"},{"title":"roamer","url":"../image/e19.jpg"},{"title":"festina","url":"../image/e20.jpg"},{"title":"doxa","url":"../image/e21.jpg"},{"title":"buloca","url":"../image/e22.jpg"},{"title":"vostok","url":"../image/e23.jpg"},{"title":"certina","url":"../image/e24.jpg"},{"title":"atlantic","url":"../image/e25.jpg"}],"signatureElement":"Jesteśmy autoryzowanym sprzedawcą wszystkich oferowanych marek zegarków. Zapraszamy do składania zapytań i korzystania z indywidualnie przygotowywanych ofert!","signatureInfo":[{"name":"Links","title":"informacje prawne","info":["Regulamin sklepu","Polityka prywatności","Materiały do pobrania","Koszty gospodarowania","Plan połączenia"]},{"name":"Informations","title":"pomocne linki","info":["Jak kupić na raty?","Numer konta bankowego","Częste pytania","Reklamacje, zwroty, serwis","Dodatkowe gwarancje"]},{"name":"Investments","title":"dla inwestorów","info":["Władze spółki","Raporty i finanse","Fundusze UE","Inwestycje","Raporty"]}],"socialMedia":[{"href":"https://www.facebook.com/","class":"fab fa-facebook-square"},{"href":"https://www.instagram.com/","class":"fab fa-instagram"},{"href":"https://twitter.com/","class":"fab fa-twitter-square"},{"href":"https://www.linkedin.com//","class":"fab fa-linkedin"},{"href":"https://www.youtube.com/","class":"fab fa-youtube"}],"klucz":"wartość","klucz1":"wartość1"}
 
 /***/ }),
 /* 5 */
@@ -442,33 +442,33 @@ module.exports = warning;
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__BrowserRouter__ = __webpack_require__(63);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__BrowserRouter__ = __webpack_require__(73);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "BrowserRouter", function() { return __WEBPACK_IMPORTED_MODULE_0__BrowserRouter__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__HashRouter__ = __webpack_require__(71);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__HashRouter__ = __webpack_require__(81);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "HashRouter", function() { return __WEBPACK_IMPORTED_MODULE_1__HashRouter__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__Link__ = __webpack_require__(35);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Link", function() { return __WEBPACK_IMPORTED_MODULE_2__Link__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__MemoryRouter__ = __webpack_require__(72);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__MemoryRouter__ = __webpack_require__(82);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "MemoryRouter", function() { return __WEBPACK_IMPORTED_MODULE_3__MemoryRouter__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NavLink__ = __webpack_require__(74);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__NavLink__ = __webpack_require__(84);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "NavLink", function() { return __WEBPACK_IMPORTED_MODULE_4__NavLink__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__Prompt__ = __webpack_require__(76);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__Prompt__ = __webpack_require__(86);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Prompt", function() { return __WEBPACK_IMPORTED_MODULE_5__Prompt__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__Redirect__ = __webpack_require__(78);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__Redirect__ = __webpack_require__(88);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Redirect", function() { return __WEBPACK_IMPORTED_MODULE_6__Redirect__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__Route__ = __webpack_require__(36);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Route", function() { return __WEBPACK_IMPORTED_MODULE_7__Route__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__Router__ = __webpack_require__(23);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Router", function() { return __WEBPACK_IMPORTED_MODULE_8__Router__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__StaticRouter__ = __webpack_require__(80);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__StaticRouter__ = __webpack_require__(90);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "StaticRouter", function() { return __WEBPACK_IMPORTED_MODULE_9__StaticRouter__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__Switch__ = __webpack_require__(82);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__Switch__ = __webpack_require__(92);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "Switch", function() { return __WEBPACK_IMPORTED_MODULE_10__Switch__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__generatePath__ = __webpack_require__(84);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__generatePath__ = __webpack_require__(94);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "generatePath", function() { return __WEBPACK_IMPORTED_MODULE_11__generatePath__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__matchPath__ = __webpack_require__(85);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__matchPath__ = __webpack_require__(95);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "matchPath", function() { return __WEBPACK_IMPORTED_MODULE_12__matchPath__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__withRouter__ = __webpack_require__(86);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__withRouter__ = __webpack_require__(96);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "withRouter", function() { return __WEBPACK_IMPORTED_MODULE_13__withRouter__["a"]; });
 
 
@@ -504,11 +504,11 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__createBrowserHistory__ = __webpack_require__(66);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__createBrowserHistory__ = __webpack_require__(76);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_0__createBrowserHistory__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__createHashHistory__ = __webpack_require__(69);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__createHashHistory__ = __webpack_require__(79);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return __WEBPACK_IMPORTED_MODULE_1__createHashHistory__["a"]; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__createMemoryHistory__ = __webpack_require__(70);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__createMemoryHistory__ = __webpack_require__(80);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_2__createMemoryHistory__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__LocationUtils__ = __webpack_require__(17);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_3__LocationUtils__["a"]; });
@@ -550,19 +550,19 @@ var _styledComponents = __webpack_require__(26);
 
 var _styledComponents2 = _interopRequireDefault(_styledComponents);
 
-var _AboutUs = __webpack_require__(94);
+var _AboutUs = __webpack_require__(104);
 
 var _AboutUs2 = _interopRequireDefault(_AboutUs);
 
-var _Title = __webpack_require__(98);
+var _Title = __webpack_require__(109);
 
 var _Title2 = _interopRequireDefault(_Title);
 
-var _ShowActiveImg = __webpack_require__(99);
+var _ShowActiveImg = __webpack_require__(110);
 
 var _ShowActiveImg2 = _interopRequireDefault(_ShowActiveImg);
 
-var _ArrowSlider = __webpack_require__(100);
+var _ArrowSlider = __webpack_require__(111);
 
 var _ArrowSlider2 = _interopRequireDefault(_ArrowSlider);
 
@@ -574,23 +574,23 @@ var _information = __webpack_require__(4);
 
 var _information2 = _interopRequireDefault(_information);
 
-var _b = __webpack_require__(101);
+var _b = __webpack_require__(113);
 
 var _b2 = _interopRequireDefault(_b);
 
-var _b3 = __webpack_require__(102);
+var _b3 = __webpack_require__(114);
 
 var _b4 = _interopRequireDefault(_b3);
 
-var _b5 = __webpack_require__(103);
+var _b5 = __webpack_require__(115);
 
 var _b6 = _interopRequireDefault(_b5);
 
-var _b7 = __webpack_require__(104);
+var _b7 = __webpack_require__(116);
 
 var _b8 = _interopRequireDefault(_b7);
 
-var _b9 = __webpack_require__(105);
+var _b9 = __webpack_require__(117);
 
 var _b10 = _interopRequireDefault(_b9);
 
@@ -984,21 +984,21 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _SocialMedia = __webpack_require__(41);
-
-var _SocialMedia2 = _interopRequireDefault(_SocialMedia);
-
-var _Copyright = __webpack_require__(95);
+var _Copyright = __webpack_require__(105);
 
 var _Copyright2 = _interopRequireDefault(_Copyright);
 
-var _SignatureLinks = __webpack_require__(96);
+var _SignatureLinks = __webpack_require__(106);
 
 var _SignatureLinks2 = _interopRequireDefault(_SignatureLinks);
 
 var _information = __webpack_require__(4);
 
 var _information2 = _interopRequireDefault(_information);
+
+var _SignatureContact = __webpack_require__(107);
+
+var _SignatureContact2 = _interopRequireDefault(_SignatureContact);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -1066,7 +1066,6 @@ var Signature = function (_Component) {
                 listContact = _state.listContact,
                 titleCompany = _state.titleCompany,
                 textInfo = _state.textInfo;
-            var bigSize = this.props.bigSize;
 
             return _react2.default.createElement(
                 'div',
@@ -1075,9 +1074,13 @@ var Signature = function (_Component) {
                     'div',
                     { className: 'signatureContainer' },
                     _react2.default.createElement(
-                        'p',
+                        'div',
                         { className: 'signatureTitle' },
-                        titleCompany
+                        _react2.default.createElement(
+                            'h1',
+                            { className: 'title' },
+                            titleCompany
+                        )
                     ),
                     _react2.default.createElement(
                         'p',
@@ -1085,41 +1088,8 @@ var Signature = function (_Component) {
                         textInfo
                     )
                 ),
-                _react2.default.createElement(
-                    'div',
-                    { className: 'singatureContact' },
-                    listContact.map(function (el) {
-                        return _react2.default.createElement(
-                            'div',
-                            { key: el.type, className: 'signatureMedia' },
-                            _react2.default.createElement('span', { className: 'signatureSpan' }),
-                            _react2.default.createElement(
-                                'p',
-                                null,
-                                el.type
-                            ),
-                            _react2.default.createElement('span', { className: 'signatureSpan' }),
-                            _react2.default.createElement(
-                                'ul',
-                                null,
-                                el.info.map(function (el1) {
-                                    return _react2.default.createElement(
-                                        'li',
-                                        { key: el1 },
-                                        el1
-                                    );
-                                })
-                            ),
-                            _react2.default.createElement(
-                                'p',
-                                { className: 'signatureLogo' },
-                                _react2.default.createElement('i', { className: el.imgClass })
-                            )
-                        );
-                    })
-                ),
+                _react2.default.createElement(_SignatureContact2.default, { listOfContact: listContact }),
                 _react2.default.createElement(_SignatureLinks2.default, null),
-                bigSize ? null : _react2.default.createElement(_SocialMedia2.default, null),
                 _react2.default.createElement(_Copyright2.default, { fnC: this.scrollTop })
             );
         }
@@ -1147,7 +1117,7 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-var _SocialMedia = __webpack_require__(41);
+var _SocialMedia = __webpack_require__(112);
 
 var _SocialMedia2 = _interopRequireDefault(_SocialMedia);
 
@@ -1356,8 +1326,8 @@ module.exports = warning;
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return createLocation; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return locationsAreEqual; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_resolve_pathname__ = __webpack_require__(67);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_value_equal__ = __webpack_require__(68);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_resolve_pathname__ = __webpack_require__(77);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_value_equal__ = __webpack_require__(78);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__PathUtils__ = __webpack_require__(11);
 var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
 
@@ -2005,11 +1975,11 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "ServerStyleSheet", function() { return ServerStyleSheet; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "StyleSheetManager", function() { return StyleSheetManager; });
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "__DO_NOT_USE_OR_YOU_WILL_BE_HAUNTED_BY_SPOOKY_GHOSTS", function() { return __DO_NOT_USE_OR_YOU_WILL_BE_HAUNTED_BY_SPOOKY_GHOSTS; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_is_plain_object__ = __webpack_require__(90);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_is_plain_object__ = __webpack_require__(100);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_is_plain_object___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_is_plain_object__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_stylis__ = __webpack_require__(92);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_stylis__ = __webpack_require__(102);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_stylis___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_stylis__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_stylis_rule_sheet__ = __webpack_require__(93);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_stylis_rule_sheet__ = __webpack_require__(103);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_stylis_rule_sheet___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_stylis_rule_sheet__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_react__);
@@ -4247,7 +4217,7 @@ var styled = _styled(StyledComponent, constructWithOptions);
 /* harmony default export */ __webpack_exports__["default"] = (styled);
 //# sourceMappingURL=styled-components.browser.es.js.map
 
-/* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__(1), __webpack_require__(89)(module)))
+/* WEBPACK VAR INJECTION */}.call(__webpack_exports__, __webpack_require__(1), __webpack_require__(99)(module)))
 
 /***/ }),
 /* 27 */
@@ -4486,7 +4456,7 @@ module.exports = shallowEqual;
  * 
  */
 
-var isTextNode = __webpack_require__(49);
+var isTextNode = __webpack_require__(48);
 
 /*eslint-disable no-bitwise */
 
@@ -4662,7 +4632,7 @@ var singleton = null;
 var	singletonCounter = 0;
 var	stylesInsertedAtTop = [];
 
-var	fixUrls = __webpack_require__(61);
+var	fixUrls = __webpack_require__(71);
 
 module.exports = function(list, options) {
 	if (typeof DEBUG !== "undefined" && DEBUG) {
@@ -5333,7 +5303,7 @@ Route.childContextTypes = {
 /* 38 */
 /***/ (function(module, exports, __webpack_require__) {
 
-var isarray = __webpack_require__(75)
+var isarray = __webpack_require__(85)
 
 /**
  * Expose `pathToRegexp`.
@@ -5885,98 +5855,12 @@ module.exports = hoistNonReactStatics;
 /* 41 */
 /***/ (function(module, exports, __webpack_require__) {
 
-"use strict";
+__webpack_require__(42);
+module.exports = __webpack_require__(43);
 
-
-Object.defineProperty(exports, "__esModule", {
-    value: true
-});
-
-var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
-
-var _react = __webpack_require__(0);
-
-var _react2 = _interopRequireDefault(_react);
-
-var _information = __webpack_require__(4);
-
-var _information2 = _interopRequireDefault(_information);
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
-
-function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
-
-function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
-
-var SocialMedia = function (_Component) {
-    _inherits(SocialMedia, _Component);
-
-    function SocialMedia() {
-        _classCallCheck(this, SocialMedia);
-
-        var _this = _possibleConstructorReturn(this, (SocialMedia.__proto__ || Object.getPrototypeOf(SocialMedia)).call(this));
-
-        _this.componentDidMount = function () {
-            //need for add class from fontawensome
-            var allHref = [];
-            var allHClass = [];
-            _information2.default.socialMedia.map(function (el) {
-                return allHref.push(el.href);
-            });
-            _information2.default.socialMedia.map(function (el) {
-                return allHClass.push(el.class);
-            });
-            _this.setState({
-                allElHref: allHref,
-                allElClass: allHClass
-            });
-        };
-
-        _this.state = {
-            allElHref: [],
-            allElClass: []
-        };
-        return _this;
-    }
-
-    _createClass(SocialMedia, [{
-        key: 'render',
-        value: function render() {
-            var _state = this.state,
-                allElHref = _state.allElHref,
-                allElClass = _state.allElClass;
-
-            return _react2.default.createElement(
-                'div',
-                { className: 'socialMedia' },
-                allElHref.map(function (el, i) {
-                    return _react2.default.createElement(
-                        'a',
-                        { key: i, href: el, style: { color: 'white' }, target: '_blank', title: el },
-                        _react2.default.createElement('i', { className: allElClass[i] + ' sizeForSocial' })
-                    );
-                })
-            );
-        }
-    }]);
-
-    return SocialMedia;
-}(_react.Component);
-
-exports.default = SocialMedia;
 
 /***/ }),
 /* 42 */
-/***/ (function(module, exports, __webpack_require__) {
-
-__webpack_require__(43);
-module.exports = __webpack_require__(44);
-
-
-/***/ }),
-/* 43 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -6505,13 +6389,13 @@ if (!self.fetch) {
 
 
 /***/ }),
-/* 44 */
+/* 43 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _reactDom = __webpack_require__(45);
+var _reactDom = __webpack_require__(44);
 
 var _reactDom2 = _interopRequireDefault(_reactDom);
 
@@ -6519,9 +6403,9 @@ var _react = __webpack_require__(0);
 
 var _react2 = _interopRequireDefault(_react);
 
-__webpack_require__(56);
+__webpack_require__(55);
 
-var _Website = __webpack_require__(62);
+var _Website = __webpack_require__(72);
 
 var _Website2 = _interopRequireDefault(_Website);
 
@@ -6534,7 +6418,7 @@ var App = function App() {
 _reactDom2.default.render(_react2.default.createElement(App, null), document.getElementById('app'));
 
 /***/ }),
-/* 45 */
+/* 44 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6572,15 +6456,15 @@ if (process.env.NODE_ENV === 'production') {
   // DCE check should happen before ReactDOM bundle executes so that
   // DevTools can report bad minification during injection.
   checkDCE();
-  module.exports = __webpack_require__(46);
+  module.exports = __webpack_require__(45);
 } else {
-  module.exports = __webpack_require__(51);
+  module.exports = __webpack_require__(50);
 }
 
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 46 */
+/* 45 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6827,7 +6711,7 @@ var Ai={default:vi},Bi=Ai&&vi||Ai;module.exports=Bi.default?Bi.default:Bi;
 
 
 /***/ }),
-/* 47 */
+/* 46 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -6856,7 +6740,7 @@ assign:k}},Y={default:X},Z=Y&&X||Y;module.exports=Z.default?Z.default:Z;
 
 
 /***/ }),
-/* 48 */
+/* 47 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8350,7 +8234,7 @@ module.exports = react;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 49 */
+/* 48 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8365,7 +8249,7 @@ module.exports = react;
  * @typechecks
  */
 
-var isNode = __webpack_require__(50);
+var isNode = __webpack_require__(49);
 
 /**
  * @param {*} object The object to check.
@@ -8378,7 +8262,7 @@ function isTextNode(object) {
 module.exports = isTextNode;
 
 /***/ }),
-/* 50 */
+/* 49 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8406,7 +8290,7 @@ function isNode(object) {
 module.exports = isNode;
 
 /***/ }),
-/* 51 */
+/* 50 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8438,8 +8322,8 @@ var getActiveElement = __webpack_require__(29);
 var shallowEqual = __webpack_require__(30);
 var containsNode = __webpack_require__(31);
 var emptyObject = __webpack_require__(15);
-var hyphenateStyleName = __webpack_require__(52);
-var camelizeStyleName = __webpack_require__(54);
+var hyphenateStyleName = __webpack_require__(51);
+var camelizeStyleName = __webpack_require__(53);
 
 // Relying on the `invariant()` implementation lets us
 // have preserve the format and params in the www builds.
@@ -25844,7 +25728,7 @@ module.exports = reactDom;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 52 */
+/* 51 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25859,7 +25743,7 @@ module.exports = reactDom;
 
 
 
-var hyphenate = __webpack_require__(53);
+var hyphenate = __webpack_require__(52);
 
 var msPattern = /^ms-/;
 
@@ -25886,7 +25770,7 @@ function hyphenateStyleName(string) {
 module.exports = hyphenateStyleName;
 
 /***/ }),
-/* 53 */
+/* 52 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25922,7 +25806,7 @@ function hyphenate(string) {
 module.exports = hyphenate;
 
 /***/ }),
-/* 54 */
+/* 53 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -25937,7 +25821,7 @@ module.exports = hyphenate;
 
 
 
-var camelize = __webpack_require__(55);
+var camelize = __webpack_require__(54);
 
 var msPattern = /^-ms-/;
 
@@ -25965,7 +25849,7 @@ function camelizeStyleName(string) {
 module.exports = camelizeStyleName;
 
 /***/ }),
-/* 55 */
+/* 54 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26000,11 +25884,11 @@ function camelize(string) {
 module.exports = camelize;
 
 /***/ }),
-/* 56 */
+/* 55 */
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(57);
+var content = __webpack_require__(56);
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -26050,22 +25934,22 @@ if(false) {
 }
 
 /***/ }),
-/* 57 */
+/* 56 */
 /***/ (function(module, exports, __webpack_require__) {
 
-var escape = __webpack_require__(58);
+var escape = __webpack_require__(57);
 exports = module.exports = __webpack_require__(32)(false);
 // imports
 
 
 // module
-exports.push([module.i, "@charset \"UTF-8\";\n\n* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n}\n\nbody {\n  min-width: 300px;\n  font-family: 'Roboto', sans-serif;\n  overflow: auto;\n}\n\n.allBody .container {\n  padding-top: 70px;\n}\n\n.allBody {\n  background: white;\n}\n\nhtml {\n  background: #315380;\n}\n\n/* NAVIGATION Component */\n\n.navigation {\n  font-family: 'Roboto', sans-serif;\n  background: #315380;\n  color: #FFFF;\n  width: 100vw;\n  padding: 20px 0;\n  position: fixed;\n  z-index: 2;\n}\n\n.navTitle {\n  /* font-size: 1.2rem; */\n  /* letter-spacing: 0.5em; */\n  /* text-transform: uppercase; */\n  /* font-weight: 400; */\n  display: inline-block;\n  position: relative;\n  /* margin-left: 30px; */\n  color: white;\n  float: left;\n  /* width:40px; */\n  line-height: 35px;\n  margin: 0 5vw;\n  border-radius: 6px;\n}\n\n.navTitle > span {\n  font-size: 1.8rem;\n  margin: 0 5px;\n  display: block;\n  text-transform: uppercase;\n  float: left;\n  /* border-radius:6px; */\n  /* color: white; */\n}\n\n.navTitle:hover {\n  cursor: pointer;\n  animation-name: sideHover;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n  animation-timing-function: ease-in-out;\n}\n\n.addTitleAnimation {\n  animation: text_animation 5s linear 1;\n  -webkit-animation: text_animation 5s linear 1;\n}\n\n.navTitle > .titleLetter0 {\n  animation-delay: 250ms;\n  -webkit-animation-delay: 250ms;\n}\n\n.navTitle > .titleLetter1 {\n  animation-delay: 500ms;\n  -webkit-animation-delay: 500ms;\n}\n\n.navTitle > .titleLetter2 {\n  animation-delay: 750ms;\n  -webkit-animation-delay: 750ms;\n}\n\n.navTitle > .titleLetter3 {\n  animation-delay: 1000ms;\n  -webkit-animation-delay: 1000ms;\n}\n\n.navTitle > .titleLetter4 {\n  animation-delay: 1250ms;\n  -webkit-animation-delay: 1250ms;\n}\n\n.navTitle > .titleLetter5 {\n  animation-delay: 1500ms;\n  -webkit-animation-delay: 1500ms;\n}\n\n.navTitle > .titleLetter6 {\n  animation-delay: 1750ms;\n  -webkit-animation-delay: 1750ms;\n}\n\n.navTitle > .titleLetter7 {\n  animation-delay: 2000ms;\n  -webkit-animation-delay: 2000ms;\n}\n\n@keyframes text_animation {\n  0% {\n    transform: rotate(0);\n  }\n\n  10% {\n    transform: rotate(360deg);\n  }\n\n  100% {\n    transform: rotate(360deg);\n  }\n}\n\n.navOrg {\n  font-size: 0.3em;\n  position: absolute;\n  top: -8px;\n  right: -10px;\n  color: white;\n}\n\n.hamburger {\n  font-size: 2rem;\n  display: inline-block;\n  border: 1px solid grey;\n  width: 40px;\n  height: 2rem;\n  float: right;\n  margin: 0 30px;\n}\n\n.hamburger:hover {\n  cursor: pointer;\n  border: 1px solid #FFFF;\n}\n\n.hamburger span {\n  display: block;\n  border-bottom: 2px solid white;\n  padding: 3px;\n  width: 70%;\n  margin: 0 auto;\n  /* height: 7px */\n  /* font-style: inherit */\n}\n\n.hamburger:nth-child(1) {\n  margin-top: 3.5px;\n}\n\n/* span:nth-child(odd){\r\n  border-bottom: 2px solid #315380\r\n\r\n} */\n\n.hideSpan {\n  animation-name: hideHamSpan;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n}\n\n.showSpan {\n  animation-name: showHamSpan;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n}\n\n.stress {\n  width: 100%;\n  border-bottom: 1px solid grey;\n  display: none;\n}\n\n@keyframes hideHamSpan {\n  0% {\n    border-bottom: 2px solid #FFFF;\n  }\n\n  100% {\n    border-bottom: 2px solid #315380;\n  }\n}\n\n@keyframes showHamSpan {\n  0% {\n    border-bottom: 2px solid #315380;\n  }\n\n  100% {\n    border-bottom: 2px solid #FFFF;\n  }\n}\n\n@media (max-width: 600px) {\n  .navigation p {\n    font-size: 5vw;\n  }\n}\n\n/* ElementNavigation Compo */\n\n.slideMenu {\n  /* padding-bottom: 5vh; */\n  position: fixed;\n  top: 9vh;\n  z-index: 1;\n  background: #315380;\n  width: 100%;\n  display: none;\n}\n\n.showMenu {\n  position: fixed;\n  top: 3vh;\n  left: 50%;\n  z-index: 1;\n  background: #315380;\n  width: 100%;\n  display: block;\n}\n\n.showMenu li {\n  margin-left: 30px;\n  list-style-type: none;\n  /* margin-top: 2vh; */\n  text-transform: uppercase;\n  font-weight: 700;\n  font-size: 15px;\n  display: inline-block;\n}\n\n.elMenu {\n  color: white;\n  text-decoration: none;\n}\n\n.elMenu:hover {\n  animation-name: menuHover;\n  animation-iteration-count: 1;\n  animation-fill-mode: both;\n  animation-duration: 0.3s;\n  animation-timing-function: ease-in-out;\n}\n\n.slideMenu li {\n  margin-left: 30px;\n  list-style-type: none;\n  margin-top: 2vh;\n  text-transform: uppercase;\n  font-weight: 800;\n  font-size: 12px;\n  /* display: inline-block */\n}\n\n.slideMenu li:last-child {\n  padding-bottom: 10vh;\n}\n\n.slideMenu li:first-child {\n  padding-top: 5vh;\n}\n\n.elClickOn {\n  color: red;\n  /* border-bottom: 3px solid #c72e2e */\n  /* border-bottom: 2px solid red */\n}\n\n@keyframes menuHover {\n  0% {\n\n  }\n\n  25% {\n    /* opacity: 0.5 */\n    /* border-bottom: 2px solid grey; */\n  }\n\n  100% {\n    color: grey;\n  }\n}\n\n/* HOME Component*/\n\n/* zastąpione HomeContainer Comp */\n\n/* .homeComp{\r\n  height: 100vh;\r\n  width: 100vw;\r\n  background-size: cover;\r\n  background-repeat: no-repeat;\r\n  background-position: 45% 20%;\r\n} */\n\n@keyframes showImg {\n  0% {\n    opacity: 0;\n  }\n\n  25% {\n    opacity: 0.7;\n  }\n\n  50% {\n    opacity: 1;\n  }\n\n  75% {\n    opacity: 1;\n  }\n\n  100% {\n    opacity: 0;\n  }\n}\n\n/*Title Component */\n\n.titleName {\n  position: absolute;\n  text-align: center;\n  top: 40%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n\nh1.title {\n  font-size: 1.5rem;\n  letter-spacing: 0.4em;\n  text-transform: uppercase;\n  font-weight: 600;\n  color: #315380;\n  text-shadow: 0 0 10px white, 0 0 20px white,\r 0 0 20px white, 0 0 30px white,\r 0 0 40px white;\n  /* animation-name: scaleInfo;\r\n  animation-iteration-count: 3;\r\n  animation-fill-mode: forwards;\r\n  animation-duration: 2s;\r\n  animation-timing-function: ease-in-out */\n}\n\n.titleOrg {\n  font-size: 0.3em;\n  position: absolute;\n  top: 0;\n  right: -10px;\n}\n\n.afterTitle {\n  /* animation-name: showAfterTitle;\r\n  animation-iteration-count: 3;\r\n  animation-fill-mode: forwards;\r\n  animation-duration: 4s;\r\n  animation-timing-function: ease-in-out;  */\n  opacity: 1;\n  color: white;\n  font-size: 1rem;\n  width: 100%;\n  text-transform: uppercase;\n  font-weight: 600;\n  letter-spacing: 0.2em;\n  /* margin-top: 4vw; */\n  /* color: #315380; */\n  /* opacity: 0; */\n  text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,\r 0 0 20px #A5F1FF, 0 0 30px #A5F1FF,\r 0 0 40px #A5F1FF;\n}\n\n@keyframes showAfterTitle {\n  0% {\n    opacity: 1;\n  }\n\n  50% {\n    opacity: 0.1;\n  }\n\n  75% {\n\n  }\n\n  100% {\n    opacity: 1;\n    /* transform: scale(1.1); */\n  }\n}\n\n@keyframes scaleInfo {\n  0% {\n    opacity: 1;\n  }\n\n  100% {\n    /* color: white; */\n    opacity: 0;\n  }\n}\n\n/* .titleName:before, .titleName:after { \r\n  content: \"\"; \r\n  display: table; \r\n  clear: both; }\r\n */\n\n/*AboutUs Component */\n\n.aboutComp {\n  height: 100%;\n  width: 100%;\n  /* margin: 10vw auto; */\n  /* margin: 0 auto; */\n  /* margin-top: 10vw; */\n  /* margin-bottom: 10vw; */\n}\n\n.aboutCompContainer {\n  width: 90%;\n  margin: 0 auto;\n  margin-top: 10vh;\n  background: white;\n}\n\n.aboutImg {\n  background: url(" + escape(__webpack_require__(59)) + ");\n  height: 50vh;\n  background-repeat: no-repeat;\n  background-position: 45% 85%;\n  /* width: 100%; */\n  background-size: cover;\n  /* background-repeat: no-repeat; */\n  margin: 0 auto;\n}\n\n.aboutUsInfo {\n  line-height: 1.7rem;\n  font-size: 0.9rem;\n  /* padding-bottom: 5vw; */\n  /* margin-bottom: 5vw; */\n}\n\n.aboutUsInfo p {\n  padding: 10px 0;\n}\n\nh3 {\n  margin: 8vw auto;\n  font-weight: 100;\n  text-transform: uppercase;\n  font-size: 2rem;\n}\n\n.aboutBold {\n  font-weight: 700;\n}\n\n.aboutBorder {\n  display: block;\n  width: 30%;\n  height: 2vw;\n  border-bottom: 10px solid #315380;\n  margin: 5vh auto;\n  background: white;\n}\n\n/* ForwardNavigation Component */\n\n.aboutSee {\n  font-size: 1.6rem;\n  font-weight: 700;\n  padding-bottom: 5vw;\n  background: white;\n  /* padding-bottom: 5vw; */\n}\n\n.aboutSeeHeader {\n  margin-bottom: 5vw;\n}\n\n.elAbout {\n  color: red;\n  list-style-type: none;\n  text-transform: uppercase;\n  text-decoration: none;\n  margin-left: 70px;\n  font-size: 0.8rem;\n  font-weight: 600;\n}\n\n.aboutSee li span {\n  display: inline-block;\n  position: absolute;\n  top: 55%;\n  left: 0;\n  width: 50px;\n  height: 1px;\n  background: grey;\n  transition: 1s;\n}\n\n.aboutSee ul li {\n  position: relative;\n  text-decoration: none;\n  list-style-type: none;\n  /* display: inline-block */\n}\n\n.aboutSee li:hover > span {\n  cursor: pointer;\n  transform: rotate(-45deg);\n}\n\n/* .aboutSee li::before{\r\n  content: '';\r\n  position: absolute;\r\n  top: 50%;\r\n  left: 0;\r\n  width: 40px;\r\n  height: 1px;\r\n  background: #000;\r\n} */\n\n/*ArrowSlider Component */\n\n.fa-chevron-right,\n.fa-chevron-left {\n  color: white;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  /* font-size: 1.2rem */\n}\n\n.fa-chevron-right:hover,\n.fa-chevron-left:hover {\n  font-size: 1.7rem;\n  cursor: pointer;\n}\n\n.arrowRight,\n.arrowLeft {\n  position: absolute;\n  background: rgba(61, 57, 57, 0.4);\n  height: 40px;\n  width: 40px;\n}\n\n.arrowRight {\n  right: 0vw;\n  bottom: 8vh;\n}\n\n.arrowLeft {\n  left: 0vw;\n  bottom: 8vh;\n}\n\n.arrowInfo {\n  width: 60vw;\n  position: absolute;\n  bottom: 3vh;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  margin: 0 auto;\n  text-align: center;\n}\n\n.arrowInfo .arrowSpan {\n  width: 30px;\n  height: 5px;\n  display: inline-block;\n  margin: 0 2vw;\n  border-bottom: 1px solid white;\n}\n\n.spanActive {\n  background: white;\n}\n\n/* SIGNATURE Comp */\n\n.signatureComp {\n  width: 100%;\n  background: #000;\n  color: #FFF;\n}\n\n.signatureContainer {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.signatureTitle {\n  padding-top: 10vw;\n  font-size: 1.5rem;\n  text-align: center;\n  letter-spacing: 0.5em;\n  text-transform: uppercase;\n  font-weight: 400;\n  color: white;\n}\n\n.signatureInfo {\n  color: grey;\n  margin-top: 20px;\n  font-size: 0.8rem;\n  line-height: 25px;\n  width: 100%;\n  text-align: center;\n}\n\n.singatureContact {\n  margin: 7vh auto;\n  text-align: center;\n}\n\n.signatureMedia {\n  margin: 4vh auto;\n}\n\n.signatureSpan {\n  display: inline-block;\n  width: 50px;\n  height: 1px;\n  background: #FFF;\n  border-bottom: 4px solid black;\n  padding-bottom: 2px;\n  transition: 1s;\n}\n\n.signatureMedia p {\n  display: inline-block;\n  margin: 0 20px;\n  text-transform: uppercase;\n  color: red;\n  font-weight: 700;\n  font-size: 0.9rem;\n}\n\n.signatureMedia ul {\n  margin-top: 1vh;\n}\n\n.signatureMedia li {\n  margin: 1vh auto;\n  font-weight: 500;\n  list-style-type: none;\n  font-size: 0.7rem;\n}\n\n.signatureMedia:hover > .signatureSpan {\n  /* cursor: pointer; */\n  transform: rotate(-45deg);\n  /* transform: scaleX(1.2); */\n}\n\n.singatureLinks,\n.singatureInformations,\n.singatureInvestments {\n  color: white;\n}\n\n.singatureLinks ul,\n.singatureInformations ul,\n.singatureInvestments ul {\n  list-style-type: none;\n}\n\n.singatureLinks li,\n.singatureInformations li,\n.singatureInvestments li {\n  margin: 4vh auto;\n  text-align: center;\n  color: grey;\n  cursor: pointer;\n  line-height: 0.1rem;\n  font-size: 0.5rem;\n}\n\n.singatureLinks p,\n.singatureInformations p,\n.singatureInvestments p {\n  text-align: center;\n  text-transform: uppercase;\n  font-weight: 700;\n  font-size: 0.7rem;\n}\n\n.singatureLinks,\n.singatureInformations,\n.singatureInvestments {\n  width: 33%;\n  display: inline-block;\n}\n\np.signatureLogo {\n  font-size: 2rem;\n}\n\n.finish {\n  width: 90%;\n  margin: 0 auto;\n  font-size: 8px;\n  padding-bottom: 2vh;\n  position: relative;\n}\n\n.finish:before {\n  content: '';\n  display: block;\n  border: 1px solid grey;\n  width: 90%;\n  margin-bottom: 5px;\n}\n\n.finish a {\n  color: white;\n  text-decoration: none;\n  cursor: pointer;\n}\n\n.finish a:hover {\n  color: red;\n}\n\n.top {\n  color: #315380;\n  font-size: 4vh;\n  transform: rotate(-90deg);\n  position: absolute;\n  bottom: 3vh;\n  right: 5vw;\n  cursor: pointer;\n  animation-name: pulse;\n  animation-duration: 1s;\n  animation-iteration-count: infinite;\n  animation-timing-function: linear;\n}\n\n@keyframes pulse {\n  0% {\n    /* transform: rotate(-90deg); */\n  }\n\n  50% {\n    /* transform: rotate(-80deg); */\n    bottom: 4vh;\n  }\n\n  100% {\n    /* transform: rotate(-90deg); */\n    bottom: 3vh;\n  }\n}\n\n.socialMedia {\n  width: 100%;\n  text-align: center;\n  margin: 10vw 0;\n}\n\n.sizeForSocial {\n  margin: 0 10px;\n  font-size: 30px;\n  cursor: pointer;\n}\n\n.sizeForSocial:hover {\n  color: red;\n}\n\n/* NotFound Component */\n\n.notFoundComp {\n  height: 100vh;\n  width: 100%;\n  background: url(" + escape(__webpack_require__(60)) + ");\n  background-size: cover;\n  /* background-repeat: no-repeat; */\n  background-repeat: no-repeat;\n  background-position: center;\n  position: relative;\n}\n\n.notFoundText {\n  position: absolute;\n  top: 80%;\n  left: 50%;\n  width: 80%;\n  font-size: 0.7rem;\n  text-align: center;\n  transform: translate(-50%, -50%);\n}\n\n.notFoundForward {\n  position: absolute;\n  top: 90%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  background: red;\n  padding: 10px 20px;\n  background: #315380;\n  color: white;\n  border: 2px solid #315380;\n  cursor: pointer;\n  border-radius: 50px 50px;\n}\n\n.notFoundForward:hover {\n  background: white;\n  color: black;\n}\n\n/*--------------------NEWS-------- /*\r\n /* News Component */\n\n.newsComp {\n  background: white;\n  color: black;\n  height: 100%;\n  width: 100%;\n  position: relative;\n}\n\n.newsComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.newsPage {\n  width: 100%;\n  text-align: center;\n  padding: 5vh 0;\n}\n\n.newsPage li {\n  font-size: 0.7rem;\n  list-style-type: none;\n  display: inline-block;\n  /* border: 1px solid black; */\n  padding: 5px;\n  margin: 5px;\n  border-radius: 5px;\n}\n\n.newsPage li:hover {\n  cursor: pointer;\n  color: white;\n  background: #315380;\n  /* border: 1px solid #315380 */\n}\n\n.newsPage ul li:last-child,\n.newsPage ul li:first-child {\n  border: 1px solid black;\n}\n\n/* NewsElementsInfo Component */\n\n.newsElement {\n  /* border: 5px solid #eee; */\n  /* padding:10px; */\n  margin-bottom: 7vh;\n}\n\n.newsImg {\n  background-size: cover;\n  background-repeat: no-repeat;\n  height: 200px;\n  width: 100%;\n}\n\n.newsTitle {\n  margin: 5vw 0;\n  font-weight: 100;\n  font-size: 30px;\n  text-transform: uppercase;\n}\n\n.newsArticle {\n  border-left: 10px solid #eee;\n  padding-left: 10px;\n  margin: 6vw 0;\n}\n\n.newsButton {\n  background: transparent;\n  color: black;\n  padding: 10px 20px;\n  border: 1px solid black;\n  font-weight: 700;\n  cursor: pointer;\n  /* border-radius: 10px */\n}\n\n.newsButton:hover {\n  /* color: #315380;\r\n  border: 1px solid #315380; */\n  color: white;\n  background: #315380;\n  border: 1px solid #315380;\n}\n\n.newsBold {\n  font-weight: 700;\n  padding: 0 10px;\n}\n\n.newsButton .fas {\n  color: #315380;\n  margin-left: 5px;\n}\n\n.newsButton:hover > i {\n  color: white;\n}\n\n/* HeaderCompImg Component */\n\n.newsTitleImg {\n  background-size: contain;\n  background-repeat: no-repeat;\n  /* height: 50vh; */\n  width: 100%;\n  height: 45vh;\n  /* animation-name: showImg;\r\n  animation-duration: 3s;\r\n  animation-iteration-count: 1;\r\n  animation-timing-function: linear; */\n  padding-top: 70px;\n}\n\n.newsContainerTitle {\n  position: relative;\n}\n\n.newsTitleText {\n  color: white;\n  width: 90%;\n  font-size: 10vw;\n  text-transform: uppercase;\n  position: absolute;\n  top: 60%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  /* font-weight: 700 */\n}\n\n.titleSpan {\n  display: inline-block;\n  /* width: 10vw; */\n}\n\n.titleBorder {\n  border-bottom: 10px solid #315380;\n  font-weight: 100;\n}\n\n.titleWhite {\n  font-weight: 700;\n  margin-top: 10px;\n  margin-left: 50px;\n}\n\n.shadow {\n  animation-name: shadowKeyframes;\n  animation-iteration-count: 1;\n  animation-fill-mode: backwards;\n  animation-duration: 0.5s;\n  animation-delay: 1s;\n}\n\n@keyframes shadowKeyframes {\n  0% {\n\n  }\n\n  50% {\n    text-shadow: 0 0 5px white, 0 0 10px white,\r 0 0 20px white, 0 0 30px white,\r 0 0 40px white;\n    /* color: #315380 */\n  }\n\n  100% {\n\n  }\n}\n\n/* ForwardInfo Component */\n\n.forwardInfo {\n  height: 20vh;\n  margin: 0 auto;\n  position: relative;\n  text-align: left;\n  background: white;\n}\n\n.navForward {\n  display: inline-block;\n}\n\n.navForward:hover .spanForward {\n  cursor: pointer;\n  transform: rotate(-45deg);\n}\n\n.textForward {\n  position: absolute;\n  width: 100%;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n\n.spanForward {\n  display: inline-block;\n  transition: 1s;\n  width: 40px;\n  /* background: red; */\n  height: 5px;\n  border-top: 2px solid grey;\n}\n\n.navForwardText {\n  text-transform: uppercase;\n  font-size: 0.8rem;\n  margin: 0 20px;\n  color: red;\n  font-weight: 700;\n  cursor: pointer;\n}\n\n.active {\n  color: #315380;\n  /* color: red; */\n  font-weight: 700;\n  cursor: default;\n}\n\n.linkForward {\n  text-decoration: none;\n}\n\n/*Products Component */\n\n.productsComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.productsComp {\n  width: 100%;\n  margin: 0 auto;\n  background: white;\n}\n\n/* NewsElementProducts Component */\n\n.newsProductText {\n  position: absolute;\n  bottom: 20%;\n  margin-left: 20px;\n  text-transform: uppercase;\n  color: #315380;\n  font-weight: 700;\n  font-size: 1.5rem;\n  z-index: 1;\n}\n\n.productElement:hover > .newsProductText {\n  /* transform: scale(1.2); */\n  animation-name: scaleInfo;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n  animation-timing-function: ease-in-out;\n}\n\n.productsComp .productsEl {\n  display: flex;\n  flex-direction: column;\n}\n\n.productsInfo {\n  opacity: 0;\n  position: absolute;\n  top: 0%;\n  left: 0;\n  padding: 20px;\n  color: #315380;\n  background: white;\n  text-align: center;\n  margin: 0 auto;\n  color: #315380;\n  font-size: 5vw;\n  /* padding-top: 10% */\n}\n\n.productElement:hover > .productsInfo {\n  opacity: 0.8;\n  transition: 1s;\n  /* transform: translate3d(0,0, 30%); */\n  transform: translate(0px, 0px);\n  height: 100%;\n  width: 100%;\n}\n\n/* Offer Compononent */\n\n.offerComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.offerComp {\n  width: 100%;\n  margin: 0 auto;\n  background: white;\n}\n\n.offerEl {\n  display: flex;\n  flex-direction: row;\n  justify-content: space-around;\n  flex-wrap: wrap;\n  margin-bottom: 5vh;\n}\n\n.offerEl .elementsContainer {\n  border: 1px solid black;\n  width: 40vw;\n  height: 20vw;\n  margin: 2vw;\n  font-size: 0.7rem;\n  text-align: center;\n  color: black;\n  position: relative;\n  cursor: pointer;\n}\n\n.offerElementsTitle {\n  width: 100%;\n  height: 20%;\n  font-size: 3vw;\n  position: absolute;\n  bottom: 0;\n  text-align: center;\n  color: white;\n  background: black;\n}\n\n/*Conact Component */\n\n.contactComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.contactInfo {\n  /* height: 20vh; */\n  /* border: 1px solid black; */\n  margin: 5vh 0;\n  text-align: left;\n  color: #70747e;\n}\n\n.iframe {\n  width: 100%;\n  height: 50vh;\n}\n\n.contactComp {\n  background: white;\n  width: 100%;\n  margin: 0 auto;\n}\n\nh4 {\n  color: #315380;\n  font-size: 1.3rem;\n  margin: 20px 0;\n}\n\n.contactInfo ul {\n  margin: 10px 0;\n  font-weight: 700;\n  list-style-type: none;\n}\n\n.contactInfo li {\n  font-size: 0.9rem;\n  font-weight: 500;\n}\n\n.contactInfo li a {\n  color: #315380;\n}\n\n.contactInfo li .bold {\n  font-weight: 600;\n  color: black;\n}\n\n.sizeForContact {\n  margin: 0 10px;\n  font-size: 30px;\n  cursor: pointer;\n}\n\n.sizeForContact:hover {\n  color: #315380;\n}\n\n/* EmailsInfo Component*/\n\n.emailsInfoComp {\n  background: #f8f9fc;\n}\n\n.emailsImg {\n  display: inline-block;\n  width: 30%;\n  text-align: center;\n}\n\n.emailsInfo {\n  display: inline-block;\n  width: 70%;\n  font-size: 1.1rem;\n}\n\n.emailsList {\n  list-style-type: none;\n}\n\n.sizeForEmail {\n  margin: 0 10px;\n  font-size: 50px;\n  cursor: pointer;\n  color: #315380;\n}\n\n.emailsInfoAddress {\n  font-size: 0.9rem;\n  color: #337ab7;\n}\n\nul.emailsList li {\n  padding: 30px 0;\n}\n\n/* ContactForm Component */\n\n.contactForm {\n  background: #f7f7f7;\n  background: url(\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcY3LYt2839TZmKUiNXf-E--K4MIPp1oqI6sQsciLNuXuE6sVo\");\n  /* background: url(\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVoCbN7swfL7jK0hAsg8Y_5GbZOKBJeU-QV4Z1kUprdKgxkOdX\"); */\n  background: url(\"https://www.heuristic.pl/img/blog/ecommerce/_big/zdjecie_jest_istotne.jpg\");\n  background-size: cover;\n}\n\nform {\n  width: 90%;\n  padding: 7vh 0;\n  margin: 0 auto;\n  font-weight: 700;\n  font-size: 0.9rem;\n  opacity: 1;\n}\n\n.contactForm label {\n  display: block;\n  margin-bottom: 25px;\n  color: black;\n}\n\n.contactForm input,\n.contactForm textarea {\n  display: block;\n  width: 100%;\n  background: white;\n  border: 2px solid rgba(255, 255, 255, 0.342);\n  padding: 2vh 0;\n  border-radius: 10px;\n  margin-top: 10px;\n  color: black;\n  padding-left: 10px;\n}\n\n.contactForm input:focus,\n.contactForm textarea:focus {\n  border: 3px solid white;\n}\n\n.btnSendForm {\n  display: block;\n  width: 100%;\n  color: black;\n  text-transform: uppercase;\n  border-radius: 10px;\n  background: white;\n  border: 1px solid rgba(255, 255, 255, 0.342);\n}\n\n.contactForm textarea {\n  resize: none;\n}\n\n/* SizeMenu Component */\n\n.sideMenuComp {\n  position: fixed;\n}\n\n.sideText {\n  position: absolute;\n  width: 300px;\n  background: #315380;\n  color: white;\n  letter-spacing: 5px;\n  font-size: 0.7rem;\n  padding: 5px;\n  top: 215px;\n  left: -180px;\n  text-align: center;\n  transform: rotate(-90deg);\n  text-transform: uppercase;\n  border-left: 2px solid grey;\n  border-right: 2px solid grey;\n}\n\n.afterTitle {\n  animation-name: showAfterTitle;\n  animation-iteration-count: infinite;\n  animation-fill-mode: forwards;\n  animation-duration: 3s;\n  animation-timing-function: ease-in-out;\n}\n\n@keyframes sideHover {\n  0% {\n\n  }\n\n  25% {\n    /* opacity: 0.5 */\n    color: grey;\n    /* border-bottom: 2px solid grey; */\n  }\n\n  75% {\n\n  }\n}\n\n.sideInfo {\n  position: absolute;\n  width: 300px;\n  background: #315380;\n  color: white;\n  padding: 5px;\n  top: 80vh;\n  left: -175px;\n  text-align: center;\n  transform: rotate(-90deg);\n  text-transform: uppercase;\n}\n\n.sideMenuComp .sideInfo .socialMedia {\n  margin: 0 auto;\n}\n\n.sideMenuComp .sideInfo i {\n  transform: rotate(90deg);\n  font-size: 1.2rem;\n}\n\n/* MEDIA */\n\n@media (min-width: 500px) {\n  .newsImg,\n  .newsText {\n    /* float: left; */\n    display: inline-block;\n    height: 35vh;\n    margin: 0 auto;\n  }\n\n  .newsImg {\n    width: 40%;\n    float: left;\n  }\n\n  .newsText {\n    width: 60%;\n    padding-left: 3vw;\n  }\n\n  .newsArticle {\n    padding-left: 30px;\n    line-height: 1.1rem;\n  }\n\n  .newsTitle {\n    margin: 1vw auto;\n  }\n\n  .newsArticle {\n    margin: 2vw 0;\n  }\n\n  .productsInfo {\n    font-size: 1.2rem;\n  }\n\n  .newsTitleText {\n    font-size: 9vw;\n  }\n\n  .offerEl {\n    display: flex;\n    display: inline-block;\n    flex-direction: column;\n    justify-content: space-around;\n    flex-wrap: wrap;\n    margin-bottom: 5vh;\n  }\n\n  .offerEl .elementsContainer {\n    display: inline-block;\n    width: 30vw;\n    height: 15vw;\n  }\n\n  .offerEl .elementsContainer p {\n    font-size: 0.8rem;\n  }\n\n  .singatureLinks li,\n  .singatureInformations li,\n  .singatureInvestments li {\n    font-size: 0.7rem;\n  }\n\n  .singatureLinks p,\n  .singatureInformations p,\n  .singatureInvestments p {\n    font-size: 0.9rem;\n  }\n}\n\n@media (min-width: 600px) {\n  .newsArticle {\n    line-height: 1.3rem;\n  }\n\n  .productsInfo {\n    font-size: 1.5rem;\n  }\n\n  .newsTitleText {\n    font-size: 7vw;\n  }\n\n  .productsInfo {\n    line-height: 2rem;\n  }\n\n  /* .offerEl .elementsContainer p {\r\n    font-size:  0.7rem\r\n  } */\n\n  .offerEl .elementsContainer {\n    display: inline-block;\n    width: 20vw;\n    height: 10vw;\n  }\n\n  .offerEl .elementsContainer p {\n    font-size: 0.8rem;\n  }\n\n  /* .emailsList li{\r\n    width: 70%;\r\n    margin: 0 auto\r\n  } */\n\n  .emailsList li {\n    display: inline-block;\n    width: 50%;\n  }\n\n  .emailsInfoComp {\n    padding: 3vw 0;\n  }\n}\n\n@media (min-width: 1000px) {\n  .newsArticle {\n    line-height: 1.6rem;\n  }\n\n  body {\n    width: 95%;\n    margin-left: 5%;\n  }\n\n  .navigation {\n    width: 95%;\n  }\n\n  .arrowLeft {\n    left: 10vw;\n    top: 50%;\n  }\n\n  .arrowRight {\n    top: 50%;\n    right: 5vw;\n  }\n\n  h1.title {\n    font-size: 4rem;\n  }\n\n  .titleName {\n    top: 50%;\n    left: 50%;\n  }\n\n  .aboutCompContainer {\n    /* height: 60vw */\n  }\n\n  .aboutUsInfo,\n  .aboutImg {\n    display: inline-block;\n    /* height: 30vw */\n  }\n\n  .aboutImg {\n    width: 40%;\n    background-size: cover;\n    float: left;\n    height: 100vh;\n  }\n\n  .aboutUsInfo {\n    width: 60%;\n    padding: 0 2vw;\n    height: 100vh;\n  }\n\n  h3 {\n    margin: 2vw 0;\n    font-size: 3rem;\n    line-height: 3rem;\n  }\n\n  .aboutSeeHeader {\n    margin-top: 5vw;\n    margin-bottom: 2vw;\n    /* font-size: 3vw */\n  }\n\n  .aboutSee li {\n    display: inline-block;\n    margin: 0 2vw;\n  }\n\n  .singatureLinks,\n  .singatureInformations {\n    width: 33%;\n  }\n\n  .singatureLinks li,\n  .singatureInformations li,\n  .singatureInvestments li {\n    font-size: 0.8rem;\n  }\n\n  .singatureLinks p,\n  .singatureInformations p,\n  .singatureInvestments p {\n    font-size: 1rem;\n  }\n\n  /* .aboutSee li:first-child{\r\n    margin-left: 6vw;\r\n  }\r\n  .aboutSee li:nth-child(2){\r\n    margin-left: 8vw;\r\n  }\r\n  .aboutSee li:nth-child(3){\r\n    margin-left: 10vw;\r\n  }\r\n  .aboutSee li:nth-child(4){\r\n    margin-left: 12vw;\r\n  } */\n\n  .aboutSee li span {\n    /* width: 3vw */\n  }\n\n  .elAbout {\n    /* font-size: 1.2vw; */\n    line-height: 2vw;\n    /* margin-left: 12vw */\n  }\n\n  .singatureContact {\n    width: 100%;\n    display: block;\n    margin: 5vw 0;\n  }\n\n  .signatureMedia {\n    display: inline-block;\n    margin-left: 5vw;\n  }\n\n  .signatureTitle {\n    width: 10vw;\n    font-size: 3vw;\n    padding-top: 5vw;\n    width: 100%;\n  }\n\n  .signatureContainer {\n    /* margin: 5vw 0  */\n  }\n\n  .finish {\n    margin-top: 2vw;\n  }\n\n  .finish:before {\n    width: 100%;\n  }\n\n  /* NewElementProducts Comp */\n\n  .productsInfo {\n    line-height: 3rem;\n  }\n\n  div.productElement {\n    width: 70vw;\n    margin: 2vw auto;\n    height: 60vh;\n  }\n\n  .newsTitleText {\n    font-size: 5vw;\n    width: 60%;\n    left: 45%;\n  }\n\n  .newsTitleImg {\n    height: 60vh;\n  }\n\n  .offerEl .elementsContainer {\n    display: inline-block;\n    width: 15vw;\n    height: 8vw;\n  }\n\n  .offerEl .elementsContainer p {\n    font-size: 1.1rem;\n  }\n\n  /* Contact Compnent */\n\n  .emailsInfo {\n    font-size: 1.5rem;\n  }\n\n  .emailsInfoComp {\n    padding: 5vw 0;\n  }\n\n  .contactInfo,\n  .iframe {\n    display: inline-block;\n  }\n\n  .contactInfo {\n    width: 40%;\n    float: left;\n    text-align: center;\n  }\n\n  .iframe {\n    width: 60%;\n    margin: 5vh 0;\n  }\n\n  .contactForm form label,\n  .btnSendForm {\n    margin: 2vw auto;\n    width: 40%;\n  }\n\n  .btnSendForm {\n    margin-top: 2vw;\n  }\n\n  .contactForm input,\n  .contactForm textarea {\n    background: white;\n  }\n\n  .newsProductText {\n    font-size: 2rem;\n  }\n}\n\n@media (min-width: 1200px) {\n  /* .sideMenuComp{\r\n    height: 40px;\r\n    left: -85px;\r\n  }\r\n  .sideInfo{\r\n    top: -9vw;\r\n    left: -60vh;\r\n  } */\n\n  .sideText {\n    left: -185px;\n  }\n\n  .sideInfo {\n    left: -180px;\n  }\n\n  /* .productElement:hover > .productsInfo{ \r\n  font-size: 1rem\r\n  } */\n\n  .productsInfo {\n    font-size: 1.8rem;\n  }\n}\n\n@media (min-width: 1300px) {\n  .sideText {\n    left: -190px;\n  }\n\n  .sideInfo {\n    left: -185px;\n  }\n}", ""]);
+exports.push([module.i, "@charset \"UTF-8\";\n\n* {\n  margin: 0;\n  padding: 0;\n  box-sizing: border-box;\n  /* font-family: 'Roboto', sans-serif; */\n  font-family: 'Muli', sans-serif;\n}\n\nbody {\n  min-width: 300px;\n  font-family: 'Roboto', sans-serif;\n  overflow: auto;\n}\n\n.allBody .container {\n  padding-top: 70px;\n}\n\n.allBody {\n  background: white;\n}\n\nhtml {\n  background: #315380;\n}\n\n/* NAVIGATION Component */\n\n.navigation {\n  font-family: 'Roboto', sans-serif;\n  background: #315380;\n  color: #FFFF;\n  width: 100vw;\n  padding: 20px 0;\n  position: fixed;\n  z-index: 2;\n}\n\n.navTitle {\n  /* font-size: 1.2rem; */\n  /* letter-spacing: 0.5em; */\n  /* text-transform: uppercase; */\n  /* font-weight: 400; */\n  display: inline-block;\n  position: relative;\n  /* margin-left: 30px; */\n  color: white;\n  float: left;\n  /* width:40px; */\n  line-height: 35px;\n  margin: 0 5vw;\n  border-radius: 6px;\n}\n\n.navTitle > span {\n  font-size: 1.8rem;\n  margin: 0 5px;\n  display: block;\n  text-transform: uppercase;\n  float: left;\n  /* border-radius:6px; */\n  /* color: white; */\n}\n\n.navTitle:hover {\n  cursor: pointer;\n  animation-name: sideHover;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n  animation-timing-function: ease-in-out;\n}\n\n.addTitleAnimation {\n  animation: text_animation 5s linear 1;\n  -webkit-animation: text_animation 5s linear 1;\n}\n\n.navTitle > .titleLetter0 {\n  animation-delay: 250ms;\n  -webkit-animation-delay: 250ms;\n}\n\n.navTitle > .titleLetter1 {\n  animation-delay: 500ms;\n  -webkit-animation-delay: 500ms;\n}\n\n.navTitle > .titleLetter2 {\n  animation-delay: 750ms;\n  -webkit-animation-delay: 750ms;\n}\n\n.navTitle > .titleLetter3 {\n  animation-delay: 1000ms;\n  -webkit-animation-delay: 1000ms;\n}\n\n.navTitle > .titleLetter4 {\n  animation-delay: 1250ms;\n  -webkit-animation-delay: 1250ms;\n}\n\n.navTitle > .titleLetter5 {\n  animation-delay: 1500ms;\n  -webkit-animation-delay: 1500ms;\n}\n\n.navTitle > .titleLetter6 {\n  animation-delay: 1750ms;\n  -webkit-animation-delay: 1750ms;\n}\n\n.navTitle > .titleLetter7 {\n  animation-delay: 2000ms;\n  -webkit-animation-delay: 2000ms;\n}\n\n@keyframes text_animation {\n  0% {\n    transform: rotate(0);\n  }\n\n  10% {\n    transform: rotate(360deg);\n  }\n\n  100% {\n    transform: rotate(360deg);\n  }\n}\n\n.navOrg {\n  font-size: 0.3em;\n  position: absolute;\n  top: -8px;\n  right: -10px;\n  color: white;\n}\n\n.hamburger {\n  font-size: 2rem;\n  display: inline-block;\n  border: 1px solid grey;\n  width: 40px;\n  height: 2rem;\n  float: right;\n  margin: 0 30px;\n}\n\n.hamburger:hover {\n  cursor: pointer;\n  border: 1px solid #FFFF;\n}\n\n.hamburger span {\n  display: block;\n  border-bottom: 2px solid white;\n  padding: 3px;\n  width: 70%;\n  margin: 0 auto;\n  /* height: 7px */\n  /* font-style: inherit */\n}\n\n.hamburger:nth-child(1) {\n  margin-top: 3.5px;\n}\n\n/* span:nth-child(odd){\r\n  border-bottom: 2px solid #315380\r\n\r\n} */\n\n.hideSpan {\n  animation-name: hideHamSpan;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n}\n\n.showSpan {\n  animation-name: showHamSpan;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n}\n\n.stress {\n  width: 100%;\n  border-bottom: 1px solid grey;\n  display: none;\n}\n\n@keyframes hideHamSpan {\n  0% {\n    border-bottom: 2px solid #FFFF;\n  }\n\n  100% {\n    border-bottom: 2px solid #315380;\n  }\n}\n\n@keyframes showHamSpan {\n  0% {\n    border-bottom: 2px solid #315380;\n  }\n\n  100% {\n    border-bottom: 2px solid #FFFF;\n  }\n}\n\n@media (max-width: 600px) {\n  .navigation p {\n    font-size: 5vw;\n  }\n}\n\n/* ElementNavigation Compo */\n\n.slideMenu {\n  /* padding-bottom: 5vh; */\n  position: fixed;\n  top: 9vh;\n  z-index: 1;\n  background: #315380;\n  width: 100%;\n  display: none;\n}\n\n.showMenu {\n  position: fixed;\n  top: 3vh;\n  left: 50%;\n  z-index: 1;\n  background: #315380;\n  width: 100%;\n  display: block;\n}\n\n.showMenu li {\n  margin-left: 30px;\n  list-style-type: none;\n  /* margin-top: 2vh; */\n  text-transform: uppercase;\n  font-weight: 700;\n  font-size: 15px;\n  display: inline-block;\n}\n\n.elMenu {\n  color: white;\n  text-decoration: none;\n}\n\n.elMenu:hover {\n  animation-name: menuHover;\n  animation-iteration-count: 1;\n  animation-fill-mode: both;\n  animation-duration: 0.3s;\n  animation-timing-function: ease-in-out;\n}\n\n.slideMenu li {\n  margin-left: 30px;\n  list-style-type: none;\n  margin-top: 2vh;\n  text-transform: uppercase;\n  font-weight: 800;\n  font-size: 12px;\n  /* display: inline-block */\n}\n\n.slideMenu li:last-child {\n  padding-bottom: 10vh;\n}\n\n.slideMenu li:first-child {\n  padding-top: 5vh;\n}\n\n.elClickOn {\n  color: red;\n  /* border-bottom: 3px solid #c72e2e */\n  /* border-bottom: 2px solid red */\n}\n\n@keyframes menuHover {\n  0% {\n\n  }\n\n  25% {\n    /* opacity: 0.5 */\n    /* border-bottom: 2px solid grey; */\n  }\n\n  100% {\n    color: grey;\n  }\n}\n\n/* HOME Component*/\n\n/* zastąpione HomeContainer Comp */\n\n/* .homeComp{\r\n  height: 100vh;\r\n  width: 100vw;\r\n  background-size: cover;\r\n  background-repeat: no-repeat;\r\n  background-position: 45% 20%;\r\n} */\n\n@keyframes showImg {\n  0% {\n    opacity: 0;\n  }\n\n  25% {\n    opacity: 0.7;\n  }\n\n  50% {\n    opacity: 1;\n  }\n\n  75% {\n    opacity: 1;\n  }\n\n  100% {\n    opacity: 0;\n  }\n}\n\n/*Title Component */\n\n.titleName {\n  position: absolute;\n  text-align: center;\n  top: 40%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n\nh1.title {\n  font-size: 1.5rem;\n  letter-spacing: 0.4em;\n  text-transform: uppercase;\n  font-weight: 600;\n  color: #315380;\n  text-shadow: 0 0 10px white, 0 0 20px white,\r 0 0 20px white, 0 0 30px white,\r 0 0 40px white;\n  /* animation-name: scaleInfo;\r\n  animation-iteration-count: 3;\r\n  animation-fill-mode: forwards;\r\n  animation-duration: 2s;\r\n  animation-timing-function: ease-in-out */\n}\n\n.titleOrg {\n  font-size: 0.3em;\n  position: absolute;\n  top: 0;\n  right: -10px;\n}\n\n.afterTitle {\n  /* animation-name: showAfterTitle;\r\n  animation-iteration-count: 3;\r\n  animation-fill-mode: forwards;\r\n  animation-duration: 4s;\r\n  animation-timing-function: ease-in-out;  */\n  opacity: 1;\n  color: white;\n  font-size: 1rem;\n  width: 100%;\n  text-transform: uppercase;\n  font-weight: 600;\n  letter-spacing: 0.2em;\n  /* margin-top: 4vw; */\n  /* color: #315380; */\n  /* opacity: 0; */\n  text-shadow: 0 0 5px #A5F1FF, 0 0 10px #A5F1FF,\r 0 0 20px #A5F1FF, 0 0 30px #A5F1FF,\r 0 0 40px #A5F1FF;\n}\n\n@keyframes showAfterTitle {\n  0% {\n    opacity: 1;\n  }\n\n  50% {\n    opacity: 0.1;\n  }\n\n  75% {\n\n  }\n\n  100% {\n    opacity: 1;\n    /* transform: scale(1.1); */\n  }\n}\n\n@keyframes scaleInfo {\n  0% {\n    opacity: 1;\n  }\n\n  100% {\n    /* color: white; */\n    opacity: 0;\n  }\n}\n\n/* .titleName:before, .titleName:after { \r\n  content: \"\"; \r\n  display: table; \r\n  clear: both; }\r\n */\n\n/*AboutUs Component */\n\n.aboutComp {\n  height: 100%;\n  width: 100%;\n  /* margin: 10vw auto; */\n  /* margin: 0 auto; */\n  /* margin-top: 10vw; */\n  /* margin-bottom: 10vw; */\n}\n\n.aboutCompContainer {\n  width: 90%;\n  margin: 0 auto;\n  margin-top: 10vh;\n  background: white;\n}\n\n.aboutImg {\n  background: url(" + escape(__webpack_require__(58)) + ");\n  height: 50vh;\n  background-repeat: no-repeat;\n  background-position: 45% 85%;\n  /* width: 100%; */\n  background-size: cover;\n  /* background-repeat: no-repeat; */\n  margin: 0 auto;\n}\n\n.aboutUsInfo {\n  line-height: 1.7rem;\n  font-size: 0.9rem;\n  /* padding-bottom: 5vw; */\n  /* margin-bottom: 5vw; */\n}\n\n.aboutUsInfo p {\n  padding: 10px 0;\n}\n\nh3 {\n  margin: 8vw auto;\n  font-weight: 100;\n  text-transform: uppercase;\n  font-size: 2rem;\n}\n\n.aboutBold {\n  font-weight: 700;\n}\n\n.aboutBorder {\n  display: block;\n  width: 30%;\n  height: 2vw;\n  border-bottom: 10px solid #315380;\n  margin: 5vh auto;\n  background: white;\n}\n\n/* ForwardNavigation Component */\n\n.aboutSee {\n  font-size: 1.6rem;\n  font-weight: 700;\n  padding-bottom: 5vw;\n  background: white;\n}\n\n.aboutSeeHeader {\n  margin-bottom: 5vw;\n}\n\n.elAbout {\n  color: red;\n  list-style-type: none;\n  text-transform: uppercase;\n  text-decoration: none;\n  margin-left: 70px;\n  font-size: 0.8rem;\n  font-weight: 600;\n}\n\n.aboutSee li span {\n  display: inline-block;\n  position: absolute;\n  top: 55%;\n  left: 0;\n  width: 50px;\n  height: 1px;\n  background: grey;\n  transition: 1s;\n}\n\n.aboutSee ul li {\n  display: block;\n  position: relative;\n  text-decoration: none;\n  list-style-type: none;\n  /* display: inline-block */\n}\n\n.aboutSee li:hover > span {\n  cursor: pointer;\n  transform: rotate(-45deg);\n}\n\n/* .aboutSee li::before{\r\n  content: '';\r\n  position: absolute;\r\n  top: 50%;\r\n  left: 0;\r\n  width: 40px;\r\n  height: 1px;\r\n  background: #000;\r\n} */\n\n/*ArrowSlider Component */\n\n.fa-chevron-right,\n.fa-chevron-left {\n  color: white;\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  /* font-size: 1.2rem */\n}\n\n.fa-chevron-right:hover,\n.fa-chevron-left:hover {\n  font-size: 1.7rem;\n  cursor: pointer;\n}\n\n.arrowRight,\n.arrowLeft {\n  position: absolute;\n  background: rgba(61, 57, 57, 0.4);\n  height: 40px;\n  width: 40px;\n}\n\n.arrowRight {\n  right: 0vw;\n  bottom: 8vh;\n}\n\n.arrowLeft {\n  left: 0vw;\n  bottom: 8vh;\n}\n\n.arrowInfo {\n  width: 60vw;\n  position: absolute;\n  bottom: 3vh;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  margin: 0 auto;\n  text-align: center;\n}\n\n.arrowInfo .arrowSpan {\n  width: 30px;\n  height: 5px;\n  display: inline-block;\n  margin: 0 2vw;\n  border-bottom: 1px solid white;\n}\n\n.spanActive {\n  background: white;\n}\n\n/* SIGNATURE Comp */\n\n.signatureComp {\n  width: 100%;\n  background: #000;\n  color: #FFF;\n}\n\n.signatureContainer {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.signatureTitle {\n  padding-top: 10vw;\n  font-size: 1.5rem;\n  text-align: center;\n  letter-spacing: 0.5em;\n  text-transform: uppercase;\n  font-weight: 400;\n  color: white;\n}\n\n.signatureInfo {\n  color: grey;\n  margin-top: 20px;\n  font-size: 0.8rem;\n  line-height: 25px;\n  width: 100%;\n  text-align: center;\n}\n\n/* SinatureContact Component */\n\n.singatureContact {\n  margin: 7vh auto;\n  text-align: center;\n}\n\n.signatureMedia {\n  margin: 4vh auto;\n}\n\n.signatureSpan {\n  display: inline-block;\n  width: 50px;\n  height: 1px;\n  background: #FFF;\n  border-bottom: 4px solid black;\n  padding-bottom: 2px;\n  transition: 1s;\n}\n\n.signatureMedia p {\n  display: inline-block;\n  margin: 0 20px;\n  text-transform: uppercase;\n  color: red;\n  font-weight: 700;\n  font-size: 0.9rem;\n}\n\n.signatureMedia ul {\n  margin-top: 1vh;\n}\n\n.signatureMedia li {\n  margin: 1vh auto;\n  font-weight: 500;\n  list-style-type: none;\n  font-size: 0.7rem;\n}\n\n.signatureMedia:hover > .signatureSpan {\n  /* cursor: pointer; */\n  transform: rotate(-45deg);\n  /* transform: scaleX(1.2); */\n}\n\n.signatureLinks,\n.singatureInformations,\n.signatureInvestments {\n  color: white;\n}\n\n.signatureLinks ul,\n.signatureInformations ul,\n.signatureInvestments ul {\n  list-style-type: none;\n}\n\n.signatureLinks li,\n.signatureInformations li,\n.signatureInvestments li {\n  margin: 4vh auto;\n  text-align: center;\n  color: grey;\n  cursor: pointer;\n  line-height: 0.1rem;\n  font-size: 0.5rem;\n}\n\n.signatureLinks p,\n.signatureInformations p,\n.signatureInvestments p {\n  text-align: center;\n  text-transform: uppercase;\n  font-weight: 700;\n  font-size: 0.7rem;\n}\n\n.signatureLinks,\n.signatureInformations,\n.signatureInvestments {\n  width: 33%;\n  display: inline-block;\n}\n\np.signatureLogo {\n  font-size: 2rem;\n}\n\n.finish {\n  width: 90%;\n  margin: 0 auto;\n  font-size: 8px;\n  padding-bottom: 2vh;\n  position: relative;\n}\n\n.finish:before {\n  content: '';\n  display: block;\n  border: 1px solid grey;\n  width: 90%;\n  margin-bottom: 5px;\n}\n\n.finish a {\n  color: white;\n  text-decoration: none;\n  cursor: pointer;\n}\n\n.finish a:hover {\n  color: red;\n}\n\n.top {\n  color: #315380;\n  font-size: 4vh;\n  transform: rotate(-90deg);\n  position: absolute;\n  bottom: 3vh;\n  right: 5vw;\n  cursor: pointer;\n  animation-name: pulse;\n  animation-duration: 1s;\n  animation-iteration-count: infinite;\n  animation-timing-function: linear;\n}\n\n@keyframes pulse {\n  0% {\n    /* transform: rotate(-90deg); */\n  }\n\n  50% {\n    /* transform: rotate(-80deg); */\n    bottom: 4vh;\n  }\n\n  100% {\n    /* transform: rotate(-90deg); */\n    bottom: 3vh;\n  }\n}\n\n/*Social Media Component */\n\n.twitter,\n.facebook,\n.instagram,\n.youtube,\n.linkedin {\n  display: inline-block;\n  transform: rotate(90deg);\n  color: #315380;\n  float: right;\n  width: 25px;\n  height: 25px;\n  /* border: 1px solid white; */\n  margin-left: 0.5vw;\n  cursor: pointer;\n  border-radius: 30%;\n}\n\n.footer:before,\n.footer:after {\n  content: \"\";\n  display: table;\n  clear: both;\n}\n\n.twitter {\n  background: url(" + escape(__webpack_require__(59)) + ");\n  background-size: contain;\n}\n\n.twitter:hover {\n  background: url(" + escape(__webpack_require__(60)) + ");\n  background-size: contain;\n}\n\n.facebook {\n  background: url(" + escape(__webpack_require__(61)) + ");\n  background-size: contain;\n}\n\n.facebook:hover {\n  background: url(" + escape(__webpack_require__(62)) + ");\n  background-size: contain;\n}\n\n.instagram {\n  background: url(" + escape(__webpack_require__(63)) + ");\n  background-size: contain;\n}\n\n.instagram:hover {\n  background: url(" + escape(__webpack_require__(64)) + ");\n  background-size: contain;\n}\n\n.youtube {\n  background: url(" + escape(__webpack_require__(65)) + ") center;\n  background-size: contain;\n}\n\n.youtube:hover {\n  background: url(" + escape(__webpack_require__(66)) + ") center;\n  background-size: contain;\n}\n\n.linkedin {\n  background: url(" + escape(__webpack_require__(67)) + ") center;\n  background-size: contain;\n}\n\n.linkedin:hover {\n  background: url(" + escape(__webpack_require__(68)) + ") center;\n  background-size: contain;\n}\n\n.socialMedia {\n  width: 100%;\n  text-align: center;\n  margin: 15vw 0;\n}\n\n/* .sizeForSocial{\r\n  margin: 0 10px;\r\n  font-size: 30px;\r\n  cursor: pointer\r\n}\r\n.sizeForSocial:hover{\r\n  color: red\r\n} */\n\n/* NotFound Component */\n\n.notFoundComp {\n  height: 100vh;\n  width: 100%;\n  background: url(" + escape(__webpack_require__(69)) + ");\n  background-size: cover;\n  /* background-repeat: no-repeat; */\n  background-repeat: no-repeat;\n  background-position: center;\n  position: relative;\n}\n\n.notFoundText {\n  position: absolute;\n  top: 80%;\n  left: 50%;\n  width: 80%;\n  font-size: 0.7rem;\n  text-align: center;\n  transform: translate(-50%, -50%);\n}\n\n.notFoundForward {\n  position: absolute;\n  top: 90%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  background: red;\n  padding: 10px 20px;\n  background: #315380;\n  color: white;\n  border: 2px solid #315380;\n  cursor: pointer;\n  border-radius: 50px 50px;\n}\n\n.notFoundForward:hover {\n  background: white;\n  color: black;\n}\n\n/*--------------------NEWS-------- /*\r\n /* News Component */\n\n.newsComp {\n  background: white;\n  color: black;\n  height: 100%;\n  width: 100%;\n  position: relative;\n}\n\n.newsComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.newsPage {\n  width: 100%;\n  text-align: center;\n  padding: 5vh 0;\n}\n\n.newsPage li {\n  font-size: 0.7rem;\n  list-style-type: none;\n  display: inline-block;\n  /* border: 1px solid black; */\n  padding: 5px;\n  margin: 5px;\n  border-radius: 5px;\n}\n\n.newsPage li:hover {\n  cursor: pointer;\n  color: white;\n  background: #315380;\n  /* border: 1px solid #315380 */\n}\n\n.newsPage ul li:last-child,\n.newsPage ul li:first-child {\n  border: 1px solid black;\n}\n\n/* NewsElementsInfo Component */\n\n.newsElement {\n  /* border: 5px solid #eee; */\n  /* padding:10px; */\n  margin-bottom: 7vh;\n}\n\n.newsImg {\n  background-size: cover;\n  background-repeat: no-repeat;\n  height: 200px;\n  width: 100%;\n}\n\n.newsTitle {\n  margin: 5vw 0;\n  font-weight: 100;\n  font-size: 30px;\n  text-transform: uppercase;\n}\n\n.newsArticle {\n  border-left: 10px solid #eee;\n  padding-left: 10px;\n  margin: 6vw 0;\n}\n\n.newsButton {\n  background: transparent;\n  color: black;\n  padding: 10px 20px;\n  border: 1px solid black;\n  font-weight: 700;\n  cursor: pointer;\n  /* border-radius: 10px */\n}\n\n.newsButton:hover {\n  /* color: #315380;\r\n  border: 1px solid #315380; */\n  color: white;\n  background: #315380;\n  border: 1px solid #315380;\n}\n\n.newsBold {\n  font-weight: 700;\n  padding: 0 10px;\n}\n\n.newsButton .fas {\n  color: #315380;\n  margin-left: 5px;\n}\n\n.newsButton:hover > i {\n  color: white;\n}\n\n/* HeaderCompImg Component */\n\n.newsTitleImg {\n  background-size: contain;\n  background-repeat: no-repeat;\n  /* height: 50vh; */\n  width: 100%;\n  height: 45vh;\n  /* animation-name: showImg;\r\n  animation-duration: 3s;\r\n  animation-iteration-count: 1;\r\n  animation-timing-function: linear; */\n  padding-top: 70px;\n}\n\n.newsContainerTitle {\n  position: relative;\n}\n\n.newsTitleText {\n  color: white;\n  width: 90%;\n  font-size: 10vw;\n  text-transform: uppercase;\n  position: absolute;\n  top: 60%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  /* font-weight: 700 */\n}\n\n.titleSpan {\n  display: inline-block;\n  /* width: 10vw; */\n}\n\n.titleBorder {\n  border-bottom: 10px solid #315380;\n  font-weight: 100;\n}\n\n.titleWhite {\n  font-weight: 700;\n  margin-top: 10px;\n  margin-left: 50px;\n}\n\n.shadow {\n  animation-name: shadowKeyframes;\n  animation-iteration-count: 1;\n  animation-fill-mode: backwards;\n  animation-duration: 0.5s;\n  animation-delay: 1s;\n}\n\n@keyframes shadowKeyframes {\n  0% {\n\n  }\n\n  50% {\n    text-shadow: 0 0 5px white, 0 0 10px white,\r 0 0 20px white, 0 0 30px white,\r 0 0 40px white;\n    /* color: #315380 */\n  }\n\n  100% {\n\n  }\n}\n\n/* ForwardInfo Component */\n\n.forwardInfo {\n  height: 20vh;\n  margin: 0 auto;\n  position: relative;\n  text-align: left;\n  background: white;\n}\n\n.navForward {\n  display: inline-block;\n}\n\n.navForward:hover .spanForward {\n  cursor: pointer;\n  transform: rotate(-45deg);\n}\n\n.textForward {\n  position: absolute;\n  width: 100%;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n\n.spanForward {\n  display: inline-block;\n  transition: 1s;\n  width: 40px;\n  /* background: red; */\n  height: 5px;\n  border-top: 2px solid grey;\n}\n\n.navForwardText {\n  text-transform: uppercase;\n  font-size: 0.8rem;\n  margin: 0 20px;\n  color: red;\n  font-weight: 700;\n  cursor: pointer;\n}\n\n.active {\n  color: #315380;\n  /* color: red; */\n  font-weight: 700;\n  cursor: default;\n}\n\n.linkForward {\n  text-decoration: none;\n}\n\n/*Products Component */\n\n.productsComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.productsComp {\n  width: 100%;\n  margin: 0 auto;\n  background: white;\n}\n\n/* NewsElementProducts Component */\n\n.newsProductText {\n  position: absolute;\n  bottom: 20%;\n  margin-left: 20px;\n  text-transform: uppercase;\n  color: #315380;\n  font-weight: 700;\n  font-size: 1.5rem;\n  z-index: 1;\n}\n\n.productElement:hover > .newsProductText {\n  /* transform: scale(1.2); */\n  animation-name: scaleInfo;\n  animation-iteration-count: 1;\n  animation-fill-mode: forwards;\n  animation-duration: 1s;\n  animation-timing-function: ease-in-out;\n}\n\n.productsComp .productsEl {\n  display: flex;\n  flex-direction: column;\n}\n\n.productsInfo {\n  opacity: 0;\n  position: absolute;\n  top: 0%;\n  left: 0;\n  padding: 20px;\n  color: #315380;\n  background: white;\n  text-align: center;\n  margin: 0 auto;\n  color: #315380;\n  font-size: 5vw;\n  /* padding-top: 10% */\n}\n\n.productElement:hover > .productsInfo {\n  opacity: 0.8;\n  transition: 1s;\n  /* transform: translate3d(0,0, 30%); */\n  transform: translate(0px, 0px);\n  height: 100%;\n  width: 100%;\n}\n\n/* Offer Compononent */\n\n.offerComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n.offerComp {\n  width: 100%;\n  margin: 0 auto;\n  background: white;\n}\n\n.offerEl {\n  text-align: center;\n  display: flex;\n  flex-direction: row;\n  justify-content: space-around;\n  flex-wrap: wrap;\n  margin-bottom: 5vh;\n}\n\n.offerEl .elementsContainer {\n  border: 1px solid black;\n  width: 40vw;\n  height: 20vw;\n  margin: 2vw;\n  font-size: 0.7rem;\n  text-align: center;\n  color: black;\n  position: relative;\n  cursor: pointer;\n}\n\n.offerElementsTitle {\n  width: 100%;\n  height: 20%;\n  font-size: 3vw;\n  position: absolute;\n  bottom: 0;\n  text-align: center;\n  color: white;\n  background: black;\n}\n\n/*Conact Component */\n\n.contactComp .container {\n  width: 90%;\n  margin: 0 auto;\n}\n\n/*Contact Data Component*/\n\n.contactInfo {\n  text-align: center;\n  background: white;\n  color: #70747e;\n}\n\n.iframeMap {\n  height: 70vh;\n}\n\n.iframeMap {\n  width: 100%;\n  height: 70vh;\n}\n\n.contactComp {\n  background: white;\n  width: 100%;\n  margin: 0 auto;\n}\n\nh4 {\n  color: black;\n  font-size: 1.5rem;\n  margin: 20px 0;\n}\n\n.contactInfo ul {\n  margin: 10px 0;\n  font-weight: 700;\n  list-style-type: none;\n}\n\n.contactInfo li {\n  font-size: 1rem;\n  line-height: 1.4rem;\n  font-weight: 500;\n}\n\n/* .contactInfo li a{\r\n  color: #315380\r\n}\r\n.contactInfo li .bold{\r\n  font-weight: 600;\r\n  color: black\r\n} */\n\n.sizeForContact {\n  margin: 0 10px;\n  font-size: 20px;\n  cursor: pointer;\n}\n\n.sizeForContact:hover {\n  color: #315380;\n}\n\n/* EmailsInfo Component*/\n\n.emailsInfoComp {\n  background: #f8f9fc;\n}\n\n.emailsImg {\n  display: inline-block;\n  width: 30%;\n  text-align: right;\n}\n\n.emailsInfo {\n  display: inline-block;\n  width: 70%;\n  font-size: 1.1rem;\n  text-align: left;\n}\n\n.emailsList {\n  list-style-type: none;\n}\n\n.sizeForEmail {\n  margin: 0 10px;\n  font-size: 50px;\n  cursor: pointer;\n  color: #315380;\n}\n\n.emailsInfoAddress {\n  display: block;\n  font-size: 0.9rem;\n  color: #337ab7;\n}\n\nul.emailsList li {\n  padding: 30px 0;\n}\n\n/* ContactForm Component */\n\n.contactForm {\n  background: #f7f7f7;\n  /* background: url(\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcY3LYt2839TZmKUiNXf-E--K4MIPp1oqI6sQsciLNuXuE6sVo\"); */\n  background: url(\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVoCbN7swfL7jK0hAsg8Y_5GbZOKBJeU-QV4Z1kUprdKgxkOdX\");\n  /* background: url(\"https://www.heuristic.pl/img/blog/ecommerce/_big/zdjecie_jest_istotne.jpg\"); */\n  background-size: cover;\n  background-image: linear-gradient(to right top, #4283c9, #518ace, #5f91d4, #6b98d9, #779fdf, #76a6e0, #77ace0, #7ab2df, #7cb8d6, #87bccc, #96bec4, #a7c0bf);\n  nd-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);\n  background-image: linear-gradient(to right top, #6b717a, #627793, #567dac, #4282c6, #1588e0);\n  background-image: radial-gradient(circle, #4867d5, #496dc8, #5071b9, #5974a9, #647799, #73829c, #828c9e, #9197a1, #a8aeb8, #bfc5cf, #d7dde7, #f0f6ff);\n  background: url(" + escape(__webpack_require__(70)) + ");\n  opacity: 0.7;\n}\n\nform {\n  width: 90%;\n  padding: 7vh 0;\n  margin: 0 auto;\n  font-weight: 700;\n  font-size: 0.9rem;\n}\n\n.contactForm label {\n  display: block;\n  margin-bottom: 25px;\n  color: black;\n}\n\n.contactForm input,\n.contactForm textarea {\n  display: block;\n  width: 100%;\n  background: white;\n  border: 2px solid rgba(255, 255, 255, 0.342);\n  padding: 2vh 0;\n  border-radius: 10px;\n  margin-top: 10px;\n  color: black;\n  padding-left: 10px;\n}\n\n.contactForm input:focus,\n.contactForm textarea:focus {\n  border: 3px solid white;\n}\n\n.btnSendForm {\n  display: block;\n  width: 100%;\n  color: black;\n  text-transform: uppercase;\n  border-radius: 10px;\n  background: white;\n  border: 1px solid rgba(255, 255, 255, 0.342);\n}\n\n.contactForm textarea {\n  resize: none;\n}\n\n/* SizeMenu Component */\n\n.sideMenuComp {\n  position: fixed;\n}\n\n.sideText {\n  position: absolute;\n  width: 300px;\n  background: #315380;\n  color: white;\n  letter-spacing: 5px;\n  font-size: 0.7rem;\n  padding: 5px;\n  top: 215px;\n  left: -180px;\n  text-align: center;\n  transform: rotate(-90deg);\n  text-transform: uppercase;\n  border-left: 2px solid grey;\n  border-right: 2px solid grey;\n}\n\n.afterTitle {\n  animation-name: showAfterTitle;\n  animation-iteration-count: infinite;\n  animation-fill-mode: forwards;\n  animation-duration: 3s;\n  animation-timing-function: ease-in-out;\n}\n\n@keyframes sideHover {\n  0% {\n\n  }\n\n  25% {\n    /* opacity: 0.5 */\n    color: grey;\n    /* border-bottom: 2px solid grey; */\n  }\n\n  75% {\n\n  }\n}\n\n.sideInfo {\n  position: absolute;\n  width: 300px;\n  background: #315380;\n  color: white;\n  padding: 5px;\n  top: 80vh;\n  left: -180px;\n  text-align: center;\n  transform: rotate(-90deg);\n  text-transform: uppercase;\n}\n\n.sideMenuComp .sideInfo .socialMedia {\n  margin: 0 auto;\n}\n\n.sideMenuComp .sideInfo i {\n  transform: rotate(90deg);\n  font-size: 1.2rem;\n}\n\n/* MEDIA */\n\n@media (min-width: 500px) {\n  .newsImg,\n  .newsText {\n    /* float: left; */\n    display: inline-block;\n    height: 35vh;\n    margin: 0 auto;\n  }\n\n  .newsImg {\n    width: 40%;\n    float: left;\n  }\n\n  .newsText {\n    width: 60%;\n    padding-left: 3vw;\n  }\n\n  .newsArticle {\n    padding-left: 30px;\n    line-height: 1.1rem;\n  }\n\n  .newsTitle {\n    margin: 1vw auto;\n  }\n\n  .newsArticle {\n    margin: 2vw 0;\n  }\n\n  .productsInfo {\n    font-size: 1.2rem;\n  }\n\n  .newsTitleText {\n    font-size: 9vw;\n  }\n\n  .offerEl {\n    display: flex;\n    display: inline-block;\n    flex-direction: column;\n    justify-content: space-around;\n    flex-wrap: wrap;\n    margin-bottom: 5vh;\n  }\n\n  .offerEl .elementsContainer {\n    display: inline-block;\n    width: 30vw;\n    height: 15vw;\n  }\n\n  .offerEl .elementsContainer p {\n    font-size: 0.8rem;\n  }\n\n  .signatureLinks li,\n  .signatureInformations li,\n  .signatureInvestments li {\n    font-size: 0.7rem;\n  }\n\n  .signatureLinks p,\n  .signatureInformations p,\n  .signatureInvestments p {\n    font-size: 0.9rem;\n  }\n}\n\n@media (min-width: 600px) {\n  .newsArticle {\n    line-height: 1.3rem;\n  }\n\n  .productsInfo {\n    font-size: 1.5rem;\n  }\n\n  .newsTitleText {\n    font-size: 7vw;\n  }\n\n  .productsInfo {\n    line-height: 2rem;\n  }\n\n  /* .offerEl .elementsContainer p {\r\n    font-size:  0.7rem\r\n  } */\n\n  .offerEl .elementsContainer {\n    display: inline-block;\n    width: 20vw;\n    height: 10vw;\n  }\n\n  .offerEl .elementsContainer p {\n    font-size: 0.8rem;\n  }\n\n  /* .emailsList li{\r\n    width: 70%;\r\n    margin: 0 auto\r\n  } */\n\n  .emailsList li {\n    display: inline-block;\n    width: 50%;\n    text-align: center;\n  }\n\n  .emailsInfoComp {\n    padding: 3vw 0;\n  }\n}\n\n@media (min-width: 1000px) {\n  .newsArticle {\n    line-height: 1.6rem;\n  }\n\n  body {\n    width: 95%;\n    margin-left: 5%;\n  }\n\n  .navigation {\n    width: 95%;\n  }\n\n  .arrowLeft {\n    left: 10vw;\n    top: 50%;\n  }\n\n  .arrowRight {\n    top: 50%;\n    right: 5vw;\n  }\n\n  h1.title {\n    font-size: 4rem;\n  }\n\n  .titleName {\n    top: 50%;\n    left: 50%;\n  }\n\n  .aboutCompContainer {\n    /* height: 60vw */\n  }\n\n  .aboutUsInfo,\n  .aboutImg {\n    display: inline-block;\n    /* height: 30vw */\n  }\n\n  .aboutImg {\n    width: 40%;\n    background-size: cover;\n    float: left;\n    height: 100vh;\n  }\n\n  .aboutUsInfo {\n    width: 60%;\n    padding: 0 2vw;\n    height: 100vh;\n  }\n\n  h3 {\n    margin: 2vw 0;\n    font-size: 3rem;\n    line-height: 3rem;\n  }\n\n  .aboutSeeHeader {\n    margin-top: 5vw;\n    margin-bottom: 2vw;\n    /* font-size: 3vw */\n  }\n\n  .aboutSee li {\n    display: inline-block;\n    margin: 0 2vw;\n  }\n\n  .signatureLinks,\n  .signatureInformations {\n    width: 33%;\n  }\n\n  .signatureLinks li,\n  .signatureInformations li,\n  .signatureInvestments li {\n    font-size: 0.8rem;\n  }\n\n  .signatureLinks p,\n  .signatureInformations p,\n  .signatureInvestments p {\n    font-size: 1rem;\n  }\n\n  /* .aboutSee li:first-child{\r\n    margin-left: 6vw;\r\n  }\r\n  .aboutSee li:nth-child(2){\r\n    margin-left: 8vw;\r\n  }\r\n  .aboutSee li:nth-child(3){\r\n    margin-left: 10vw;\r\n  }\r\n  .aboutSee li:nth-child(4){\r\n    margin-left: 12vw;\r\n  } */\n\n  .aboutSee li span {\n    /* width: 3vw */\n  }\n\n  .elAbout {\n    /* font-size: 1.2vw; */\n    line-height: 2vw;\n    /* margin-left: 12vw */\n  }\n\n  .singatureContact {\n    width: 100%;\n    display: block;\n    margin: 5vw 0;\n  }\n\n  .signatureMedia {\n    display: inline-block;\n    margin-left: 5vw;\n  }\n\n  .signatureTitle {\n    width: 10vw;\n    font-size: 3vw;\n    padding-top: 5vw;\n    width: 100%;\n  }\n\n  .signatureContainer {\n    /* margin: 5vw 0  */\n  }\n\n  .finish {\n    margin-top: 2vw;\n  }\n\n  .finish:before {\n    width: 100%;\n  }\n\n  /* NewElementProducts Comp */\n\n  .productsInfo {\n    line-height: 3rem;\n  }\n\n  div.productElement {\n    width: 70vw;\n    margin: 2vw auto;\n    height: 60vh;\n  }\n\n  .newsTitleText {\n    font-size: 5vw;\n    width: 60%;\n    left: 45%;\n  }\n\n  .newsTitleImg {\n    height: 60vh;\n  }\n\n  .offerEl .elementsContainer {\n    display: inline-block;\n    width: 15vw;\n    height: 8vw;\n  }\n\n  .offerEl .elementsContainer p {\n    font-size: 1.1rem;\n  }\n\n  /* Contact Compnent */\n\n  .emailsInfo {\n    font-size: 1.5rem;\n  }\n\n  .emailsInfoComp {\n    padding: 5vw 0;\n  }\n\n  /* Concact Component */\n\n  .iframeData {\n    position: relative;\n  }\n\n  .contactInfo {\n    position: absolute;\n    top: 10vh;\n    right: 10vw;\n    padding: 5vh 3vw;\n    text-align: left;\n  }\n\n  /* .contactInfo, .iframe {\r\n  display: inline-block;\r\n} */\n\n  /* .contactInfo{\r\n  width: 40%;\r\n  float: left;\r\n  text-align: center\r\n} */\n\n  /* .iframe{\r\n  width: 60%;\r\n  margin: 5vh 0\r\n} */\n\n  .contactForm form label,\n  .btnSendForm {\n    margin: 2vw auto;\n    width: 40%;\n  }\n\n  .btnSendForm {\n    margin-top: 2vw;\n  }\n\n  .contactForm input,\n  .contactForm textarea {\n    background: white;\n  }\n\n  .newsProductText {\n    font-size: 2rem;\n  }\n}\n\n@media (min-width: 1200px) {\n  /* .sideMenuComp{\r\n    height: 40px;\r\n    left: -85px;\r\n  }\r\n  .sideInfo{\r\n    top: -9vw;\r\n    left: -60vh;\r\n  } */\n\n  .sideText {\n    left: -185px;\n  }\n\n  .sideInfo {\n    left: -185px;\n  }\n\n  /* .productElement:hover > .productsInfo{ \r\n  font-size: 1rem\r\n  } */\n\n  .productsInfo {\n    font-size: 1.8rem;\n  }\n}\n\n@media (min-width: 1300px) {\n  .sideText {\n    left: -190px;\n  }\n\n  .sideInfo {\n    left: -190px;\n  }\n}", ""]);
 
 // exports
 
 
 /***/ }),
-/* 58 */
+/* 57 */
 /***/ (function(module, exports) {
 
 module.exports = function escape(url) {
@@ -26087,19 +25971,85 @@ module.exports = function escape(url) {
 
 
 /***/ }),
-/* 59 */
+/* 58 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "cf6c21db49629e7198ab061bfabd8384.jpg";
 
 /***/ }),
+/* 59 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "f432fcb8ed67684f3c7d14e1082f9751.png";
+
+/***/ }),
 /* 60 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "ee2f8cf3d13ad9b6bfbffbb5f286a1de.png";
+
+/***/ }),
+/* 61 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "f4071717a1ce38df01d445e151a51cee.png";
+
+/***/ }),
+/* 62 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "57badc47ca066c4d00e00ece2dd9ecc1.png";
+
+/***/ }),
+/* 63 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "dc6af54a0cffd14eab42aaee8586d27d.png";
+
+/***/ }),
+/* 64 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "aa8bfa23c113e5c7c154d829c9db1512.png";
+
+/***/ }),
+/* 65 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "8b43a5804beb2e257da181550f21426a.png";
+
+/***/ }),
+/* 66 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "6d6945120e4c8d6e190cfc4eba23c4e7.png";
+
+/***/ }),
+/* 67 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "fe5ea7032f0355ae985f6fb3fdede72a.png";
+
+/***/ }),
+/* 68 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "1f8997c30068db892067712a4ae39f8a.png";
+
+/***/ }),
+/* 69 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "68791595022c03f04170fdf954d541dd.jpg";
 
 /***/ }),
-/* 61 */
+/* 70 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "3f5ee8d3ff6514341269ac47bcdf2336.jpg";
+
+/***/ }),
+/* 71 */
 /***/ (function(module, exports) {
 
 
@@ -26194,7 +26144,7 @@ module.exports = function (css) {
 
 
 /***/ }),
-/* 62 */
+/* 72 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26212,29 +26162,29 @@ var _react2 = _interopRequireDefault(_react);
 
 var _reactRouterDom = __webpack_require__(6);
 
-var _Navigation = __webpack_require__(88);
+var _Navigation = __webpack_require__(98);
 
 var _Navigation2 = _interopRequireDefault(_Navigation);
 
 var _Home = __webpack_require__(8);
 
-var _News = __webpack_require__(111);
+var _News = __webpack_require__(123);
 
 var _News2 = _interopRequireDefault(_News);
 
-var _Products = __webpack_require__(115);
+var _Products = __webpack_require__(127);
 
 var _Products2 = _interopRequireDefault(_Products);
 
-var _Offer = __webpack_require__(124);
+var _Offer = __webpack_require__(136);
 
 var _Offer2 = _interopRequireDefault(_Offer);
 
-var _Contact = __webpack_require__(153);
+var _Contact = __webpack_require__(165);
 
 var _Contact2 = _interopRequireDefault(_Contact);
 
-var _NotFound = __webpack_require__(158);
+var _NotFound = __webpack_require__(170);
 
 var _NotFound2 = _interopRequireDefault(_NotFound);
 
@@ -26305,7 +26255,7 @@ exports.default = Website;
                            <Route path='/contact'component={Contact} /> */}
 
 /***/ }),
-/* 63 */
+/* 73 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -26371,7 +26321,7 @@ BrowserRouter.propTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (BrowserRouter);
 
 /***/ }),
-/* 64 */
+/* 74 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26934,7 +26884,7 @@ module.exports = function(isValidElement, throwOnDirectAccess) {
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(1)))
 
 /***/ }),
-/* 65 */
+/* 75 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27000,7 +26950,7 @@ module.exports = function() {
 
 
 /***/ }),
-/* 66 */
+/* 76 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27304,7 +27254,7 @@ var createBrowserHistory = function createBrowserHistory() {
 /* harmony default export */ __webpack_exports__["a"] = (createBrowserHistory);
 
 /***/ }),
-/* 67 */
+/* 77 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27380,7 +27330,7 @@ function resolvePathname(to) {
 /* harmony default export */ __webpack_exports__["a"] = (resolvePathname);
 
 /***/ }),
-/* 68 */
+/* 78 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27424,7 +27374,7 @@ function valueEqual(a, b) {
 /* harmony default export */ __webpack_exports__["a"] = (valueEqual);
 
 /***/ }),
-/* 69 */
+/* 79 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27745,7 +27695,7 @@ var createHashHistory = function createHashHistory() {
 /* harmony default export */ __webpack_exports__["a"] = (createHashHistory);
 
 /***/ }),
-/* 70 */
+/* 80 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27913,7 +27863,7 @@ var createMemoryHistory = function createMemoryHistory() {
 /* harmony default export */ __webpack_exports__["a"] = (createMemoryHistory);
 
 /***/ }),
-/* 71 */
+/* 81 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -27978,18 +27928,18 @@ HashRouter.propTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (HashRouter);
 
 /***/ }),
-/* 72 */
+/* 82 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_MemoryRouter__ = __webpack_require__(73);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_MemoryRouter__ = __webpack_require__(83);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_MemoryRouter__["a" /* default */]);
 
 /***/ }),
-/* 73 */
+/* 83 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28055,7 +28005,7 @@ MemoryRouter.propTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (MemoryRouter);
 
 /***/ }),
-/* 74 */
+/* 84 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28141,7 +28091,7 @@ NavLink.defaultProps = {
 /* harmony default export */ __webpack_exports__["a"] = (NavLink);
 
 /***/ }),
-/* 75 */
+/* 85 */
 /***/ (function(module, exports) {
 
 module.exports = Array.isArray || function (arr) {
@@ -28150,18 +28100,18 @@ module.exports = Array.isArray || function (arr) {
 
 
 /***/ }),
-/* 76 */
+/* 86 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Prompt__ = __webpack_require__(77);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Prompt__ = __webpack_require__(87);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_Prompt__["a" /* default */]);
 
 /***/ }),
-/* 77 */
+/* 87 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28252,18 +28202,18 @@ Prompt.contextTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (Prompt);
 
 /***/ }),
-/* 78 */
+/* 88 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Redirect__ = __webpack_require__(79);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Redirect__ = __webpack_require__(89);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_Redirect__["a" /* default */]);
 
 /***/ }),
-/* 79 */
+/* 89 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28392,18 +28342,18 @@ Redirect.contextTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (Redirect);
 
 /***/ }),
-/* 80 */
+/* 90 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_StaticRouter__ = __webpack_require__(81);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_StaticRouter__ = __webpack_require__(91);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_StaticRouter__["a" /* default */]);
 
 /***/ }),
-/* 81 */
+/* 91 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28569,18 +28519,18 @@ StaticRouter.childContextTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (StaticRouter);
 
 /***/ }),
-/* 82 */
+/* 92 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Switch__ = __webpack_require__(83);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_Switch__ = __webpack_require__(93);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_Switch__["a" /* default */]);
 
 /***/ }),
-/* 83 */
+/* 93 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28672,7 +28622,7 @@ Switch.propTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (Switch);
 
 /***/ }),
-/* 84 */
+/* 94 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28683,7 +28633,7 @@ Switch.propTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_generatePath__["a" /* default */]);
 
 /***/ }),
-/* 85 */
+/* 95 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28694,18 +28644,18 @@ Switch.propTypes = {
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_matchPath__["a" /* default */]);
 
 /***/ }),
-/* 86 */
+/* 96 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_withRouter__ = __webpack_require__(87);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react_router_es_withRouter__ = __webpack_require__(97);
 // Written in this round about way for babel-transform-imports
 
 
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_react_router_es_withRouter__["a" /* default */]);
 
 /***/ }),
-/* 87 */
+/* 97 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -28754,7 +28704,7 @@ var withRouter = function withRouter(Component) {
 /* harmony default export */ __webpack_exports__["a"] = (withRouter);
 
 /***/ }),
-/* 88 */
+/* 98 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28772,17 +28722,17 @@ var _react2 = _interopRequireDefault(_react);
 
 var _Home = __webpack_require__(8);
 
-var _ElementNavigation = __webpack_require__(106);
+var _ElementNavigation = __webpack_require__(118);
 
 var _ElementNavigation2 = _interopRequireDefault(_ElementNavigation);
 
-var _Hamburger = __webpack_require__(107);
+var _Hamburger = __webpack_require__(119);
 
 var _Hamburger2 = _interopRequireDefault(_Hamburger);
 
-__webpack_require__(108);
+__webpack_require__(120);
 
-var _es6SlideUpDown = __webpack_require__(110);
+var _es6SlideUpDown = __webpack_require__(122);
 
 var _reactRouterDom = __webpack_require__(6);
 
@@ -28908,7 +28858,7 @@ var Navigation = function (_Component) {
 exports.default = Navigation;
 
 /***/ }),
-/* 89 */
+/* 99 */
 /***/ (function(module, exports) {
 
 module.exports = function(originalModule) {
@@ -28938,7 +28888,7 @@ module.exports = function(originalModule) {
 
 
 /***/ }),
-/* 90 */
+/* 100 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28951,7 +28901,7 @@ module.exports = function(originalModule) {
 
 
 
-var isObject = __webpack_require__(91);
+var isObject = __webpack_require__(101);
 
 function isObjectObject(o) {
   return isObject(o) === true
@@ -28982,7 +28932,7 @@ module.exports = function isPlainObject(o) {
 
 
 /***/ }),
-/* 91 */
+/* 101 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29001,7 +28951,7 @@ module.exports = function isObject(val) {
 
 
 /***/ }),
-/* 92 */
+/* 102 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /*
@@ -30703,7 +30653,7 @@ module.exports = function isObject(val) {
 
 
 /***/ }),
-/* 93 */
+/* 103 */
 /***/ (function(module, exports, __webpack_require__) {
 
 (function (factory) {
@@ -30757,7 +30707,7 @@ module.exports = function isObject(val) {
 
 
 /***/ }),
-/* 94 */
+/* 104 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30777,7 +30727,7 @@ var _Signature = __webpack_require__(12);
 
 var _Signature2 = _interopRequireDefault(_Signature);
 
-var _ForwardNavigation = __webpack_require__(97);
+var _ForwardNavigation = __webpack_require__(108);
 
 var _ForwardNavigation2 = _interopRequireDefault(_ForwardNavigation);
 
@@ -30840,7 +30790,7 @@ var AboutUs = function (_Component) {
                     _react2.default.createElement('span', { className: 'aboutBorder' }),
                     _react2.default.createElement(_ForwardNavigation2.default, { allElements: itemSeeOthers })
                 ),
-                _react2.default.createElement(_Signature2.default, { bigSize: bigSize })
+                _react2.default.createElement(_Signature2.default, null)
             );
         }
     }]);
@@ -30851,7 +30801,7 @@ var AboutUs = function (_Component) {
 exports.default = AboutUs;
 
 /***/ }),
-/* 95 */
+/* 105 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30913,7 +30863,82 @@ var Copyright = function (_Component) {
 exports.default = Copyright;
 
 /***/ }),
-/* 96 */
+/* 106 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
+
+var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _information = __webpack_require__(4);
+
+var _information2 = _interopRequireDefault(_information);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
+
+var SignatureLinks = function (_Component) {
+    _inherits(SignatureLinks, _Component);
+
+    function SignatureLinks() {
+        _classCallCheck(this, SignatureLinks);
+
+        return _possibleConstructorReturn(this, (SignatureLinks.__proto__ || Object.getPrototypeOf(SignatureLinks)).apply(this, arguments));
+    }
+
+    _createClass(SignatureLinks, [{
+        key: 'render',
+        value: function render() {
+            return _react2.default.createElement(
+                'div',
+                null,
+                _information2.default.signatureInfo.map(function (el, i) {
+                    return _react2.default.createElement(
+                        'div',
+                        { key: el.name, className: 'signature' + el.name },
+                        _react2.default.createElement(
+                            'p',
+                            null,
+                            el.title
+                        ),
+                        _react2.default.createElement(
+                            'ul',
+                            null,
+                            el.info.map(function (elem, key) {
+                                return _react2.default.createElement(
+                                    'li',
+                                    { key: key },
+                                    elem
+                                );
+                            })
+                        )
+                    );
+                })
+            );
+        }
+    }]);
+
+    return SignatureLinks;
+}(_react.Component);
+
+exports.default = SignatureLinks;
+
+/***/ }),
+/* 107 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30937,146 +30962,61 @@ function _possibleConstructorReturn(self, call) { if (!self) { throw new Referen
 
 function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
 
-var SignatureLinks = function (_Component) {
-    _inherits(SignatureLinks, _Component);
+var SignatureContact = function (_Component) {
+    _inherits(SignatureContact, _Component);
 
-    function SignatureLinks() {
-        _classCallCheck(this, SignatureLinks);
+    function SignatureContact() {
+        _classCallCheck(this, SignatureContact);
 
-        return _possibleConstructorReturn(this, (SignatureLinks.__proto__ || Object.getPrototypeOf(SignatureLinks)).apply(this, arguments));
+        return _possibleConstructorReturn(this, (SignatureContact.__proto__ || Object.getPrototypeOf(SignatureContact)).apply(this, arguments));
     }
 
-    _createClass(SignatureLinks, [{
+    _createClass(SignatureContact, [{
         key: "render",
         value: function render() {
             return _react2.default.createElement(
                 "div",
-                null,
-                _react2.default.createElement(
-                    "div",
-                    { className: "singatureLinks" },
-                    _react2.default.createElement(
-                        "p",
-                        null,
-                        "Informacje prawne"
-                    ),
-                    _react2.default.createElement(
-                        "ul",
-                        null,
+                { className: "singatureContact" },
+                this.props.listOfContact.map(function (el) {
+                    return _react2.default.createElement(
+                        "div",
+                        { key: el.type, className: "signatureMedia" },
+                        _react2.default.createElement("span", { className: "signatureSpan" }),
                         _react2.default.createElement(
-                            "li",
+                            "p",
                             null,
-                            "Regulamin sklepu"
+                            el.type
+                        ),
+                        _react2.default.createElement("span", { className: "signatureSpan" }),
+                        _react2.default.createElement(
+                            "ul",
+                            null,
+                            el.info.map(function (el1) {
+                                return _react2.default.createElement(
+                                    "li",
+                                    { key: el1 },
+                                    el1
+                                );
+                            })
                         ),
                         _react2.default.createElement(
-                            "li",
-                            null,
-                            "Polityka prywatno\u015Bci"
-                        ),
-                        _react2.default.createElement(
-                            "li",
-                            null,
-                            "Materia\u0142y do pobrania"
-                        ),
-                        _react2.default.createElement(
-                            "li",
-                            null,
-                            "Koszty gospodarowania"
-                        ),
-                        _react2.default.createElement(
-                            "li",
-                            null,
-                            "Plan po\u0142\u0105czenia"
+                            "p",
+                            { className: "signatureLogo" },
+                            _react2.default.createElement("i", { className: el.imgClass })
                         )
-                    )
-                ),
-                _react2.default.createElement(
-                    "div",
-                    { className: "singatureInformations" },
-                    _react2.default.createElement(
-                        "p",
-                        null,
-                        "Pomocne linki"
-                    ),
-                    _react2.default.createElement(
-                        "ul",
-                        null,
-                        _react2.default.createElement(
-                            "li",
-                            null,
-                            "Jak kupi\u0107 na raty?"
-                        ),
-                        _react2.default.createElement(
-                            "li",
-                            null,
-                            "Numer konta bankowego"
-                        ),
-                        _react2.default.createElement(
-                            "li",
-                            null,
-                            "Cz\u0119ste pytania"
-                        ),
-                        _react2.default.createElement(
-                            "li",
-                            null,
-                            "Reklamacje, zwroty, serwis"
-                        ),
-                        _react2.default.createElement(
-                            "li",
-                            null,
-                            "Dodatkowe gwarancje"
-                        )
-                    )
-                ),
-                _react2.default.createElement(
-                    "div",
-                    { className: "singatureInvestments" },
-                    _react2.default.createElement(
-                        "p",
-                        null,
-                        "Dla inwestor\xF3w"
-                    ),
-                    _react2.default.createElement(
-                        "ul",
-                        null,
-                        _react2.default.createElement(
-                            "li",
-                            null,
-                            "W\u0142adze sp\xF3\u0142ki"
-                        ),
-                        _react2.default.createElement(
-                            "li",
-                            null,
-                            "Raporty i finanse"
-                        ),
-                        _react2.default.createElement(
-                            "li",
-                            null,
-                            "Fundusze UE"
-                        ),
-                        _react2.default.createElement(
-                            "li",
-                            { style: { color: 'black' } },
-                            "."
-                        ),
-                        _react2.default.createElement(
-                            "li",
-                            { style: { color: 'black' } },
-                            "."
-                        )
-                    )
-                )
+                    );
+                })
             );
         }
     }]);
 
-    return SignatureLinks;
+    return SignatureContact;
 }(_react.Component);
 
-exports.default = SignatureLinks;
+exports.default = SignatureContact;
 
 /***/ }),
-/* 97 */
+/* 108 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31157,7 +31097,7 @@ var ForwardNavigation = function (_Component) {
 exports.default = ForwardNavigation;
 
 /***/ }),
-/* 98 */
+/* 109 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31216,7 +31156,7 @@ var Title = function (_Component) {
 exports.default = Title;
 
 /***/ }),
-/* 99 */
+/* 110 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31281,7 +31221,7 @@ var ShowActiveImg = function (_Component) {
 exports.default = ShowActiveImg;
 
 /***/ }),
-/* 100 */
+/* 111 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31368,37 +31308,117 @@ var ArrowSlider = function (_Component) {
 exports.default = ArrowSlider;
 
 /***/ }),
-/* 101 */
+/* 112 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
+
+var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
+
+// import data from '../../data/information.json'
+
+var SocialMedia = function (_Component) {
+    _inherits(SocialMedia, _Component);
+
+    function SocialMedia() {
+        _classCallCheck(this, SocialMedia);
+
+        var _this = _possibleConstructorReturn(this, (SocialMedia.__proto__ || Object.getPrototypeOf(SocialMedia)).call(this));
+
+        _this.state = {
+            // allElHref: [],
+            // allElClass: [],
+            socialMedia: ['youtube', 'instagram', 'linkedin', 'twitter', 'facebook']
+        };
+        return _this;
+    }
+    // componentDidMount = () => {
+    //     //need for add class from fontawensome
+    //     const allHref = [];
+    //     const allHClass = [];
+    //     data.socialMedia.map(el => allHref.push(el.href))
+    //     data.socialMedia.map(el => allHClass.push(el.class))
+    //     this.setState({
+    //         allElHref: allHref,
+    //         allElClass: allHClass
+    //     })
+    // }
+
+
+    _createClass(SocialMedia, [{
+        key: 'render',
+        value: function render() {
+            // const { allElHref, allElClass } = this.state
+            var socialMedia = this.state.socialMedia;
+
+            return _react2.default.createElement(
+                'div',
+                { className: 'socialMedia' },
+                socialMedia.map(function (el, key) {
+                    return _react2.default.createElement(
+                        'a',
+                        { href: 'https://www.' + el + '.com/', target: '_blank', key: key, title: el },
+                        _react2.default.createElement('div', { className: el })
+                    );
+                })
+            );
+        }
+    }]);
+
+    return SocialMedia;
+}(_react.Component);
+
+exports.default = SocialMedia;
+
+/***/ }),
+/* 113 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "1fa322b87224b38f2d242722f2654316.jpg";
 
 /***/ }),
-/* 102 */
+/* 114 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "6d7ed15f786dc5706e98632c503e44c5.jpg";
 
 /***/ }),
-/* 103 */
+/* 115 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "6845c76b16b6443a76d8aa7b127b9d88.jpg";
 
 /***/ }),
-/* 104 */
+/* 116 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "aad2b3c1e964f984aae6341ebdd08835.jpg";
 
 /***/ }),
-/* 105 */
+/* 117 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "b55c3a915d12b677493ac59f84ef6c61.jpg";
 
 /***/ }),
-/* 106 */
+/* 118 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31480,7 +31500,7 @@ var ElementNavigation = function (_Component) {
 exports.default = ElementNavigation;
 
 /***/ }),
-/* 107 */
+/* 119 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31552,11 +31572,11 @@ var Hamburger = function (_Component) {
 exports.default = Hamburger;
 
 /***/ }),
-/* 108 */
+/* 120 */
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var content = __webpack_require__(109);
+var content = __webpack_require__(121);
 
 if(typeof content === 'string') content = [[module.i, content, '']];
 
@@ -31602,7 +31622,7 @@ if(false) {
 }
 
 /***/ }),
-/* 109 */
+/* 121 */
 /***/ (function(module, exports, __webpack_require__) {
 
 exports = module.exports = __webpack_require__(32)(false);
@@ -31616,7 +31636,7 @@ exports.push([module.i, ".react-slidedown {\n  height: 0;\n  transition-property
 
 
 /***/ }),
-/* 110 */
+/* 122 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -31715,7 +31735,7 @@ const extend = (defaults, options) => {
 //# sourceMappingURL=index.js.map
 
 /***/ }),
-/* 111 */
+/* 123 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31737,7 +31757,7 @@ var _HeaderCompImg = __webpack_require__(18);
 
 var _HeaderCompImg2 = _interopRequireDefault(_HeaderCompImg);
 
-var _NewsElementsInfo = __webpack_require__(112);
+var _NewsElementsInfo = __webpack_require__(124);
 
 var _NewsElementsInfo2 = _interopRequireDefault(_NewsElementsInfo);
 
@@ -31757,11 +31777,11 @@ var _SideMenu = __webpack_require__(13);
 
 var _SideMenu2 = _interopRequireDefault(_SideMenu);
 
-var _t = __webpack_require__(113);
+var _t = __webpack_require__(125);
 
 var _t2 = _interopRequireDefault(_t);
 
-var _t3 = __webpack_require__(114);
+var _t3 = __webpack_require__(126);
 
 var _t4 = _interopRequireDefault(_t3);
 
@@ -31861,7 +31881,7 @@ var News = function (_Component) {
 exports.default = News;
 
 /***/ }),
-/* 112 */
+/* 124 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31942,19 +31962,19 @@ var NewsElementsInfo = function (_Component) {
 exports.default = NewsElementsInfo;
 
 /***/ }),
-/* 113 */
+/* 125 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "9bf1b38fbb31ce652449b68fe8e715a8.jpg";
 
 /***/ }),
-/* 114 */
+/* 126 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "cf6b6730deacd87f49ef3134fd984ce9.jpg";
 
 /***/ }),
-/* 115 */
+/* 127 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31984,7 +32004,7 @@ var _information = __webpack_require__(4);
 
 var _information2 = _interopRequireDefault(_information);
 
-var _NewsElementProducts = __webpack_require__(116);
+var _NewsElementProducts = __webpack_require__(128);
 
 var _NewsElementProducts2 = _interopRequireDefault(_NewsElementProducts);
 
@@ -31996,31 +32016,31 @@ var _SideMenu = __webpack_require__(13);
 
 var _SideMenu2 = _interopRequireDefault(_SideMenu);
 
-var _t = __webpack_require__(117);
+var _t = __webpack_require__(129);
 
 var _t2 = _interopRequireDefault(_t);
 
-var _t3 = __webpack_require__(118);
+var _t3 = __webpack_require__(130);
 
 var _t4 = _interopRequireDefault(_t3);
 
-var _p = __webpack_require__(119);
+var _p = __webpack_require__(131);
 
 var _p2 = _interopRequireDefault(_p);
 
-var _p3 = __webpack_require__(120);
+var _p3 = __webpack_require__(132);
 
 var _p4 = _interopRequireDefault(_p3);
 
-var _p5 = __webpack_require__(121);
+var _p5 = __webpack_require__(133);
 
 var _p6 = _interopRequireDefault(_p5);
 
-var _p7 = __webpack_require__(122);
+var _p7 = __webpack_require__(134);
 
 var _p8 = _interopRequireDefault(_p7);
 
-var _p9 = __webpack_require__(123);
+var _p9 = __webpack_require__(135);
 
 var _p10 = _interopRequireDefault(_p9);
 
@@ -32127,7 +32147,7 @@ var Products = function (_Component) {
 exports.default = Products;
 
 /***/ }),
-/* 116 */
+/* 128 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32197,7 +32217,7 @@ var NewsElementProducts = function (_Component) {
                     _react2.default.createElement('br', null),
                     _react2.default.createElement(
                         'a',
-                        { href: 'https://www.onet.pl' },
+                        { href: 'https://www.wp.pl' },
                         'Przejd\u017A'
                     )
                 )
@@ -32211,49 +32231,49 @@ var NewsElementProducts = function (_Component) {
 exports.default = NewsElementProducts;
 
 /***/ }),
-/* 117 */
+/* 129 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "920e17b411ed5929c492e4df5a456e71.jpg";
 
 /***/ }),
-/* 118 */
+/* 130 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "53a3c2a62f0924549af62712941736d3.jpg";
 
 /***/ }),
-/* 119 */
+/* 131 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "1d59525851c201ede9779b27c674bb9f.jpg";
 
 /***/ }),
-/* 120 */
+/* 132 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "54d457eaf3ad34d1ef982f9e6b19e5d4.jpg";
 
 /***/ }),
-/* 121 */
+/* 133 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "fe273bc519596be54f905be2179d7aca.jpg";
 
 /***/ }),
-/* 122 */
+/* 134 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "77a2031fbec3d03249cb000a7217d6c3.jpg";
 
 /***/ }),
-/* 123 */
+/* 135 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "b5eec4c1217e537726cd714b4e8ad573.jpg";
 
 /***/ }),
-/* 124 */
+/* 136 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32283,7 +32303,7 @@ var _Signature = __webpack_require__(12);
 
 var _Signature2 = _interopRequireDefault(_Signature);
 
-var _OfferElements = __webpack_require__(125);
+var _OfferElements = __webpack_require__(137);
 
 var _OfferElements2 = _interopRequireDefault(_OfferElements);
 
@@ -32295,111 +32315,111 @@ var _SideMenu = __webpack_require__(13);
 
 var _SideMenu2 = _interopRequireDefault(_SideMenu);
 
-var _t = __webpack_require__(126);
+var _t = __webpack_require__(138);
 
 var _t2 = _interopRequireDefault(_t);
 
-var _t3 = __webpack_require__(127);
+var _t3 = __webpack_require__(139);
 
 var _t4 = _interopRequireDefault(_t3);
 
-var _e = __webpack_require__(128);
+var _e = __webpack_require__(140);
 
 var _e2 = _interopRequireDefault(_e);
 
-var _e3 = __webpack_require__(129);
+var _e3 = __webpack_require__(141);
 
 var _e4 = _interopRequireDefault(_e3);
 
-var _e5 = __webpack_require__(130);
+var _e5 = __webpack_require__(142);
 
 var _e6 = _interopRequireDefault(_e5);
 
-var _e7 = __webpack_require__(131);
+var _e7 = __webpack_require__(143);
 
 var _e8 = _interopRequireDefault(_e7);
 
-var _e9 = __webpack_require__(132);
+var _e9 = __webpack_require__(144);
 
 var _e10 = _interopRequireDefault(_e9);
 
-var _e11 = __webpack_require__(133);
+var _e11 = __webpack_require__(145);
 
 var _e12 = _interopRequireDefault(_e11);
 
-var _e13 = __webpack_require__(134);
+var _e13 = __webpack_require__(146);
 
 var _e14 = _interopRequireDefault(_e13);
 
-var _e15 = __webpack_require__(135);
+var _e15 = __webpack_require__(147);
 
 var _e16 = _interopRequireDefault(_e15);
 
-var _e17 = __webpack_require__(136);
+var _e17 = __webpack_require__(148);
 
 var _e18 = _interopRequireDefault(_e17);
 
-var _e19 = __webpack_require__(137);
+var _e19 = __webpack_require__(149);
 
 var _e20 = _interopRequireDefault(_e19);
 
-var _e21 = __webpack_require__(138);
+var _e21 = __webpack_require__(150);
 
 var _e22 = _interopRequireDefault(_e21);
 
-var _e23 = __webpack_require__(139);
+var _e23 = __webpack_require__(151);
 
 var _e24 = _interopRequireDefault(_e23);
 
-var _e25 = __webpack_require__(140);
+var _e25 = __webpack_require__(152);
 
 var _e26 = _interopRequireDefault(_e25);
 
-var _e27 = __webpack_require__(141);
+var _e27 = __webpack_require__(153);
 
 var _e28 = _interopRequireDefault(_e27);
 
-var _e29 = __webpack_require__(142);
+var _e29 = __webpack_require__(154);
 
 var _e30 = _interopRequireDefault(_e29);
 
-var _e31 = __webpack_require__(143);
+var _e31 = __webpack_require__(155);
 
 var _e32 = _interopRequireDefault(_e31);
 
-var _e33 = __webpack_require__(144);
+var _e33 = __webpack_require__(156);
 
 var _e34 = _interopRequireDefault(_e33);
 
-var _e35 = __webpack_require__(145);
+var _e35 = __webpack_require__(157);
 
 var _e36 = _interopRequireDefault(_e35);
 
-var _e37 = __webpack_require__(146);
+var _e37 = __webpack_require__(158);
 
 var _e38 = _interopRequireDefault(_e37);
 
-var _e39 = __webpack_require__(147);
+var _e39 = __webpack_require__(159);
 
 var _e40 = _interopRequireDefault(_e39);
 
-var _e41 = __webpack_require__(148);
+var _e41 = __webpack_require__(160);
 
 var _e42 = _interopRequireDefault(_e41);
 
-var _e43 = __webpack_require__(149);
+var _e43 = __webpack_require__(161);
 
 var _e44 = _interopRequireDefault(_e43);
 
-var _e45 = __webpack_require__(150);
+var _e45 = __webpack_require__(162);
 
 var _e46 = _interopRequireDefault(_e45);
 
-var _e47 = __webpack_require__(151);
+var _e47 = __webpack_require__(163);
 
 var _e48 = _interopRequireDefault(_e47);
 
-var _e49 = __webpack_require__(152);
+var _e49 = __webpack_require__(164);
 
 var _e50 = _interopRequireDefault(_e49);
 
@@ -32504,7 +32524,7 @@ var Offer = function (_Component) {
 exports.default = Offer;
 
 /***/ }),
-/* 125 */
+/* 137 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32585,169 +32605,169 @@ var OfferElements = function (_Component) {
 exports.default = OfferElements;
 
 /***/ }),
-/* 126 */
+/* 138 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "4e04936dd0a42c776e5d409bffaf8d7e.jpg";
 
 /***/ }),
-/* 127 */
+/* 139 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "6b37cb65de13dabbfd7981c7a9e25d6a.jpg";
 
 /***/ }),
-/* 128 */
+/* 140 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "601a4e30717d856b2de9dfbe12b16b93.jpg";
 
 /***/ }),
-/* 129 */
+/* 141 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "47de2311fcfe9b136e3908fd32cb2632.jpg";
 
 /***/ }),
-/* 130 */
+/* 142 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "22b41da66125eb12ea805dbcb3d92e18.jpg";
 
 /***/ }),
-/* 131 */
+/* 143 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "abadb11a1e568bf8793a341eab37aefa.jpg";
 
 /***/ }),
-/* 132 */
+/* 144 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "d336481770adb77fad2273f9f0c7cea9.jpg";
 
 /***/ }),
-/* 133 */
+/* 145 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "56abedc6885d587ab88738d249a02b3a.jpg";
 
 /***/ }),
-/* 134 */
+/* 146 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "8710972d5a7d247f9bc9af408b5d4615.jpg";
 
 /***/ }),
-/* 135 */
+/* 147 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "ecc7283daea776266676c38688efaa04.jpg";
 
 /***/ }),
-/* 136 */
+/* 148 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "814532f4e9a7a0acecac918818a6d26f.jpg";
 
 /***/ }),
-/* 137 */
+/* 149 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "e77d0526d7dd40e3de77f4ac27298814.jpg";
 
 /***/ }),
-/* 138 */
+/* 150 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "518680b8380dadd7895971dfcc64c036.jpg";
 
 /***/ }),
-/* 139 */
+/* 151 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "710a422ec9ba0f9010398cd3c3cd7248.jpg";
 
 /***/ }),
-/* 140 */
+/* 152 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "289b097275190b48aa10995363bdc926.jpg";
 
 /***/ }),
-/* 141 */
+/* 153 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "a8f0100239a75efa1fd6465d805b45c8.jpg";
 
 /***/ }),
-/* 142 */
+/* 154 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "782ba35429ede685403ce0723cddfba7.jpg";
 
 /***/ }),
-/* 143 */
+/* 155 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "bf1cbfecd4a5caa5282154840fcbf80d.jpg";
 
 /***/ }),
-/* 144 */
+/* 156 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "62196119524f95022e0facab95dc1ee8.jpg";
 
 /***/ }),
-/* 145 */
+/* 157 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "b85a2178949d56256f0246fbc64dd431.jpg";
 
 /***/ }),
-/* 146 */
+/* 158 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "a1eef9cda8da4332586ee728991a1650.jpg";
 
 /***/ }),
-/* 147 */
+/* 159 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "176b0d59d4a41702b7c33f655242de15.jpg";
 
 /***/ }),
-/* 148 */
+/* 160 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "c110f1702648be4c36257ceddb9a96b8.jpg";
 
 /***/ }),
-/* 149 */
+/* 161 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "315453225536360dc1914777d03b16bc.jpg";
 
 /***/ }),
-/* 150 */
+/* 162 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "d847316639f8f1201cff0a23ada5f81a.jpg";
 
 /***/ }),
-/* 151 */
+/* 163 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "e1139ffbe31d37c2d0be644249f4fb80.jpg";
 
 /***/ }),
-/* 152 */
+/* 164 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "c241e4259249a39779b2ad5657245a58.jpg";
 
 /***/ }),
-/* 153 */
+/* 165 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32773,11 +32793,11 @@ var _ForwardInfo = __webpack_require__(19);
 
 var _ForwardInfo2 = _interopRequireDefault(_ForwardInfo);
 
-var _ContactForm = __webpack_require__(154);
+var _ContactForm = __webpack_require__(166);
 
 var _ContactForm2 = _interopRequireDefault(_ContactForm);
 
-var _EmailsInfo = __webpack_require__(155);
+var _EmailsInfo = __webpack_require__(167);
 
 var _EmailsInfo2 = _interopRequireDefault(_EmailsInfo);
 
@@ -32785,21 +32805,17 @@ var _Signature = __webpack_require__(12);
 
 var _Signature2 = _interopRequireDefault(_Signature);
 
-var _information = __webpack_require__(4);
+var _ContactData = __webpack_require__(168);
 
-var _information2 = _interopRequireDefault(_information);
+var _ContactData2 = _interopRequireDefault(_ContactData);
 
 var _SideMenu = __webpack_require__(13);
 
 var _SideMenu2 = _interopRequireDefault(_SideMenu);
 
-var _t = __webpack_require__(156);
+var _t = __webpack_require__(169);
 
 var _t2 = _interopRequireDefault(_t);
-
-var _t3 = __webpack_require__(157);
-
-var _t4 = _interopRequireDefault(_t3);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -32858,79 +32874,17 @@ var Contact = function (_Component) {
                 'div',
                 { className: 'contactComp' },
                 bigSize ? _react2.default.createElement(_SideMenu2.default, null) : null,
-                _react2.default.createElement(_HeaderCompImg2.default, { title: titleComp, imgHeader: bigSize ? _t2.default : _t4.default }),
+                _react2.default.createElement(_HeaderCompImg2.default, { title: titleComp, imgHeader: bigSize ? _t2.default : _t2.default }),
                 _react2.default.createElement(
                     'div',
                     { className: 'container' },
-                    _react2.default.createElement(_ForwardInfo2.default, { elText: titleComp }),
-                    _react2.default.createElement('iframe', { className: 'iframe', src: 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2443.6354178276733!2d21.003806315945223!3d52.23184126529641!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x471ecc8c92692e49%3A0xc2e97ae5311f2dc2!2sPa%C5%82ac+Kultury+i+Nauki!5e0!3m2!1spl!2spl!4v1554315877464!5m2!1spl!2spl', style: { frameBorder: 0, border: 0 }, allowFullScreen: true }),
-                    _react2.default.createElement(
-                        'div',
-                        { className: 'contactInfo' },
-                        _react2.default.createElement(
-                            'h4',
-                            null,
-                            _information2.default.companyName
-                        ),
-                        _react2.default.createElement(
-                            'ul',
-                            null,
-                            _react2.default.createElement(
-                                'li',
-                                null,
-                                _information2.default.company[2].info[1],
-                                _react2.default.createElement('br', null),
-                                _information2.default.company[2].info[0],
-                                _react2.default.createElement('br', null),
-                                'Polska'
-                            )
-                        ),
-                        _react2.default.createElement(
-                            'ul',
-                            null,
-                            _react2.default.createElement(
-                                'li',
-                                null,
-                                'NIP: 1234567891'
-                            ),
-                            _react2.default.createElement(
-                                'li',
-                                null,
-                                'KRS: 1234567891'
-                            ),
-                            _react2.default.createElement(
-                                'li',
-                                null,
-                                'REGON: 123456789'
-                            )
-                        ),
-                        _react2.default.createElement(
-                            'ul',
-                            null,
-                            _react2.default.createElement(
-                                'li',
-                                null,
-                                _react2.default.createElement('i', { className: 'fas fa-envelope-square sizeForContact' }),
-                                _information2.default.company[0].info[0]
-                            ),
-                            _react2.default.createElement(
-                                'li',
-                                null,
-                                _react2.default.createElement('i', { className: 'fas fa-phone-square sizeForContact' }),
-                                _react2.default.createElement(
-                                    'a',
-                                    { href: 'mailto:test@gmail.com' },
-                                    _information2.default.company[1].info[0]
-                                )
-                            ),
-                            _react2.default.createElement(
-                                'li',
-                                null,
-                                _react2.default.createElement('i', { className: 'fas fa-stopwatch sizeForContact' }),
-                                'pon-pt: 8:00 - 16:00'
-                            )
-                        )
-                    )
+                    _react2.default.createElement(_ForwardInfo2.default, { elText: titleComp })
+                ),
+                _react2.default.createElement(
+                    'div',
+                    { className: 'iframeData' },
+                    _react2.default.createElement('iframe', { className: 'iframeMap', src: 'https://maps.google.com/maps?width=700&height=440&hl=en&q=Warsaw%2C%20Poland+(Tytu%C5%82)&ie=UTF8&t=&z=10&iwloc=B&output=embed', frameBorder: '0', scrolling: 'no', marginHeight: '0', marginWidth: '0' }),
+                    _react2.default.createElement(_ContactData2.default, null)
                 ),
                 _react2.default.createElement(_EmailsInfo2.default, null),
                 _react2.default.createElement(_ContactForm2.default, null),
@@ -32945,7 +32899,7 @@ var Contact = function (_Component) {
 exports.default = Contact;
 
 /***/ }),
-/* 154 */
+/* 166 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33062,7 +33016,7 @@ var ContactForm = function (_Component) {
 exports.default = ContactForm;
 
 /***/ }),
-/* 155 */
+/* 167 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33124,10 +33078,9 @@ var EmailsInfo = function (_Component) {
                                     'div',
                                     { className: 'emailsInfo' },
                                     el.title,
-                                    _react2.default.createElement('br', null),
                                     _react2.default.createElement(
                                         'a',
-                                        { className: 'emailsInfoAddress', href: 'mailto:test@gmail.com' },
+                                        { className: 'emailsInfoAddress', href: 'mailto:' + el.email },
                                         el.email
                                     )
                                 )
@@ -33145,19 +33098,107 @@ var EmailsInfo = function (_Component) {
 exports.default = EmailsInfo;
 
 /***/ }),
-/* 156 */
+/* 168 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "937080325c0273e59fadcc676d8ad8d7.jpg";
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
+
+var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+var _react = __webpack_require__(0);
+
+var _react2 = _interopRequireDefault(_react);
+
+var _information = __webpack_require__(4);
+
+var _information2 = _interopRequireDefault(_information);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+function _possibleConstructorReturn(self, call) { if (!self) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return call && (typeof call === "object" || typeof call === "function") ? call : self; }
+
+function _inherits(subClass, superClass) { if (typeof superClass !== "function" && superClass !== null) { throw new TypeError("Super expression must either be null or a function, not " + typeof superClass); } subClass.prototype = Object.create(superClass && superClass.prototype, { constructor: { value: subClass, enumerable: false, writable: true, configurable: true } }); if (superClass) Object.setPrototypeOf ? Object.setPrototypeOf(subClass, superClass) : subClass.__proto__ = superClass; }
+
+var ContactData = function (_Component) {
+    _inherits(ContactData, _Component);
+
+    function ContactData() {
+        _classCallCheck(this, ContactData);
+
+        return _possibleConstructorReturn(this, (ContactData.__proto__ || Object.getPrototypeOf(ContactData)).apply(this, arguments));
+    }
+
+    _createClass(ContactData, [{
+        key: 'render',
+        value: function render() {
+            return _react2.default.createElement(
+                'div',
+                { className: 'contactInfo' },
+                _react2.default.createElement(
+                    'h4',
+                    null,
+                    _information2.default.companyName
+                ),
+                _react2.default.createElement(
+                    'ul',
+                    null,
+                    _react2.default.createElement(
+                        'li',
+                        null,
+                        _information2.default.company[2].info[1],
+                        _react2.default.createElement('br', null),
+                        _information2.default.company[2].info[0],
+                        _react2.default.createElement('br', null),
+                        'Polska'
+                    )
+                ),
+                _react2.default.createElement(
+                    'ul',
+                    null,
+                    _information2.default.companyData.map(function (el, i) {
+                        return _react2.default.createElement(
+                            'li',
+                            { key: i },
+                            el
+                        );
+                    })
+                ),
+                _react2.default.createElement(
+                    'ul',
+                    null,
+                    _information2.default.companyMaps.map(function (el, i) {
+                        return _react2.default.createElement(
+                            'li',
+                            { key: i },
+                            _react2.default.createElement('i', { className: 'fas ' + el.imgClass + ' sizeForContact' }),
+                            el.info
+                        );
+                    })
+                )
+            );
+        }
+    }]);
+
+    return ContactData;
+}(_react.Component);
+
+exports.default = ContactData;
 
 /***/ }),
-/* 157 */
+/* 169 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "65ed73b4bbe9a643856df7b28bc70968.jpg";
+module.exports = __webpack_require__.p + "31d7182ae28137eef44dac94c004b676.jpg";
 
 /***/ }),
-/* 158 */
+/* 170 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
