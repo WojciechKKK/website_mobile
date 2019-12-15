@@ -1,4 +1,4 @@
-## Watch_website - project in React - in progress
+## Watch_website - project in React
 #### Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
